@@ -1,15 +1,22 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-08-17 15:56:30.285246+00:00\n"
+"PO-Revision-Date: 2021-08-17 16:10+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: a584e5b6-30c4-4fc3-911d-a842044e73e1\n"
 
 msgctxt "name"
 msgid "Rally Citizens"
-msgstr ""
+msgstr "Rassembler les citoyens"
 
 msgctxt "description"
 msgid "Issues like privacy, trustworthy AI, and digital rights impact all of us who use the internet. Mozilla helps translate them and empower meaningful change."
 msgstr ""
+"Des problématiques telles que la protection de la vie privée, le niveau de confiance dans les IA et les droits numériques ont un impact sur tous les internautes. Mozilla aide à les traduire et à "
+"favoriser des changements significatifs."

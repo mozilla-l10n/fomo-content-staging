@@ -1,15 +1,20 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-08-17 15:56:30.310458+00:00\n"
+"PO-Revision-Date: 2021-08-17 16:10+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: f31bbe8c-f2ab-4af2-86b8-3c20e4762470\n"
 
 msgctxt "name"
 msgid "Connect Leaders"
-msgstr ""
+msgstr "Faire entrer en contact les leaders"
 
 msgctxt "description"
 msgid "We support activists and thought leaders shaping the future of our online lives."
-msgstr ""
+msgstr "Nous soutenons les militants et les leaders d’opinion qui façonnent l’avenir de nos vies numériques."

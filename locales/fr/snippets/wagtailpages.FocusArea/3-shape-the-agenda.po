@@ -1,15 +1,20 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-08-17 15:56:30.333270+00:00\n"
+"PO-Revision-Date: 2021-08-17 16:10+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 6223ed4b-50ed-4667-a3ee-ca509c10bc74\n"
 
 msgctxt "name"
 msgid "Shape the Agenda"
-msgstr ""
+msgstr "Prévoir les actions à venir"
 
 msgctxt "description"
 msgid "We publish open-source research and host global convenings to make ideas like trustworthy AI mainstream."
-msgstr ""
+msgstr "Nous publions des études open source et organisons des rencontres mondiales pour populariser des concepts tels que les IA dignes de confiance."
