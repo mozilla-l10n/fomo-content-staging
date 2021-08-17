@@ -24,3 +24,8 @@ reference = "templates/snippets/wagtailpages.FocusArea/3-shape-the-agenda.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.FocusArea/3-shape-the-agenda.po"
 locales = [ "de", "es", "fr", "fy-NL", "nl", "pl", "pt-BR",]
 
+[[paths]]
+reference = "templates/pages/homepage/campaigns/election-integrity-and-platform-accountability.pot"
+l10n = "locales/{locale}/pages/homepage/campaigns/election-integrity-and-platform-accountability.po"
+locales = [ "de",]
+
