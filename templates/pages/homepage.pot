@@ -18,11 +18,11 @@ msgid "Homepage"
 msgstr ""
 
 msgctxt "hero_headline"
-msgid "Mozilla &amp; 37,380 YouTube users joined forces to investigate YouTube's algorithm"
+msgid "Inside the Shadowy World of Disinformation-for-hire in Kenya"
 msgstr ""
 
 msgctxt "hero_button_text"
-msgid "Read The Findings"
+msgid "Read more"
 msgstr ""
 
 msgctxt "spotlight_headline"
@@ -65,34 +65,34 @@ msgctxt "take_action_title"
 msgid "Take action"
 msgstr ""
 
-msgctxt "take_action_cards.18dec540-78f4-480f-85b2-b323ee1d4156.text"
+msgctxt "take_action_cards.1e303e2d-ade9-48e9-9f84-00a6e018e345.text"
 msgid "Open letter to Venmo: Make Privacy the Default"
 msgstr ""
 
-msgctxt "take_action_cards.b6e761e1-ce74-435c-a513-b8955d3e3532.text"
+msgctxt "take_action_cards.86d49254-53ec-460e-a27a-60fb74df0b92.text"
 msgid "Let’s Unfck The Internet"
 msgstr ""
 
-msgctxt "take_action_cards.77a08d72-f9a1-49f0-8674-a8d647a84474.text"
+msgctxt "take_action_cards.36e213a7-6199-4ebc-b1fc-633d6bc11965.text"
 msgid "Supporting Black Artists Examining AI"
 msgstr ""
 
-msgctxt "take_action_cards.cc176841-a909-402d-8c2e-0ce0a28efd10.text"
+msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
 msgid "Become an Advisor for the Cities’ Digital Rights Helpdesk!"
 msgstr ""
 
-msgctxt "partner_logos.bb48d368-7ece-425d-935d-f52b9770d872.name"
+msgctxt "partner_logos.27a519d5-cbc2-4e21-af63-5e80a198ecf6.name"
 msgid "Ford Foundation logo"
 msgstr ""
 
-msgctxt "partner_logos.62c28e16-c41e-4a66-9afd-82762e9c6e6d.name"
+msgctxt "partner_logos.f4684c22-cf86-444c-8aa9-1106b85ebaad.name"
 msgid "Omidyar Network logo"
 msgstr ""
 
-msgctxt "partner_logos.8559e428-1962-48eb-837b-6ebeb05ecb4a.name"
+msgctxt "partner_logos.21368b8c-aebc-4882-9475-8484484da658.name"
 msgid "Color of Change logo"
 msgstr ""
 
-msgctxt "partner_logos.fb7d6a52-4f8b-47b4-9d9d-17ff8e60b7bf.name"
+msgctxt "partner_logos.929c99af-30b5-43e9-868d-348dff76a7cb.name"
 msgid "Consumers International logo"
 msgstr ""

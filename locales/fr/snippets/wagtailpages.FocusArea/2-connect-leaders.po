@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pontoon\n"
-"X-WagtailLocalize-TranslationID: f31bbe8c-f2ab-4af2-86b8-3c20e4762470\n"
+"X-WagtailLocalize-TranslationID: ec79ec2a-d4d9-4685-a8f1-8488d621b88c\n"
 
 msgctxt "name"
 msgid "Connect Leaders"

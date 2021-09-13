@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pontoon\n"
-"X-WagtailLocalize-TranslationID: a584e5b6-30c4-4fc3-911d-a842044e73e1\n"
+"X-WagtailLocalize-TranslationID: 3d8ff57c-5554-48e9-a56e-bb3ab230c0b8\n"
 
 msgctxt "name"
 msgid "Rally Citizens"

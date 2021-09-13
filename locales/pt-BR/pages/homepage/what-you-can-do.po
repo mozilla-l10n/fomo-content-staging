@@ -1,0 +1,119 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-09-13 07:03:56.289155+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 9c5b3394-3f5c-4d5c-a3bc-a6b51f498af6\n"
+
+msgctxt "title"
+msgid "What you can do"
+msgstr "O que você pode fazer"
+
+msgctxt "ctaHeroHeader"
+msgid "We Want Voice AI to Work for Everyone"
+msgstr "Queremos que a inteligência artificial de reconhecimento de voz funcione para todos"
+
+msgctxt "ctaHeroSubhead"
+msgid ""
+"We don't all speak in one voice and we should all be heard. Project Common Voice is a Mozilla Initiative to improve voice recognition technology for all, by collecting data in multiple languages, "
+"openly."
+msgstr ""
+"Nem todos falamos com a mesma voz e todos devemos ser ouvidos. O projeto Common Voice é uma iniciativa da Mozilla para melhorar a tecnologia de reconhecimento de voz para todos, coletando dados em "
+"vários idiomas, abertamente."
+
+msgctxt "ctaButtonTitle"
+msgid "Contribute Your Voice Today"
+msgstr "Contribua com sua voz hoje mesmo"
+
+msgctxt "ctaButtonURL"
+msgid "https://commonvoice.mozilla.org/"
+msgstr "https://commonvoice.mozilla.org/"
+
+msgctxt "ctaHeroHeader2"
+msgid "If you can, will you give today?"
+msgstr "Se você puder, daria uma contribuição?"
+
+msgctxt "ctaHeroSubhead2"
+msgid "People like you help us stand for a healthy accessible web for all. Donate to keep the web open and free."
+msgstr "Pessoas como você nos ajudam a defender uma web saudável e acessível para todos. Faça uma doação para ajudar a manter a web aberta e livre."
+
+msgctxt "ctaButtonTitle2"
+msgid "Donate Now"
+msgstr "Faça uma doação"
+
+msgctxt "ctaButtonURL2"
+msgid "https://donate.mozilla.org?utm_source=foundation.mozilla.org&amp;utm_medium=referral&amp;utm_content=participate"
+msgstr "https://donate.mozilla.org?utm_source=foundation.mozilla.org&amp;utm_medium=referral&amp;utm_content=participate"
+
+msgctxt "ctaHeroHeader3"
+msgid "Spread the word"
+msgstr "Divulgue"
+
+msgctxt "ctaHeroSubhead3"
+msgid "A healthy internet needs people. Share Mozilla’s work with your people to grow."
+msgstr "Uma internet saudável precisa de pessoas. Compartilhe o trabalho da Mozilla com seu pessoal para ele crescer."
+
+msgctxt "ctaFacebook3"
+msgid "http://foundation.mozilla.org/"
+msgstr "http://foundation.mozilla.org/"
+
+msgctxt "ctaTwitter3"
+msgid "Click here to work with Mozilla for Internet Health http://foundation.mozilla.org/"
+msgstr "Clique aqui para trabalhar com a Mozilla pela integridade da internet http://foundation.mozilla.org/"
+
+msgctxt "ctaEmailShareBody3"
+msgid "Click here to work with Mozilla for Internet Health http://foundation.mozilla.org/"
+msgstr "Clique aqui para trabalhar com a Mozilla pela integridade da internet http://foundation.mozilla.org/"
+
+msgctxt "ctaEmailShareSubject3"
+msgid "The Internet starts with people"
+msgstr "A internet começa com pessoas"
+
+msgctxt "h2"
+msgid "The Internet starts with us"
+msgstr "A internet começa conosco"
+
+msgctxt "h2Subheader"
+msgid "From signing a petition, contributing to a project or attending an event, people can save the Internet. Here are ways to get involved."
+msgstr "Assinando uma petição, contribuindo com um projeto, participando de um evento, as pessoas podem salvar a internet. Aqui estão algumas maneiras de se envolver."
+
+msgctxt "cta4.9f01fb21-0ff2-4eb7-9e3f-91c770841e35.header"
+msgid "Celebrate MozFest"
+msgstr "Comemore o MozFest"
+
+msgctxt "cta4.9f01fb21-0ff2-4eb7-9e3f-91c770841e35.subhead"
+msgid ""
+"Saving the Internet needs work and celebration. MozFest is Mozilla’s yearly gathering to share, make, teach and learn, the important work being done around the world for Internet Health. With "
+"dialogues, fairs and fun, we celebrate an open web."
+msgstr ""
+"Salvar a internet precisa de trabalho e celebração. O MozFest é o encontro anual da Mozilla para compartilhar, criar, ensinar e aprender, trabalho importante feito no mundo todo pela integridade da "
+"internet. Com diálogos, exposições e diversão, celebramos uma web aberta."
+
+msgctxt "cta4.9f01fb21-0ff2-4eb7-9e3f-91c770841e35.buttonTitle"
+msgid "Explore MozFest"
+msgstr "Conheça o MozFest"
+
+msgctxt "cta4.9f01fb21-0ff2-4eb7-9e3f-91c770841e35.buttonURL"
+msgid "https://mozillafestival.org/"
+msgstr "https://mozillafestival.org/"
+
+msgctxt "cta4.d457c2cd-c1b9-41cb-8b11-c0c2782c93f8.header"
+msgid "Become A Fellow"
+msgstr "Torne-se um Fellow"
+
+msgctxt "cta4.d457c2cd-c1b9-41cb-8b11-c0c2782c93f8.subhead"
+msgid ""
+"Mozilla Fellowships supports the work of leaders and makers around the globe. Internet Health touches policy, science, art, security and most importantly people. Fellowships provide people whose "
+"work is securing a web with resources, trainings and lifelong connections."
+msgstr ""
+"O Mozilla Fellowships apoia o trabalho de líderes e produtores do mundo todo. A integridade da internet envolve política, ciência, arte, segurança e o mais importante, pessoas. O Fellowships "
+"proporciona a pessoas cujos trabalhos estão resguardando a web, recursos, treinamentos e conexões por toda a vida."
+
+msgctxt "cta4.d457c2cd-c1b9-41cb-8b11-c0c2782c93f8.buttonTitle"
+msgid "Be A Fellow"
+msgstr "Seja um Fellow"
+
+msgctxt "cta4.d457c2cd-c1b9-41cb-8b11-c0c2782c93f8.buttonURL"
+msgid "https://foundation.mozilla.org/what-we-fund/fellowships/"
+msgstr "https://foundation.mozilla.org/what-we-fund/fellowships/"

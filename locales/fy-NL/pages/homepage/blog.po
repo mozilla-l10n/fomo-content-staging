@@ -1,0 +1,23 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-09-13 07:03:54.059708+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 98f7db19-fcb8-4cba-a958-b671e35b4197\n"
+
+msgctxt "search_description"
+msgid "Mozilla’s blog features guides to making your online life better, stories from the movement, and critical analysis of issues around internet health."
+msgstr "De blog fan Mozilla befettet hantliedingen om jo online libben te ferbetterjen, ferhalen út de beweging en krityske analyze fan problemen rûnom ynternetsûnens."
+
+msgctxt "title"
+msgid "Blog"
+msgstr "Blog"
+
+msgctxt "intro"
+msgid "Mozilla’s blog features guides to making your online life better, stories from the movement, and critical analysis of issues around internet health."
+msgstr "De blog fan Mozilla befettet hantliedingen om jo online libben te ferbetterjen, ferhalen út de beweging en krityske analyze fan problemen rûnom ynternetsûnens."
+
+msgctxt "header"
+msgid "Blog"
+msgstr "Blog"

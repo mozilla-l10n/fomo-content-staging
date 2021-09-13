@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-09-13 07:03:50.574228+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 7e67283f-4053-49ec-9d42-51dd4262398a\n"
+
+msgctxt "thank_you"
+msgid "Thank you for signing the petition. Now, will you amplify your impact by asking your friends to sign, too?"
+msgstr "Merci d’avoir signé la pétition. À présent, pouvez-vous démultiplier votre influence en demandant aussi à vos amis de signer ?"
+
+msgctxt "header"
+msgid "Pause Police Partnerships"
+msgstr "Suspendez les partenariats avec la police"
+
+msgctxt "description"
+msgid "Sign the petition to Nextdoor calling for a pause to police relationships"
+msgstr "Signez la pétition appelant Nextdoor à suspendre ses relations avec la police"

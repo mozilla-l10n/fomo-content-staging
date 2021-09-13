@@ -1,0 +1,23 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-09-13 07:03:46.969819+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 7b7c8363-8bea-49d3-95ea-570aa55642c3\n"
+
+msgctxt "thank_you"
+msgid "Thank you for adding your name. Now will you share with your friends and family?"
+msgstr "Vielen Dank für Ihre Unterstützung! Würden Sie Ihre Freunde und Familie informieren?"
+
+msgctxt "header"
+msgid "Add your name"
+msgstr "Machen Sie mit"
+
+msgctxt "description"
+msgid ""
+"Apple plans to improve privacy on iPhone, but it’s already pushed back the implementation. We need a massive outpouring of support for Apple’s decision to help strengthen its resolve to protect "
+"consumer privacy.<b> Tell Apple: I support your efforts to defend our privacy, and encourage you to implement the IDFA changes as soon as possible.</b>"
+msgstr ""
+"Apple plant, den Datenschutz auf dem iPhone zu verbessern, hat aber die Umsetzung dieser Pläne schon aufgeschoben. <b>Wir müssen zusammen Apples Entscheidung für einen verbesserten Datenschutz "
+"unterstützen.</b>"

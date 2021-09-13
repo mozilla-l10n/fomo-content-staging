@@ -1,0 +1,17 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-09-13 07:03:48.677069+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 442f6b35-f95f-4778-868f-c42e10229f6c\n"
+
+msgctxt "thank_you"
+msgid "Thank you for signing too!"
+msgstr "¡Gracias también por firmar!"
+
+msgctxt "description"
+msgid "Add your name to the petition demanding that Amazon start requiring third party sellers to have privacy policies in order to sell connected devices on its platform."
+msgstr ""
+"Añade tu nombre a la petición para solicitar a Amazon que empiece a exigir a sus terceros vendedores que, para vender en su plataforma dispositivos con conexión a Internet, deben incluir políticas "
+"de privacidad."

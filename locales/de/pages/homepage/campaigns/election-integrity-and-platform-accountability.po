@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pontoon\n"
-"X-WagtailLocalize-TranslationID: c272044d-b96d-4a1c-b799-8cdb386f6a6e\n"
+"X-WagtailLocalize-TranslationID: 54fabf13-0a49-488d-9892-b6d31d447589\n"
 
 msgctxt "seo_title"
 msgid "Election integrity and platform accountability: Global lessons from the German and U.S. elections"
@@ -49,7 +49,7 @@ msgstr "https://docs.google.com/document/d/1LQljwu4VfRNUuNPnxmypVxYaRWA6bzeB4m5j
 
 msgctxt "body.17b7402c-fc2e-431f-b110-a1bab3e93e97.title"
 msgid "The German Bundestag Election 2021 – blogs and analysis"
-msgstr ""
+msgstr "Die Bundestagswahl 2021 – Blogs und Analysen"
 
 msgctxt "body.46d96ef4-a6ac-441f-a750-68aa743cb57a"
 msgid "U.S. Election 2020"
@@ -78,7 +78,7 @@ msgstr "https://docs.google.com/document/d/1-b5b_AgJhz7rAXaSpekwBwZWHx_A7iSleoOG
 
 msgctxt "body.c7e73e46-db97-4d1b-94d6-740894fe58ee.title"
 msgid "The U.S. Elections 2020 – blogs and analysis"
-msgstr ""
+msgstr "Die US-Wahlen 2020 – Blogs und Analysen"
 
 msgctxt "title"
 msgid "Election integrity and platform accountability"

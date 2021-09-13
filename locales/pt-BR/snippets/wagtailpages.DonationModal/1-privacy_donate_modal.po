@@ -1,0 +1,27 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-09-13 07:03:57.771604+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 297a079e-fd36-47e1-91b1-0ea65140cc95\n"
+
+msgctxt "header"
+msgid "Thanks for signing! While you're here, we need your help."
+msgstr "Obrigado por se cadastrar! Já que está aqui, precisamos de sua ajuda."
+
+msgctxt "body"
+msgid ""
+"The Mozilla Foundation is a non-profit organization fighting for a healthy internet, where privacy is included by design and YOU have more control over your personal information. We depend on "
+"contributions from people like you to carry out this work. Can you donate today?"
+msgstr ""
+"A Fundação Mozilla é uma organização sem fins lucrativos que luta por uma internet saudável, onde a privacidade esteja incluída por projeto e VOCÊ tenha mais controle sobre suas informações "
+"pessoais. Dependemos de contribuições de pessoas como você para levar adiante este trabalho. Poderia fazer uma doação?"
+
+msgctxt "donate_text"
+msgid "Yes, I'll chip in"
+msgstr "Sim, vou fazer uma doação"
+
+msgctxt "dismiss_text"
+msgid "No, I'll share instead"
+msgstr "Não, em vez disso vou compartilhar"

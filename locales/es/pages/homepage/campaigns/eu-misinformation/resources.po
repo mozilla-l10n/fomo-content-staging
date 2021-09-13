@@ -1,0 +1,85 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-09-13 07:03:47.770813+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 6c1e6b89-a6a6-4781-be37-56bbace16a5a\n"
+
+msgctxt "seo_title"
+msgid "Tools, campaigning resources and background reading for activists working against misinformation"
+msgstr "Herramientas, recursos para campaña y material de lectura complementario para los activistas que están combatiendo la información errónea"
+
+msgctxt "search_description"
+msgid "A list of tools, background reading and campaigning resources for activists and organisations working to address misinformation."
+msgstr ""
+"A continuación se incluye una lista de las herramientas, el material de lectura complementario y los recursos para campaña para los activistas y organizaciones que están esforzándose por abordar la "
+"información errónea."
+
+msgctxt "header"
+msgid "Resources"
+msgstr "Recursos"
+
+msgctxt "intro"
+msgid "Tools, campaigning resources and background reading for activists working against misinformation"
+msgstr "Herramientas, recursos para campaña y material de lectura complementario para los activistas que están combatiendo la información errónea"
+
+msgctxt "body.bfaa0733-2e2f-46ae-893a-dd5c2dc6983f"
+msgid ""
+"Below is a short list of resources from organisations compiling resources on anti-disinformaton tools, resrouces, and initiatives, plus Mozilla's own <a id=\"a1\"><b>campaigning resources</b></a> "
+"for activists and organisations working to address misinformation."
+msgstr ""
+"A continuación se incluye una lista de las herramientas, el material de lectura complementario y los <a id=\"a1\"><b>recursos para campaña</b></a> para los activistas y organizaciones que están "
+"esforzándose por abordar la información errónea."
+
+msgctxt "body.bfaa0733-2e2f-46ae-893a-dd5c2dc6983f"
+msgid "Although we think many of these resources are fabulous, inclusion of resources in this collection is not an endorsement of their content."
+msgstr "Aunque muchos de ellos nos parecen fabulosos, su inclusión no implica que estemos avalando su contenido."
+
+msgctxt "body.bfaa0733-2e2f-46ae-893a-dd5c2dc6983f"
+msgid "Featured"
+msgstr "Herramientas"
+
+msgctxt "body.d7ef37b3-bb79-4f71-b825-580e582192bb"
+msgid "Anti-Disinformation documents, initatives, and tools"
+msgstr ""
+
+msgctxt "body.d7ef37b3-bb79-4f71-b825-580e582192bb"
+msgid "<a id=\"a1\">Poynter's Guide to Misinformation Actions Around the World</a> (Webpage)"
+msgstr "<a id=\"a1\">Guía de Poynter para acciones contra la información errónea en todo el mundo</a> (página web)"
+
+msgctxt "body.d7ef37b3-bb79-4f71-b825-580e582192bb"
+msgid "<a id=\"a1\">Credibility Coalition's CredCatalog database</a> (Webpage)"
+msgstr ""
+
+msgctxt "body.d7ef37b3-bb79-4f71-b825-580e582192bb"
+msgid "<a id=\"a1\">MisinfoCon's Catalogue of Projects Working to Solve Disinformation</a> (Webpage)"
+msgstr "<a id=\"a1\">Catálogo de proyectos abocados a atajar la desinformación, publicado por MisinfoCon</a> (página web)"
+
+msgctxt "body.d7ef37b3-bb79-4f71-b825-580e582192bb"
+msgid "<a id=\"a1\">Tools that fight misinformation online from Rand Corporation</a> (Webpage)"
+msgstr ""
+
+msgctxt "body.d7ef37b3-bb79-4f71-b825-580e582192bb"
+msgid "Campaigning Resources"
+msgstr "Recursos para campaña"
+
+msgctxt "body.d7ef37b3-bb79-4f71-b825-580e582192bb"
+msgid "<a id=\"a1\">Independent Researchers' Guide to a Perfect Ad Transparency API</a> (Webpage)"
+msgstr "<a id=\"a1\">Guía de analistas independientes para una API de anuncios perfectamente transparente</a> (página web)"
+
+msgctxt "body.d7ef37b3-bb79-4f71-b825-580e582192bb"
+msgid "<a id=\"a1\">Open Letter from Civil Society to Facebook</a> (Webpage)"
+msgstr ""
+
+msgctxt "body.d7ef37b3-bb79-4f71-b825-580e582192bb"
+msgid "<a id=\"a1\">Mozilla Letter to EU Commission on Facebook Transparency</a> (Webpage)"
+msgstr ""
+
+msgctxt "body.d7ef37b3-bb79-4f71-b825-580e582192bb"
+msgid "<a id=\"a1\">Mozilla Survey: Ahead of Elections, EU Internet Users Regularly Encounter Online Misinformation</a> (Webpage)"
+msgstr "<a id=\"a1\">Encuesta de Mozilla: antes de las elecciones, los usuarios de Internet en la UE suelen encontrar información errónea en línea</a> (página web)"
+
+msgctxt "title"
+msgid "Resources"
+msgstr "Recursos"

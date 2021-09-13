@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pontoon\n"
-"X-WagtailLocalize-TranslationID: ea069a6b-901f-461f-a858-daa435f7a187\n"
+"X-WagtailLocalize-TranslationID: 1f672d57-d55e-445d-ae67-0985ea67a5ff\n"
 
 msgctxt "seo_title"
 msgid "How to Detox Your YouTube Recommendations"
@@ -138,7 +138,7 @@ msgstr ""
 
 msgctxt "body.8ef38c34-2385-4827-8f93-4000a33d8303.altText"
 msgid "Private Browsing Mode"
-msgstr "Mode de navigation privée"
+msgstr "Mode navigation privée"
 
 msgctxt "body.091222b9-c6d7-4a9e-a9d9-c8e01da1c4c4"
 msgid "Limit your YouTube time"

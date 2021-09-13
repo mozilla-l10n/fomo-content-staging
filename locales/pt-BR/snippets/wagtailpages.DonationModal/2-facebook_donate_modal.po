@@ -1,0 +1,28 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-09-13 07:03:57.818465+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: cc6c7109-84ac-4383-9d61-126ae5fcc994\n"
+
+msgctxt "header"
+msgid "Thanks for signing! While you're here, we need your help."
+msgstr "Obrigado por se cadastrar! Já que está aqui, precisamos de sua ajuda."
+
+msgctxt "body"
+msgid ""
+"With a unique global reach and deep respect for our supporters’ privacy, Mozilla fights for a healthy internet — where Big Tech is held accountable, privacy is included by default, and YOU have more"
+" control over YOUR personal information. As a non-profit, we depend on donations from people like you to carry out these campaigns. Can you donate today?"
+msgstr ""
+"Com alcance global único e profundo respeito pela privacidade de nossos apoiadores, a Mozilla luta por uma internet saudável — onde as grandes empresas de tecnologia assumam responsabilidade, a "
+"privacidade seja incluída por padrão e VOCÊ tenha mais controle sobre SUAS informações pessoais. Sendo uma organização sem fins lucrativos, dependemos de doações de pessoas como você para levar "
+"adiante essas campanhas. Poderia fazer uma doação?"
+
+msgctxt "donate_text"
+msgid "Yes, I’ll chip in"
+msgstr "Sim, eu vou contribuir"
+
+msgctxt "dismiss_text"
+msgid "No, I’ll share instead"
+msgstr "Não, em vez disso vou compartilhar"

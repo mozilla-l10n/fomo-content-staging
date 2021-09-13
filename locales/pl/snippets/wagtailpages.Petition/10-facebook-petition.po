@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-09-13 07:03:55.382606+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 3c57ce1a-6794-4b36-abfa-b0397df60ad0\n"
+
+msgctxt "thank_you"
+msgid "Thank you for signing too!"
+msgstr "Dziękujemy za podpis!"
+
+msgctxt "header"
+msgid "Add your name:"
+msgstr "Podpisz petycję"
