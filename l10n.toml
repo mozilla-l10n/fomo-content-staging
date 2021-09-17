@@ -730,17 +730,22 @@ l10n = "locales/{locale}/pages/homepage/blog/tune-into-the-sounds-of-the-interne
 locales = [ "es",]
 
 [[paths]]
+reference = "templates/pages/homepage/blog/misinfo-monday-are-algorithms-feeding-you-crap.pot"
+l10n = "locales/{locale}/pages/homepage/blog/misinfo-monday-are-algorithms-feeding-you-crap.po"
+locales = [ "fr",]
+
+[[paths]]
 reference = "templates/snippets/wagtailpages.BlogPageCategory/9-mozilla-explains.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.BlogPageCategory/9-mozilla-explains.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/lets-unfck-internet.pot"
-l10n = "locales/{locale}/pages/homepage/blog/lets-unfck-internet.po"
+reference = "templates/pages/homepage/privacynotincluded/signal2.pot"
+l10n = "locales/{locale}/pages/homepage/privacynotincluded/signal2.po"
 locales = [ "fr",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/misinfo-monday-are-algorithms-feeding-you-crap.pot"
-l10n = "locales/{locale}/pages/homepage/blog/misinfo-monday-are-algorithms-feeding-you-crap.po"
+reference = "templates/pages/homepage/blog/lets-unfck-internet.pot"
+l10n = "locales/{locale}/pages/homepage/blog/lets-unfck-internet.po"
 locales = [ "fr",]
 
