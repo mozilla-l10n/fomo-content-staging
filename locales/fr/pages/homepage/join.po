@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "search_description"
 msgid "Join our newsletter and network. Share, discover, and collaborate."
-msgstr "Abonnez-vous à notre lettre d’information et rejoignez notre réseau. Partagez, découvrez et collaborez."
+msgstr "Abonnez-vous à notre newsletter et rejoignez notre réseau. Partagez, découvrez et collaborez."
 
 msgctxt "title"
 msgid "Join Us"

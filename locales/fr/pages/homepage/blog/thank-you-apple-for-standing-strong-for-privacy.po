@@ -75,7 +75,7 @@ msgstr "http://share.mozilla.org/352/214498/facebook"
 
 msgctxt "body.f00e2feb-f85f-4a6d-97f1-e8d029ef4fac.label"
 msgid "Send an email"
-msgstr "Envoyer un courriel"
+msgstr "Envoyer un e-mail"
 
 msgctxt "body.f00e2feb-f85f-4a6d-97f1-e8d029ef4fac.URL"
 msgid "http://share.mozilla.org/352/214271/email"

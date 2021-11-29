@@ -19,11 +19,11 @@ msgid "Homepage"
 msgstr ""
 
 msgctxt "hero_headline"
-msgid "Inside the Shadowy World of Disinformation-for-hire in Kenya"
+msgid "Which tech gifts should you avoid this holiday season?"
 msgstr ""
 
 msgctxt "hero_button_text"
-msgid "Read more"
+msgid "Find out"
 msgstr ""
 
 msgctxt "spotlight_headline"

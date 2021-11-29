@@ -19,12 +19,12 @@ msgid "Homepage"
 msgstr "Startside"
 
 msgctxt "hero_headline"
-msgid "Inside the Shadowy World of Disinformation-for-hire in Kenya"
-msgstr "Yn de dizige wrâld fan desynformaasje-te-hier yn Kenia"
+msgid "Which tech gifts should you avoid this holiday season?"
+msgstr "Hokker technyske kado’s moatte jo dizze feestdagen nije?"
 
 msgctxt "hero_button_text"
-msgid "Read more"
-msgstr "Mear ynfo"
+msgid "Find out"
+msgstr "Untdek it"
 
 msgctxt "spotlight_headline"
 msgid "What To Know About Venmo"
@@ -105,3 +105,35 @@ msgstr "Consumers International-logo"
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Findings"
 #~ msgstr "Lês de befiningen"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Inside the Shadowy World of Disinformation-for-hire in Kenya"
+#~ msgstr "Yn de dizige wrâld fan desynformaasje-te-hier yn Kenia"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Read more"
+#~ msgstr "Mear ynfo"
+
+#~ msgctxt "hero_headline"
+#~ msgid "TikTok is failing to curb German election disinformation"
+#~ msgstr "TikTok slagget der net yn Dútske ferkiezingsdesynformaasje te beheinen"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Which video call apps protect your privacy?"
+#~ msgstr "Hokker apps foar fideopetearen beskermje jo privacy?"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Submit an idea for MozFest 2022!"
+#~ msgstr "Tsjinje in idee yn foar MozFest 2022!"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Find out more"
+#~ msgstr "Mear ynfo"
+
+#~ msgctxt "hero_headline"
+#~ msgid "How to curb election disinformation on social media"
+#~ msgstr "Ferkiezingsdesynformaasje op sosjale media berongje"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Read"
+#~ msgstr "Lêze"

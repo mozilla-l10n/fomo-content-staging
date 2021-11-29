@@ -64,7 +64,7 @@ msgstr ""
 
 msgctxt "body.1e3501f2-8482-4a72-a07b-a0b006d65321"
 msgid "She’s Gotta Have AI"
-msgstr "Ela tem que ter IA"
+msgstr "Ela deve ter inteligência artificial"
 
 msgctxt "body.1e3501f2-8482-4a72-a07b-a0b006d65321"
 msgid ""

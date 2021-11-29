@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-11-29 07:04:08.556472+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 007e8478-ad02-40c0-8f8b-347eee058f02\n"
+
+msgctxt "seo_title"
+msgid "Mozilla Festival - News and Updates"
+msgstr "Mozilla Festival – Nijs en updates"
+
+msgctxt "title"
+msgid "Updates"
+msgstr "Updates"
+
+msgctxt "intro"
+msgid "Are you ready to join the Mozilla Festival community online?"
+msgstr "Binne jo ree om mei te dwaan oan de Mozilla Festival-mienskip online?"
+
+msgctxt "body.db634a21-62a3-4d1f-982d-083c06064af8"
+msgid "MozFest is a celebration for, by, and about people who love the internet, showcasing world-changing ideas and technology through exhibitions, talks and interactive sessions."
+msgstr "MozFest is in feest foar, troch en oer minsken dy't fan ynternet hâlde, mei wrâldferoanrjende ideeën en technology troch middel fan tentoanstellingen, lêzingen en ynteraktive sesjes."
+
+msgctxt "body.db634a21-62a3-4d1f-982d-083c06064af8"
+msgid "The next Mozilla Festival will be held in March 2022. But you can join us and the internet health movement today. Are you ready to join the Mozilla Festival community online?"
+msgstr ""
+"It folgjende Mozilla-festival wurdt hâlden yn maart 2022. Mar jo kinne jo hjoed noch by ús en de ynternetsûnensbeweging oanslute. Binne jo ree om jo online oan te sluten by de Mozilla Festival-"
+"mienskip?"
+
+msgctxt "body.db634a21-62a3-4d1f-982d-083c06064af8"
+msgid "By signing up for this email list, you can expect to receive:"
+msgstr "Troch jo yn te skriuwen foar dizze e-maillist, kinne jo it folgjende ferwachtsje:"
+
+msgctxt "body.db634a21-62a3-4d1f-982d-083c06064af8"
+msgid ""
+"A monthly newsletter filled with tools, resources, and events from across the internet health movement on trustworthy AI and other important issues, such as digital rights, community activism, "
+"privacy and security, and more."
+msgstr ""
+"In moanlikse nijsbrief fol helpmiddelen, boarnen en eveneminten fan de hiele ynternetsûnensbeweging oer betroubere AI en oare wichtige kwestjes, lykas digitale rjochten, mienskipsaktivisme, privacy "
+"en feilichheid, en mear."
+
+msgctxt "body.db634a21-62a3-4d1f-982d-083c06064af8"
+msgid "The most up-to-date news and sneak peeks about what to expect at the next MozFest"
+msgstr "It meast aktuele nijs en tipkes fan de sluier oer wat jo ferwachtsje kinne op it folgjende MozFest"
+
+msgctxt "body.db634a21-62a3-4d1f-982d-083c06064af8"
+msgid "The latest updates from Mozilla"
+msgstr "De lêste updates fan Mozilla"
+
+msgctxt "body.db634a21-62a3-4d1f-982d-083c06064af8"
+msgid "We hope you’ll join us as we fuel the movement for a healthier internet and more trustworthy AI through MozFest!"
+msgstr "Wy hoopje dat jo jo by ús oanslute wylst wy de beweging foar in sûner ynternet en betrouberdere AI fia MozFest fuorje!"
+
+msgctxt "body.855b42f2-db3a-4ba1-8f28-7abe9cabed5e.title"
+msgid "Latest Festival News"
+msgstr "Lêste festivalnijs"

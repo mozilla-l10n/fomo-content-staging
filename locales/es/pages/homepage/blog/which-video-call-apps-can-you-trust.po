@@ -16,7 +16,7 @@ msgstr ""
 
 msgctxt "body.3b34100f-9e67-4d58-9a8f-e708e819ad43.altText"
 msgid "Video call app icons"
-msgstr ""
+msgstr "Iconos de las aplicaciones de videollamadas"
 
 msgctxt "body.c182836d-5a87-4742-b804-20c302e9d526"
 msgid "Amid the pandemic, Mozilla is educating consumers about popular video apps’ privacy and security features and flaws"

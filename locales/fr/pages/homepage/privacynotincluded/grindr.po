@@ -24,10 +24,6 @@ msgstr ""
 "nombre illimité de profils bloqués et de profils favoris. Malheureusement, les pratiques (passées et actuelles) très discutables de Grindr en matière de protection des données personnelles des "
 "personnes inscrites, notamment d’informations sensibles comme le statut sérologique au VIH, en font l’une des pires applications de rencontre existantes pour ce qui est de la confidentialité."
 
-msgctxt "price"
-msgid "Free to sign up, $24.99 monthly for premium features"
-msgstr "Inscription gratuite, 20,60 € par mois pour des fonctionnalités premium"
-
 msgctxt "worst_case"
 msgid ""
 "Like all dating apps where sharing your most sensitive personal data with others, there's a lot that can go wrong. This is particularly true for an app like Grindr that includes location-based "
@@ -60,7 +56,7 @@ msgstr ""
 
 msgctxt "signup_requirement_explanation"
 msgid "Users can choose between email or social (Google, Facebook or Apple) or phone to verify their account."
-msgstr "Les personnes inscrites peuvent choisir entre une adresse électronique, un compte tiers (Google, Facebook ou Apple) ou un numéro de téléphone pour vérifier leur compte."
+msgstr "Les personnes inscrites peuvent choisir entre une adresse e-mail, un compte tiers (Google, Facebook ou Apple) ou un numéro de téléphone pour vérifier leur compte."
 
 msgctxt "how_does_it_use_data_collected"
 msgid ""
@@ -87,7 +83,7 @@ msgstr "Grindr utilise le chiffrement HTTPS et l’épinglage de certificat pour
 msgctxt "security_updates_helptext"
 msgid "From email exchange: \"Grindr has a mechanism in the backend to block logins that predate a minimum version we can specify if we need to make a major change for security reasons.\""
 msgstr ""
-"Réponse lors d’un échange par courriel : « Grindr dispose d’un mécanisme de back-end permettant de bloquer les identifiants antérieurs à une version minimale, que nous pouvons définir si nous avons "
+"Réponse lors d’un échange par e-mail : « Grindr dispose d’un mécanisme de back-end permettant de bloquer les identifiants antérieurs à une version minimale, que nous pouvons définir si nous avons "
 "besoin d’effectuer un changement majeur pour des raisons de sécurité. »"
 
 msgctxt "strong_password_helptext"
@@ -129,7 +125,7 @@ msgid ""
 "emailing privacy@grindr.com"
 msgstr ""
 "Les membres peuvent demander des informations concernant le traitement de leurs données personnelles et demander la suppression de leurs données en remplissant un formulaire sur "
-"https://help.grindr.com/hc/en-us/requests/new (en anglais) ou en envoyant un courriel à l’adresse privacy@grindr.com."
+"https://help.grindr.com/hc/en-us/requests/new (en anglais) ou en envoyant un e-mail à l’adresse privacy@grindr.com."
 
 msgctxt "track_record_details"
 msgid ""
@@ -144,3 +140,7 @@ msgid "Grindr uses AI for things such as detecting and removing spammers &amp; n
 msgstr ""
 "Grindr utilise l’IA pour détecter et supprimer les spammeurs et les images non conformes (voir la Politique de confidentialité). Cependant, elle affirme ne pas utiliser l’IA pour trouver des "
 "correspondances entre les membres."
+
+#~ msgctxt "price"
+#~ msgid "Free to sign up, $24.99 monthly for premium features"
+#~ msgstr "Inscription gratuite, 20,60 € par mois pour des fonctionnalités premium"

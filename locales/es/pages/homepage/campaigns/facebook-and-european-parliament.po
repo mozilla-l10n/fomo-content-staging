@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Facebook and European Parliament"
-msgstr ""
+msgstr "Facebook y el Parlamento Europeo"
 
 msgctxt "header"
 msgid "Facebook needs to be accountable to all of us"

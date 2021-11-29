@@ -1,0 +1,370 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-11-29 07:04:05.515290+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 66dd151f-019b-4f77-a5fe-19a7767a7d41\n"
+
+msgctxt "seo_title"
+msgid "Mozilla Festival"
+msgstr "Mozilla Festival"
+
+msgctxt "search_description"
+msgid "Activists in the internet health movement will gather at MozFest to move the needle in tech, art, social responsibility, ethics, and AI. Will you join us in March 2022?"
+msgstr ""
+"Les militant·e·s du mouvement pour la santé d’Internet se réuniront au MozFest pour faire avancer les choses dans les domaines de la technologie, de l’art, de la responsabilité sociale, de l’éthique"
+" et de l’IA. Nous rejoindrez-vous en mars 2022 ?"
+
+msgctxt "title"
+msgid "Mozilla Festival"
+msgstr "Mozilla Festival"
+
+msgctxt "cta_button_label"
+msgid "Become a Festival Insider"
+msgstr "Découvrir le festival en avant-première"
+
+msgctxt "banner_heading"
+msgid "Arrive with an idea, leave with a community."
+msgstr "Venez avec une idée, repartez avec une communauté."
+
+msgctxt "banner_cta_label"
+msgid "Watch the video"
+msgstr "Regarder la vidéo"
+
+msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.heading"
+msgid "MozFest Virtual"
+msgstr "MozFest virtuel"
+
+msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
+msgid "Join us online, 7-10 March 2022, to connect with others around the world who have a single mission: a better, healthier internet."
+msgstr "Rejoignez-nous en ligne, du 7 au 10 mars 2022, pour rencontrer d’autres personnes dans le monde qui partagent une mission unique : un Internet meilleur et plus sain."
+
+msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.heading"
+msgid "MozFest House: Amsterdam"
+msgstr "MozFest House: Amsterdam"
+
+msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
+msgid "Meet face to face with local allies and friends through a series of sessions, installations and workshops in Amsterdam."
+msgstr "Rencontrez en personne des alliés et amis locaux à travers une série de sessions, d’installations et d’ateliers à Amsterdam."
+
+msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.heading"
+msgid "Building Momentum"
+msgstr "Créer une dynamique"
+
+msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.description"
+msgid "Start planning now. Support session development and build momentum towards the festival."
+msgstr "Commencez à planifier dès maintenant. Apportez votre aide au développement des sessions et créez une dynamique en amont du festival."
+
+msgctxt "body.4befc18c-92fe-4b88-af48-a5cdc5add964"
+msgid ""
+"MozFest is a unique hybrid: part art, tech and society convening, part maker festival, and the premiere gathering for activists in diverse global movements fighting for a more humane digital world."
+msgstr ""
+"Le MozFest est un concept unique : c’est en partie un rassemblement artistique, technologique et sociétal, en partie un festival de créateurs et également le premier rassemblement pour les militants"
+" de divers mouvements internationaux qui luttent pour un monde numérique plus humain."
+
+msgctxt "body.48a61463-6791-405e-b6f5-dd1c69768a96.altText"
+msgid "A photograph of the MozFest Opening Circle, with a large group of participants all with their hands raised in the air cheering on a video conferencing platform."
+msgstr "Une photographie du cercle d’ouverture du MozFest, avec un grand groupe de participants, tous les mains levées en l’air, sur une plateforme de vidéoconférence."
+
+msgctxt "body.48a61463-6791-405e-b6f5-dd1c69768a96.text"
+msgid "1,000s of participants"
+msgstr "Des milliers de participant·e·s"
+
+msgctxt "body.48a61463-6791-405e-b6f5-dd1c69768a96.text"
+msgid "Artists, activists, technologists, designers, students, and journalists from across the world attend MozFest each year."
+msgstr "Des artistes, activistes, expert·e·s en technologie, designers, étudiant·e·s et journalistes du monde entier assistent chaque année au MozFest."
+
+msgctxt "body.4ef1c6a8-1f8d-463b-b6e0-d014c2474355.altText"
+msgid "A photograph of a person sitting with their laptop on the stairs of the MozFest House venue, next to them is an orange and pink sign with the MozFest house logo."
+msgstr "Une photo d’une personne assise avec son ordinateur portable dans les escaliers du MozFest House, à côté d’elle se trouve un panneau orange et rose avec le logo MozFest House."
+
+msgctxt "body.4ef1c6a8-1f8d-463b-b6e0-d014c2474355.text"
+msgid "100s of sessions"
+msgstr "Des centaines de sessions"
+
+msgctxt "body.4ef1c6a8-1f8d-463b-b6e0-d014c2474355.text"
+msgid "Immersive sessions that teach privacy best practices, develop solutions to online misinformation and harassment, build open-source tools, support Trustworthy AI innovations, and more"
+msgstr ""
+"Des sessions immersives pour apprendre les bonnes pratiques en matière de respect de la vie privée, développer des solutions à la désinformation et au harcèlement en ligne, créer des outils open "
+"source, soutenir les innovations pour des IA dignes de confiance, etc."
+
+msgctxt "body.3c018cf8-ba11-4a42-8420-e88fe18fd8fa.altText"
+msgid "A photograph of a person placing a square sticky note onto a board, where the colour of the note says if they trust decisions made by an AI."
+msgstr "Une photographie d’une personne plaçant un post-it carré sur un tableau, où la couleur de la note indique si elle fait confiance aux décisions prises par une IA."
+
+msgctxt "body.3c018cf8-ba11-4a42-8420-e88fe18fd8fa.text"
+msgid "145+ Countries"
+msgstr "Plus de 145 pays"
+
+msgctxt "body.3c018cf8-ba11-4a42-8420-e88fe18fd8fa.text"
+msgid "MozFest welcomes activists from Taipei, coders from Berlin, educators from Nairobi, researchers from Brasilia, and others from regions and movements around the world"
+msgstr ""
+"Le MozFest accueille des militant·e·s de Taipei, des développeurs et développeuses de Berlin, des enseignant·e·s de Nairobi, des chercheurs et chercheuses de Brasilia et bien d’autres personnes "
+"originaires de régions et de mouvements du monde entier."
+
+msgctxt "body.f3c3cb91-d14f-4d87-a1f5-c0e9474cc07b"
+msgid ""
+"Over the last ten years, MozFest has fueled the movement to ensure the internet benefits humanity, rather than harms it. As the festival matures and moves online for this year, we’ll remain focused "
+"in our work to build a healthier internet and more Trustworthy AI."
+msgstr ""
+"Au cours des dix dernières années, le MozFest a contribué à créer un mouvement pour s’assurer qu’Internet profite à l’humanité plutôt que de lui nuire. Au fur et à mesure que le festival mûrit et "
+"passe en ligne pour cette année, nous resterons concentré·e·s sur notre travail pour créer un Internet plus sain et une IA plus digne de confiance."
+
+msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.altText"
+msgid "schedule icon"
+msgstr "icône de calendrier"
+
+msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
+msgid "<b>Discover the award-winning</b> <a id=\"a1\"><b>MozFest Book</b></a>, a celebration of our past and future."
+msgstr "<b>Découvrez le livre primé <a id=\"a1\">MozFest Book</a></b>, une célébration de notre passé et de notre avenir."
+
+msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
+msgid "Building Momentum"
+msgstr "Créer une dynamique"
+
+msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
+msgid ""
+"We invite you to join us to start planning now. Connect earlier, seek out threads across each other's work, support session development and design, all to build momentum and participation towards "
+"the festival."
+msgstr ""
+"Nous vous invitons à nous rejoindre pour commencer à planifier dès maintenant. Connectez-vous plus tôt, recherchez des fils conducteurs dans le travail des uns et des autres, soutenez le "
+"développement et la conception des sessions, tout cela pour créer un élan et une participation au festival."
+
+msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.title"
+msgid "Here are some ways to get involved with MozFest in the lead up to the festival."
+msgstr "Voici quelques façons de vous impliquer au MozFest en amont du festival."
+
+msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.title"
+msgid "Call for Volunteers"
+msgstr "Appel aux bénévoles"
+
+msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.subheading_link.d0133b5c-0e7e-40c2-81b9-fe2d34a2d326.label"
+msgid "Volunteer"
+msgstr "Participer"
+
+msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.body"
+msgid "MozFest depends on its Volunteers to deliver the best possible experience for all of its Participants. The Call to join this year's cohort of MozFest Virtual Volunteers is now open."
+msgstr ""
+"Le MozFest dépend de ses bénévoles pour offrir la meilleure expérience possible à toutes les personnes qui y participent. L’appel à rejoindre la cohorte virtuelle de bénévoles pour le MozFest de "
+"cette année est maintenant ouvert."
+
+msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.buttons.649b9400-bd0b-441e-8ed2-4866bfc84f48.label"
+msgid "Register to Volunteer"
+msgstr "S’inscrire pour devenir bénévole"
+
+msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.title"
+msgid "AI &amp; Democratic Values"
+msgstr "IA et valeurs démocratiques"
+
+msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.subheading_link.5cc865b6-7fb6-4069-b47f-22a271ff8289.label"
+msgid "On-Demand"
+msgstr "À la demande"
+
+msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.body"
+msgid "The White House Office of Science and Technology Policy (OSTP) and Mozilla Foundation co-hosted a discussion about what an automated and democratic society should look like."
+msgstr ""
+"Le Bureau de la politique scientifique et technologique de la Maison Blanche (OSTP) et la Fondation Mozilla ont co-organisé une discussion sur ce à quoi devrait ressembler une société automatisée et"
+" démocratique."
+
+msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.buttons.ffaf526c-5071-456a-bd0d-584400724c8d.label"
+msgid "Watch the recording"
+msgstr "Regarder l’enregistrement"
+
+msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
+msgid "Working Groups"
+msgstr "Groupes de travail"
+
+msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
+msgid ""
+"Working groups are collections of MozFest community members coming together to focus on a specific topic around trustworthy AI. These working groups are an extension of the Mozilla Festival; By "
+"convening regularly online, these groups will support ongoing work around trustworthy AI."
+msgstr ""
+"Les groupes de travail sont des ensembles de membres de la communauté MozFest qui se réunissent pour se concentrer sur un sujet spécifique autour de l’IA digne de confiance. Ces groupes de travail "
+"sont une extension du Mozilla Festival ; en se réunissant régulièrement en ligne, ces groupes soutiendront les travaux en cours autour de l’IA digne de confiance."
+
+msgctxt "body.b07fdbd7-3336-4798-aa78-839caf86acd2.search_terms"
+msgid "tai-wg"
+msgstr "tai-wg"
+
+msgctxt "body.ffb911be-b5ff-4cfe-8e65-ea01aab02010.label"
+msgid "Learn more about Working Groups"
+msgstr "En savoir plus sur les groupes de travail"
+
+msgctxt "body.ffb911be-b5ff-4cfe-8e65-ea01aab02010.URL"
+msgid "https://www.mozillafestival.org/working-groups/"
+msgstr "https://www.mozillafestival.org/working-groups/"
+
+msgctxt "body.bef1ea3c-057c-4cf8-8947-2cd157f97451"
+msgid "On-Demand"
+msgstr "À la demande"
+
+msgctxt "body.bef1ea3c-057c-4cf8-8947-2cd157f97451"
+msgid ""
+"Top luminaries, grassroots activists, creative technologists, and interested consumers from around the world gather to share their questions, insights, reflections, and ideas at MozFest. The "
+"resulting content of these collaborations is too good to not share on-demand, all year long."
+msgstr ""
+"Des personnalités de premier plan, des militant·e·s, des passionné·e·s de technologies, et des consommateurs et consommatrices éveillées du monde entier se réunissent pour partager leurs questions, "
+"leurs points de vue, leurs réflexions et leurs idées au MozFest. Le contenu résultant de ces collaborations est trop important pour ne pas être partagé à la demande, tout au long de l’année."
+
+msgctxt "body.53cfd0a5-5d7f-46a3-8fb1-619089662b65.label"
+msgid "Visit MozFest On-Demand"
+msgstr "Voir le MozFest à la demande"
+
+msgctxt "body.53cfd0a5-5d7f-46a3-8fb1-619089662b65.URL"
+msgid "https://www.mozillafestival.org/on-demand"
+msgstr "https://www.mozillafestival.org/on-demand"
+
+msgctxt "body.6e296e18-8b27-4770-a482-3a550ff0bf68.label"
+msgid "Catch up on MozFest 2021 Sessions"
+msgstr "Rattraper les sessions du MozFest 2021"
+
+msgctxt "body.6e296e18-8b27-4770-a482-3a550ff0bf68.URL"
+msgid "https://www.mozillafestival.org/on-demand/previous-festivals"
+msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
+
+#~ msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
+#~ msgid "MozFest Current Events"
+#~ msgstr "Évènements actuels du MozFest"
+
+#~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.heading"
+#~ msgid "Call for Proposals"
+#~ msgstr "Appel à propositions"
+
+#~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.description"
+#~ msgid "Working towards Trustworthy AI? Share your work with our global community by submitting a proposal before November 5th."
+#~ msgstr "Vers une IA digne de confiance ? Partagez votre travail avec notre communauté mondiale en soumettant une proposition avant le 5 novembre."
+
+#~ msgctxt "search_description"
+#~ msgid "Activists in the internet health movement will gather at MozFest to move the needle in tech, art, social responsibility, ethics, and AI. Will you join us?"
+#~ msgstr ""
+#~ "Les militants du mouvement pour la santé d’Internet se réuniront au MozFest pour faire avancer les choses dans les domaines de la technologie, de l’art, de la responsabilité sociale, de l’éthique et"
+#~ " de l’IA. Vous nous rejoignez ?"
+
+#~ msgctxt "cta_button_label"
+#~ msgid "Submit a Proposal"
+#~ msgstr "Envoyer une proposition"
+
+#~ msgctxt "body.99e9c5b7-0984-461b-be8f-668e13dd873f"
+#~ msgid "Virtual: March 7th - 10th"
+#~ msgstr "Virtuel : du 7 au 10 mars"
+
+#~ msgctxt "body.485bd442-233d-41eb-a4b0-bb18f14f5f3b.text"
+#~ msgid ""
+#~ "Join us in March for 4 days of workshops, discussions, skill shares, art installations, immersive experiences, games and reconnecting with old and new friends. <a id=\"a1\">Read the "
+#~ "announcement.</a>"
+#~ msgstr ""
+#~ "Rejoignez-nous en mars pour 4 jours d’ateliers, de discussions, de partage de compétences, d’installations artistiques, d’expériences immersives, de jeux et de reconnexion avec d’anciens et de "
+#~ "nouveaux amis. <a id=\"a1\">Lire l’annonce.</a>"
+
+#~ msgctxt "body.99e9c5b7-0984-461b-be8f-668e13dd873f"
+#~ msgid "<b>Save the Date for</b> <b>MozFest</b> <b>2022</b>"
+#~ msgstr "<b>À vos agendas pour le MozFest 2022</b>"
+
+#~ msgctxt "body.485bd442-233d-41eb-a4b0-bb18f14f5f3b.altText"
+#~ msgid "an icon of a calendar"
+#~ msgstr "icône d’un calendrier"
+
+#~ msgctxt "body.48a61463-6791-405e-b6f5-dd1c69768a96.text"
+#~ msgid "<b>MozFest Virtual</b> March 7-10"
+#~ msgstr "<b>MozFest virtuel</b> du 7 au 10 mars"
+
+#~ msgctxt "body.4ef1c6a8-1f8d-463b-b6e0-d014c2474355.text"
+#~ msgid "<b>MozFest House:</b> <b>Amsterdam</b> March 25-27"
+#~ msgstr "<b>MozFest House : Amsterdam</b>, du 25 au 27 mars"
+
+#~ msgctxt "body.4ef1c6a8-1f8d-463b-b6e0-d014c2474355.text"
+#~ msgid "A nodal event in Amsterdam where partners, allies and friends can host sessions, installations, workshops and talks for a local audience."
+#~ msgstr "Un évènement nodal à Amsterdam où partenaires, alliés et amis peuvent organiser des sessions, des installations, des ateliers et des conférences pour un public local."
+
+#~ msgctxt "banner_guide_text"
+#~ msgid ""
+#~ "MozFest is a gathering of educators, activists, technologists, researchers, artists, and young people dedicated to creating a better, healthier internet. MozFest 2019 took place from 21-27 October, "
+#~ "in London."
+#~ msgstr ""
+#~ "Le MozFest est un rassemblement d’enseignant·e·s, d’activistes, d’expert·e·s en technologie, de chercheurs et chercheuses, d’artistes et de jeunes qui s’engagent pour la création d’un Internet "
+#~ "meilleur et plus sain. Le MozFest 2019 a eu lieu du 21 au 27 octobre, à Londres."
+
+#~ msgctxt "body.48a61463-6791-405e-b6f5-dd1c69768a96.text"
+#~ msgid "Mark your calendar and join MozFest to connect with artists, activists, technologists, designers, students, and journalists with a single mission: a better, healthier internet."
+#~ msgstr ""
+#~ "Retenez bien la date et rejoignez le MozFest pour vous connecter avec des artistes, des activistes, des expert·e·s, des designers, des étudiant·e·s et des journalistes ayant une seule mission : un "
+#~ "Internet meilleur et plus sain."
+
+#~ msgctxt "body.485bd442-233d-41eb-a4b0-bb18f14f5f3b.text"
+#~ msgid "Join us in March for workshops, discussions, skill shares, art installations, immersive experiences, games and reconnecting with old and new friends. <a id=\"a1\">Read the announcement.</a>"
+#~ msgstr ""
+#~ "Rejoignez-nous en mars pour des ateliers, des discussions, des partages de compétences, des installations artistiques, des expériences immersives, des jeux et des reconnexions avec d’anciens et de "
+#~ "nouveaux amis. <a id=\"a1\">Lire l’annonce.</a>"
+
+#~ msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
+#~ msgid "Upcoming Events"
+#~ msgstr "Évènements à venir"
+
+#~ msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
+#~ msgid "Here is what's coming up next on the MozFest calendar:"
+#~ msgstr "Voici les prochains évènements du calendrier MozFest :"
+
+#~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.description"
+#~ msgid "Working towards Trustworthy AI? Share your work with our global community by submitting a proposal before Nov 14th."
+#~ msgstr "Vers une IA digne de confiance ? Partagez votre travail avec notre communauté mondiale en soumettant une proposition avant le 14 novembre."
+
+#~ msgctxt "body.485bd442-233d-41eb-a4b0-bb18f14f5f3b.text"
+#~ msgid "<b>The deadline for the MozFest 2022 Call for Proposals has been extended.</b> <a id=\"a1\">Submit your proposal</a> by end of day November 14th."
+#~ msgstr "<b>La date limite de l’appel à propositions du MozFest 2022 a été repoussée.</b> <a id=\"a1\">Envoyez votre proposition</a> d’ici au 14 novembre au soir."
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.5f3890da-93a1-49ef-abe2-c014a53e81fa.title"
+#~ msgid "Proposal Support Call"
+#~ msgstr "Session d’aide pour vos propositions"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.5f3890da-93a1-49ef-abe2-c014a53e81fa.buttons.1a0a711b-175f-4fcd-bcaf-4cb0da6596f1.label"
+#~ msgid "Register here"
+#~ msgstr "S’inscrire"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.title"
+#~ msgid "Here is what's coming up next on the MozFest calendar:"
+#~ msgstr "Voici les prochains évènements du calendrier MozFest :"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.title"
+#~ msgid "1:1 Proposal Coaching"
+#~ msgstr "Coaching individuel pour les propositions"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.subheading_link.e1aa2271-7a52-40e5-9d55-fe93f87404e0.label"
+#~ msgid "CFP Support"
+#~ msgstr "Aide pour l’appel à propositions"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.body"
+#~ msgid "We're offering a limited number of coaching sessions for Facilitators who want individual feedback on their session designs."
+#~ msgstr "Nous proposons un nombre limité de séances de coaching pour les animateurs qui souhaitent un retour individuel sur le concept de leurs sessions."
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.buttons.649b9400-bd0b-441e-8ed2-4866bfc84f48.label"
+#~ msgid "Register here"
+#~ msgstr "S’inscrire"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.title"
+#~ msgid "Proposal Support Call"
+#~ msgstr "Session d’aide pour vos propositions"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.subheading_link.5cc865b6-7fb6-4069-b47f-22a271ff8289.label"
+#~ msgid "CFP Support"
+#~ msgstr "Aide pour l’appel à propositions"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.body"
+#~ msgid "We’ll convene several CFP community calls to help you draft successful session proposals for MozFest 2022. Tuesday, 9 November 2021 - 13:00 UTC"
+#~ msgstr "Nous organiserons plusieurs sessions communautaires pour l’appel à propositions, afin de vous aider à rédiger des propositions réussies pour le MozFest 2022. Mardi 9 novembre 2021 à 13 h UTC"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.buttons.ffaf526c-5071-456a-bd0d-584400724c8d.label"
+#~ msgid "Register here"
+#~ msgstr "S’inscrire"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.5f3890da-93a1-49ef-abe2-c014a53e81fa.subheading_link.9f41aa2b-32d5-4796-af2f-23b1900c751a.label"
+#~ msgid "CFP Support"
+#~ msgstr "Aide pour l’appel à propositions"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.5f3890da-93a1-49ef-abe2-c014a53e81fa.body"
+#~ msgid "We’ll convene several CFP community calls to help you draft successful session proposals for MozFest 2022.  Tuesday, 9 November 2021 - 18:00 UTC"
+#~ msgstr "Nous organiserons plusieurs sessions communautaires pour l’appel à propositions, afin de vous aider à rédiger des propositions réussies pour le MozFest 2022. Mardi 9 novembre 2021 à 18 h UTC"
+
+#~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.description"
+#~ msgid "Working towards Trustworthy AI? Share your work with our global community by submitting a proposal. Open until Nov 14th."
+#~ msgstr "Vers une IA digne de confiance ? Partagez votre travail avec notre communauté mondiale en soumettant une proposition jusqu’au 14 novembre."

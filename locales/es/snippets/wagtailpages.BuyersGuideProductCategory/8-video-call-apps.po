@@ -8,4 +8,8 @@ msgstr ""
 
 msgctxt "name"
 msgid "Video Call Apps"
-msgstr ""
+msgstr "Aplicaciones para videollamadas"
+
+msgctxt "description"
+msgid "A review of the privacy features of 21 popular video call apps including Zoom, Signal, WhatsApp, Telegram, and WeChat."
+msgstr "Una evaluación de las funciones de privacidad de 21 aplicaciones de videollamadas populares, incluidas Zoom, Signal, WhatsApp, Telegram y WeChat."

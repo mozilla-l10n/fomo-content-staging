@@ -12,7 +12,7 @@ msgstr "IA"
 
 msgctxt "body.20e65a05-2b21-4eb3-92e5-0c249ef65677"
 msgid "<i>Mozilla is publishing its white paper, \"</i><a id=\"a1\"><i>Creating Trustworthy AI</i></a><i>.\"</i>"
-msgstr ""
+msgstr "<i>Mozilla está publicando su documento: «</i><a id=\"a1\"><i> Crear una IA confiable</i></a><i>».</i>"
 
 msgctxt "body.20e65a05-2b21-4eb3-92e5-0c249ef65677"
 msgid ""
@@ -43,6 +43,14 @@ msgstr ""
 "mil millones de personas. Cada vez más, la IA está detrás de los teléfonos inteligentes, las redes sociales, las tiendas online, los automóviles, los asistentes domésticos inteligentes y casi "
 "cualquier otro tipo de dispositivo electrónico. Dado el poder y la omnipresencia de estas tecnologías, la cuestión de si la IA ayuda y empodera o, por el contrario, explota y excluye, influirá "
 "enormemente en la evolución de nuestra sociedad durante las próximas décadas."
+
+msgctxt "body.9000755e-d9df-45d0-be64-1ac31722b5ba.quote"
+msgid "The question of whether AI helps and empowers or exploits and excludes will have a huge impact over the coming decades."
+msgstr "La cuestión de si la IA ayuda y empodera o, por el contrario, explota y excluye, influirá enormemente durante las próximas décadas."
+
+msgctxt "body.9000755e-d9df-45d0-be64-1ac31722b5ba.attribution"
+msgid "~"
+msgstr "~"
 
 msgctxt "body.bd8e7068-5b5f-4b13-9cf9-240f37074149"
 msgid ""
@@ -82,7 +90,7 @@ msgstr ""
 
 msgctxt "body.70eb1129-1842-457b-9e61-9c49fdcc8cef.label"
 msgid "Read the White Paper"
-msgstr ""
+msgstr "Lee el documento técnico"
 
 msgctxt "body.70eb1129-1842-457b-9e61-9c49fdcc8cef.URL"
 msgid "https://foundation.mozilla.org/insights/trustworthy-ai-whitepaper/"
@@ -149,9 +157,10 @@ msgid ""
 "people experiences they want. As the paper outlines, there are more and more developers -- including many of our colleagues in the Mozilla Corporation -- who are carving new paths that head in this "
 "direction."
 msgstr ""
-"personas ha sido sinónimo de recopilar poca o ninguna información sobre ellas. Si bien la privacidad sigue siendo un enfoque central de organizaciones como Mozilla, pensamos que es necesario "
-"encontrar formas de proteger y empoderar a los usuarios que también incluyan la recopilación y el uso de sus datos para ofrecerles las experiencias que desean. Como apuntamos en el documento, cada "
-"vez hay más desarrolladores, incluyendo muchos de nuestros colegas de la Mozilla Corporation, que están explorando nuevas vías en esta dirección."
+"También esperamos que este trabajo traiga nuevas oportunidades para la gente que construye la tecnología que usamos a diario. Durante tanto tiempo, crear tecnología que valorase a las personas ha "
+"sido sinónimo de recopilar poca o ninguna información sobre ellas. Si bien la privacidad sigue siendo un enfoque central de organizaciones como Mozilla, pensamos que es necesario encontrar formas de"
+" proteger y empoderar a los usuarios que también incluyan la recopilación y el uso de sus datos para ofrecerles las experiencias que desean. Como apuntamos en el documento, cada vez hay más "
+"desarrolladores, incluyendo muchos de nuestros colegas de la Mozilla Corporation, que están explorando nuevas vías en esta dirección."
 
 msgctxt "body.26bcd979-e9a0-44ea-845e-43718995b31d"
 msgid "Thank you for reading -- and I look forward to putting this into action together."
@@ -159,7 +168,7 @@ msgstr "Gracias por tu atención. Deseo que juntos nos pongamos manos a la obra 
 
 msgctxt "body.6e25af3c-e2ac-4bb3-8b82-a9f3fb851b96.label"
 msgid "Read the White Paper"
-msgstr ""
+msgstr "Lee el documento técnico"
 
 msgctxt "body.6e25af3c-e2ac-4bb3-8b82-a9f3fb851b96.URL"
 msgid "https://foundation.mozilla.org/insights/trustworthy-ai-whitepaper/"

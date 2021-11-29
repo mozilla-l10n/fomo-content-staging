@@ -19,12 +19,12 @@ msgid "Homepage"
 msgstr "Startpagina"
 
 msgctxt "hero_headline"
-msgid "Inside the Shadowy World of Disinformation-for-hire in Kenya"
-msgstr "In de schimmige wereld van desinformatie-te-huur in Kenia"
+msgid "Which tech gifts should you avoid this holiday season?"
+msgstr "Welke technische geschenken moet u deze feestdagen vermijden?"
 
 msgctxt "hero_button_text"
-msgid "Read more"
-msgstr "Meer info"
+msgid "Find out"
+msgstr "Ontdek het"
 
 msgctxt "spotlight_headline"
 msgid "What To Know About Venmo"
@@ -100,6 +100,10 @@ msgctxt "partner_logos.929c99af-30b5-43e9-868d-348dff76a7cb.name"
 msgid "Consumers International logo"
 msgstr "Consumers International-logo"
 
+#~ msgctxt "hero_button_text"
+#~ msgid "Read more"
+#~ msgstr "Meer info"
+
 #~ msgctxt "hero_headline"
 #~ msgid "Mozilla &amp; 37,380 YouTube users joined forces to investigate YouTube's algorithm"
 #~ msgstr "Mozilla en 37.380 YouTube-gebruikers onderzoeken het algoritme van YouTube"
@@ -107,3 +111,31 @@ msgstr "Consumers International-logo"
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Findings"
 #~ msgstr "Lees de bevindingen"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Inside the Shadowy World of Disinformation-for-hire in Kenya"
+#~ msgstr "In de schimmige wereld van desinformatie-te-huur in Kenia"
+
+#~ msgctxt "hero_headline"
+#~ msgid "TikTok is failing to curb German election disinformation"
+#~ msgstr "TikTok slaagt er niet in Duitse verkiezingsdesinformatie te beteugelen"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Which video call apps protect your privacy?"
+#~ msgstr "Welke apps voor videogesprekken beschermen uw privacy?"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Read"
+#~ msgstr "Lezen"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Submit an idea for MozFest 2022!"
+#~ msgstr "Dien een idee in voor MozFest 2022!"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Find out more"
+#~ msgstr "Meer info"
+
+#~ msgctxt "hero_headline"
+#~ msgid "How to curb election disinformation on social media"
+#~ msgstr "Verkiezingsdesinformatie op sociale media beteugelen"

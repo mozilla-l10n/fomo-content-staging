@@ -32,7 +32,7 @@ msgstr ""
 
 msgctxt "body.09eee7ed-a87d-4f93-b0e1-9dbf2817765b.altText"
 msgid "misinfo graphic"
-msgstr ""
+msgstr "gráfico de la desinformación"
 
 msgctxt "body.09eee7ed-a87d-4f93-b0e1-9dbf2817765b.text"
 msgid "<a id=\"a1\">Sign our open letter</a> to Facebook demanding greater transparency of political advertising"
@@ -44,7 +44,7 @@ msgstr "https://foundation.mozilla.org/campaigns/eu-misinformation-facebook/"
 
 msgctxt "body.fea60484-68f0-46d8-98b2-11cfc7ebcbd2.altText"
 msgid "phone screen"
-msgstr ""
+msgstr "pantalla de teléfono"
 
 msgctxt "body.fea60484-68f0-46d8-98b2-11cfc7ebcbd2.text"
 msgid "<a id=\"a1\">Share our guidelines</a> for Google and Facebook's ad transparency databases"
@@ -56,7 +56,7 @@ msgstr "https://blog.mozilla.org/blog/2019/03/27/facebook-and-google-this-is-wha
 
 msgctxt "body.1dfdf433-2462-456a-bacd-c31b5715fb75.altText"
 msgid "thanks graphic"
-msgstr ""
+msgstr "gráfico de agradecimiento"
 
 msgctxt "body.1dfdf433-2462-456a-bacd-c31b5715fb75.text"
 msgid "<a id=\"a1\">Help us thank The Guardian</a> for preventing old news stories from being shared as misinformation, and ask other news publishers to follow their lead!"

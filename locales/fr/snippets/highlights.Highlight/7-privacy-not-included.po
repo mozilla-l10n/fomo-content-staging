@@ -13,7 +13,7 @@ msgstr "*Confidentialité non incluse"
 msgctxt "description"
 msgid "Smart speakers, fitness trackers, security cams, &amp; wireless headphones are cool. Are they creepy too? Check the privacy and security of products before you buy them."
 msgstr ""
-"Les enceintes connectées, les bracelets connectés, les caméras de sécurité et les casques sans fil, c’est super. Mais ces appareils sont-ils flippants ? Vérifiez à quel point ils respectent nos "
+"Les enceintes connectées, les bracelets connectés, les caméras de surveillance et les casques sans fil, c’est super. Mais ces appareils sont-ils flippants ? Vérifiez à quel point ils respectent nos "
 "critères de sécurité et de confidentialité avec notre guide avant de les acheter."
 
 msgctxt "link_label"
