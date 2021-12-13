@@ -62,7 +62,7 @@ msgstr "Happn verfügt über eine benutzerfreundliche Seite mit Grundlagen zum D
 
 msgctxt "uses_encryption_helptext"
 msgid "Happn ensures that user data is encrypted at rest and in transit"
-msgstr "Happn stellt sicher, dass sämtliche Nutzer*innendaten sowohl beim Speichern als auch bei der Übertragung verschlüsselt sind."
+msgstr "Happn stellt sicher, dass sämtliche Nutzerdaten sowohl beim Speichern als auch bei der Übertragung verschlüsselt sind."
 
 msgctxt "strong_password_helptext"
 msgid "Password wasn't requires as login happens either via phone or third-party."

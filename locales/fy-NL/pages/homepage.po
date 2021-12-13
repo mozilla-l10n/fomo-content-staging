@@ -19,12 +19,12 @@ msgid "Homepage"
 msgstr "Startside"
 
 msgctxt "hero_headline"
-msgid "Which tech gifts should you avoid this holiday season?"
-msgstr "Hokker technyske kado’s moatte jo dizze feestdagen nije?"
+msgid "Got YouTube regrets? Take back control"
+msgstr "Hawwe jo spyt fan YouTube? Nim de kontrôle werom"
 
 msgctxt "hero_button_text"
-msgid "Find out"
-msgstr "Untdek it"
+msgid "Join our campaign"
+msgstr "Doch mei ús mei oan ús kampanje"
 
 msgctxt "spotlight_headline"
 msgid "What To Know About Venmo"
@@ -121,6 +121,14 @@ msgstr "Consumers International-logo"
 #~ msgctxt "hero_headline"
 #~ msgid "Which video call apps protect your privacy?"
 #~ msgstr "Hokker apps foar fideopetearen beskermje jo privacy?"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Find out"
+#~ msgstr "Untdek it"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Which tech gifts should you avoid this holiday season?"
+#~ msgstr "Hokker technyske kado’s moatte jo dizze feestdagen nije?"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Submit an idea for MozFest 2022!"

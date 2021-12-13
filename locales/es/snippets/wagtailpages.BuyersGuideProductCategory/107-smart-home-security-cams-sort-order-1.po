@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Security Cams"
-msgstr ""
+msgstr "Cámaras de seguridad"

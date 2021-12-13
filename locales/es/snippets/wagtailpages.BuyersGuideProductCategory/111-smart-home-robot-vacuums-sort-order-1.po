@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Robot Vacuums"
-msgstr ""
+msgstr "Robots aspiradores"

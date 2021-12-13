@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "header"
 msgid "Sign Up To Become a Festival Insider"
-msgstr ""
+msgstr "Inscreva-se para se tornar um participante do Festival"
 
 msgctxt "description"
 msgid ""

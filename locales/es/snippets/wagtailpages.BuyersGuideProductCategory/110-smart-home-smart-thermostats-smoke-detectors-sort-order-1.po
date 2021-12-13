@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Smart Thermostats &amp; Smoke Detectors"
-msgstr ""
+msgstr "Termostatos inteligentes y detectores de humo"

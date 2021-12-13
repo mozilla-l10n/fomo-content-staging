@@ -64,7 +64,7 @@ msgstr "Die Richtlinie ist kurz und vage."
 
 msgctxt "uses_encryption_helptext"
 msgid "Discord uses encryption at rest and encryption in transit for all data."
-msgstr "Discord nutzt für sämtliche Daten Data-at-Rest- und Data-in-Transit-Verschlüsselung."
+msgstr "Discord verschlüsselt Daten bei der Übertragung und bei Speicherung."
 
 msgctxt "security_updates_helptext"
 msgid "Discord pushes regular security update as necessary."

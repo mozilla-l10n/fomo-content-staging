@@ -56,7 +56,7 @@ msgstr ""
 
 msgctxt "uses_encryption_helptext"
 msgid "Uses encryption in transit and at rest."
-msgstr "Verschlüsselung wird bei der Übertragung und im Ruhezustand verwendet."
+msgstr "Verschlüsselung wird bei der Übertragung und bei Speicherung verwendet."
 
 msgctxt "strong_password_helptext"
 msgid "You need a strong password to access your PlayStation Network account. You can set up a passcode for your PlayStation device."

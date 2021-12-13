@@ -63,7 +63,7 @@ msgstr "Amazon bietet Kindle-spezifische FAQ zu Datenschutzeinstellungen."
 
 msgctxt "uses_encryption_helptext"
 msgid "Uses encryption in transit and at rest."
-msgstr "Verschlüsselung wird bei der Übertragung und im Ruhezustand verwendet."
+msgstr "Verschlüsselung wird bei der Übertragung und bei Speicherung verwendet."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid ""
@@ -128,6 +128,10 @@ msgctxt "track_record_details"
 msgid "In <a id=\"a1\">2018</a>, Amazon's Echo Dot device recorded private conversation and sent it to random contact. The recording consisted of 1,700 audio files."
 msgstr "Im <a id=\"a1\">Jahr 2018</a> zeichnete das Echo Dot-Gerät von Amazon private Gespräche auf und sendete sie an einen zufälligen Kontakt. Die Aufnahme bestand aus 1.700 Audiodateien."
 
+#~ msgctxt "price"
+#~ msgid "89.99 - $249.99"
+#~ msgstr "89,99 - $249,99"
+
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "Remember when you actually read books? Back before the days of Twitter and Netflix and your 17-second attention span. The Kindle could be just the thing to get your brain back into book-reading "
@@ -173,7 +177,3 @@ msgstr "Im <a id=\"a1\">Jahr 2018</a> zeichnete das Echo Dot-Gerät von Amazon p
 #~ msgstr ""
 #~ "Amazon feuerte im Oktober 2020 einen Mitarbeiter, der E-Mail-Adressen von Kunden an unbekannte Dritte weitergegeben hatte. Im November 2018 wurde Amazon Opfer eines Datenlecks, bei dem Namen und "
 #~ "E-Mail-Adressen von Kunden auf der Website veröffentlicht wurden."
-
-#~ msgctxt "price"
-#~ msgid "89.99 - $249.99"
-#~ msgstr "89,99 - $249,99"

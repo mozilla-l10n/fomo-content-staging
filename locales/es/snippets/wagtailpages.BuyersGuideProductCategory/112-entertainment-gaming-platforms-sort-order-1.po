@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Gaming Platforms"
-msgstr ""
+msgstr "Plataformas de juegos"

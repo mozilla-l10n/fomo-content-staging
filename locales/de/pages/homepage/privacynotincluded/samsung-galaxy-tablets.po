@@ -65,7 +65,7 @@ msgstr ""
 
 msgctxt "uses_encryption_helptext"
 msgid "Uses encryption in transit and at rest."
-msgstr "Nutzt in Transit und Ruhezustand Verschlüsselung."
+msgstr "Verschlüsselung wird bei der Übertragung und bei Speicherung verwendet."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Samsung has a <a id=\"a1\">bug bounty program</a>, which means that anyone who finds a security issue and discloses it responsibly may get paid."
