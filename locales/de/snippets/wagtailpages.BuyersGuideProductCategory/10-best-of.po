@@ -9,3 +9,7 @@ msgstr ""
 msgctxt "name"
 msgid "Best Of"
 msgstr "Das beste von"
+
+msgctxt "description"
+msgid "*Privacy Not Included Best Of Category"
+msgstr "Kategorie „Beste“ aus „*Datenschutz nicht inbegriffen“"

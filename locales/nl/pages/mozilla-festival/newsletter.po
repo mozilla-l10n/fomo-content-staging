@@ -20,12 +20,12 @@ msgstr "Bent u klaar om online lid te worden van de Mozilla Festival-community?"
 
 msgctxt "body.db634a21-62a3-4d1f-982d-083c06064af8"
 msgid "MozFest is a celebration for, by, and about people who love the internet, showcasing world-changing ideas and technology through exhibitions, talks and interactive sessions."
-msgstr "MozFest is een feest voor, door en over mensen die van internet houden, met wereldveranderende ideeën en technologie door middel van tentoonstellingen, lezingen en interactieve sessies."
+msgstr "MozFest is een feest voor, door en over mensen die van internet houden, met wereld veranderende ideeën en technologie door middel van tentoonstellingen, lezingen en interactieve sessies."
 
 msgctxt "body.db634a21-62a3-4d1f-982d-083c06064af8"
 msgid "The next Mozilla Festival will be held in March 2022. But you can join us and the internet health movement today. Are you ready to join the Mozilla Festival community online?"
 msgstr ""
-"Het volgende Mozilla-festival wordt gehouden in maart 2022. Maar u kunt zich vandaag nog bij ons en de internetgezondheidsbeweging aansluiten. Bent u klaar om u online aan te sluiten bij de Mozilla "
+"Het volgende Mozilla Festival wordt gehouden in maart 2022. Maar u kunt zich vandaag nog bij ons en de internetgezondheidsbeweging aansluiten. Bent u klaar om u online aan te sluiten bij de Mozilla "
 "Festival-gemeenschap?"
 
 msgctxt "body.db634a21-62a3-4d1f-982d-083c06064af8"
@@ -38,7 +38,7 @@ msgid ""
 "privacy and security, and more."
 msgstr ""
 "Een maandelijkse nieuwsbrief vol hulpmiddelen, bronnen en evenementen van de hele internetgezondheidsbeweging over betrouwbare AI en andere belangrijke kwesties, zoals digitale rechten, "
-"gemeenschapsactivisme, privacy en veiligheid, en meer."
+"gemeenschapsactivisme, privacy, veiligheid en meer."
 
 msgctxt "body.db634a21-62a3-4d1f-982d-083c06064af8"
 msgid "The most up-to-date news and sneak peeks about what to expect at the next MozFest"

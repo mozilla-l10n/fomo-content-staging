@@ -222,6 +222,8 @@ msgid ""
 "Once the <a id=\"a1\">CFP</a> closes on 14th November, our community organizers, the Wranglers, will team-up by Space (or theme) to review and select their sessions. The selection process runs from "
 "November to December 2021."
 msgstr ""
+"Una vez que se cierre la convocatoria o <a id=\"a1\">CFP</a>  el 14 de noviembre, quienes organizan nuestra comunidad, Wranglers, se reunirán por espacios (o por temas) para revisar y seleccionar "
+"sus sesiones. El proceso de selección se extenderá de noviembre a diciembre de 2021."
 
 msgctxt "body.6a359d4a-9a1a-4900-b4ee-bd2bde79d920"
 msgid ""

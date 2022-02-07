@@ -16,4 +16,4 @@ msgstr "regretsreporter"
 
 msgctxt "search_description"
 msgid "The RegretsReporter browser extension, built by the non-profit Mozilla, helps you reject harmful YouTube recommendations."
-msgstr ""
+msgstr "La extensión RegretsReporter para navegador, creada por la organización sin fines de lucro Mozilla, te ayuda a rechazar las malas recomendaciones de YouTube."

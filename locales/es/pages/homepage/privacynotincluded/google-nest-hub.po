@@ -143,6 +143,14 @@ msgctxt "ai_can_user_control_helptext"
 msgid "Sleep sensing can be turned on and off at any point."
 msgstr "Puedes activar y desactivar la detección del sueño en cualquier momento."
 
+#~ msgctxt "price"
+#~ msgid "89.99"
+#~ msgstr "89,99"
+
+#~ msgctxt "privacy_policy_helptext"
+#~ msgid "All things Nest have been moved over to the Google Store. Google has a page detailing their privacy principles for Nest products."
+#~ msgstr "Todos los productos de Nest se han movido a Google Store. Google cuenta con una página en la que detalla sus principios de privacidad para estos productos."
+
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "If you like the idea of a smart video hub that lets you display your photos, watch YouTube, listen to podcasts, and control you lights with your voice, but you don't want a video camera watching you"
@@ -152,10 +160,6 @@ msgstr "Puedes activar y desactivar la detección del sueño en cualquier moment
 #~ "Si te gusta la idea de un centro de vídeo inteligente que te permita ver tus fotos, YouTube, escuchar podcasts y controlar las luces con la voz pero no quieres una cámara que te vigile todo el "
 #~ "tiempo, esto es para ti. A diferencia del Nest Hub Max de Google (más caro), el Nest Hub no cuenta con cámara integrada para vigilarte, por lo que es perfecto para la mesita de noche. Lo que sí "
 #~ "tiene son dos micrófonos integrados, así que igual no es mala idea apagarlos si algún amigo o amiga con derecho a roce te hace una visita..."
-
-#~ msgctxt "price"
-#~ msgid "89.99"
-#~ msgstr "89,99"
 
 #~ msgctxt "worst_case"
 #~ msgid ""
@@ -184,10 +188,6 @@ msgstr "Puedes activar y desactivar la detección del sueño en cualquier moment
 #~ msgstr ""
 #~ "Google tiene un programa de recompensas de seguridad (Security Rewards), con lo que todas las personas que detecten algún problema de seguridad y se lo notifique de forma responsable podrían recibir"
 #~ " un pago por ello: https://www.google.com/about/appsecurity/programs-home/"
-
-#~ msgctxt "privacy_policy_helptext"
-#~ msgid "All things Nest have been moved over to the Google Store. Google has a page detailing their privacy principles for Nest products."
-#~ msgstr "Todos los productos de Nest se han movido a Google Store. Google cuenta con una página en la que detalla sus principios de privacidad para estos productos."
 
 #~ msgctxt "personal_data_collected"
 #~ msgid "Name, email, phone number"

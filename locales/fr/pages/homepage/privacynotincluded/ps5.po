@@ -125,6 +125,16 @@ msgctxt "ai_what_can_it_do"
 msgid "Sony is <a id=\"a1\">planning</a> to employ AI via its Sony AI arm."
 msgstr "Sony <a id=\"a1\">prévoit</a> d’employer l’IA via sa branche Sony AI."
 
+#~ msgctxt "price"
+#~ msgid "399.99 - $499.99"
+#~ msgstr "399,99 - $499,99"
+
+#~ msgctxt "ai_helptext"
+#~ msgid "Sony has launched a new AI R&amp;D division that will cover gaming.  It was also reported that Sony was using AI to create soundtracks that react to how you play."
+#~ msgstr ""
+#~ "Sony a créé une unité de R&D dédiée à l’IA, qui inclut notamment le secteur du jeu vidéo. Il a également été signalé que Sony utilise l’IA pour créer des bandes-son qui réagissent à votre façon de "
+#~ "jouer."
+
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "Sony's long-awaited next-gen console is finally here (for those lucky few who were able to get one). The new PS5 comes in both a regular edition with a disc drive and the cheaper digital edition "
@@ -134,10 +144,6 @@ msgstr "Sony <a id=\"a1\">prévoit</a> d’employer l’IA via sa branche Sony A
 #~ "La console nouvelle génération de Sony, très attendue, est enfin sortie (pour celles et ceux qui ont eu la chance de mettre la main dessus). La nouvelle PS5 est disponible dans une édition standard "
 #~ "avec lecteur de disques et une édition sans lecteur, plus économique. Sa puissance décuplée et ses graphismes de haute qualité permettront de rendre encore plus fun, rapides et beaux des jeux comme "
 #~ "Horizon Forbidden West, Marvel’s Spider-Man: Miles Morales, Gran Turismo 7, etc. Espérons que nous pourrons toutes et tous nous la procurer bientôt."
-
-#~ msgctxt "price"
-#~ msgid "399.99 - $499.99"
-#~ msgstr "399,99 - $499,99"
 
 #~ msgctxt "worst_case"
 #~ msgid ""
@@ -157,9 +163,3 @@ msgstr "Sony <a id=\"a1\">prévoit</a> d’employer l’IA via sa branche Sony A
 #~ msgctxt "track_record_details"
 #~ msgid "No known incidents in the last 2 years."
 #~ msgstr "Aucun incident connu au cours des 2 dernières années."
-
-#~ msgctxt "ai_helptext"
-#~ msgid "Sony has launched a new AI R&amp;D division that will cover gaming.  It was also reported that Sony was using AI to create soundtracks that react to how you play."
-#~ msgstr ""
-#~ "Sony a créé une unité de R&D dédiée à l’IA, qui inclut notamment le secteur du jeu vidéo. Il a également été signalé que Sony utilise l’IA pour créer des bandes-son qui réagissent à votre façon de "
-#~ "jouer."

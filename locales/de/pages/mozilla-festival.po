@@ -37,8 +37,8 @@ msgid "MozFest Virtual"
 msgstr "Virtuelles MozFest"
 
 msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
-msgid "Join us online, 7-10 March 2022, to connect with others around the world who have a single mission: a better, healthier internet."
-msgstr "Besuchen Sie uns online vom 7. bis 10. März 2022, um mit anderen auf der ganzen Welt in Kontakt zu treten, die eine einzige Mission haben: ein besseres, gesünderes Internet."
+msgid "Join us online, 7-11 March 2022, to connect with others around the world who have a single mission: a better, healthier internet."
+msgstr "Besuchen Sie uns online vom 7. bis 11. März 2022, um mit anderen auf der ganzen Welt in Kontakt zu treten, die eine einzige Mission haben: ein besseres, gesünderes Internet."
 
 msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
 msgid "Early Bird Tickets Now Available"
@@ -49,12 +49,12 @@ msgid "Secure your ticket to access hundreds of sessions and interactive exhibit
 msgstr "Sichern Sie sich Ihr Ticket, um Zugang zu Hunderten von Sitzungen und interaktiven Ausstellungen zu erlangen, und treten Sie mit unserer aufregenden globalen Gemeinschaft in Kontakt."
 
 msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.heading"
-msgid "MozFest House: Amsterdam"
-msgstr "MozFest-Haus: Amsterdam"
+msgid "Building Momentum"
+msgstr "Dynamik aufbauen"
 
 msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
-msgid "Meet face to face with local allies and friends through a series of sessions, installations and workshops in Amsterdam."
-msgstr "Treffen Sie lokale Verbündete und Freunde von Angesicht zu Angesicht bei einer Reihe von Sitzungen, Installationen und Workshops in Amsterdam."
+msgid "Expand new partnerships and deepen engagement with MozFest Fringe Events. Connect and collaborate early, and often."
+msgstr "Erweitern Sie neue Partnerschaften und vertiefen Sie das Engagement mit MozFest-Fringe-Events. Vernetzen Sie sich und arbeiten Sie frühzeitig und oft zusammen."
 
 msgctxt "body.4befc18c-92fe-4b88-af48-a5cdc5add964"
 msgid ""
@@ -63,17 +63,13 @@ msgstr ""
 "MozFest ist eine einzigartige Mischung: Teil Kunst, Technologie und Gesellschaft, Teil Maker Festival und das erste Treffen für Aktivisten in verschiedenen globalen Bewegungen, die für eine humanere"
 " digitale Welt kämpfen."
 
-msgctxt "body.48a61463-6791-405e-b6f5-dd1c69768a96.altText"
-msgid "A photograph of the MozFest Opening Circle, with a large group of participants all with their hands raised in the air cheering on a video conferencing platform."
-msgstr "Ein Foto des MozFest Opening Circle, bei dem eine große Gruppe von Teilnehmern alle mit erhobenen Händen auf einer Videokonferenzplattform jubelt."
+msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.altText"
+msgid "sneak peak icon"
+msgstr "Vorschau-Symbol"
 
-msgctxt "body.48a61463-6791-405e-b6f5-dd1c69768a96.text"
-msgid "1,000s of participants"
-msgstr "Tausende von Teilnehmern"
-
-msgctxt "body.48a61463-6791-405e-b6f5-dd1c69768a96.text"
-msgid "Artists, activists, technologists, designers, students, and journalists from across the world attend MozFest each year."
-msgstr "Jedes Jahr besuchen Künstler, Aktivisten, Technologen, Designer, Studenten und Journalisten aus der ganzen Welt das MozFest."
+msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
+msgid "<b>Get an insider look at confirmed, interactive sessions on the</b> <a id=\"a1\"><b>MozFest Plaza</b></a>"
+msgstr "<b>Verschaffen Sie sich einen Insider-Einblick in bestätigte, interaktive Sitzungen auf der</b> <a id=\"a1\"><b>MozFest-Plaza</b></a>"
 
 msgctxt "body.4ef1c6a8-1f8d-463b-b6e0-d014c2474355.altText"
 msgid "A photograph of a person sitting with their laptop on the stairs of the MozFest House venue, next to them is an orange and pink sign with the MozFest house logo."
@@ -88,6 +84,18 @@ msgid "Immersive sessions that teach privacy best practices, develop solutions t
 msgstr ""
 "Immersive Sitzungen, in denen Best Practices für den Datenschutz vermittelt, Lösungen für Online-Fehlinformationen und Belästigungen entwickelt, Open-Source-Werkzeuge erstellt, vertrauenswürdige KI-"
 "Innovationen unterstützt werden und vieles mehr"
+
+msgctxt "body.48a61463-6791-405e-b6f5-dd1c69768a96.altText"
+msgid "A photograph of the MozFest Opening Circle, with a large group of participants all with their hands raised in the air cheering on a video conferencing platform."
+msgstr "Ein Foto des MozFest Opening Circle, bei dem eine große Gruppe von Teilnehmern alle mit erhobenen Händen auf einer Videokonferenzplattform jubelt."
+
+msgctxt "body.48a61463-6791-405e-b6f5-dd1c69768a96.text"
+msgid "1,000s of participants"
+msgstr "Tausende von Teilnehmern"
+
+msgctxt "body.48a61463-6791-405e-b6f5-dd1c69768a96.text"
+msgid "Artists, activists, technologists, designers, students, and journalists from across the world attend MozFest each year."
+msgstr "Jedes Jahr besuchen Künstler, Aktivisten, Technologen, Designer, Studenten und Journalisten aus der ganzen Welt das MozFest."
 
 msgctxt "body.3c018cf8-ba11-4a42-8420-e88fe18fd8fa.altText"
 msgid "A photograph of a person placing a square sticky note onto a board, where the colour of the note says if they trust decisions made by an AI."
@@ -108,14 +116,6 @@ msgid ""
 msgstr ""
 "In den letzten zehn Jahren hat das MozFest die Bewegung angeheizt, um sicherzustellen, dass das Internet der Menschheit zugute kommt, anstatt ihr zu schaden. Während das Festival reift und dieses "
 "Jahr online geht, werden wir uns weiterhin auf unsere Arbeit konzentrieren, um ein gesünderes Internet und eine vertrauenswürdigere KI aufzubauen."
-
-msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.altText"
-msgid "sneak peak icon"
-msgstr "Vorschau-Symbol"
-
-msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
-msgid "<b>Get an insider look at confirmed, interactive sessions on the</b> <a id=\"a1\"><b>MozFest Plaza</b></a>"
-msgstr "<b>Verschaffen Sie sich einen Insider-Einblick in bestätigte, interaktive Sitzungen auf der</b> <a id=\"a1\"><b>MozFest-Plaza</b></a>"
 
 msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
 msgid "Building Momentum"
@@ -229,6 +229,14 @@ msgctxt "body.6e296e18-8b27-4770-a482-3a550ff0bf68.URL"
 msgid "https://www.mozillafestival.org/on-demand/previous-festivals"
 msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 
+#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.altText"
+#~ msgid "schedule icon"
+#~ msgstr "Zeitplansymbol"
+
+#~ msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
+#~ msgid "Upcoming Events"
+#~ msgstr "Zukünftige Veranstaltungen"
+
 #~ msgctxt "cta_button_label"
 #~ msgid "Submit a Proposal"
 #~ msgstr "Einen Vorschlag einreichen"
@@ -241,6 +249,10 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ "Das MozFest ist eine Zusammenkunft von Pädagogen, Aktivisten, Technologen, Forschern, Künstlern und jungen Menschen, die sich der Schaffung eines besseren, gesünderen Internets verschrieben haben. "
 #~ "Das MozFest 2019 fand vom 21. bis 27. Oktober in London statt."
 
+#~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
+#~ msgid "Join us online, 7-10 March 2022, to connect with others around the world who have a single mission: a better, healthier internet."
+#~ msgstr "Besuchen Sie uns online vom 7. bis 10. März 2022, um mit anderen auf der ganzen Welt in Kontakt zu treten, die eine einzige Mission haben: ein besseres, gesünderes Internet."
+
 #~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.heading"
 #~ msgid "Call for Proposals"
 #~ msgstr "Aufruf für Vorschläge"
@@ -248,6 +260,14 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.description"
 #~ msgid "Working towards Trustworthy AI? Share your work with our global community by submitting a proposal before November 5th."
 #~ msgstr "Sie arbeiten an vertrauenswürdiger KI? Teilen Sie Ihre Arbeit mit unserer weltweiten Gemeinschaft, indem Sie vor dem 5. November einen Vorschlag einreichen."
+
+#~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.heading"
+#~ msgid "MozFest House: Amsterdam"
+#~ msgstr "MozFest-Haus: Amsterdam"
+
+#~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
+#~ msgid "Meet face to face with local allies and friends through a series of sessions, installations and workshops in Amsterdam."
+#~ msgstr "Treffen Sie lokale Verbündete und Freunde von Angesicht zu Angesicht bei einer Reihe von Sitzungen, Installationen und Workshops in Amsterdam."
 
 #~ msgctxt "body.485bd442-233d-41eb-a4b0-bb18f14f5f3b.altText"
 #~ msgid "an icon of a calendar"
@@ -259,41 +279,9 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ "Besuchen Sie uns im März zu Workshops, Diskussionen, Austausch von Fähigkeiten, Kunstinstallationen, immersiven Erfahrungen, Spielen und Wiedersehen mit alten und neuen Freunden. <a id=\"a1\">Lesen "
 #~ "Sie die Ankündigung.</a>"
 
-#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.altText"
-#~ msgid "schedule icon"
-#~ msgstr "Zeitplansymbol"
-
-#~ msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
-#~ msgid "Upcoming Events"
-#~ msgstr "Zukünftige Veranstaltungen"
-
 #~ msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
 #~ msgid "Here is what's coming up next on the MozFest calendar:"
 #~ msgstr "Folgendes steht als nächstes im MozFest-Kalender an:"
-
-#~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.description"
-#~ msgid "Working towards Trustworthy AI? Share your work with our global community by submitting a proposal before Nov 14th."
-#~ msgstr "Sie arbeiten an vertrauenswürdiger KI? Teilen Sie Ihre Arbeit mit unserer weltweiten Gemeinschaft, indem Sie vor dem 14. November einen Vorschlag einreichen."
-
-#~ msgctxt "body.485bd442-233d-41eb-a4b0-bb18f14f5f3b.text"
-#~ msgid "<b>The deadline for the MozFest 2022 Call for Proposals has been extended.</b> <a id=\"a1\">Submit your proposal</a> by end of day November 14th."
-#~ msgstr "<b>Die Frist für den Aufruf zu Vorschlägen zum MozFest wurde verlängert.</b> <a id=\"a1\">Senden Sie uns Ihren Vorschlag</a> bis zum Ende des 14. Novembers."
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.title"
-#~ msgid "Here is what's coming up next on the MozFest calendar:"
-#~ msgstr "Folgendes steht als nächstes im MozFest-Kalender an:"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.title"
-#~ msgid "1:1 Proposal Coaching"
-#~ msgstr "1:1-Beratung für Vorschläge"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.subheading_link.e1aa2271-7a52-40e5-9d55-fe93f87404e0.label"
-#~ msgid "CFP Support"
-#~ msgstr "Hilfe zu Vorschlägen"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.body"
-#~ msgid "We're offering a limited number of coaching sessions for Facilitators who want individual feedback on their session designs."
-#~ msgstr "Wir bieten eine begrenze Zahl an Beratungssitzungen für Moderatoren, die individuelles Feedback zu ihren Sitzungsdesigns wünschen."
 
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.buttons.649b9400-bd0b-441e-8ed2-4866bfc84f48.label"
 #~ msgid "Register here"
@@ -306,6 +294,18 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.subheading_link.5cc865b6-7fb6-4069-b47f-22a271ff8289.label"
 #~ msgid "CFP Support"
 #~ msgstr "Hilfe zu Vorschlägen"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.5f3890da-93a1-49ef-abe2-c014a53e81fa.subheading_link.9f41aa2b-32d5-4796-af2f-23b1900c751a.label"
+#~ msgid "CFP Support"
+#~ msgstr "Hilfe zu Vorschlägen"
+
+#~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.description"
+#~ msgid "Working towards Trustworthy AI? Share your work with our global community by submitting a proposal before Nov 14th."
+#~ msgstr "Sie arbeiten an vertrauenswürdiger KI? Teilen Sie Ihre Arbeit mit unserer weltweiten Gemeinschaft, indem Sie vor dem 14. November einen Vorschlag einreichen."
+
+#~ msgctxt "body.485bd442-233d-41eb-a4b0-bb18f14f5f3b.text"
+#~ msgid "<b>The deadline for the MozFest 2022 Call for Proposals has been extended.</b> <a id=\"a1\">Submit your proposal</a> by end of day November 14th."
+#~ msgstr "<b>Die Frist für den Aufruf zu Vorschlägen zum MozFest wurde verlängert.</b> <a id=\"a1\">Senden Sie uns Ihren Vorschlag</a> bis zum Ende des 14. Novembers."
 
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.body"
 #~ msgid "We’ll convene several CFP community calls to help you draft successful session proposals for MozFest 2022. Tuesday, 9 November 2021 - 13:00 UTC"
@@ -321,9 +321,21 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgid "Proposal Support Call"
 #~ msgstr "Anruf zur Unterstützung bei Vorschlägen"
 
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.5f3890da-93a1-49ef-abe2-c014a53e81fa.subheading_link.9f41aa2b-32d5-4796-af2f-23b1900c751a.label"
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.title"
+#~ msgid "1:1 Proposal Coaching"
+#~ msgstr "1:1-Beratung für Vorschläge"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.subheading_link.e1aa2271-7a52-40e5-9d55-fe93f87404e0.label"
 #~ msgid "CFP Support"
 #~ msgstr "Hilfe zu Vorschlägen"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.body"
+#~ msgid "We're offering a limited number of coaching sessions for Facilitators who want individual feedback on their session designs."
+#~ msgstr "Wir bieten eine begrenze Zahl an Beratungssitzungen für Moderatoren, die individuelles Feedback zu ihren Sitzungsdesigns wünschen."
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.title"
+#~ msgid "Here is what's coming up next on the MozFest calendar:"
+#~ msgstr "Folgendes steht als nächstes im MozFest-Kalender an:"
 
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.5f3890da-93a1-49ef-abe2-c014a53e81fa.body"
 #~ msgid "We’ll convene several CFP community calls to help you draft successful session proposals for MozFest 2022.  Tuesday, 9 November 2021 - 18:00 UTC"

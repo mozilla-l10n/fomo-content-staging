@@ -9,3 +9,7 @@ msgstr ""
 msgctxt "name"
 msgid "Sex Toys"
 msgstr "Seksboartersguod"
+
+msgctxt "description"
+msgid "*Privacy Not Included Sex Toys Reviews"
+msgstr "*Privacy net ynbegrepen-beoardielingen fan seksbuortersguod"

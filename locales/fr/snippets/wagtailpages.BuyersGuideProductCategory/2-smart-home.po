@@ -9,3 +9,7 @@ msgstr ""
 msgctxt "name"
 msgid "Smart Home"
 msgstr "Maison intelligente"
+
+msgctxt "description"
+msgid "*Privacy Not Included Smart Home Reviews"
+msgstr "Évaluations Maison intelligente *Confidentialité non incluse"

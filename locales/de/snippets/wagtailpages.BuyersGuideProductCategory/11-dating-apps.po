@@ -9,3 +9,7 @@ msgstr ""
 msgctxt "name"
 msgid "Dating Apps"
 msgstr "Dating-Apps"
+
+msgctxt "description"
+msgid "*Privacy Not Included Dating Apps Reviews"
+msgstr "Bewertungen von Dating-Apps in „*Datenschutz nicht inbegriffen“"
