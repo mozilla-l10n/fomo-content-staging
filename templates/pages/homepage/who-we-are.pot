@@ -10,7 +10,7 @@ msgid "Who we are"
 msgstr ""
 
 msgctxt "intro"
-msgid "The Mozilla Foundation works to ensure the internet remains a public resource that is open and accessible to us all."
+msgid "The Mozilla Foundation works to ensure the Internet remains a public resource that is open and accessible to us all."
 msgstr ""
 
 msgctxt "body.98aa43f3-33e9-4b43-8f97-f7272cf0b311"
