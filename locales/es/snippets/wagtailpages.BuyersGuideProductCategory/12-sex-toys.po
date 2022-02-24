@@ -12,4 +12,4 @@ msgstr "Juguetes sexuales"
 
 msgctxt "description"
 msgid "*Privacy Not Included Sex Toys Reviews"
-msgstr ""
+msgstr "*Privacidad no incluída - Reseñas de juguetes sexuales"

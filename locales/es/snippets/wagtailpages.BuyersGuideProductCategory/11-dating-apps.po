@@ -12,4 +12,4 @@ msgstr "Aplicaciones de citas"
 
 msgctxt "description"
 msgid "*Privacy Not Included Dating Apps Reviews"
-msgstr ""
+msgstr "*Privacidad no incluída - Reseñas de aplicaciones de citas"

@@ -16,7 +16,7 @@ msgid "Who we are"
 msgstr "Qui nous sommes"
 
 msgctxt "intro"
-msgid "The Mozilla Foundation works to ensure the Internet remains a public resource that is open and accessible to us all."
+msgid "The Mozilla Foundation works to ensure the internet remains a public resource that is open and accessible to us all."
 msgstr "La Fondation Mozilla est à pied d’œuvre pour s’assurer qu’Internet demeure un bien commun ouvert et accessible à tout le monde."
 
 msgctxt "body.98aa43f3-33e9-4b43-8f97-f7272cf0b311"
@@ -157,7 +157,3 @@ msgstr "<a id=\"a1\">Travaillons ensemble →</a>"
 msgctxt "body.95559c8c-4598-4727-930d-8648524f17fa.url"
 msgid "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-partners/"
 msgstr "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-partners/"
-
-#~ msgctxt "intro"
-#~ msgid "The Mozilla Foundation works to ensure the internet remains a public resource that is open and accessible to us all."
-#~ msgstr "La Fondation Mozilla est à pied d’œuvre pour s’assurer qu’Internet demeure un bien commun ouvert et accessible à tout le monde."

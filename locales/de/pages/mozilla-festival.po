@@ -21,8 +21,8 @@ msgid "Mozilla Festival"
 msgstr "Mozilla Festival"
 
 msgctxt "cta_button_label"
-msgid "Secure your ticket"
-msgstr "Sicheren Sie sich Ihr Ticket"
+msgid "Build your schedule"
+msgstr "Erstellen Sie Ihren Zeitplan"
 
 msgctxt "banner_heading"
 msgid "Arrive with an idea, leave with a community."
@@ -41,8 +41,8 @@ msgid "Join us online, 7-11 March 2022, to connect with others around the world 
 msgstr "Besuchen Sie uns online vom 7. bis 11. März 2022, um mit anderen auf der ganzen Welt in Kontakt zu treten, die eine einzige Mission haben: ein besseres, gesünderes Internet."
 
 msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
-msgid "Early Bird Tickets Now Available"
-msgstr "Frühbucher-Tickets jetzt erhältlich"
+msgid "Tickets Now Available"
+msgstr "Tickets jetzt erhältlich"
 
 msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.description"
 msgid "Secure your ticket to access hundreds of sessions and interactive exhibits, and connect with our exciting global community."
@@ -68,8 +68,8 @@ msgid "sneak peak icon"
 msgstr "Vorschau-Symbol"
 
 msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
-msgid "<b>Get an insider look at confirmed, interactive sessions on the</b> <a id=\"a1\"><b>MozFest Plaza</b></a>"
-msgstr "<b>Verschaffen Sie sich einen Insider-Einblick in bestätigte, interaktive Sitzungen auf der</b> <a id=\"a1\"><b>MozFest-Plaza</b></a>"
+msgid "Start building your own schedule now on the <a id=\"a1\">MozFest Plaza</a>"
+msgstr "Erstellen Sie jetzt Ihren eigenen Zeitplan auf der <a id=\"a1\">MozFest-Plaza</a>"
 
 msgctxt "body.4ef1c6a8-1f8d-463b-b6e0-d014c2474355.altText"
 msgid "A photograph of a person sitting with their laptop on the stairs of the MozFest House venue, next to them is an orange and pink sign with the MozFest house logo."
@@ -133,41 +133,53 @@ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.title"
 msgid "Here are some ways to get involved with MozFest in the lead up to the festival."
 msgstr "Hier sind einige Möglichkeiten, sich im Vorfeld des Festivals am MozFest zu beteiligen."
 
+msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.title"
+msgid "The Grand MozFest Web Monetization Experiment"
+msgstr "Das große MozFest-Web-Monetisierungsexperiment"
+
+msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.subheading_link.d08c6e9c-98e7-48d0-ba22-86a21decf064.label"
+msgid "February 15th, 2022 16:00 CET (UTC+1)"
+msgstr "15. Februar 2022 16:00 MEZ (UTC+1)"
+
+msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.body"
+msgid "Join us in learning about and discovering how you can participate in the Grand MozFest Web Monetization Experiment at MozFest 2022."
+msgstr "Machen Sie mit und erfahren Sie, wie Sie am großen MozFest-Web-Monetarisierungsexperiment beim MozFest 2022 teilnehmen können."
+
+msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.buttons.c656d9e7-43ec-4d88-aa27-b39d99406c0c.label"
+msgid "Learn more"
+msgstr "Weitere Informationen"
+
 msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.title"
-msgid "Call for Volunteers"
-msgstr "Ruf nach Freiwilligen"
+msgid "How to Create an Interactive MozFest Presentation in Mozilla Hubs"
+msgstr "Erstellen einer interaktiven MozFest-Präsentation in Mozilla Hubs"
 
 msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.subheading_link.d0133b5c-0e7e-40c2-81b9-fe2d34a2d326.label"
-msgid "Volunteer"
-msgstr "Ehrenamtlich mitarbeiten"
+msgid "February 18th, 2022 19:00 CET (UTC+1)"
+msgstr "18. Februar 2022 19:00 MEZ (UTC+1)"
 
 msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.body"
-msgid "MozFest depends on its Volunteers to deliver the best possible experience for all of its Participants. The Call to join this year's cohort of MozFest Virtual Volunteers is now open."
-msgstr ""
-"Das MozFest ist auf seine Freiwilligen angewiesen, um allen Teilnehmern das bestmögliche Erlebnis zu bieten. Der Aufruf, sich der diesjährigen Kohorte der virtuellen MozFest-Freiwilligen "
-"anzuschließen, ist jetzt geöffnet."
+msgid "Join Mozilla Hubs team members for an interactive tutorial session on how to create and setup a space in Mozilla Hubs."
+msgstr "Begleiten Sie die Mitglieder des Mozilla-Hubs-Teams zu einer interaktiven Tutorial-Sitzung zum Erstellen und Einrichten eines Raums in Mozilla Hubs."
 
 msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.buttons.649b9400-bd0b-441e-8ed2-4866bfc84f48.label"
-msgid "Register to Volunteer"
-msgstr "Registrieren Sie sich als Freiwilliger"
+msgid "Learn More"
+msgstr "Weitere Informationen"
 
-msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.title"
-msgid "AI &amp; Democratic Values"
-msgstr "KI &amp; Demokratische Werte"
+msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.title"
+msgid "Kiswahili Common Voice Contribute-a-thon"
+msgstr "Common-Voice-Mitmach-Marathon in Kisuaheli"
 
-msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.subheading_link.5cc865b6-7fb6-4069-b47f-22a271ff8289.label"
-msgid "On-Demand"
-msgstr "Auf Abruf"
+msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.subheading_link.df00eb66-3e07-4b82-84d7-7cfb1b1a6976.label"
+msgid "March 3rd, 2022 09:00 CET (UTC+1)"
+msgstr "3. März 2022 09:00 MEZ (UTC+1)"
 
-msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.body"
-msgid "The White House Office of Science and Technology Policy (OSTP) and Mozilla Foundation co-hosted a discussion about what an automated and democratic society should look like."
-msgstr ""
-"Das White House Office of Science and Technology Policy (OSTP) und die Mozilla Foundation veranstalteten gemeinsam eine Diskussion darüber, wie eine automatisierte und demokratische Gesellschaft "
-"aussehen sollte."
+msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.body"
+msgid "The goal of this contribute-a-thon will be to increase participation for varying dialects and accents of Kiswahili that are typically underrepresented in voice databases."
+msgstr "Das Ziel dieses Mitmach-Marathons wird es sein, die Teilnahme für verschiedene Dialekte und Akzente des Kisuaheli zu erhöhen, die in Sprachdatenbanken typischerweise unterrepräsentiert sind."
 
-msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.buttons.ffaf526c-5071-456a-bd0d-584400724c8d.label"
-msgid "Watch the recording"
-msgstr "Sehen Sie sich die Aufnahme an"
+msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.buttons.40a6fc5f-dce6-4b47-84de-a67c06be8378.label"
+msgid "Learn more"
+msgstr "Weitere Informationen"
 
 msgctxt "body.7e194331-433a-4602-9ebf-70c350ce9ecb.altText"
 msgid "book cover icon"
@@ -229,13 +241,53 @@ msgctxt "body.6e296e18-8b27-4770-a482-3a550ff0bf68.URL"
 msgid "https://www.mozillafestival.org/on-demand/previous-festivals"
 msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 
-#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.altText"
-#~ msgid "schedule icon"
-#~ msgstr "Zeitplansymbol"
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.title"
+#~ msgid "Call for Volunteers"
+#~ msgstr "Ruf nach Freiwilligen"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.subheading_link.d0133b5c-0e7e-40c2-81b9-fe2d34a2d326.label"
+#~ msgid "Volunteer"
+#~ msgstr "Ehrenamtlich mitarbeiten"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.body"
+#~ msgid "MozFest depends on its Volunteers to deliver the best possible experience for all of its Participants. The Call to join this year's cohort of MozFest Virtual Volunteers is now open."
+#~ msgstr ""
+#~ "Das MozFest ist auf seine Freiwilligen angewiesen, um allen Teilnehmern das bestmögliche Erlebnis zu bieten. Der Aufruf, sich der diesjährigen Kohorte der virtuellen MozFest-Freiwilligen "
+#~ "anzuschließen, ist jetzt geöffnet."
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.buttons.649b9400-bd0b-441e-8ed2-4866bfc84f48.label"
+#~ msgid "Register to Volunteer"
+#~ msgstr "Registrieren Sie sich als Freiwilliger"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.title"
+#~ msgid "AI &amp; Democratic Values"
+#~ msgstr "KI &amp; Demokratische Werte"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.body"
+#~ msgid "The White House Office of Science and Technology Policy (OSTP) and Mozilla Foundation co-hosted a discussion about what an automated and democratic society should look like."
+#~ msgstr ""
+#~ "Das White House Office of Science and Technology Policy (OSTP) und die Mozilla Foundation veranstalteten gemeinsam eine Diskussion darüber, wie eine automatisierte und demokratische Gesellschaft "
+#~ "aussehen sollte."
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.buttons.ffaf526c-5071-456a-bd0d-584400724c8d.label"
+#~ msgid "Watch the recording"
+#~ msgstr "Sehen Sie sich die Aufnahme an"
 
 #~ msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
 #~ msgid "Upcoming Events"
 #~ msgstr "Zukünftige Veranstaltungen"
+
+#~ msgctxt "cta_button_label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Sicheren Sie sich Ihr Ticket"
+
+#~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
+#~ msgid "Early Bird Tickets Now Available"
+#~ msgstr "Frühbucher-Tickets jetzt erhältlich"
+
+#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.altText"
+#~ msgid "schedule icon"
+#~ msgstr "Zeitplansymbol"
 
 #~ msgctxt "cta_button_label"
 #~ msgid "Submit a Proposal"
@@ -283,6 +335,14 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgid "Here is what's coming up next on the MozFest calendar:"
 #~ msgstr "Folgendes steht als nächstes im MozFest-Kalender an:"
 
+#~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.description"
+#~ msgid "Working towards Trustworthy AI? Share your work with our global community by submitting a proposal before Nov 14th."
+#~ msgstr "Sie arbeiten an vertrauenswürdiger KI? Teilen Sie Ihre Arbeit mit unserer weltweiten Gemeinschaft, indem Sie vor dem 14. November einen Vorschlag einreichen."
+
+#~ msgctxt "body.485bd442-233d-41eb-a4b0-bb18f14f5f3b.text"
+#~ msgid "<b>The deadline for the MozFest 2022 Call for Proposals has been extended.</b> <a id=\"a1\">Submit your proposal</a> by end of day November 14th."
+#~ msgstr "<b>Die Frist für den Aufruf zu Vorschlägen zum MozFest wurde verlängert.</b> <a id=\"a1\">Senden Sie uns Ihren Vorschlag</a> bis zum Ende des 14. Novembers."
+
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.buttons.649b9400-bd0b-441e-8ed2-4866bfc84f48.label"
 #~ msgid "Register here"
 #~ msgstr "Hier registrieren"
@@ -295,31 +355,11 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgid "CFP Support"
 #~ msgstr "Hilfe zu Vorschlägen"
 
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.5f3890da-93a1-49ef-abe2-c014a53e81fa.subheading_link.9f41aa2b-32d5-4796-af2f-23b1900c751a.label"
-#~ msgid "CFP Support"
-#~ msgstr "Hilfe zu Vorschlägen"
-
-#~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.description"
-#~ msgid "Working towards Trustworthy AI? Share your work with our global community by submitting a proposal before Nov 14th."
-#~ msgstr "Sie arbeiten an vertrauenswürdiger KI? Teilen Sie Ihre Arbeit mit unserer weltweiten Gemeinschaft, indem Sie vor dem 14. November einen Vorschlag einreichen."
-
-#~ msgctxt "body.485bd442-233d-41eb-a4b0-bb18f14f5f3b.text"
-#~ msgid "<b>The deadline for the MozFest 2022 Call for Proposals has been extended.</b> <a id=\"a1\">Submit your proposal</a> by end of day November 14th."
-#~ msgstr "<b>Die Frist für den Aufruf zu Vorschlägen zum MozFest wurde verlängert.</b> <a id=\"a1\">Senden Sie uns Ihren Vorschlag</a> bis zum Ende des 14. Novembers."
-
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.body"
 #~ msgid "We’ll convene several CFP community calls to help you draft successful session proposals for MozFest 2022. Tuesday, 9 November 2021 - 13:00 UTC"
 #~ msgstr ""
 #~ "Wir werden mehrere Gemeinschaftsanrufe zum Thema Einreichung von Vorschlägen einberufen, um Ihnen bei der Ausarbeitung erfolgreicher Sitzungsvorschläge für das MozFest 2022 zu helfen. Dienstag, 9. "
 #~ "November 2021 – 13:00 Uhr UTC"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.buttons.ffaf526c-5071-456a-bd0d-584400724c8d.label"
-#~ msgid "Register here"
-#~ msgstr "Hier registrieren"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.5f3890da-93a1-49ef-abe2-c014a53e81fa.title"
-#~ msgid "Proposal Support Call"
-#~ msgstr "Anruf zur Unterstützung bei Vorschlägen"
 
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.title"
 #~ msgid "1:1 Proposal Coaching"
@@ -336,6 +376,18 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.title"
 #~ msgid "Here is what's coming up next on the MozFest calendar:"
 #~ msgstr "Folgendes steht als nächstes im MozFest-Kalender an:"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.buttons.ffaf526c-5071-456a-bd0d-584400724c8d.label"
+#~ msgid "Register here"
+#~ msgstr "Hier registrieren"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.5f3890da-93a1-49ef-abe2-c014a53e81fa.title"
+#~ msgid "Proposal Support Call"
+#~ msgstr "Anruf zur Unterstützung bei Vorschlägen"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.5f3890da-93a1-49ef-abe2-c014a53e81fa.subheading_link.9f41aa2b-32d5-4796-af2f-23b1900c751a.label"
+#~ msgid "CFP Support"
+#~ msgstr "Hilfe zu Vorschlägen"
 
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.5f3890da-93a1-49ef-abe2-c014a53e81fa.body"
 #~ msgid "We’ll convene several CFP community calls to help you draft successful session proposals for MozFest 2022.  Tuesday, 9 November 2021 - 18:00 UTC"
@@ -358,3 +410,23 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.description"
 #~ msgid "Start planning now. Support session development and build momentum towards the festival."
 #~ msgstr "Beginnen Sie jetzt mit der Planung. Unterstützen Sie die Entwicklung der Sitzungen und bauen Sie eine Dynamik in Richtung des Festivals auf."
+
+#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
+#~ msgid "<b>Get an insider look at confirmed, interactive sessions on the</b> <a id=\"a1\"><b>MozFest Plaza</b></a>"
+#~ msgstr "<b>Verschaffen Sie sich einen Insider-Einblick in bestätigte, interaktive Sitzungen auf der</b> <a id=\"a1\"><b>MozFest-Plaza</b></a>"
+
+#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
+#~ msgid "<b>Get an insider look at confirmed, and build your schedule of interactive sessions on the</b> <a id=\"a1\"><b>MozFest Plaza</b></a>"
+#~ msgstr "<b>Verschaffen Sie sich einen Insider-Einblick in bestätigte, interaktive Sitzungen auf der</b> <a id=\"a1\"><b>MozFest-Plaza</b></a> und erstellen Sie Ihren Terminplan"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.title"
+#~ msgid "Building Trustworthy AI with Tech &amp; Society"
+#~ msgstr "Aufbau einer vertrauenswürdigen KI mit Tech &amp; Gesellschaft"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.subheading_link.5cc865b6-7fb6-4069-b47f-22a271ff8289.label"
+#~ msgid "February 10, 2022 18:30 CET (UTC+1)"
+#~ msgstr "10. Februar 2022 18:30 MEZ (UTC+1)"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.body"
+#~ msgid "Mimi Onuoha and student researchers at Princeton will be presenting the data necessary to create their Ground Truth model."
+#~ msgstr "Mimi Onuoha und studentische Forscher in Princeton werden die Daten präsentieren, die zur Erstellung ihres Ground-Truth-Modells erforderlich sind."

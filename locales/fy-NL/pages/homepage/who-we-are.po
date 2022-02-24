@@ -11,8 +11,8 @@ msgid "Who we are"
 msgstr "Wa't wy binne"
 
 msgctxt "intro"
-msgid "The Mozilla Foundation works to ensure the Internet remains a public resource that is open and accessible to us all."
-msgstr ""
+msgid "The Mozilla Foundation works to ensure the internet remains a public resource that is open and accessible to us all."
+msgstr "De Mozilla Foundation wurket om derfoar te soargjen dat it ynternet in publike helpboarne bliuwt, iepen en tagonklik foar elkenien."
 
 msgctxt "body.98aa43f3-33e9-4b43-8f97-f7272cf0b311"
 msgid "In the early 2000s, the Mozilla community built Firefox. We toppled the browser monopoly, gave users choice and control online, and helped create a healthier internet."
@@ -151,7 +151,3 @@ msgstr "<a id=\"a1\">Litte wy gearwurkje →</a>"
 msgctxt "body.95559c8c-4598-4727-930d-8648524f17fa.url"
 msgid "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-partners/"
 msgstr "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-partners/"
-
-#~ msgctxt "intro"
-#~ msgid "The Mozilla Foundation works to ensure the internet remains a public resource that is open and accessible to us all."
-#~ msgstr "De Mozilla Foundation wurket om derfoar te soargjen dat it ynternet in publike helpboarne bliuwt, iepen en tagonklik foar elkenien."

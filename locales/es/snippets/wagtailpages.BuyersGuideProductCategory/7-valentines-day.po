@@ -12,4 +12,4 @@ msgstr "Día de San Valentín"
 
 msgctxt "description"
 msgid "*Privacy Not Included Valentine's Day: Dating Apps and Sex Toys Reviews"
-msgstr ""
+msgstr "*Privacidad no incluída - Día de San Valentín: Reseñas de aplicaciones de citas y juguetes sexuales"

@@ -163,10 +163,6 @@ msgstr "Google verwendet die Verarbeitung natürlicher Sprache, um Sie zu verste
 #~ "wer sonst würde Pizza Margarita bestellen? Spaß beiseite … das weiß Google wegen der Fußpflegetermine für eine Person, die Sie gebucht haben. Vielleicht ist es ja okay, das Google so viel weiß. "
 #~ "Vielleicht ist es aber auch unheimlich."
 
-#~ msgctxt "ai_helptext"
-#~ msgid "Google publishes academic papers about its AI research (https://ai.google/) and makes several tools available via open source. https://ai.google/tools/"
-#~ msgstr "Google veröffentlicht akademische Paper über seine KI-Forschung (https://ai.google/) und stellt mehrere Tools via Open Source zur Verfügung. https://ai.google/tools/"
-
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid "Google says that your personal data is never sold to third parties."
 #~ msgstr "Google gibt an, Ihre persönlichen Daten nie an Dritte zu verkaufen."
@@ -188,3 +184,7 @@ msgstr "Google verwendet die Verarbeitung natürlicher Sprache, um Sie zu verste
 #~ msgstr ""
 #~ "2018 gab es mehrere Vorfälle, bei denen persönliche Informationen öffentlich wurden als Folge von Zugriff durch Web Developer, Apps oder einem Bug bei Google + API. Google hat außerdem Standortdaten"
 #~ " ohne Erlaubnis gespeichert."
+
+#~ msgctxt "ai_helptext"
+#~ msgid "Google publishes academic papers about its AI research (https://ai.google/) and makes several tools available via open source. https://ai.google/tools/"
+#~ msgstr "Google veröffentlicht akademische Paper über seine KI-Forschung (https://ai.google/) und stellt mehrere Tools via Open Source zur Verfügung. https://ai.google/tools/"

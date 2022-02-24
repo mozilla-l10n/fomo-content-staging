@@ -1,0 +1,39 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-02-24 11:03:46.867274+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "seo_title"
+msgid "Sign the petition and tell Tinder: it’s time for meaningful transparency into your pricing algorithms!"
+msgstr ""
+
+msgctxt "search_description"
+msgid "Tinder is unfairly charging some customers more, based on their personal information."
+msgstr ""
+
+msgctxt "title"
+msgid "Tell Tinder: it’s time for meaningful transparency into your pricing algorithms!"
+msgstr ""
+
+msgctxt "body.007a9ff7-2add-4529-86a4-f734d036bf6d"
+msgid "Dating platform Tinder is unfairly charging some customers more when setting prices – and it is using their personal data to do so."
+msgstr ""
+
+msgctxt "body.007a9ff7-2add-4529-86a4-f734d036bf6d"
+msgid ""
+"Mozilla partnered with Consumers International, a global consumer advocate organization, to study Tinder’s algorithmic pricing model, and we found shocking evidence: Tinder uses sensitive personal "
+"information to charge app users up to 5x the price – for the same service."
+msgstr ""
+
+msgctxt "body.007a9ff7-2add-4529-86a4-f734d036bf6d"
+msgid "Further, users over 30 were likely to pay a whopping 65.3% more than users 18-29 for a 12 month Tinder Plus subscription."
+msgstr ""
+
+msgctxt "body.007a9ff7-2add-4529-86a4-f734d036bf6d"
+msgid ""
+"Even if you don't use Tinder or other dating apps, we need to hold Tinder to account to send a strong message that we won't stand for personal data being used to price-gouge some people. Tinder is "
+"also abusing the trust of its users by using their sensitive data in a way that they didn’t meaningfully consent to in their attempt to find love. Together, we can push Tinder to do the right thing "
+"and give meaningful transparency into its pricing algorithm."
+msgstr ""

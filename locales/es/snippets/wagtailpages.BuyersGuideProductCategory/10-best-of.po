@@ -12,4 +12,4 @@ msgstr "Lo más destacado"
 
 msgctxt "description"
 msgid "*Privacy Not Included Best Of Category"
-msgstr ""
+msgstr "*Privacidad no incluída - Lo mejor de cada categoría"
