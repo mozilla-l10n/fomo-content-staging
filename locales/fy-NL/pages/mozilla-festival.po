@@ -20,40 +20,52 @@ msgid "Mozilla Festival"
 msgstr "Mozilla Festival"
 
 msgctxt "cta_button_label"
-msgid "Build your schedule"
-msgstr "Meitsje jo skema"
+msgid "Build your watch list"
+msgstr ""
 
 msgctxt "banner_heading"
 msgid "Arrive with an idea, leave with a community."
 msgstr "Kom mei in idee, stek ôf mei in mienskip."
 
 msgctxt "banner_cta_label"
-msgid "Watch the video"
-msgstr "De fideo besjen"
+msgid "Watch the MozFest 2022 Wrap-up Video"
+msgstr ""
 
 msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.heading"
-msgid "MozFest Virtual"
-msgstr "MozFest Virtual"
+msgid "MozFest On-Demand"
+msgstr ""
 
 msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
-msgid "Join us online, 7-11 March 2022, to connect with others around the world who have a single mission: a better, healthier internet."
-msgstr "Doch fan 7 oant 11 maart 2022 online mei, om yn kontakt te kommen mei oaren fan oer de hiele wrâld dy't ien missy hawwe: in better, sûner ynternet."
+msgid "Access hundreds of recorded sessions and other content from MozFest 2022 until 25 June with an on-demand ticket."
+msgstr ""
 
 msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
-msgid "Tickets Now Available"
-msgstr "Kaarten no beskikber"
+msgid "Stay Connected"
+msgstr ""
 
 msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.description"
-msgid "Secure your ticket to access hundreds of sessions and interactive exhibits, and connect with our exciting global community."
-msgstr "Stel jo ticket feilich foar tagong ta hûnderten sesjes en ynteraktive tentoanstellingen en meitsje kontakt mei ús opwinende wrâldwide mienskip."
+msgid "Stay up-to-date with MozFest news by signing up for our newsletter, following us on LinkedIn and Twitter, and joining Slack."
+msgstr ""
 
 msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.heading"
-msgid "Building Momentum"
-msgstr "Momentum bouwe"
+msgid "Sustaining Momentum"
+msgstr ""
 
 msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
 msgid "Expand new partnerships and deepen engagement with MozFest Fringe Events. Connect and collaborate early, and often."
 msgstr "Wreidzje nije gearwurkingsferbannen út en ferdjipje jo belutsenens by MozFest Fringe-eveneminten. Meitsje betiid en faak ferbining en wurkje betiid en faak tegearre."
+
+msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
+msgid "Secure Your MozFest Ticket Here"
+msgstr "Stel hjir jo MozFest-ticket feilich"
+
+msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.event"
+msgid "Mozilla/mozilla-festival-2022"
+msgstr "Mozilla/mozilla-festival-2022"
+
+msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.releases"
+msgid "48kaqlsi1x8,mozfest-mega-patron"
+msgstr ""
 
 msgctxt "body.4befc18c-92fe-4b88-af48-a5cdc5add964"
 msgid ""
@@ -67,8 +79,8 @@ msgid "sneak peak icon"
 msgstr "piktogram tipje fan de sluier"
 
 msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
-msgid "Start building your own schedule now on the <a id=\"a1\">MozFest Plaza</a>"
-msgstr "Begjin no mei it bouwen fan jo eigen skema op it <a id=\"a1\">MozFest Plaza</a>"
+msgid "Start building your own watch list now on the <a id=\"a1\">MozFest Plaza</a>"
+msgstr ""
 
 msgctxt "body.4ef1c6a8-1f8d-463b-b6e0-d014c2474355.altText"
 msgid "A photograph of a person sitting with their laptop on the stairs of the MozFest House venue, next to them is an orange and pink sign with the MozFest house logo."
@@ -117,68 +129,60 @@ msgstr ""
 "online giet, bliuwe wy fokust op ús wurk om in sûner ynternet en mear betroubere AI te bouwen."
 
 msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
-msgid "Building Momentum"
-msgstr "Momentum bouwe"
-
-msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
-msgid ""
-"We invite you to join us to start planning now. Connect earlier, seek out threads across each other's work, support session development and design, all to build momentum and participation towards "
-"the festival."
+msgid "Catch up with MozFest On-Demand!"
 msgstr ""
-"Wy nûgje jo út tegearre mei ús te begjinnen mei plannen. Lis earder kontakt, sykje nei oerienkomsten yn inoars wurk, stypje de ûntwikkeling en it ûntwerp fan sesjes, allegearre om momentum en "
-"dielnimming oan it festival op te bouwen."
 
 msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.title"
-msgid "Here are some ways to get involved with MozFest in the lead up to the festival."
-msgstr "Hjir binne yn de rin nei it festival wat manieren om belutsen te reitsjen by MozFest."
+msgid "Join the internet health community for these exciting sessions and events that explore what it takes to build a better web."
+msgstr "Doch mei oan de ynternetsûnensmienskip foar dizze spannende sesjes en eveneminten dy't ûndersykje wat der nedich is om in better web te bouwen."
 
 msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.title"
-msgid "The Grand MozFest Web Monetization Experiment"
-msgstr "The Grand MozFest Web Monetization Experiment"
+msgid "Opening Circle"
+msgstr "Iepeningssirkel"
 
 msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.subheading_link.d08c6e9c-98e7-48d0-ba22-86a21decf064.label"
-msgid "February 15th, 2022 16:00 CET (UTC+1)"
-msgstr "15 febrewaris 2022 16:00 CET (UTC+1)"
+msgid "Community Plenary"
+msgstr ""
 
 msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.body"
-msgid "Join us in learning about and discovering how you can participate in the Grand MozFest Web Monetization Experiment at MozFest 2022."
-msgstr "Doch mei ús mei en lear oer en ûntdek hoe’t jo dielnimme kinne oan it Grand MozFest Web Monetization Experiment op MozFest 2022."
+msgid "Rewatch the opening of our 5 day festival with Mozilla, hear from the community on why MozFest is so important as a place to connect and collaborate."
+msgstr ""
 
 msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.buttons.c656d9e7-43ec-4d88-aa27-b39d99406c0c.label"
-msgid "Learn more"
-msgstr "Mear ynfo"
+msgid "Watch On-Demand"
+msgstr ""
 
 msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.title"
-msgid "How to Create an Interactive MozFest Presentation in Mozilla Hubs"
-msgstr "In ynteraktive MozFest-presintaasje meitsje yn Mozilla Hubs"
+msgid "AI Reckoning"
+msgstr "AI-ôfrekkening"
 
 msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.subheading_link.d0133b5c-0e7e-40c2-81b9-fe2d34a2d326.label"
-msgid "February 18th, 2022 19:00 CET (UTC+1)"
-msgstr "18 febrewaris 2022 19:00 CET (UTC+1)"
+msgid "Community Plenary"
+msgstr ""
 
 msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.body"
-msgid "Join Mozilla Hubs team members for an interactive tutorial session on how to create and setup a space in Mozilla Hubs."
-msgstr "Slút jo oan by Mozilla Hubs-teamleden foar in ynteraktive selsstudiesesje oer it meitsjen en ynstellen fan in romte yn Mozilla Hubs."
+msgid "How do we refocus and realign AI as a mechanism for systems thinking and manifestation – revealing the correlation and connectedness of all things."
+msgstr "Hoe kinne wy AI opnij oriïntearje en opnij ôfstimme as in meganisme foar systeemtinken en -manifestaasje – en de korrelaasje en ferbining fan alle dingen toane."
 
 msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.buttons.649b9400-bd0b-441e-8ed2-4866bfc84f48.label"
-msgid "Learn More"
-msgstr "Mear ynfo"
+msgid "Watch On-Demand"
+msgstr ""
 
 msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.title"
-msgid "Kiswahili Common Voice Contribute-a-thon"
-msgstr "Kiswahili Common Voice Contribute-a-thon"
+msgid "Building Ancestral AI"
+msgstr "Foarâlderlike AI bouwe"
 
 msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.subheading_link.df00eb66-3e07-4b82-84d7-7cfb1b1a6976.label"
-msgid "March 3rd, 2022 09:00 CET (UTC+1)"
-msgstr "3 maart 2022 09:00 CET (UTC+1)"
+msgid "Community Plenary"
+msgstr ""
 
 msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.body"
-msgid "The goal of this contribute-a-thon will be to increase participation for varying dialects and accents of Kiswahili that are typically underrepresented in voice databases."
-msgstr "It doel fan dizze contribute-a-thon is om de dielnimming te fergrutsjen foar ferskate dialekten en aksinten fan it Kiswahili, dy’t trochgeans ûnderfertsjintwurdige binne yn spraakdatabases."
+msgid "If we lay down the burden of a future-only presumption of what technology is and can be, are we more likely to center people and the environment?"
+msgstr "As wy de lêst fan in takomstrjochte ferûnderstelling fan wat technology is en wêze kin dellizze, hawwe wy dan mear kâns om minske en miljeu sintraal te stellen?"
 
 msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.buttons.40a6fc5f-dce6-4b47-84de-a67c06be8378.label"
-msgid "Learn more"
-msgstr "Mear ynfo"
+msgid "Watch On-Demand"
+msgstr ""
 
 msgctxt "body.7e194331-433a-4602-9ebf-70c350ce9ecb.altText"
 msgid "book cover icon"
@@ -224,6 +228,54 @@ msgstr ""
 "Topstjerren, grassroots-aktivisten, kreative technologen en ynteressearre konsuminten fan oer de hiele wrâld komme tegearre om harren fragen, ynsichten, refleksjes en ideeën te dielen op MozFest. De"
 " resultearjende ynhâld fan dizze gearwurkingen is te moai om net it hiele jier troch op oanfraach te dielen."
 
+msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.2640bdbe-433d-4a0f-add5-5b68f98aa85d.alt_text"
+msgid "Nighat Dad"
+msgstr "Nighat Dad"
+
+msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.2640bdbe-433d-4a0f-add5-5b68f98aa85d.caption"
+msgid "Nighat Dad"
+msgstr "Nighat Dad"
+
+msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.2640bdbe-433d-4a0f-add5-5b68f98aa85d.url"
+msgid "https://www.mozillafestival.org/on-demand/previous-festivals"
+msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
+
+msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.5f7692cf-6d0d-43de-b993-759ac762f0fd.alt_text"
+msgid "Mutale Nkonde"
+msgstr "Mutale Nkonde"
+
+msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.5f7692cf-6d0d-43de-b993-759ac762f0fd.caption"
+msgid "Mutale Nkonde"
+msgstr "Mutale Nkonde"
+
+msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.5f7692cf-6d0d-43de-b993-759ac762f0fd.url"
+msgid "https://www.mozillafestival.org/on-demand/previous-festivals"
+msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
+
+msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.34d6b491-3634-4860-8c73-625492e50ec6.alt_text"
+msgid "Nanjira Sambuli"
+msgstr "Nanjira Sambuli"
+
+msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.34d6b491-3634-4860-8c73-625492e50ec6.caption"
+msgid "Nanjira Sambuli"
+msgstr "Nanjira Sambuli"
+
+msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.34d6b491-3634-4860-8c73-625492e50ec6.url"
+msgid "https://www.mozillafestival.org/on-demand/previous-festivals"
+msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
+
+msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.c0607c8b-da76-4d23-975b-4aa4e6fb92d5.alt_text"
+msgid "Tim Berners-Lee"
+msgstr "Tim Berners-Lee"
+
+msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.c0607c8b-da76-4d23-975b-4aa4e6fb92d5.caption"
+msgid "Tim Berners-Lee"
+msgstr "Tim Berners-Lee"
+
+msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.c0607c8b-da76-4d23-975b-4aa4e6fb92d5.url"
+msgid "https://www.mozillafestival.org/on-demand/previous-festivals"
+msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
+
 msgctxt "body.53cfd0a5-5d7f-46a3-8fb1-619089662b65.label"
 msgid "Visit MozFest On-Demand"
 msgstr "Besykje MozFest On-Demand"
@@ -247,6 +299,10 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgctxt "cta_button_label"
 #~ msgid "Secure your ticket"
 #~ msgstr "Stel jo ticket feilich"
+
+#~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.heading"
+#~ msgid "MozFest Virtual"
+#~ msgstr "MozFest Virtual"
 
 #~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.heading"
 #~ msgid "Call for Proposals"
@@ -298,6 +354,18 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ "Doch mei yn maart foar workshops, diskusjes, it dielen fan feardichheden, keunstynstallaasjes, meisleepjende ûnderfiningen, games en it opnij kontakt lizze mei âlde en nije freonen. <a id=\"a1\">Lês"
 #~ " de oankundiging.</a>"
 
+#~ msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
+#~ msgid ""
+#~ "We invite you to join us to start planning now. Connect earlier, seek out threads across each other's work, support session development and design, all to build momentum and participation towards "
+#~ "the festival."
+#~ msgstr ""
+#~ "Wy nûgje jo út tegearre mei ús te begjinnen mei plannen. Lis earder kontakt, sykje nei oerienkomsten yn inoars wurk, stypje de ûntwikkeling en it ûntwerp fan sesjes, allegearre om momentum en "
+#~ "dielnimming oan it festival op te bouwen."
+
+#~ msgctxt "banner_cta_label"
+#~ msgid "Watch the video"
+#~ msgstr "De fideo besjen"
+
 #~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.description"
 #~ msgid "Working towards Trustworthy AI? Share your work with our global community by submitting a proposal before Nov 14th."
 #~ msgstr "Wurkje oan betroubere AI? Diel jo wurk mei ús wrâldwide mienskip troch uterlik 14 novimber in foarstel yn te tsjinjen."
@@ -310,9 +378,21 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgid "Become a Festival Insider"
 #~ msgstr "Wurd in festivalinsider"
 
+#~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.heading"
+#~ msgid "Building Momentum"
+#~ msgstr "Momentum bouwe"
+
 #~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.description"
 #~ msgid "Start planning now. Support session development and build momentum towards the festival."
 #~ msgstr "Begjin no mei plannen. Stypje ûntwikkeling fan sesjes en bou momentum op rjochting it festival."
+
+#~ msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
+#~ msgid "Building Momentum"
+#~ msgstr "Momentum bouwe"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.title"
+#~ msgid "Here are some ways to get involved with MozFest in the lead up to the festival."
+#~ msgstr "Hjir binne yn de rin nei it festival wat manieren om belutsen te reitsjen by MozFest."
 
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.title"
 #~ msgid "Call for Volunteers"
@@ -401,14 +481,114 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgid "Watch the recording"
 #~ msgstr "Opnamen besjen"
 
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.subheading_link.d08c6e9c-98e7-48d0-ba22-86a21decf064.label"
+#~ msgid "February 15th, 2022 16:00 CET (UTC+1)"
+#~ msgstr "15 febrewaris 2022 16:00 CET (UTC+1)"
+
 #~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
 #~ msgid "Early Bird Tickets Now Available"
 #~ msgstr "Tickets foar betide fûgels binne no beskikber"
+
+#~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.description"
+#~ msgid "Secure your ticket to access hundreds of sessions and interactive exhibits, and connect with our exciting global community."
+#~ msgstr "Stel jo ticket feilich foar tagong ta hûnderten sesjes en ynteraktive tentoanstellingen en meitsje kontakt mei ús opwinende wrâldwide mienskip."
 
 #~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
 #~ msgid "<b>Get an insider look at confirmed, interactive sessions on the</b> <a id=\"a1\"><b>MozFest Plaza</b></a>"
 #~ msgstr "<b>Krij ynsjoch op befêstige, ynteraktive sesjes op it</b> <a id=\"a1\"><b>MozFest Plaza</b></a>"
 
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.title"
+#~ msgid "The Grand MozFest Web Monetization Experiment"
+#~ msgstr "The Grand MozFest Web Monetization Experiment"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.body"
+#~ msgid "Join us in learning about and discovering how you can participate in the Grand MozFest Web Monetization Experiment at MozFest 2022."
+#~ msgstr "Doch mei ús mei en lear oer en ûntdek hoe’t jo dielnimme kinne oan it Grand MozFest Web Monetization Experiment op MozFest 2022."
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.buttons.c656d9e7-43ec-4d88-aa27-b39d99406c0c.label"
+#~ msgid "Learn more"
+#~ msgstr "Mear ynfo"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.title"
+#~ msgid "How to Create an Interactive MozFest Presentation in Mozilla Hubs"
+#~ msgstr "In ynteraktive MozFest-presintaasje meitsje yn Mozilla Hubs"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.subheading_link.d0133b5c-0e7e-40c2-81b9-fe2d34a2d326.label"
+#~ msgid "February 18th, 2022 19:00 CET (UTC+1)"
+#~ msgstr "18 febrewaris 2022 19:00 CET (UTC+1)"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.body"
+#~ msgid "Join Mozilla Hubs team members for an interactive tutorial session on how to create and setup a space in Mozilla Hubs."
+#~ msgstr "Slút jo oan by Mozilla Hubs-teamleden foar in ynteraktive selsstudiesesje oer it meitsjen en ynstellen fan in romte yn Mozilla Hubs."
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.buttons.649b9400-bd0b-441e-8ed2-4866bfc84f48.label"
+#~ msgid "Learn More"
+#~ msgstr "Mear ynfo"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.title"
+#~ msgid "Kiswahili Common Voice Contribute-a-thon"
+#~ msgstr "Kiswahili Common Voice Contribute-a-thon"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.subheading_link.df00eb66-3e07-4b82-84d7-7cfb1b1a6976.label"
+#~ msgid "March 3rd, 2022 09:00 CET (UTC+1)"
+#~ msgstr "3 maart 2022 09:00 CET (UTC+1)"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.body"
+#~ msgid "The goal of this contribute-a-thon will be to increase participation for varying dialects and accents of Kiswahili that are typically underrepresented in voice databases."
+#~ msgstr "It doel fan dizze contribute-a-thon is om de dielnimming te fergrutsjen foar ferskate dialekten en aksinten fan it Kiswahili, dy’t trochgeans ûnderfertsjintwurdige binne yn spraakdatabases."
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.buttons.40a6fc5f-dce6-4b47-84de-a67c06be8378.label"
+#~ msgid "Learn more"
+#~ msgstr "Mear ynfo"
+
+#~ msgctxt "cta_button_label"
+#~ msgid "Build your schedule"
+#~ msgstr "Meitsje jo skema"
+
+#~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
+#~ msgid "Join us online, 7-11 March 2022, to connect with others around the world who have a single mission: a better, healthier internet."
+#~ msgstr "Doch fan 7 oant 11 maart 2022 online mei, om yn kontakt te kommen mei oaren fan oer de hiele wrâld dy't ien missy hawwe: in better, sûner ynternet."
+
+#~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.heading"
+#~ msgid "Building Momentum"
+#~ msgstr "Momentum bouwe"
+
 #~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
 #~ msgid "Start planning now. Support session development and build momentum towards the festival."
 #~ msgstr "Begjin no mei plannen. Stypje ûntwikkeling fan sesjes en bou momentum op rjochting it festival."
+
+#~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
+#~ msgid "Tickets Now Available"
+#~ msgstr "Kaarten no beskikber"
+
+#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
+#~ msgid "Start building your own schedule now on the <a id=\"a1\">MozFest Plaza</a>"
+#~ msgstr "Begjin no mei it bouwen fan jo eigen skema op it <a id=\"a1\">MozFest Plaza</a>"
+
+#~ msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.releases"
+#~ msgid "rmddu9xc1hs,mozfest-mega-patron"
+#~ msgstr "rmddu9xc1hs,mozfest-mega-patron"
+
+#~ msgctxt "banner_cta_label"
+#~ msgid "Watch the live stream"
+#~ msgstr "De livestream besjen"
+
+#~ msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
+#~ msgid "MozFest is happening now!"
+#~ msgstr "MozFest bart no!"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.subheading_link.d08c6e9c-98e7-48d0-ba22-86a21decf064.label"
+#~ msgid "March 7th, 2022 17:30 CET (UTC+1)"
+#~ msgstr "7 maart 2022 17:30 CET (UTC+1)"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.body"
+#~ msgid "Join us as we open our 5 day festival with Mozilla, hear from the community on why MozFest is so important as a place to connect and collaborate."
+#~ msgstr "Doch mei wylst wy ús 5-daagse festival iepenje mei Mozilla, hear fan de mienskip wêrom MozFest sa wichtich is as in plak om kontakt te meitsjen en gear te wurkjen."
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.subheading_link.d0133b5c-0e7e-40c2-81b9-fe2d34a2d326.label"
+#~ msgid "March 7th, 2022 19:00 CET (UTC+1)"
+#~ msgstr "7 maart 2022 19:00 CET (UTC+1)"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.subheading_link.df00eb66-3e07-4b82-84d7-7cfb1b1a6976.label"
+#~ msgid "March 8th, 2022 17:30 CET (UTC+1)"
+#~ msgstr "8 maart 2022 17:30 CET (UTC+1)"

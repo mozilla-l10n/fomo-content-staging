@@ -5,6 +5,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 
+msgctxt "seo_title"
+msgid "Exporting Disinformation: How Foreign Groups Peddle Influence in Kenya through Twitter"
+msgstr ""
+
 msgctxt "search_description"
 msgid "New research by Mozilla's Odanga Madung reveals how platforms like Twitter can be weaponized by bad actors — sometimes continents away — to manipulate a country’s public discourse."
 msgstr ""
@@ -83,6 +87,10 @@ msgctxt "body.57fe0f5f-d03a-4f44-a643-68e75ce09dc7"
 msgid ""
 "While these particular Twitter campaigns have previously gone unreported on, the broader phenomenon is not new. Kenya is not the only place Twitter’s trending algorithm has allowed for manipulation "
 "by external entities. In the case of South Africa, the UK-based public relations company <a id=\"a1\">Bell Pottinger ran a covert campaign</a> aimed at sewing seeds of racial tension."
+msgstr ""
+
+msgctxt "body.57fe0f5f-d03a-4f44-a643-68e75ce09dc7"
+msgid "CitizenGO was contacted multiple times prior to publishing this report but offered no response."
 msgstr ""
 
 msgctxt "body.6c55a429-89e6-418d-a01b-1fe3993bbb48.quote"
@@ -321,6 +329,22 @@ msgid ""
 msgstr ""
 
 msgctxt "body.bb76ae49-3eaf-437c-a530-a23dbfdff0d0"
+msgid "Children of surrogacy are more likely to <a id=\"a1\">display behavioral and emotional </a>problems;"
+msgstr ""
+
+msgctxt "body.bb76ae49-3eaf-437c-a530-a23dbfdff0d0"
+msgid "The surrogacy bill explored the \"<a id=\"a1\">experimentation of laboratory baby production</a>;"
+msgstr ""
+
+msgctxt "body.bb76ae49-3eaf-437c-a530-a23dbfdff0d0"
+msgid "Surrogate births are more likely to lead to preterm birth, stillbirth, low birth weight, fetal anomalies and high blood pressure; and"
+msgstr ""
+
+msgctxt "body.bb76ae49-3eaf-437c-a530-a23dbfdff0d0"
+msgid "The practice of surrogacy is the <a id=\"a1\">equivalent of buying and selling of children</a>;"
+msgstr ""
+
+msgctxt "body.bb76ae49-3eaf-437c-a530-a23dbfdff0d0"
 msgid ""
 "We ran all these claims by medical and public health experts at the <a id=\"a1\">Africa Population and Health Research Center (APHRC)</a>, and they confirmed to us that all of them are false. "
 "Kenneth Juma, an APHRC researcher, said: “These claims, especially around the Surrogacy Bill 2019, are FALSE and lack any scientific backing. Most of these misleading statements prey on the lack of "
@@ -396,6 +420,10 @@ msgctxt "body.3afee9a3-15a5-47e5-8f39-c2f9eabb094a"
 msgid ""
 "However, Twitter did not respond to questions about what partnerships they may have with civil society organizations and public health institutions in Kenya. They also didn’t respond to questions "
 "about whether their current public health policy is equipped to handle such problems."
+msgstr ""
+
+msgctxt "body.3afee9a3-15a5-47e5-8f39-c2f9eabb094a"
+msgid "We also tried reaching CitizenGO multiple times to give them a chance to respond to our findings but they did not reply by the time of publishing this report."
 msgstr ""
 
 msgctxt "body.3afee9a3-15a5-47e5-8f39-c2f9eabb094a"
