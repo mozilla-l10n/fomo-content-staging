@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "About MozFest"
-msgstr ""
+msgstr "Acerca de MozFest"
 
 msgctxt "header"
 msgid "Uniquely MozFest"

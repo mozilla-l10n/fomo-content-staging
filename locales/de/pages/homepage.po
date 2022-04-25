@@ -19,12 +19,12 @@ msgid "Homepage"
 msgstr "Startseite"
 
 msgctxt "hero_headline"
-msgid "Attend MozFest 2022, March 7-11"
-msgstr "Besuchen Sie das MozFest 2022 vom 7. bis 11. März"
+msgid "Access Denied! This Doesn’t Sound Like You"
+msgstr "Zugriff verweigert! Das klingt nicht nach Ihnen"
 
 msgctxt "hero_button_text"
-msgid "Browse the schedule"
-msgstr "Lesen Sie den Zeitplan"
+msgid "Read More"
+msgstr "Weitere Informationen"
 
 msgctxt "spotlight_headline"
 msgid "What To Know About Venmo"
@@ -128,13 +128,13 @@ msgstr "Logo von Consumers International"
 #~ msgid "Find out"
 #~ msgstr "Finden Sie es heraus"
 
-#~ msgctxt "hero_headline"
-#~ msgid "Submit an idea for MozFest 2022!"
-#~ msgstr "Reichen Sie eine Idee für das MozFest 2022 ein!"
-
 #~ msgctxt "hero_button_text"
 #~ msgid "Find out more"
 #~ msgstr "Weitere Informationen"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Submit an idea for MozFest 2022!"
+#~ msgstr "Reichen Sie eine Idee für das MozFest 2022 ein!"
 
 #~ msgctxt "hero_headline"
 #~ msgid "How to curb election disinformation on social media"
@@ -155,3 +155,19 @@ msgstr "Logo von Consumers International"
 #~ msgctxt "hero_button_text"
 #~ msgid "Join our campaign"
 #~ msgstr "Machen Sie mit bei unserer Kampagne"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Attend MozFest 2022, March 7-11"
+#~ msgstr "Besuchen Sie das MozFest 2022 vom 7. bis 11. März"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Browse the schedule"
+#~ msgstr "Lesen Sie den Zeitplan"
+
+#~ msgctxt "hero_headline"
+#~ msgid "The Mozilla Festival 2022 Experience"
+#~ msgstr "Das-Mozilla-Festival-2022-Erlebnis"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "See The Final Day Here"
+#~ msgstr "Sehen Sie sich hier den letzten Tag an"

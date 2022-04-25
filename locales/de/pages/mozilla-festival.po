@@ -56,6 +56,18 @@ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
 msgid "Expand new partnerships and deepen engagement with MozFest Fringe Events. Connect and collaborate early, and often."
 msgstr "Erweitern Sie neue Partnerschaften und vertiefen Sie das Engagement mit MozFest-Fringe-Events. Vernetzen Sie sich und arbeiten Sie frühzeitig und oft zusammen."
 
+msgctxt "body.4b85120f-7ba6-4074-ab58-518c8b891517.altText"
+msgid "We're nominated for a Webby - Vote for us"
+msgstr "Wir sind für einen Webby nominiert – geben Sie uns Ihre Stimme"
+
+msgctxt "body.3d2b6d17-80b8-4fdd-8af2-82d1de15f706.label"
+msgid "Vote here"
+msgstr "Hier abstimmen"
+
+msgctxt "body.3d2b6d17-80b8-4fdd-8af2-82d1de15f706.URL"
+msgid "https://vote.webbyawards.com/PublicVoting#/2022/virtual-remote/features/best-festival-or-conference"
+msgstr "https://vote.webbyawards.com/PublicVoting#/2022/virtual-remote/features/best-festival-or-conference"
+
 msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
 msgid "Secure Your MozFest Ticket Here"
 msgstr "Sichern Sie sich hier Ihr MozFest-Ticket"
@@ -130,13 +142,65 @@ msgstr ""
 "Jahr online geht, werden wir uns weiterhin auf unsere Arbeit konzentrieren, um ein gesünderes Internet und eine vertrauenswürdigere KI aufzubauen."
 
 msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
-msgid "Catch up with MozFest On-Demand!"
-msgstr "Mit MozFest auf Abruf können Sie nachholen, was Sie verpasst haben!"
-
-msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.title"
 msgid "Join the internet health community for these exciting sessions and events that explore what it takes to build a better web."
 msgstr ""
 "Werden Sie Teil der Gemeinschaft für Internetgesundheit, indem Sie spannende Veranstaltungen und Veranstaltungen besuchen, wo erforscht wird, was nötig ist, um ein besseres Internet zu schaffen."
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.title"
+msgid "Sustaining Momentum with MozFest Fringe Events"
+msgstr "Mit MozFest-Fringe-Events die Dynamik aufrechterhalten"
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.title"
+msgid "Ethical Dilemma Cafe, Manchester"
+msgstr "Ethical Dilemma Cafe, Manchester"
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.subheading_link.968ba3c3-9870-4c9e-becb-31aa775e4445.label"
+msgid "April 26-27, 2022"
+msgstr "26.-27. April 2022"
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.body"
+msgid "Explore and understand the power of your data and algorithms, and how they shape our world today. This is an in-person event."
+msgstr "Entdecken und verstehen Sie die Macht Ihrer Daten und Algorithmen und wie sie unsere heutige Welt prägen. Dies ist eine Präsenzveranstaltung."
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.buttons.05267cae-c796-4d3f-b8e6-6895706f3729.label"
+msgid "Register for Tickets"
+msgstr "Für Tickets registrieren"
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.76efa64e-673f-40b7-9b98-1ddf5e28cd63.title"
+msgid "Building Speech Recognition Models"
+msgstr "Entwickeln von Spracherkennungsmodellen"
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.76efa64e-673f-40b7-9b98-1ddf5e28cd63.subheading_link.729cc9ca-3d67-4253-8dce-cfa64d8373fd.label"
+msgid "May 10, 2022 at 18:00 CET"
+msgstr "10. Mai 2022 um 18:00 Uhr MEZ"
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.76efa64e-673f-40b7-9b98-1ddf5e28cd63.body"
+msgid "Learn how to use NVIDIA's open source AI toolkit NeMo to fine-tune a speech recognition model using data from Mozilla Common Voice."
+msgstr "Erfahren Sie, wie Sie das Open-Source-KI-Toolkit NeMo von NVIDIA verwenden können, um ein Spracherkennungsmodell mithilfe von Daten aus Mozilla Common Voice zu optimieren."
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.76efa64e-673f-40b7-9b98-1ddf5e28cd63.buttons.558ff513-053f-4109-bc93-4b386f2e93f6.label"
+msgid "Learn more"
+msgstr "Weitere Informationen"
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.b0f30d0a-316a-493b-978e-e52e6f83f937.title"
+msgid "Common Voice Model Competitions"
+msgstr "Common-Voice-Modellwettbewerbe"
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.b0f30d0a-316a-493b-978e-e52e6f83f937.subheading_link.5b3d8f48-0741-4d48-9028-bf5b4d4e5d94.label"
+msgid "May 17, 2022 at 18:00 CET"
+msgstr "17. Mai 2022 um 18:00 Uhr MEZ"
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.b0f30d0a-316a-493b-978e-e52e6f83f937.body"
+msgid "A series of lightning talks from leaders in the space on the competition themes and demos of resources to participate."
+msgstr "Eine Reihe von Blitzvorträgen von Führungskräften in der Branche zu den Wettbewerbsthemen und Demos von Ressourcen zum Mitmachen."
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.b0f30d0a-316a-493b-978e-e52e6f83f937.buttons.9c62ef5e-f554-41aa-8e14-22ab378b5d21.label"
+msgid "Learn more"
+msgstr "Weitere Informationen"
+
+msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.title"
+msgid "Catch up with MozFest On-Demand!"
+msgstr "Mit MozFest auf Abruf können Sie nachholen, was Sie verpasst haben!"
 
 msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.title"
 msgid "Opening Circle"
@@ -327,10 +391,6 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgid "Watch the recording"
 #~ msgstr "Sehen Sie sich die Aufnahme an"
 
-#~ msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
-#~ msgid "Upcoming Events"
-#~ msgstr "Zukünftige Veranstaltungen"
-
 #~ msgctxt "cta_button_label"
 #~ msgid "Secure your ticket"
 #~ msgstr "Sicheren Sie sich Ihr Ticket"
@@ -338,10 +398,6 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
 #~ msgid "Early Bird Tickets Now Available"
 #~ msgstr "Frühbucher-Tickets jetzt erhältlich"
-
-#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.altText"
-#~ msgid "schedule icon"
-#~ msgstr "Zeitplansymbol"
 
 #~ msgctxt "cta_button_label"
 #~ msgid "Submit a Proposal"
@@ -389,6 +445,14 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ "Besuchen Sie uns im März zu Workshops, Diskussionen, Austausch von Fähigkeiten, Kunstinstallationen, immersiven Erfahrungen, Spielen und Wiedersehen mit alten und neuen Freunden. <a id=\"a1\">Lesen "
 #~ "Sie die Ankündigung.</a>"
 
+#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.altText"
+#~ msgid "schedule icon"
+#~ msgstr "Zeitplansymbol"
+
+#~ msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
+#~ msgid "Upcoming Events"
+#~ msgstr "Zukünftige Veranstaltungen"
+
 #~ msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
 #~ msgid ""
 #~ "We invite you to join us to start planning now. Connect earlier, seek out threads across each other's work, support session development and design, all to build momentum and participation towards "
@@ -413,6 +477,22 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgid "<b>The deadline for the MozFest 2022 Call for Proposals has been extended.</b> <a id=\"a1\">Submit your proposal</a> by end of day November 14th."
 #~ msgstr "<b>Die Frist für den Aufruf zu Vorschlägen zum MozFest wurde verlängert.</b> <a id=\"a1\">Senden Sie uns Ihren Vorschlag</a> bis zum Ende des 14. Novembers."
 
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.title"
+#~ msgid "1:1 Proposal Coaching"
+#~ msgstr "1:1-Beratung für Vorschläge"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.title"
+#~ msgid "Here is what's coming up next on the MozFest calendar:"
+#~ msgstr "Folgendes steht als nächstes im MozFest-Kalender an:"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.subheading_link.e1aa2271-7a52-40e5-9d55-fe93f87404e0.label"
+#~ msgid "CFP Support"
+#~ msgstr "Hilfe zu Vorschlägen"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.body"
+#~ msgid "We're offering a limited number of coaching sessions for Facilitators who want individual feedback on their session designs."
+#~ msgstr "Wir bieten eine begrenze Zahl an Beratungssitzungen für Moderatoren, die individuelles Feedback zu ihren Sitzungsdesigns wünschen."
+
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.buttons.649b9400-bd0b-441e-8ed2-4866bfc84f48.label"
 #~ msgid "Register here"
 #~ msgstr "Hier registrieren"
@@ -430,22 +510,6 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgstr ""
 #~ "Wir werden mehrere Gemeinschaftsanrufe zum Thema Einreichung von Vorschlägen einberufen, um Ihnen bei der Ausarbeitung erfolgreicher Sitzungsvorschläge für das MozFest 2022 zu helfen. Dienstag, 9. "
 #~ "November 2021 – 13:00 Uhr UTC"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.title"
-#~ msgid "1:1 Proposal Coaching"
-#~ msgstr "1:1-Beratung für Vorschläge"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.subheading_link.e1aa2271-7a52-40e5-9d55-fe93f87404e0.label"
-#~ msgid "CFP Support"
-#~ msgstr "Hilfe zu Vorschlägen"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.body"
-#~ msgid "We're offering a limited number of coaching sessions for Facilitators who want individual feedback on their session designs."
-#~ msgstr "Wir bieten eine begrenze Zahl an Beratungssitzungen für Moderatoren, die individuelles Feedback zu ihren Sitzungsdesigns wünschen."
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.title"
-#~ msgid "Here is what's coming up next on the MozFest calendar:"
-#~ msgstr "Folgendes steht als nächstes im MozFest-Kalender an:"
 
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.buttons.ffaf526c-5071-456a-bd0d-584400724c8d.label"
 #~ msgid "Register here"
@@ -493,14 +557,6 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgid "Here are some ways to get involved with MozFest in the lead up to the festival."
 #~ msgstr "Hier sind einige Möglichkeiten, sich im Vorfeld des Festivals am MozFest zu beteiligen."
 
-#~ msgctxt "banner_cta_label"
-#~ msgid "Watch the live stream"
-#~ msgstr "Sehen Sie sich den Livestream an"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.subheading_link.d08c6e9c-98e7-48d0-ba22-86a21decf064.label"
-#~ msgid "March 7th, 2022 17:30 CET (UTC+1)"
-#~ msgstr "7. März 2022, 17:30 MEZ (UTC+1)"
-
 #~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.description"
 #~ msgid "Secure your ticket to access hundreds of sessions and interactive exhibits, and connect with our exciting global community."
 #~ msgstr "Sichern Sie sich Ihr Ticket, um Zugang zu Hunderten von Sitzungen und interaktiven Ausstellungen zu erlangen, und treten Sie mit unserer aufregenden globalen Gemeinschaft in Kontakt."
@@ -520,6 +576,14 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
 #~ msgid "Start building your own schedule now on the <a id=\"a1\">MozFest Plaza</a>"
 #~ msgstr "Erstellen Sie jetzt Ihren eigenen Zeitplan auf der <a id=\"a1\">MozFest-Plaza</a>"
+
+#~ msgctxt "banner_cta_label"
+#~ msgid "Watch the live stream"
+#~ msgstr "Sehen Sie sich den Livestream an"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.subheading_link.d08c6e9c-98e7-48d0-ba22-86a21decf064.label"
+#~ msgid "March 7th, 2022 17:30 CET (UTC+1)"
+#~ msgstr "7. März 2022, 17:30 MEZ (UTC+1)"
 
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.body"
 #~ msgid "Join us as we open our 5 day festival with Mozilla, hear from the community on why MozFest is so important as a place to connect and collaborate."
@@ -549,10 +613,6 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgid "Mimi Onuoha and student researchers at Princeton will be presenting the data necessary to create their Ground Truth model."
 #~ msgstr "Mimi Onuoha und studentische Forscher in Princeton werden die Daten präsentieren, die zur Erstellung ihres Ground-Truth-Modells erforderlich sind."
 
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.buttons.ffaf526c-5071-456a-bd0d-584400724c8d.label"
-#~ msgid "Learn more"
-#~ msgstr "Weitere Informationen"
-
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.title"
 #~ msgid "The Grand MozFest Web Monetization Experiment"
 #~ msgstr "Das große MozFest-Web-Monetisierungsexperiment"
@@ -564,10 +624,6 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.body"
 #~ msgid "Join us in learning about and discovering how you can participate in the Grand MozFest Web Monetization Experiment at MozFest 2022."
 #~ msgstr "Machen Sie mit und erfahren Sie, wie Sie am großen MozFest-Web-Monetarisierungsexperiment beim MozFest 2022 teilnehmen können."
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.buttons.c656d9e7-43ec-4d88-aa27-b39d99406c0c.label"
-#~ msgid "Learn more"
-#~ msgstr "Weitere Informationen"
 
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.title"
 #~ msgid "How to Create an Interactive MozFest Presentation in Mozilla Hubs"
@@ -597,10 +653,6 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgid "The goal of this contribute-a-thon will be to increase participation for varying dialects and accents of Kiswahili that are typically underrepresented in voice databases."
 #~ msgstr "Das Ziel dieses Mitmach-Marathons wird es sein, die Teilnahme für verschiedene Dialekte und Akzente des Kisuaheli zu erhöhen, die in Sprachdatenbanken typischerweise unterrepräsentiert sind."
 
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.buttons.40a6fc5f-dce6-4b47-84de-a67c06be8378.label"
-#~ msgid "Learn more"
-#~ msgstr "Weitere Informationen"
-
 #~ msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
 #~ msgid "Get Your MozFest Ticket Here"
 #~ msgstr "Holen Sie sich hier Ihr MozFest-Ticket"
@@ -620,3 +672,7 @@ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
 #~ msgid "MozFest is happening now!"
 #~ msgstr "Das MozFest findet jetzt statt!"
+
+#~ msgctxt "body.4b85120f-7ba6-4074-ab58-518c8b891517.caption"
+#~ msgid "Click here to vote for us"
+#~ msgstr "Klicken Sie hier, um für uns zu stimmen"

@@ -19,11 +19,11 @@ msgid "Homepage"
 msgstr ""
 
 msgctxt "hero_headline"
-msgid "Attend MozFest 2022, March 7-11"
+msgid "Access Denied! This Doesn’t Sound Like You"
 msgstr ""
 
 msgctxt "hero_button_text"
-msgid "Browse the schedule"
+msgid "Read More"
 msgstr ""
 
 msgctxt "spotlight_headline"
