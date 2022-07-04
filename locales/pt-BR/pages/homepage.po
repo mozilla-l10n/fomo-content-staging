@@ -19,16 +19,16 @@ msgid "Homepage"
 msgstr "Página inicial"
 
 msgctxt "hero_headline"
-msgid "Access Denied! This Doesn’t Sound Like You"
-msgstr "Acesso negado! Não parece ser você"
+msgid "The Lessons We Carry from MozFest 2022"
+msgstr "As lições que levamos do MozFest 2022"
 
 msgctxt "hero_button_text"
-msgid "Read More"
+msgid "Learn More"
 msgstr "Saiba mais"
 
 msgctxt "spotlight_headline"
-msgid "What To Know About Venmo"
-msgstr "O que saber sobre o Venmo"
+msgid "All About Common Voice"
+msgstr "Tudo sobre o Common Voice"
 
 msgctxt "cause_statement"
 msgid "The Mozilla Foundation works to ensure the internet remains a public resource that is open and accessible to us all."
@@ -67,21 +67,21 @@ msgctxt "take_action_title"
 msgid "Take action"
 msgstr "Tome uma atitude"
 
+msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
+msgid "Tell Tinder: It’s time for meaningful transparency into your pricing algorithms!"
+msgstr "Diga ao Tinder: É hora de ter transparência significativa em seus algoritmos de preços!"
+
+msgctxt "take_action_cards.86d49254-53ec-460e-a27a-60fb74df0b92.text"
+msgid "Invest in our Planet – The Intersectionality of Climate &amp; Tech"
+msgstr "Invista no nosso planeta – A Interseccionalidade de Clima e Tecnologia"
+
+msgctxt "take_action_cards.36e213a7-6199-4ebc-b1fc-633d6bc11965.text"
+msgid "Tell Slack: #BlockAbuse"
+msgstr "Diga ao Slack: #BlockAbuse"
+
 msgctxt "take_action_cards.1e303e2d-ade9-48e9-9f84-00a6e018e345.text"
 msgid "Open letter to Venmo: Make Privacy the Default"
 msgstr "Carta aberta ao Venmo: Torne a privacidade o padrão"
-
-msgctxt "take_action_cards.86d49254-53ec-460e-a27a-60fb74df0b92.text"
-msgid "Let’s Unfck The Internet"
-msgstr "Vamos desentortar a internet"
-
-msgctxt "take_action_cards.36e213a7-6199-4ebc-b1fc-633d6bc11965.text"
-msgid "Supporting Black Artists Examining AI"
-msgstr "Apoiando artistas negros que estudam inteligência artificial"
-
-msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
-msgid "Become an Advisor for the Cities’ Digital Rights Helpdesk!"
-msgstr "Torne-se um assessor do balcão de informações de direitos digitais das cidades!"
 
 msgctxt "partner_logos.27a519d5-cbc2-4e21-af63-5e80a198ecf6.name"
 msgid "Ford Foundation logo"
@@ -106,6 +106,22 @@ msgstr "Logotipo da Consumers International"
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Findings"
 #~ msgstr "Leia o que foi descoberto"
+
+#~ msgctxt "take_action_cards.86d49254-53ec-460e-a27a-60fb74df0b92.text"
+#~ msgid "Let’s Unfck The Internet"
+#~ msgstr "Vamos desentortar a internet"
+
+#~ msgctxt "take_action_cards.36e213a7-6199-4ebc-b1fc-633d6bc11965.text"
+#~ msgid "Supporting Black Artists Examining AI"
+#~ msgstr "Apoiando artistas negros que estudam inteligência artificial"
+
+#~ msgctxt "spotlight_headline"
+#~ msgid "What To Know About Venmo"
+#~ msgstr "O que saber sobre o Venmo"
+
+#~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
+#~ msgid "Become an Advisor for the Cities’ Digital Rights Helpdesk!"
+#~ msgstr "Torne-se um assessor do balcão de informações de direitos digitais das cidades!"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Inside the Shadowy World of Disinformation-for-hire in Kenya"
@@ -162,3 +178,27 @@ msgstr "Logotipo da Consumers International"
 #~ msgctxt "hero_button_text"
 #~ msgid "See The Final Day Here"
 #~ msgstr "Veja aqui o último dia"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Access Denied! This Doesn’t Sound Like You"
+#~ msgstr "Acesso negado! Não parece ser você"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Read More"
+#~ msgstr "Saiba mais"
+
+#~ msgctxt "hero_headline"
+#~ msgid "*privacy not included — Mental Health Apps Edition"
+#~ msgstr "*privacidade não incluída — Edição sobre aplicativos de saúde mental"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Read The Guide"
+#~ msgstr "Ler o guia"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Trustworthy AI Working Groups"
+#~ msgstr "Grupos de trabalho de inteligência artificial confiável"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Call For Projects Now Open"
+#~ msgstr "A inscrição de projetos está aberta"

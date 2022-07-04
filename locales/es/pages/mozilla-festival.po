@@ -19,7 +19,7 @@ msgid "Mozilla Festival"
 msgstr ""
 
 msgctxt "cta_button_label"
-msgid "Build your watch list"
+msgid "Sign up for updates"
 msgstr ""
 
 msgctxt "banner_heading"
@@ -28,14 +28,6 @@ msgstr ""
 
 msgctxt "banner_cta_label"
 msgid "Watch the MozFest 2022 Wrap-up Video"
-msgstr ""
-
-msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.heading"
-msgid "MozFest On-Demand"
-msgstr ""
-
-msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
-msgid "Access hundreds of recorded sessions and other content from MozFest 2022 until 25 June with an on-demand ticket."
 msgstr ""
 
 msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
@@ -51,31 +43,15 @@ msgid "Sustaining Momentum"
 msgstr ""
 
 msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
-msgid "Expand new partnerships and deepen engagement with MozFest Fringe Events. Connect and collaborate early, and often."
+msgid "Passionate about creating and promoting solutions to the most urgent issues in AI? Connect with MozFest's Trustworthy AI Working Groups."
 msgstr ""
 
-msgctxt "body.4b85120f-7ba6-4074-ab58-518c8b891517.altText"
-msgid "We're nominated for a Webby - Vote for us"
+msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.heading"
+msgid "Movement Building from Home"
 msgstr ""
 
-msgctxt "body.3d2b6d17-80b8-4fdd-8af2-82d1de15f706.label"
-msgid "Vote here"
-msgstr ""
-
-msgctxt "body.3d2b6d17-80b8-4fdd-8af2-82d1de15f706.URL"
-msgid "https://vote.webbyawards.com/PublicVoting#/2022/virtual-remote/features/best-festival-or-conference"
-msgstr ""
-
-msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
-msgid "Secure Your MozFest Ticket Here"
-msgstr "Asegura tu boleto de MozFest aquí"
-
-msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.event"
-msgid "Mozilla/mozilla-festival-2022"
-msgstr "Mozilla/mozilla-festival-2022"
-
-msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.releases"
-msgid "48kaqlsi1x8,mozfest-mega-patron"
+msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
+msgid "Join us as we navigate the challenges and opportunities of facilitative leadership and online organizing 2 years into a remote-first world."
 msgstr ""
 
 msgctxt "body.4befc18c-92fe-4b88-af48-a5cdc5add964"
@@ -129,116 +105,71 @@ msgstr ""
 
 msgctxt "body.f3c3cb91-d14f-4d87-a1f5-c0e9474cc07b"
 msgid ""
-"Over the last ten years, MozFest has fueled the movement to ensure the internet benefits humanity, rather than harms it. As the festival matures and moves online for this year, we’ll remain focused "
-"in our work to build a healthier internet and more Trustworthy AI."
+"Over the years, MozFest has fueled the movement to ensure the internet benefits humanity, rather than harms it. We remain focused in our work to build a healthier internet and more Trustworthy AI."
 msgstr ""
 
 msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
-msgid "Join the internet health community for these exciting sessions and events that explore what it takes to build a better web."
+msgid "Join the internet health community for these exciting opportunities and events that explore what it takes to build a better web."
 msgstr ""
 
 msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.title"
-msgid "Sustaining Momentum with MozFest Fringe Events"
+msgid "Sustain the momentum of MozFest"
 msgstr ""
 
 msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.title"
-msgid "Ethical Dilemma Cafe, Manchester"
+msgid "Lead a Working Group Project"
 msgstr ""
 
 msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.subheading_link.968ba3c3-9870-4c9e-becb-31aa775e4445.label"
-msgid "April 26-27, 2022"
+msgid "Working Groups"
 msgstr ""
 
 msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.body"
-msgid "Explore and understand the power of your data and algorithms, and how they shape our world today. This is an in-person event."
+msgid "Join an engaged community whose aim is to help our technical community build more Trustworthy AI. The call for projects is now open!"
 msgstr ""
 
-msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.buttons.05267cae-c796-4d3f-b8e6-6895706f3729.label"
-msgid "Register for Tickets"
-msgstr ""
-
-msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.76efa64e-673f-40b7-9b98-1ddf5e28cd63.title"
-msgid "Building Speech Recognition Models"
-msgstr ""
-
-msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.76efa64e-673f-40b7-9b98-1ddf5e28cd63.subheading_link.729cc9ca-3d67-4253-8dce-cfa64d8373fd.label"
-msgid "May 10, 2022 at 18:00 CET"
-msgstr ""
-
-msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.76efa64e-673f-40b7-9b98-1ddf5e28cd63.body"
-msgid "Learn how to use NVIDIA's open source AI toolkit NeMo to fine-tune a speech recognition model using data from Mozilla Common Voice."
-msgstr ""
-
-msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.76efa64e-673f-40b7-9b98-1ddf5e28cd63.buttons.558ff513-053f-4109-bc93-4b386f2e93f6.label"
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.buttons.93ace7ae-042d-4428-a56e-22dd39954680.label"
 msgid "Learn more"
 msgstr ""
 
-msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.b0f30d0a-316a-493b-978e-e52e6f83f937.title"
-msgid "Common Voice Model Competitions"
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.title"
+msgid "Movement Building From Home"
 msgstr ""
 
-msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.b0f30d0a-316a-493b-978e-e52e6f83f937.subheading_link.5b3d8f48-0741-4d48-9028-bf5b4d4e5d94.label"
-msgid "May 17, 2022 at 18:00 CET"
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.subheading_link.a00f4042-4a44-49e4-bd30-43cbb22e62e5.label"
+msgid "MozFest Community"
 msgstr ""
 
-msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.b0f30d0a-316a-493b-978e-e52e6f83f937.body"
-msgid "A series of lightning talks from leaders in the space on the competition themes and demos of resources to participate."
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.body"
+msgid "Join us as we navigate the challenges and opportunities of facilitative leadership and online organizing 2 years into a remote-first world."
 msgstr ""
 
-msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.b0f30d0a-316a-493b-978e-e52e6f83f937.buttons.9c62ef5e-f554-41aa-8e14-22ab378b5d21.label"
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.buttons.3288563e-0194-4fb8-9986-b72162f06753.label"
+msgid "Learn More"
+msgstr ""
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.buttons.c0a6a6fc-052c-42b7-a1a7-de0bb7dbf43e.label"
+msgid "Register Now"
+msgstr ""
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.457a0611-f56c-4cdf-b5fd-4a99107de728.title"
+msgid "Join the MozFest Slack"
+msgstr ""
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.457a0611-f56c-4cdf-b5fd-4a99107de728.subheading_link.72771552-d318-4014-9995-15d80f98d5e3.label"
+msgid "MozFest Community"
+msgstr ""
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.457a0611-f56c-4cdf-b5fd-4a99107de728.body"
+msgid "A rich network that celebrates the impact a healthy open Internet can have. Share ideas before, after, and during the festival."
+msgstr ""
+
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.457a0611-f56c-4cdf-b5fd-4a99107de728.buttons.b9843b9a-1968-4d17-87be-f022af0a817a.label"
 msgid "Learn more"
 msgstr ""
 
-msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.title"
-msgid "Catch up with MozFest On-Demand!"
-msgstr ""
-
-msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.title"
-msgid "Opening Circle"
-msgstr ""
-
-msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.subheading_link.d08c6e9c-98e7-48d0-ba22-86a21decf064.label"
-msgid "Community Plenary"
-msgstr ""
-
-msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.body"
-msgid "Rewatch the opening of our 5 day festival with Mozilla, hear from the community on why MozFest is so important as a place to connect and collaborate."
-msgstr ""
-
-msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.buttons.c656d9e7-43ec-4d88-aa27-b39d99406c0c.label"
-msgid "Watch On-Demand"
-msgstr ""
-
-msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.title"
-msgid "AI Reckoning"
-msgstr ""
-
-msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.subheading_link.d0133b5c-0e7e-40c2-81b9-fe2d34a2d326.label"
-msgid "Community Plenary"
-msgstr ""
-
-msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.body"
-msgid "How do we refocus and realign AI as a mechanism for systems thinking and manifestation – revealing the correlation and connectedness of all things."
-msgstr ""
-
-msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.buttons.649b9400-bd0b-441e-8ed2-4866bfc84f48.label"
-msgid "Watch On-Demand"
-msgstr ""
-
-msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.title"
-msgid "Building Ancestral AI"
-msgstr ""
-
-msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.subheading_link.df00eb66-3e07-4b82-84d7-7cfb1b1a6976.label"
-msgid "Community Plenary"
-msgstr ""
-
-msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.body"
-msgid "If we lay down the burden of a future-only presumption of what technology is and can be, are we more likely to center people and the environment?"
-msgstr ""
-
-msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.buttons.40a6fc5f-dce6-4b47-84de-a67c06be8378.label"
-msgid "Watch On-Demand"
+msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.457a0611-f56c-4cdf-b5fd-4a99107de728.buttons.17ab0a41-90f6-4fe8-91a5-98f355cc9b85.label"
+msgid "Join Slack"
 msgstr ""
 
 msgctxt "body.7e194331-433a-4602-9ebf-70c350ce9ecb.altText"
@@ -250,105 +181,53 @@ msgid "<b>Discover the award-winning</b> <a id=\"a1\"><b>MozFest Book</b></a>, a
 msgstr ""
 
 msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
-msgid "Working Groups"
-msgstr "Grupos de trabajo"
+msgid "Our Latest Dialogues and Debates"
+msgstr ""
 
 msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
 msgid ""
-"Working groups are collections of MozFest community members coming together to focus on a specific topic around trustworthy AI. These working groups are an extension of the Mozilla Festival; By "
-"convening regularly online, these groups will support ongoing work around trustworthy AI."
+"Technology further codifies biases and categorizes personhood, not simply a reflection of the society that creates it but possibly an imperfect and flawed mirror of it. That has resulted in software"
+" and AI systems that are at odds with fluidity, that endanger the privacy and security of the LGBTQIA+ community, and often infer heteronormative assumptions and forces binary gender "
+"classifications. How does the queer community change this technology landscape? And what does it mean to queer the landscape, coopt these systems, and create safe, online spaces? And accordingly, "
+"how has technology made a global LGBTQIA+ movement possible?"
 msgstr ""
 
-msgctxt "body.b07fdbd7-3336-4798-aa78-839caf86acd2.search_terms"
-msgid "tai-wg"
-msgstr "tai-wg"
-
-msgctxt "body.ffb911be-b5ff-4cfe-8e65-ea01aab02010.label"
-msgid "Learn more about Working Groups"
-msgstr "Saber más sobre los grupos de trabajo"
-
-msgctxt "body.ffb911be-b5ff-4cfe-8e65-ea01aab02010.URL"
-msgid "https://www.mozillafestival.org/working-groups/"
-msgstr "https://www.mozillafestival.org/working-groups/"
-
-msgctxt "body.bef1ea3c-057c-4cf8-8947-2cd157f97451"
-msgid "On-Demand"
+msgctxt "body.8200cb36-4764-4d1e-bf1b-261157155f73.url"
+msgid "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbranding=0"
 msgstr ""
-
-msgctxt "body.bef1ea3c-057c-4cf8-8947-2cd157f97451"
-msgid ""
-"Top luminaries, grassroots activists, creative technologists, and interested consumers from around the world gather to share their questions, insights, reflections, and ideas at MozFest. The "
-"resulting content of these collaborations is too good to not share on-demand, all year long."
-msgstr ""
-
-msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.2640bdbe-433d-4a0f-add5-5b68f98aa85d.alt_text"
-msgid "Nighat Dad"
-msgstr ""
-
-msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.2640bdbe-433d-4a0f-add5-5b68f98aa85d.caption"
-msgid "Nighat Dad"
-msgstr ""
-
-msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.2640bdbe-433d-4a0f-add5-5b68f98aa85d.url"
-msgid "https://www.mozillafestival.org/on-demand/previous-festivals"
-msgstr ""
-
-msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.5f7692cf-6d0d-43de-b993-759ac762f0fd.alt_text"
-msgid "Mutale Nkonde"
-msgstr ""
-
-msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.5f7692cf-6d0d-43de-b993-759ac762f0fd.caption"
-msgid "Mutale Nkonde"
-msgstr ""
-
-msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.5f7692cf-6d0d-43de-b993-759ac762f0fd.url"
-msgid "https://www.mozillafestival.org/on-demand/previous-festivals"
-msgstr ""
-
-msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.34d6b491-3634-4860-8c73-625492e50ec6.alt_text"
-msgid "Nanjira Sambuli"
-msgstr ""
-
-msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.34d6b491-3634-4860-8c73-625492e50ec6.caption"
-msgid "Nanjira Sambuli"
-msgstr ""
-
-msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.34d6b491-3634-4860-8c73-625492e50ec6.url"
-msgid "https://www.mozillafestival.org/on-demand/previous-festivals"
-msgstr ""
-
-msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.c0607c8b-da76-4d23-975b-4aa4e6fb92d5.alt_text"
-msgid "Tim Berners-Lee"
-msgstr ""
-
-msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.c0607c8b-da76-4d23-975b-4aa4e6fb92d5.caption"
-msgid "Tim Berners-Lee"
-msgstr ""
-
-msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.c0607c8b-da76-4d23-975b-4aa4e6fb92d5.url"
-msgid "https://www.mozillafestival.org/on-demand/previous-festivals"
-msgstr ""
-
-msgctxt "body.53cfd0a5-5d7f-46a3-8fb1-619089662b65.label"
-msgid "Visit MozFest On-Demand"
-msgstr ""
-
-msgctxt "body.53cfd0a5-5d7f-46a3-8fb1-619089662b65.URL"
-msgid "https://www.mozillafestival.org/on-demand"
-msgstr "https://www.mozillafestival.org/on-demand"
-
-msgctxt "body.6e296e18-8b27-4770-a482-3a550ff0bf68.label"
-msgid "Catch up on MozFest 2021 Sessions"
-msgstr ""
-
-msgctxt "body.6e296e18-8b27-4770-a482-3a550ff0bf68.URL"
-msgid "https://www.mozillafestival.org/on-demand/previous-festivals"
-msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 
 #~ msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
 #~ msgid "Upcoming Events"
 #~ msgstr "Próximos eventos"
 
+#~ msgctxt "body.b07fdbd7-3336-4798-aa78-839caf86acd2.search_terms"
+#~ msgid "tai-wg"
+#~ msgstr "tai-wg"
+
+#~ msgctxt "body.ffb911be-b5ff-4cfe-8e65-ea01aab02010.URL"
+#~ msgid "https://www.mozillafestival.org/working-groups/"
+#~ msgstr "https://www.mozillafestival.org/working-groups/"
+
+#~ msgctxt "body.53cfd0a5-5d7f-46a3-8fb1-619089662b65.URL"
+#~ msgid "https://www.mozillafestival.org/on-demand"
+#~ msgstr "https://www.mozillafestival.org/on-demand"
+
+#~ msgctxt "body.6e296e18-8b27-4770-a482-3a550ff0bf68.URL"
+#~ msgid "https://www.mozillafestival.org/on-demand/previous-festivals"
+#~ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
+
+#~ msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.event"
+#~ msgid "Mozilla/mozilla-festival-2022"
+#~ msgstr "Mozilla/mozilla-festival-2022"
+
 #~ msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.releases"
 #~ msgid "rmddu9xc1hs,mozfest-mega-patron"
 #~ msgstr "rmddu9xc1hs,mozfest-mega-patron"
+
+#~ msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
+#~ msgid "Secure Your MozFest Ticket Here"
+#~ msgstr "Asegura tu boleto de MozFest aquí"
+
+#~ msgctxt "body.ffb911be-b5ff-4cfe-8e65-ea01aab02010.label"
+#~ msgid "Learn more about Working Groups"
+#~ msgstr "Saber más sobre los grupos de trabajo"

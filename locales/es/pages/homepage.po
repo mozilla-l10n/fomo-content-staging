@@ -19,16 +19,16 @@ msgid "Homepage"
 msgstr "Inicio"
 
 msgctxt "hero_headline"
-msgid "Access Denied! This Doesn’t Sound Like You"
+msgid "The Lessons We Carry from MozFest 2022"
 msgstr ""
 
 msgctxt "hero_button_text"
-msgid "Read More"
+msgid "Learn More"
 msgstr ""
 
 msgctxt "spotlight_headline"
-msgid "What To Know About Venmo"
-msgstr "Qué debemos saber acerca de Venmo"
+msgid "All About Common Voice"
+msgstr "Todo acerca de Common Voice"
 
 msgctxt "cause_statement"
 msgid "The Mozilla Foundation works to ensure the internet remains a public resource that is open and accessible to us all."
@@ -67,21 +67,21 @@ msgctxt "take_action_title"
 msgid "Take action"
 msgstr "Actúa ahora"
 
+msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
+msgid "Tell Tinder: It’s time for meaningful transparency into your pricing algorithms!"
+msgstr "Decirle a Tinder: ¡ya es hora de que doten de transparencia fundamentada a sus algoritmos de precios!"
+
+msgctxt "take_action_cards.86d49254-53ec-460e-a27a-60fb74df0b92.text"
+msgid "Invest in our Planet – The Intersectionality of Climate &amp; Tech"
+msgstr "Invertir en nuestro planeta: La interseccionalidad de clima y tecnología"
+
+msgctxt "take_action_cards.36e213a7-6199-4ebc-b1fc-633d6bc11965.text"
+msgid "Tell Slack: #BlockAbuse"
+msgstr "Pide a Slack que bloquee el abuso (#BlockAbuse)"
+
 msgctxt "take_action_cards.1e303e2d-ade9-48e9-9f84-00a6e018e345.text"
 msgid "Open letter to Venmo: Make Privacy the Default"
 msgstr "Carta abierta a Venmo: Hagan que la privacidad sea predeterminada"
-
-msgctxt "take_action_cards.86d49254-53ec-460e-a27a-60fb74df0b92.text"
-msgid "Let’s Unfck The Internet"
-msgstr "Vamos a desj*der la Internet"
-
-msgctxt "take_action_cards.36e213a7-6199-4ebc-b1fc-633d6bc11965.text"
-msgid "Supporting Black Artists Examining AI"
-msgstr "Apoyando a los artistas negros que están examinando la IA"
-
-msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
-msgid "Become an Advisor for the Cities’ Digital Rights Helpdesk!"
-msgstr "¡Conviértete en asesor(a) del servicio de asistencia sobre derechos digitales de las ciudades!"
 
 msgctxt "partner_logos.27a519d5-cbc2-4e21-af63-5e80a198ecf6.name"
 msgid "Ford Foundation logo"
@@ -118,3 +118,35 @@ msgstr "Logo de Consumers International"
 #~ msgctxt "hero_button_text"
 #~ msgid "Find out"
 #~ msgstr "Descúbrelo"
+
+#~ msgctxt "spotlight_headline"
+#~ msgid "What To Know About Venmo"
+#~ msgstr "Qué debemos saber acerca de Venmo"
+
+#~ msgctxt "take_action_cards.86d49254-53ec-460e-a27a-60fb74df0b92.text"
+#~ msgid "Let’s Unfck The Internet"
+#~ msgstr "Vamos a desj*der la Internet"
+
+#~ msgctxt "take_action_cards.36e213a7-6199-4ebc-b1fc-633d6bc11965.text"
+#~ msgid "Supporting Black Artists Examining AI"
+#~ msgstr "Apoyando a los artistas negros que están examinando la IA"
+
+#~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
+#~ msgid "Become an Advisor for the Cities’ Digital Rights Helpdesk!"
+#~ msgstr "¡Conviértete en asesor(a) del servicio de asistencia sobre derechos digitales de las ciudades!"
+
+#~ msgctxt "hero_headline"
+#~ msgid "*privacy not included — Mental Health Apps Edition"
+#~ msgstr "*privacidad no incluida — Edición dedicada a las aplicaciones de salud mental"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Read The Guide"
+#~ msgstr "Lee la guía"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Call For Projects Now Open"
+#~ msgstr "Estamos recibiendo proyectos"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Trustworthy AI Working Groups"
+#~ msgstr "Grupos de trabajo sobre IA confiable"

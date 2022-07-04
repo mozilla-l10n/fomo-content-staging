@@ -123,7 +123,7 @@ msgstr "Camada três"
 
 msgctxt "body.40f35c3f-ee0e-4873-9715-99810c35e2c1"
 msgid "What else could algorithms learn about us after they’ve already observed every move we’ve made online?"
-msgstr "O que mais os algoritmos poderiam aprender sobre nós depois de já terem observado cada movimento que fizemos online?"
+msgstr "O que mais os algoritmos podem aprender sobre nós após já ter observado cada movimento que fizemos online?"
 
 msgctxt "body.40f35c3f-ee0e-4873-9715-99810c35e2c1"
 msgid ""

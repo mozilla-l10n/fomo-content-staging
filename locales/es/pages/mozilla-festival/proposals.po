@@ -33,7 +33,7 @@ msgstr "Icono de calendario"
 
 msgctxt "body.a9113a3a-e7f3-4bb8-8257-b9c87313705a.text"
 msgid "<b>The deadline for the MozFest 2022 Call for Proposals has been extended.</b> Submit your proposal by end of day November 14th."
-msgstr ""
+msgstr "<b>Se ha ampliado el plazo para la convocatoria de propuestas de MozFest 2022.</b> Envíe su propuesta antes del 14 de noviembre."
 
 msgctxt "body.1ae48f1e-9712-4f00-bf0f-7f52e0e62d12.label"
 msgid "Submit your proposal"

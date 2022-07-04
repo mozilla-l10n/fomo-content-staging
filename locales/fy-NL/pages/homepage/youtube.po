@@ -1,0 +1,151 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-07-04 07:05:14.193446+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: b5405dc7-93d6-4f5c-aa70-10832cfc6baa\n"
+
+msgctxt "search_description"
+msgid "An overview of Mozilla's work to get YouTube to be more open and transparent about their recommendation process."
+msgstr "In oersjoch fan Mozilla’s wurk om YouTube iepener en transparanter te meitsjen oer har oanbefellingsproses."
+
+msgctxt "intro"
+msgid ""
+"Since 2019 Mozilla has advocated for YouTube to be more open and transparent about their recommendation system. Our original research, investigations and campaigns have demonstrated how YouTube's "
+"recommendations can harm people, and our policy recommendations propose solutions."
+msgstr ""
+"Sûnt 2019 hat Mozilla derfoar pleite dat YouTube iepener en transparanter wêzen wurdt oer har oanbefellingssysteem. Us orizjinele ûndersyk, ûndersiken en kampanjes hawwe oantoand hoe’t de "
+"oanbefellingen fan YouTube minsken skansearje kinne, en ús oanbefellingen foar belied stelle oplossingen foar."
+
+msgctxt "body.4388a4ad-110a-4295-a89c-3dd9192ec9ee"
+msgid "Current Work"
+msgstr "Aktueel wurk"
+
+msgctxt "body.b1337b84-9dcf-4230-9f7d-c05161236fe1.altText"
+msgid "Regrets Reporter Extension Icon"
+msgstr "RegretsReporter-útwreidingpiktogram"
+
+msgctxt "body.b1337b84-9dcf-4230-9f7d-c05161236fe1.text"
+msgid "RegretsReporter"
+msgstr "RegretsReporter"
+
+msgctxt "body.b1337b84-9dcf-4230-9f7d-c05161236fe1.text"
+msgid "This RegretsReporter browser extension, built by the nonprofit Mozilla, helps you take control of your YouTube recommendations."
+msgstr "Mei de browserútwreiding RegretsReporter, boud troch de non-profitorganisaasje Mozilla, helpe jo oanrekommandaasjes op YouTube ôf te wizen."
+
+msgctxt "body.b1337b84-9dcf-4230-9f7d-c05161236fe1.text"
+msgid "<a id=\"a1\">See the extension</a>"
+msgstr "<a id=\"a1\">De útwreiding besjen</a>"
+
+msgctxt "body.b1337b84-9dcf-4230-9f7d-c05161236fe1.url"
+msgid "https://foundation.mozilla.org/youtube/regretsreporter/"
+msgstr "https://foundation.mozilla.org/youtube/regretsreporter/"
+
+msgctxt "body.f460122b-a061-430a-adf7-2ac25d9470e9"
+msgid "Past Work"
+msgstr "Earder wurk"
+
+msgctxt "body.0a894f79-cc5b-4133-878b-904b510df4f2.altText"
+msgid "Graphic for YouTube Regrets Findings"
+msgstr "Ofbylding foar YouTube Regrets-befiningen"
+
+msgctxt "body.0a894f79-cc5b-4133-878b-904b510df4f2.text"
+msgid "YouTube Regrets Findings"
+msgstr "YouTube Regrets-befiningen"
+
+msgctxt "body.0a894f79-cc5b-4133-878b-904b510df4f2.text"
+msgid "Mozilla and 37,380 YouTube users conducted a study to better understand harmful YouTube recommendations. This is what we learned."
+msgstr "Mozilla hat tegearre mei 37.380 YouTube-brûkers in ûndersyk dien om skeadlike YouTube-oanbefellingen better te begripen. Dit binne ús befiningen."
+
+msgctxt "body.0a894f79-cc5b-4133-878b-904b510df4f2.text"
+msgid "<a id=\"a1\">Read the findings</a>"
+msgstr "<a id=\"a1\">Lês de befiningen</a>"
+
+msgctxt "body.0a894f79-cc5b-4133-878b-904b510df4f2.url"
+msgid "https://foundation.mozilla.org/campaigns/regrets-reporter/findings/"
+msgstr "https://foundation.mozilla.org/campaigns/regrets-reporter/findings/"
+
+msgctxt "body.62bb913e-1f01-408f-9d6b-25471c635622.altText"
+msgid "YouTube Regrets Marketing Image"
+msgstr "YouTube Regrets-marketingôfbylding"
+
+msgctxt "body.62bb913e-1f01-408f-9d6b-25471c635622.text"
+msgid "YouTube Regrets Stories"
+msgstr "YouTube Regrets-ferhalen"
+
+msgctxt "body.62bb913e-1f01-408f-9d6b-25471c635622.text"
+msgid "Got YouTube Regrets? Thousands do! These are the stories Mozilla collected when we asked people about the videos they wish they’d never clicked that sent them down a rabbit hole…"
+msgstr ""
+"Spyt fan YouTube? Tûzenen hawwe dat ek! Dit binne de ferhalen dy’t Mozilla sammele doe’t wy minsken fregen nei de fideo’s wêrfan se winsken dat se der nea op klikt hiene, wêrtroch se yn in "
+"‘kninehoale’ terjochte kamen…"
+
+msgctxt "body.62bb913e-1f01-408f-9d6b-25471c635622.text"
+msgid "<a id=\"a1\">Read more</a>"
+msgstr "<a id=\"a1\">Mear ynfo</a>"
+
+msgctxt "body.62bb913e-1f01-408f-9d6b-25471c635622.url"
+msgid "https://foundation.mozilla.org/campaigns/youtube-regrets/"
+msgstr "https://foundation.mozilla.org/campaigns/youtube-regrets/"
+
+msgctxt "body.a97caefe-33bd-4e49-97ec-4c0719a8a305.title"
+msgid "Blog Posts"
+msgstr "Blogartikelen"
+
+msgctxt "body.e7684e94-3914-47a1-89f1-40f646f876d7"
+msgid "Impact"
+msgstr "Ympakt"
+
+msgctxt "body.c67dfc73-3457-4bdc-b68b-a9af7ec117af.grid_items.66a5a5f9-4011-4c14-8628-809a071762cc.caption"
+msgid "July 2019 - Mozilla awards Guillaume Chaslot, a former YouTube engineer, a fellowship to support his work investigating AI systems, including the impacts of YouTube’s recommendation engine."
+msgstr "Juli 2019 – Mozilla jout Guillaume Chaslot, foarhinne in YouTube-yngenieur, in beurs ta stipe fan syn ûndersyk nei AI-systemen, wêrûnder de ympakt fan de oanrekommandaasjemasine fan YouTube."
+
+msgctxt "body.c67dfc73-3457-4bdc-b68b-a9af7ec117af.grid_items.09cdd2e9-cc4f-48c7-b9e5-829c9eb01ad8.caption"
+msgid "August 7, 2019 - Mozilla announced our intentions to investigate YouTube’s recommendation problem, and to begin a dialogue with the company about making improvements."
+msgstr "7 augustus 2019 – Mozilla kundige ús yntinsje om it oanrekommandaasjeprobleem fan YouTube te ûndersykjen en de start fan in dialooch mei it bedriuw oer it trochfieren fan ferbetteringen oan."
+
+msgctxt "body.c67dfc73-3457-4bdc-b68b-a9af7ec117af.grid_items.67c5713e-7762-4747-af04-81752287b567.caption"
+msgid "August 14, 2019 - Mozilla published a reading list for our community detailing the ways recommendation AI — including YouTube’s — can manipulate consumers."
+msgstr "14 augustus 2019 – Mozilla publisearre in lêslist foar ús mienskip, mei dêryn de manieren wêrop oanrekkomandaasje-AI – wêrûnder dy fan YouTube – konsuminten manipulearje kin."
+
+msgctxt "body.c67dfc73-3457-4bdc-b68b-a9af7ec117af.grid_items.b2eb7ec0-c008-491b-8fa8-2171d49f95ed.caption"
+msgid "September 3, 2019 - Mozilla hosted a Q&amp;A with a teenager who was radicalized online, partially due to YouTube’s recommendation AI."
+msgstr "3 septimber 2019 – Mozilla organisearre in Q&A mei in jongfeint dy’t online radikalisearre waard, foar in part fanwegen de oanbefellings-AI fan YouTube."
+
+msgctxt "body.c67dfc73-3457-4bdc-b68b-a9af7ec117af.grid_items.f50b879c-3ccc-4416-9d5a-1d732aaf3d82.caption"
+msgid "September 10, 2019 - Mozilla launched its #YouTubeRegrets campaign, urging users to share stories about harmful recommendations they encounter."
+msgstr "10 september 2019 – Mozilla lansearre harren kampanje #YouTubeRegrets, wêryn brûkers oproppen waarden om ferhalen oer skealike oanrekommandaasjes dy’t se tsjinkommen wiene te dielen."
+
+msgctxt "body.c67dfc73-3457-4bdc-b68b-a9af7ec117af.grid_items.295e54dd-e6fa-4753-958f-631b954db8be.caption"
+msgid ""
+"October 14, 2019 - After meeting with YouTube staff to discuss this issue, Mozilla published three concrete actions the platform could take to help address its recommendation problem. These changes "
+"entail making YouTube’s recommendation data more transparent."
+msgstr ""
+"14 oktober 2019 – Nei in moeting mei personiel fan YouTube om dit probleem te besprekken, publisearre Mozilla trije konkrete aksjes dy’t it platfoarm nimme kinne soe om it oanrekommandaasjeprobleem "
+"oan te pakken. Dizze wizigingen omfetsje it transparanter meitsjen fan de oanrekommandaasjegegevens fan YouTube."
+
+msgctxt "body.c67dfc73-3457-4bdc-b68b-a9af7ec117af.grid_items.920abaa4-d300-463c-ac8d-97865687b967.caption"
+msgid "October 15, 2019 - Mozilla published findings from our #YouTubeRegrets research, highlighting how users were recommended anti-science content, anti-LGBT content, and other harmful videos."
+msgstr ""
+"15 oktober 2019 – Mozilla publisearre de befiningen fan ús #YouTubeRegrets-ûndersyk, wêryn beskreaun waard hoe’t brûkers oanrekommandaasjes ûntfongen foar anti-wittenskiplike ynhâld, anti-LGBT-"
+"ynhâld en oare skealike fideo’s."
+
+msgctxt "body.c67dfc73-3457-4bdc-b68b-a9af7ec117af.grid_items.827de553-9c4e-4ab0-8351-e56fae24d51e.caption"
+msgid "October 26, 2019 - At MozFest 2019, Mozilla hosted “The Algorithmic Gaze,” a panel exploring the dangers of untrustworthy AI like YouTube’s recommendation engine."
+msgstr "26 oktober 2019 – Wylst MozFest 2019 organisearre Mozilla “The Algorithmic Gaze”, in panel dat de gefaren fan ûnbetroubere AI, lykas de oanrekommandaasjemasine fan YouTube, ferkende."
+
+msgctxt "body.c67dfc73-3457-4bdc-b68b-a9af7ec117af.grid_items.4771ce3f-fd6d-46fa-aaf5-b23c0abcf850.caption"
+msgid "December 25, 2019 - Mozilla published a running list of YouTube’s dismissals related to its recommendation problem."
+msgstr "25 desimber 2019 - Mozilla publisearre in rinnende list mei ûntslaggen fan YouTube dy’t yn ferbân stiene mei har oanbefellingsprobleem."
+
+msgctxt "body.c67dfc73-3457-4bdc-b68b-a9af7ec117af.grid_items.66a6b2c4-6354-4757-b50c-09eae5e3e6d7.caption"
+msgid "September 2020 - Mozilla launches the RegretsReporter browser extension to research YouTube’s recommendation problem."
+msgstr "September 2020 – Mozilla lansearret de browserútwreiding RegretsReporter om it oanrekommandaasjeprobleem fan YouTube te ûndersykjen."
+
+msgctxt "body.c67dfc73-3457-4bdc-b68b-a9af7ec117af.grid_items.37e95641-a33e-4c66-b412-7cd4ea640512.caption"
+msgid "July 2021 - Using data contributed by 37,380 RegretsReporter users, Mozilla releases first findings into YouTube's recommendations."
+msgstr "Juli 2021 – Mei help fan gegevens bydroegen troch 37.380 RegretsReporter-brûkers, publisearret Mozilla de earste befiningen yn de oanbefellingen fan YouTube."
+
+msgctxt "title"
+msgid "YouTube Regrets"
+msgstr "YouTube Regrets"

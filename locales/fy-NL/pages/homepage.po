@@ -19,16 +19,16 @@ msgid "Homepage"
 msgstr "Startside"
 
 msgctxt "hero_headline"
-msgid "Access Denied! This Doesn’t Sound Like You"
-msgstr "Tagong wegere! Dit klinkt net as jo"
+msgid "The Lessons We Carry from MozFest 2022"
+msgstr "De lessen dy’t wy lûke út MozFest 2022"
 
 msgctxt "hero_button_text"
-msgid "Read More"
+msgid "Learn More"
 msgstr "Mear ynfo"
 
 msgctxt "spotlight_headline"
-msgid "What To Know About Venmo"
-msgstr "Wat jo witte moatte oer Venmo"
+msgid "All About Common Voice"
+msgstr "Alles oer Common Voice"
 
 msgctxt "cause_statement"
 msgid "The Mozilla Foundation works to ensure the internet remains a public resource that is open and accessible to us all."
@@ -66,21 +66,21 @@ msgctxt "take_action_title"
 msgid "Take action"
 msgstr "Aksje ûndernimme"
 
+msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
+msgid "Tell Tinder: It’s time for meaningful transparency into your pricing algorithms!"
+msgstr "Fertel Tinder: It is tiid foar betsjuttingsfolle transparânsje yn jo priisalgoritmen!"
+
+msgctxt "take_action_cards.86d49254-53ec-460e-a27a-60fb74df0b92.text"
+msgid "Invest in our Planet – The Intersectionality of Climate &amp; Tech"
+msgstr "Ynvestearje yn ús planeet – The Intersectionality of Climate & amp; Tech"
+
+msgctxt "take_action_cards.36e213a7-6199-4ebc-b1fc-633d6bc11965.text"
+msgid "Tell Slack: #BlockAbuse"
+msgstr "Fertel Slack: #BlockAbuse"
+
 msgctxt "take_action_cards.1e303e2d-ade9-48e9-9f84-00a6e018e345.text"
 msgid "Open letter to Venmo: Make Privacy the Default"
 msgstr "Iepen brief oan Venmo: meitsje fan privacy de standert"
-
-msgctxt "take_action_cards.86d49254-53ec-460e-a27a-60fb74df0b92.text"
-msgid "Let’s Unfck The Internet"
-msgstr "Litte wy it ynternet unfcke"
-
-msgctxt "take_action_cards.36e213a7-6199-4ebc-b1fc-633d6bc11965.text"
-msgid "Supporting Black Artists Examining AI"
-msgstr "Stipe fan swarte artysten dy't AI ûndersykje"
-
-msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
-msgid "Become an Advisor for the Cities’ Digital Rights Helpdesk!"
-msgstr "Wurd adviseur foar de Digital Rights Helpdesk fan de stêden!"
 
 msgctxt "partner_logos.27a519d5-cbc2-4e21-af63-5e80a198ecf6.name"
 msgid "Ford Foundation logo"
@@ -98,6 +98,10 @@ msgctxt "partner_logos.929c99af-30b5-43e9-868d-348dff76a7cb.name"
 msgid "Consumers International logo"
 msgstr "Consumers International-logo"
 
+#~ msgctxt "spotlight_headline"
+#~ msgid "What To Know About Venmo"
+#~ msgstr "Wat jo witte moatte oer Venmo"
+
 #~ msgctxt "hero_headline"
 #~ msgid "Mozilla &amp; 37,380 YouTube users joined forces to investigate YouTube's algorithm"
 #~ msgstr "Mozilla en 37.380 YouTube-brûkers ûndersykje it algoritme fan YouTube"
@@ -105,6 +109,18 @@ msgstr "Consumers International-logo"
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Findings"
 #~ msgstr "Lês de befiningen"
+
+#~ msgctxt "take_action_cards.86d49254-53ec-460e-a27a-60fb74df0b92.text"
+#~ msgid "Let’s Unfck The Internet"
+#~ msgstr "Litte wy it ynternet unfcke"
+
+#~ msgctxt "take_action_cards.36e213a7-6199-4ebc-b1fc-633d6bc11965.text"
+#~ msgid "Supporting Black Artists Examining AI"
+#~ msgstr "Stipe fan swarte artysten dy't AI ûndersykje"
+
+#~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
+#~ msgid "Become an Advisor for the Cities’ Digital Rights Helpdesk!"
+#~ msgstr "Wurd adviseur foar de Digital Rights Helpdesk fan de stêden!"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Inside the Shadowy World of Disinformation-for-hire in Kenya"
@@ -169,3 +185,27 @@ msgstr "Consumers International-logo"
 #~ msgctxt "hero_button_text"
 #~ msgid "See The Final Day Here"
 #~ msgstr "Besjoch hjir de lêste dei"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Access Denied! This Doesn’t Sound Like You"
+#~ msgstr "Tagong wegere! Dit klinkt net as jo"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Read More"
+#~ msgstr "Mear ynfo"
+
+#~ msgctxt "hero_headline"
+#~ msgid "*privacy not included — Mental Health Apps Edition"
+#~ msgstr "*privacy net ynbegrepen – Geastlike sûnensapps-edysje"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Read The Guide"
+#~ msgstr "De Gids lêze"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Trustworthy AI Working Groups"
+#~ msgstr "Wurkgroepen Betroubere AI"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Call For Projects Now Open"
+#~ msgstr "Oprop foar projekten no iepen"

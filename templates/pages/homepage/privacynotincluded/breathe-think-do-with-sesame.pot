@@ -1,0 +1,104 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-07-04 07:04:55.703118+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Breathe, Think, Do with Sesame"
+msgstr ""
+
+msgctxt "blurb"
+msgid ""
+"\"Help a monster friend with big feelings learn to calm down and solve everyday challenges.\" Yes please! Elmo and the gang at Sesame Street's app -- aimed at parents and caregivers of kids aged 2-5"
+" -- is designed to help the young ones learn how to calm down, learn self-control, and expand their emotional vocabulary. The app is bilingual in English and Spanish, research-based, and free to "
+"download and use. Sesame Workshop's <a id=\"a1\">privacy policy</a> says most of the things kids can do on the app don't require users to submit any personal information. Yay! Now, if they only made"
+" an adult version too! And GOOD NEWS! As of June 1, 2022, Sesame Workshop has updated their privacy policy and addressed the small security concerns we had. Good work Elmo and team!"
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"We're not too worried about the privacy of Sesame Workshop's mental development app for young children. The privacy policy does say that sometimes personal information like name and email might be "
+"collected but only with parental consent. And with no behavioral advertising (read, targeted ads) on the platform, parents should be able to breathe a small sigh of relief. Sesame Workshop is an "
+"educational non-profit, so they aren't trying to make money off you or your child's data, which is a breath of fresh air."
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"Our biggest privacy flag for this app is the privacy policy hadn't been updated since 2013, which is a very long time in privacy policy years. We're proud to report that after working with Sesame "
+"Workshop, they have now updated their privacy policy, as of June 1, 2022!"
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"As part of their updated privacy policy, Sesame Workshop has now added a way for people to report security vulnerabilities, which was our biggest outstanding security concern. They now meet our "
+"Minimum Security Standards. We have to say, we're pleased to see them be responsive to our research and love that they updated their policies. Good work. We feel pretty good now about the privacy "
+"and security of this app for children."
+msgstr ""
+
+msgctxt "worst_case"
+msgid ""
+"What's the worst that could happen? Hopefully nothing more than your child learns how to be a little bit calmer. Calm is good. But we should remind parents that anything that connects to the "
+"internet your child plays with has potential vulnerabilities so it's always good to supervise them when they use your devices. And remember parents, please <a id=\"a1\">follow</a> the <a "
+"id=\"a2\">basic guidelines</a> for <a id=\"a3\">protecting</a> young children online (please always do this parents and caregivers!), your child's privacy will likely be pretty safe."
+msgstr ""
+
+msgctxt "how_does_it_use_data_collected"
+msgid ""
+"There is no behavioral advertising on the platform which means that you will not see any advertising that is targeted to you based on your combined activity on the platform and your activity on "
+"other sites and apps."
+msgstr ""
+
+msgctxt "how_does_it_use_data_collected"
+msgid "The app does not make personal information collected from children publicly available"
+msgstr ""
+
+msgctxt "how_does_it_use_data_collected"
+msgid "The policy does not mention any sharing of data with third parties, or selling of data."
+msgstr ""
+
+msgctxt "uses_encryption_helptext"
+msgid "The app collects no personal data"
+msgstr ""
+
+msgctxt "strong_password_helptext"
+msgid "No password needed, as there is no sign-up process in the app"
+msgstr ""
+
+msgctxt "manage_vulnerabilities_helptext"
+msgid "To report potential security vulnerabilities, please write to cyber.security@sesame.org"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Parents should <a id=\"a1\">read up</a> and <a id=\"a2\">implement the guidelines</a> on how to protect children online."
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Never share your child's personal information online"
+msgstr ""
+
+msgctxt "tips_to_protect_yourself"
+msgid "Use the app with your child"
+msgstr ""
+
+msgctxt "personal_data_collected"
+msgid "Optional: name, email, phone number. Most of the activities on the Platforms do not require you to submit any personal information."
+msgstr ""
+
+msgctxt "how_can_you_control_your_data"
+msgid ""
+"Parents may contact the provider at dotorgmail@sesameworkshop.org to review, update or delete any of their children’s personal information that the app may have collected and to elect for the app "
+"not to collect any additional personal information from their children."
+msgstr ""
+
+msgctxt "track_record_details"
+msgid "No known privacy or security incidents discovered in the last 3 years."
+msgstr ""
+
+msgctxt "child_safety_blurb"
+msgid ""
+"The app's collection of personal information on Platforms that are directed to children under 13 is intended to follow the principles of the Children’s Online Privacy Protection Act, a U.S. law "
+"designed to protect the online privacy of children under the age of 13. The app will obtain parental consent before asking for personal information on the Children’s Platforms, unless the request "
+"for information falls within an exception that would be permitted under COPPA."
+msgstr ""

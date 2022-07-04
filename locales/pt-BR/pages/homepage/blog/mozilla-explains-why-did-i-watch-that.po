@@ -24,7 +24,7 @@ msgid ""
 "are just right, but sometimes, they send you down an unexpected rabbit hole. How does YouTube decide what to recommend to you?"
 msgstr ""
 "As recomendações de vídeo do YouTube são um recurso central do sistema. Na verdade, <a id=\"a1\">70%</a> do tempo de visualização na plataforma é impulsionado pelas recomendações do YouTube. Às "
-"vezes, as recomendações são perfeitas, mas às vezes levam você a uma toca de coelho inesperada. Como o YouTube decide o que recomendar a você?"
+"vezes, as recomendações são corretas, mas às vezes levam você a um círculo vicioso inesperado. Como o YouTube decide o que recomendar a você?"
 
 msgctxt "body.f5f5a037-4d2a-4c32-a8ec-b5d6044e8fc6"
 msgid ""

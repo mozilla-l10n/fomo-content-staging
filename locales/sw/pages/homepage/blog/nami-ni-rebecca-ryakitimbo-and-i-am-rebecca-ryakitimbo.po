@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "body.92bc76d5-c85a-465b-bdde-c7fa28ef70d3.altText"
 msgid "Rebecca Ryakitimbo"
-msgstr ""
+msgstr "Rebecca Ryakitimbo"
 
 msgctxt "body.92bc76d5-c85a-465b-bdde-c7fa28ef70d3.caption"
 msgid "Mozilla Fellow Rebecca Ryakitimbo"
