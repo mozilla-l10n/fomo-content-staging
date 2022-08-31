@@ -32,6 +32,14 @@ msgctxt "banner_cta_label"
 msgid "Watch the MozFest 2022 Wrap-up Video"
 msgstr "Assista ao vídeo de encerramento do MozFest 2022"
 
+msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.heading"
+msgid "Save The Date"
+msgstr "Reserve a data"
+
+msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
+msgid "MozFest 2023, taking place from March 20-24th. Join 1000s of activists in diverse global movements fighting for a more humane digital world."
+msgstr "MozFest 2023, de 20 a 24 de março. Junte-se a milhares de ativistas em diversos movimentos globais na luta por um mundo digital mais humano."
+
 msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
 msgid "Stay Connected"
 msgstr "Mantenha-se conectado"
@@ -48,14 +56,6 @@ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
 msgid "Passionate about creating and promoting solutions to the most urgent issues in AI? Connect with MozFest's Trustworthy AI Working Groups."
 msgstr "Apaixonado por criar e promover soluções para os problemas mais urgentes de inteligência artificial? Conecte-se com grupos de trabalho sobre inteligência artificial confiável no MozFest."
 
-msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.heading"
-msgid "Movement Building from Home"
-msgstr "Construção de impulso a partir de casa"
-
-msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
-msgid "Join us as we navigate the challenges and opportunities of facilitative leadership and online organizing 2 years into a remote-first world."
-msgstr "Junte-se a nós enquanto navegamos pelos desafios e oportunidades de liderança facilitadora e organização online por 2 anos em um mundo primariamente remoto."
-
 msgctxt "body.4befc18c-92fe-4b88-af48-a5cdc5add964"
 msgid ""
 "MozFest is a unique hybrid: part art, tech and society convening, part maker festival, and the premiere gathering for activists in diverse global movements fighting for a more humane digital world."
@@ -68,8 +68,8 @@ msgid "sneak peak icon"
 msgstr "ícone de dar uma olhada"
 
 msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
-msgid "Start building your own watch list now on the <a id=\"a1\">MozFest Plaza</a>"
-msgstr "Comece agora a montar sua própria lista de vídeos no <a id=\"a1\">MozFest Plaza</a>"
+msgid "Add the dates for MozFest 2023 to your calendar, on <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> or <a id=\"a3\">download the invitation</a>."
+msgstr "Adicione as datas do MozFest 2023 à sua agenda, no <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> ou <a id=\"a3\">baixe o convite</a>."
 
 msgctxt "body.4ef1c6a8-1f8d-463b-b6e0-d014c2474355.altText"
 msgid "A photograph of a person sitting with their laptop on the stairs of the MozFest House venue, next to them is an orange and pink sign with the MozFest house logo."
@@ -212,10 +212,6 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "Secure your ticket"
 #~ msgstr "Garanta seu ingresso"
 
-#~ msgctxt "body.4b85120f-7ba6-4074-ab58-518c8b891517.caption"
-#~ msgid "Click here to vote for us"
-#~ msgstr "Clique aqui para votar em nós"
-
 #~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.heading"
 #~ msgid "Call for Proposals"
 #~ msgstr "Chamada de propostas"
@@ -223,6 +219,10 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgctxt "body.485bd442-233d-41eb-a4b0-bb18f14f5f3b.altText"
 #~ msgid "an icon of a calendar"
 #~ msgstr "um ícone de uma agenda"
+
+#~ msgctxt "body.485bd442-233d-41eb-a4b0-bb18f14f5f3b.text"
+#~ msgid "<b>The deadline for the MozFest 2022 Call for Proposals has been extended.</b> <a id=\"a1\">Submit your proposal</a> by end of day November 14th."
+#~ msgstr "<b>O prazo da chamada de propostas do MozFest 2022 foi prorrogado.</b> <a id=\"a1\">Envie sua proposta</a> até o final do dia 14 de novembro."
 
 #~ msgctxt "cta_button_label"
 #~ msgid "Submit a Proposal"
@@ -295,10 +295,6 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
 #~ msgid "Meet face to face with local allies and friends through a series of sessions, installations and workshops in Amsterdam."
 #~ msgstr "Encontre-se frente a frente com aliados e amigos locais por meio de uma série de sessões, instalações e workshops em Amsterdã."
-
-#~ msgctxt "body.485bd442-233d-41eb-a4b0-bb18f14f5f3b.text"
-#~ msgid "<b>The deadline for the MozFest 2022 Call for Proposals has been extended.</b> <a id=\"a1\">Submit your proposal</a> by end of day November 14th."
-#~ msgstr "<b>O prazo da chamada de propostas do MozFest 2022 foi prorrogado.</b> <a id=\"a1\">Envie sua proposta</a> até o final do dia 14 de novembro."
 
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.buttons.649b9400-bd0b-441e-8ed2-4866bfc84f48.label"
 #~ msgid "Register here"
@@ -383,10 +379,6 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.description"
 #~ msgid "Secure your ticket to access hundreds of sessions and interactive exhibits, and connect with our exciting global community."
 #~ msgstr "Garanta seu ingresso para acessar centenas de sessões e exibições interativas e conecte-se com nossa empolgante comunidade global."
-
-#~ msgctxt "body.4b85120f-7ba6-4074-ab58-518c8b891517.altText"
-#~ msgid "We're nominated for a Webby - Vote for us"
-#~ msgstr "Fomos indicados para um prêmio Webby - Vote em nós"
 
 #~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
 #~ msgid "Early Bird Tickets Now Available"
@@ -502,10 +494,6 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "The goal of this contribute-a-thon will be to increase participation for varying dialects and accents of Kiswahili that are typically underrepresented in voice databases."
 #~ msgstr "O objetivo desta maratona de contribuições será aumentar a participação de variados dialetos e sotaques de Kiswahili, que normalmente são sub-representados em bases de dados de voz."
 
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.subheading_link.d0133b5c-0e7e-40c2-81b9-fe2d34a2d326.label"
-#~ msgid "March 7th, 2022 19:00 CET (UTC+1)"
-#~ msgstr "7 de março de 2022 19:00 CET (UTC+1)"
-
 #~ msgctxt "banner_cta_label"
 #~ msgid "Watch the live stream"
 #~ msgstr "Assista à transmissão ao vivo"
@@ -521,6 +509,10 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.body"
 #~ msgid "Join us as we open our 5 day festival with Mozilla, hear from the community on why MozFest is so important as a place to connect and collaborate."
 #~ msgstr "Junte-se a nós ao abrir nosso festival de 5 dias com a Mozilla, ouça a comunidade sobre por que o MozFest é tão importante como lugar para se conectar e colaborar."
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.subheading_link.d0133b5c-0e7e-40c2-81b9-fe2d34a2d326.label"
+#~ msgid "March 7th, 2022 19:00 CET (UTC+1)"
+#~ msgstr "7 de março de 2022 19:00 CET (UTC+1)"
 
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.body"
 #~ msgid "How do we refocus and realign AI as a mechanism for systems thinking and manifestation – revealing the correlation and connectedness of all things."
@@ -614,6 +606,10 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "Build your watch list"
 #~ msgstr "Monte sua lista de vídeos"
 
+#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
+#~ msgid "Start building your own watch list now on the <a id=\"a1\">MozFest Plaza</a>"
+#~ msgstr "Comece agora a montar sua própria lista de vídeos no <a id=\"a1\">MozFest Plaza</a>"
+
 #~ msgctxt "body.06f30f9c-5296-40a6-ad74-ee58057a37ec"
 #~ msgid "Catch up with MozFest On-Demand!"
 #~ msgstr "Com o MozFest sob demanda, você pode recuperar o que perdeu!"
@@ -645,6 +641,14 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.buttons.40a6fc5f-dce6-4b47-84de-a67c06be8378.label"
 #~ msgid "Watch On-Demand"
 #~ msgstr "Assista quando quiser"
+
+#~ msgctxt "body.4b85120f-7ba6-4074-ab58-518c8b891517.caption"
+#~ msgid "Click here to vote for us"
+#~ msgstr "Clique aqui para votar em nós"
+
+#~ msgctxt "body.4b85120f-7ba6-4074-ab58-518c8b891517.altText"
+#~ msgid "We're nominated for a Webby - Vote for us"
+#~ msgstr "Fomos indicados para um prêmio Webby - Vote em nós"
 
 #~ msgctxt "body.4b85120f-7ba6-4074-ab58-518c8b891517.captionURL"
 #~ msgid "https://vote.webbyawards.com/PublicVoting#/2022/virtual-remote/features/best-festival-or-conference"
@@ -795,3 +799,7 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgctxt "body.30f6d395-8ebc-4ddf-8e60-25ce914d7a17.URL"
 #~ msgid "https://schedule.mozillafestival.org/session/CMKSKH-1"
 #~ msgstr "https://schedule.mozillafestival.org/session/CMKSKH-1"
+
+#~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.heading"
+#~ msgid "Movement Building from Home"
+#~ msgstr "Construção de impulso a partir de casa"

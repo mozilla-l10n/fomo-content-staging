@@ -17,7 +17,7 @@ msgid ""
 "keep the anxiety of reading all these privacy policies at bay. Unfortunately, this researcher didn't actually read their privacy policy until doing our research for these mental health apps."
 msgstr ""
 "\"Respire fundo\". Estas são as primeiras palavras que você vê quando abre este aplicativo de meditação. Então você ouve sons suaves de chuva na floresta ou ondas na praia. Ah... já estou me "
-"sentindo mais calmo. O Calm é um aplicativo popular para meditar, relaxar e ajudar você a adormecer. Seu tenso pesquisador de privacidade aqui em <i>*Privacidade Não Incluída</i> de fato se apoiou "
+"sentindo mais calmo. O Calm é um aplicativo popular para meditar, relaxar e ajudar você a adormecer. Seu tenso pesquisador de privacidade aqui em <i>*Privacidade não incluída</i> de fato se apoiou "
 "nele por vários anos para ajudar a controlar a ansiedade de ler todas essas políticas de privacidade. Infelizmente, este pesquisador não leu sua política de privacidade até fazer nossa pesquisa para"
 " esses aplicativos de saúde mental."
 

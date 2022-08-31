@@ -8,8 +8,8 @@ msgstr ""
 
 msgctxt "name"
 msgid "Dating Apps"
-msgstr ""
+msgstr "Aplikacje randkowe"
 
 msgctxt "description"
 msgid "*Privacy Not Included Dating Apps Reviews"
-msgstr ""
+msgstr "*Prywatność do nabycia osobno Recenzje aplikacji randkowych"

@@ -8,8 +8,10 @@ msgstr ""
 
 msgctxt "name"
 msgid "Rally Citizens"
-msgstr ""
+msgstr "Mobilizacja obywateli"
 
 msgctxt "description"
 msgid "Issues like privacy, trustworthy AI, and digital rights impact all of us who use the internet. Mozilla helps translate them and empower meaningful change."
 msgstr ""
+"Kwestie takie jak prywatność, godna zaufania sztuczna inteligencja i prawa cyfrowe mają wpływ na wszystkich, którzy korzystają z Internetu. Mozilla pomaga je zrozumieć i wywierać faktyczny wpływ na "
+"ich kształt."

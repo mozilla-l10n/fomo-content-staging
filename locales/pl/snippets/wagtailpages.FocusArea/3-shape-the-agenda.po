@@ -8,8 +8,8 @@ msgstr ""
 
 msgctxt "name"
 msgid "Shape the Agenda"
-msgstr ""
+msgstr "Wpływ na program"
 
 msgctxt "description"
 msgid "We publish open-source research and host global convenings to make ideas like trustworthy AI mainstream."
-msgstr ""
+msgstr "Publikujemy badania open source i organizujemy globalne spotkania, aby wspierać idee takie jak godna zaufania sztuczna inteligencja."

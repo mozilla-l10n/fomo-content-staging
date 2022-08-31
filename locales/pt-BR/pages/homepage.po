@@ -19,12 +19,12 @@ msgid "Homepage"
 msgstr "Página inicial"
 
 msgctxt "hero_headline"
-msgid "The Lessons We Carry from MozFest 2022"
-msgstr "As lições que levamos do MozFest 2022"
+msgid "*Privacy Not Included — Reproductive Health Apps Edition"
+msgstr "*Privacidade não incluída — Edição de aplicativos de saúde reprodutiva"
 
 msgctxt "hero_button_text"
-msgid "Learn More"
-msgstr "Saiba mais"
+msgid "Read The Guide"
+msgstr "Ler o guia"
 
 msgctxt "spotlight_headline"
 msgid "All About Common Voice"
@@ -191,10 +191,6 @@ msgstr "Logotipo da Consumers International"
 #~ msgid "*privacy not included — Mental Health Apps Edition"
 #~ msgstr "*privacidade não incluída — Edição sobre aplicativos de saúde mental"
 
-#~ msgctxt "hero_button_text"
-#~ msgid "Read The Guide"
-#~ msgstr "Ler o guia"
-
 #~ msgctxt "hero_headline"
 #~ msgid "Trustworthy AI Working Groups"
 #~ msgstr "Grupos de trabalho de inteligência artificial confiável"
@@ -202,3 +198,27 @@ msgstr "Logotipo da Consumers International"
 #~ msgctxt "hero_button_text"
 #~ msgid "Call For Projects Now Open"
 #~ msgstr "A inscrição de projetos está aberta"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Learn More"
+#~ msgstr "Saiba mais"
+
+#~ msgctxt "hero_headline"
+#~ msgid "The Lessons We Carry from MozFest 2022"
+#~ msgstr "As lições que levamos do MozFest 2022"
+
+#~ msgctxt "hero_headline"
+#~ msgid "The Return of IRL Podcast"
+#~ msgstr "O retorno do podcast IRL"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Learn More Here"
+#~ msgstr "Saiba mais"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Mozilla Festival 2023 Dates Announced!"
+#~ msgstr "Anunciadas as datas do Mozilla Festival 2023!"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Find Out When"
+#~ msgstr "Descubra quando"

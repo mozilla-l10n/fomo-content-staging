@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Home Office"
-msgstr ""
+msgstr "Domowe biuro"

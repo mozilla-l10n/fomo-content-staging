@@ -21,3 +21,27 @@ msgstr "Le blog de Mozilla propose des guides pour améliorer votre vie en ligne
 msgctxt "header"
 msgid "Blog"
 msgstr "Blog"
+
+msgctxt "callout_box.371b9b36-cdae-4d74-a0d4-e57e2f7548f2.title"
+msgid "Listen to the first episode of Mozilla’s podcast IRL"
+msgstr "Écoutez le premier épisode du podcast IRL de Mozilla"
+
+msgctxt "callout_box.371b9b36-cdae-4d74-a0d4-e57e2f7548f2.body"
+msgid ""
+"Where should tech builders draw the line on AI for military or surveillance? Join our wonderful new host, Bridget Todd, for a look at AI in real life and find out what it’s like to sound the alarm "
+"from inside a big tech company."
+msgstr ""
+"Où les personnes qui créent des technologies doivent-elles fixer les limites de l’IA pour des usages militaires ou de surveillance ? Rejoignez notre excellente nouvelle animatrice, Bridget Todd, "
+"pour un tour d’horizon de l’IA dans la vie réelle et découvrez ce que c’est que de tirer la sonnette d’alarme au sein d’une grande entreprise de technologie."
+
+msgctxt "callout_box.371b9b36-cdae-4d74-a0d4-e57e2f7548f2.link_button_text"
+msgid "Listen Now"
+msgstr "Écouter maintenant"
+
+msgctxt "callout_box.371b9b36-cdae-4d74-a0d4-e57e2f7548f2.link_button_url"
+msgid "https://2022.internethealthreport.org/episodes/the-tech-we-wont-build/"
+msgstr "https://2022.internethealthreport.org/episodes/the-tech-we-wont-build/"
+
+#~ msgctxt "callout_box.371b9b36-cdae-4d74-a0d4-e57e2f7548f2.title"
+#~ msgid "Listen to the first episode of the Mozilla’s podcast IRL"
+#~ msgstr "Écoutez le premier épisode du podcast IRL de Mozilla"

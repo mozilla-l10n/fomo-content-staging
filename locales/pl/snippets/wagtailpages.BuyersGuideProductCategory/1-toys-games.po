@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Toys &amp; Games"
-msgstr ""
+msgstr "Gry i zabawki"

@@ -8,8 +8,8 @@ msgstr ""
 
 msgctxt "name"
 msgid "Connect Leaders"
-msgstr ""
+msgstr "Liderzy razem"
 
 msgctxt "description"
 msgid "We support activists and thought leaders shaping the future of our online lives."
-msgstr ""
+msgstr "Wspieramy aktywistów i świadomych przywódców kształtujących przyszłość naszego życia online."

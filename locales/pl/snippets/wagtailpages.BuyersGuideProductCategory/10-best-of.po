@@ -8,8 +8,8 @@ msgstr ""
 
 msgctxt "name"
 msgid "Best Of"
-msgstr ""
+msgstr "To, co najlepsze"
 
 msgctxt "description"
 msgid "*Privacy Not Included Best Of Category"
-msgstr ""
+msgstr "*Prywatność do nabycia osobno Najlepsze w kategorii"

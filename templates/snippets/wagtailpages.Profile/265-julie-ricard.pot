@@ -1,0 +1,6 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-08-31 09:54:51.468376+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"

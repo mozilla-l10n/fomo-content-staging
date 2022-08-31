@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Wearables"
-msgstr ""
+msgstr "Do noszenia"

@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-08-31 09:55:00.255398+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 430253a3-9d0f-4806-b242-d9e7806637a1\n"
+
+msgctxt "name"
+msgid "Insights"
+msgstr "Insights"
+
+msgctxt "title"
+msgid "Insights Blog"
+msgstr "Blog Insights"
+
+msgctxt "intro"
+msgid "Mozilla Insights: analyzing and documenting internet health and trustworthy AI to help shape a human-centered internet."
+msgstr "Mozilla Insights : analyser et documenter la santé d’Internet et de l’IA digne de confiance pour aider à façonner un Internet centré sur les humains."

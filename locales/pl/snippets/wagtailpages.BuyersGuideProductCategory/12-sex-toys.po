@@ -8,8 +8,8 @@ msgstr ""
 
 msgctxt "name"
 msgid "Sex Toys"
-msgstr ""
+msgstr "Zabawki erotyczne"
 
 msgctxt "description"
 msgid "*Privacy Not Included Sex Toys Reviews"
-msgstr ""
+msgstr "*Prywatność do nabycia osobno Recenzje zabawek erotycznych"

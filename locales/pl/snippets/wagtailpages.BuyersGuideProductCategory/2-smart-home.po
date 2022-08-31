@@ -8,8 +8,8 @@ msgstr ""
 
 msgctxt "name"
 msgid "Smart Home"
-msgstr ""
+msgstr "Inteligentny dom"
 
 msgctxt "description"
 msgid "*Privacy Not Included Smart Home Reviews"
-msgstr ""
+msgstr "*Prywatność do nabycia osobno Recenzje urządzeń do inteligentnych domów"

@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Health &amp; Exercise"
-msgstr ""
+msgstr "Zdrowie i ruch"
