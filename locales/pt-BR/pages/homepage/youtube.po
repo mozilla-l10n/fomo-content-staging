@@ -12,11 +12,11 @@ msgstr "Uma visão geral de como a Mozilla trabalha para que o Youtube seja mais
 
 msgctxt "intro"
 msgid ""
-"Since 2019 Mozilla has advocated for YouTube to be more open and transparent about their recommendation system. Our original research, investigations and campaigns have demonstrated how YouTube's "
-"recommendations can harm people, and our policy recommendations propose solutions."
+"Since 2019, Mozilla has done research on YouTube's recommendation system and advocated for greater transparency. Our original research, investigations and campaigns have demonstrated some of the "
+"systemtic problems with YouTube's recommendation algorithm, and we suggest solutions.."
 msgstr ""
-"Desde 2019, a Mozilla defende que o YouTube seja mais aberto e transparente sobre seu sistema de recomendação. Nossas pesquisas, investigações e campanhas originais demonstram como as recomendações "
-"do YouTube podem prejudicar pessoas. Nossas recomendações de políticas propõem soluções."
+"Desde 2019, a Mozilla tem feito pesquisas sobre o sistema de recomendação do YouTube e defende maior transparência. Nossas pesquisas, investigações e campanhas originais têm demonstrado alguns dos "
+"problemas sistêmicos no algoritmo de recomendação do YouTube e sugerimos soluções."
 
 msgctxt "body.4388a4ad-110a-4295-a89c-3dd9192ec9ee"
 msgid "Current Work"
@@ -41,6 +41,28 @@ msgstr "<a id=\"a1\">Veja a extensão</a>"
 msgctxt "body.b1337b84-9dcf-4230-9f7d-c05161236fe1.url"
 msgid "https://foundation.mozilla.org/youtube/regretsreporter/"
 msgstr "https://foundation.mozilla.org/youtube/regretsreporter/"
+
+msgctxt "body.f483b696-baa3-4b6e-86cd-9bddf1377b2c.altText"
+msgid "Illustration showing a maze of YouTube UI elements with broken connections"
+msgstr "Ilustração mostrando um labirinto de elementos de interface do usuário do YouTube com conexões rompidas"
+
+msgctxt "body.f483b696-baa3-4b6e-86cd-9bddf1377b2c.text"
+msgid "YouTube User Control Study Findings"
+msgstr "Descobertas do estudo de controle de usuários do YouTube"
+
+msgctxt "body.f483b696-baa3-4b6e-86cd-9bddf1377b2c.text"
+msgid "Mozilla scrutinized YouTube to determine how much control people actually have over the platform’s recommendation algorithm, powered by data donated by 22,722 people. This is what we learned."
+msgstr ""
+"A Mozilla analisou o YouTube detalhadamente para determinar quanto controle as pessoas realmente têm sobre o algoritmo de recomendação da plataforma, alimentado por dados doados por 22.722 pessoas. "
+"Veja o que constatamos."
+
+msgctxt "body.f483b696-baa3-4b6e-86cd-9bddf1377b2c.text"
+msgid "<a id=\"a1\">Read the findings</a>"
+msgstr "<a id=\"a1\">Leia as decobertas</a>"
+
+msgctxt "body.f483b696-baa3-4b6e-86cd-9bddf1377b2c.url"
+msgid "https://foundation.mozilla.org/youtube/user-controls/"
+msgstr "https://foundation.mozilla.org/youtube/user-controls/"
 
 msgctxt "body.f460122b-a061-430a-adf7-2ac25d9470e9"
 msgid "Past Work"
@@ -153,6 +175,22 @@ msgctxt "body.c67dfc73-3457-4bdc-b68b-a9af7ec117af.grid_items.37e95641-a33e-4c66
 msgid "July 2021 - Using data contributed by 37,380 RegretsReporter users, Mozilla releases first findings into YouTube's recommendations."
 msgstr "Julho de 2021 - Usando dados fornecidos por 37.380 usuários da extensão RegretsReporter, a Mozilla divulgou as primeiras descobertas sobre recomendações do YouTube."
 
+msgctxt "body.c67dfc73-3457-4bdc-b68b-a9af7ec117af.grid_items.c6156ee0-8ff3-4c21-8f8c-122ca1281e32.caption"
+msgid "Sept 2022 - Mozilla releases a report scrutinizing YouTube to determine how much control people actually have over the platform’s recommendation algorithm."
+msgstr "Setembro de 2022 - A Mozilla divulga um relatório de exame detalhado do YouTube para determinar quanto controle as pessoas realmente têm sobre o algoritmo de recomendação da plataforma."
+
 msgctxt "title"
-msgid "YouTube Regrets"
-msgstr "Arrependimentos no YouTube"
+msgid "YouTube"
+msgstr "YouTube"
+
+#~ msgctxt "title"
+#~ msgid "YouTube Regrets"
+#~ msgstr "Arrependimentos no YouTube"
+
+#~ msgctxt "intro"
+#~ msgid ""
+#~ "Since 2019 Mozilla has advocated for YouTube to be more open and transparent about their recommendation system. Our original research, investigations and campaigns have demonstrated how YouTube's "
+#~ "recommendations can harm people, and our policy recommendations propose solutions."
+#~ msgstr ""
+#~ "Desde 2019, a Mozilla defende que o YouTube seja mais aberto e transparente sobre seu sistema de recomendação. Nossas pesquisas, investigações e campanhas originais demonstram como as recomendações "
+#~ "do YouTube podem prejudicar pessoas. Nossas recomendações de políticas propõem soluções."

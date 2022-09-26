@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "seo_title"
 msgid "Advocacy"
-msgstr "Militantisme"
+msgstr "Plaidoyer"
 
 msgctxt "search_description"
 msgid "Mozilla Advocacy: building a Global Movement to Protect the Free and Open Web"
@@ -16,7 +16,7 @@ msgstr "Nous créons un mouvement mondial pour protéger le Web libre et ouvert"
 
 msgctxt "title"
 msgid "Advocacy"
-msgstr "Militantisme"
+msgstr "Plaidoyer"
 
 msgctxt "intro"
 msgid "Building a Global Movement to Protect the Free and Open Web"

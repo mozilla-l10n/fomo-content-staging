@@ -16,4 +16,4 @@ msgstr "Insights-blog"
 
 msgctxt "intro"
 msgid "Mozilla Insights: analyzing and documenting internet health and trustworthy AI to help shape a human-centered internet."
-msgstr ""
+msgstr "Mozilla Insights: it analysearjen en dokumintearjen fan ynternetsûnens en betroubere AI om te helpen in minske-sintraal ynternet te foarmjen."

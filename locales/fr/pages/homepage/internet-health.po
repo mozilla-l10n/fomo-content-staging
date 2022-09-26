@@ -19,18 +19,10 @@ msgid "What do we mean by “internet health?”"
 msgstr "Qu’entendons-nous par « santé d’Internet » ?"
 
 msgctxt "body.9dfbbdc5-a033-48c7-a2cd-b25c9eb81c2c"
-msgid "A healthy internet is one in which privacy, openness and inclusion are the norms. These are values Mozilla has championed from the beginning in our"
+msgid "A healthy internet is one in which privacy, openness and inclusion are the norms. These are values Mozilla has championed from the beginning in our <a id=\"a1\">Mozilla Manifesto</a>."
 msgstr ""
 "Un Internet en bonne santé est un espace où le respect de la vie privée, l’ouverture et l’inclusion sont la norme. Ce sont des valeurs que Mozilla défend depuis sa création et qui sont inscrites "
-"dans le"
-
-msgctxt "body.9dfbbdc5-a033-48c7-a2cd-b25c9eb81c2c"
-msgid "Mozilla Manifesto"
-msgstr "Manifeste de Mozilla"
-
-msgctxt "body.9dfbbdc5-a033-48c7-a2cd-b25c9eb81c2c"
-msgid "."
-msgstr "."
+"dans le <a id=\"a1\">Manifeste de Mozilla</a>."
 
 msgctxt "body.87c0b41b-2380-475e-b600-466a6542ce8c"
 msgid ""
@@ -118,12 +110,12 @@ msgstr ""
 
 msgctxt "body.189678b0-797e-46f3-88b2-fb2f5343f24d.altText"
 msgid "Advocacy"
-msgstr "Militantisme"
+msgstr "Plaidoyer"
 
 msgctxt "body.189678b0-797e-46f3-88b2-fb2f5343f24d.text"
 msgid "Mozilla’s <a id=\"a1\">advocacy work</a> brings people together from around the world to educate and fight for privacy, inclusion, literacy, and all principles of a healthy internet."
 msgstr ""
-"Les <a id=\"a1\">activités de militantisme</a> de Mozilla mobilisent des citoyens du monde entier pour enseigner et lutter pour le respect de la vie privée, l’inclusion, la démocratisation des "
+"Les <a id=\"a1\">activités de plaidoyer</a> de Mozilla mobilisent des citoyens du monde entier pour enseigner et lutter pour le respect de la vie privée, l’inclusion, la démocratisation des "
 "compétences web et pour tous les principes qui favorisent un Internet plus sain."
 
 msgctxt "body.3a8ab2c0-8ffa-4e09-b52d-430e789652f3.altText"
@@ -133,3 +125,17 @@ msgstr "IRL"
 msgctxt "body.3a8ab2c0-8ffa-4e09-b52d-430e789652f3.text"
 msgid "The <a id=\"a1\">IRL podcast</a> provides an in-depth look at how different internet health issues affect how people interact with technology and live their lives."
 msgstr "Le <a id=\"a1\">podcast IRL</a> livre une analyse approfondie sur la façon dont différentes problématiques liées à la santé d’Internet affectent nos vies et nos interactions avec la technologie."
+
+#~ msgctxt "body.9dfbbdc5-a033-48c7-a2cd-b25c9eb81c2c"
+#~ msgid "A healthy internet is one in which privacy, openness and inclusion are the norms. These are values Mozilla has championed from the beginning in our"
+#~ msgstr ""
+#~ "Un Internet en bonne santé est un espace où le respect de la vie privée, l’ouverture et l’inclusion sont la norme. Ce sont des valeurs que Mozilla défend depuis sa création et qui sont inscrites "
+#~ "dans le"
+
+#~ msgctxt "body.9dfbbdc5-a033-48c7-a2cd-b25c9eb81c2c"
+#~ msgid "Mozilla Manifesto"
+#~ msgstr "Manifeste de Mozilla"
+
+#~ msgctxt "body.9dfbbdc5-a033-48c7-a2cd-b25c9eb81c2c"
+#~ msgid "."
+#~ msgstr "."

@@ -19,12 +19,12 @@ msgid "Homepage"
 msgstr "Startpagina"
 
 msgctxt "hero_headline"
-msgid "*Privacy Not Included — Reproductive Health Apps Edition"
-msgstr "*Privacy niet inbegrepen – Reproductieve gezondheidsapps-editie"
+msgid "Does YouTube’s Dislike Button Even Work?"
+msgstr "Werkt de Vind-ik-niet-leuk-knop van YouTube eigenlijk wel?"
 
 msgctxt "hero_button_text"
-msgid "Read The Guide"
-msgstr "De Gids lezen"
+msgid "Here’s What We Found"
+msgstr "Dit zijn onze bevindingen"
 
 msgctxt "spotlight_headline"
 msgid "All About Common Voice"
@@ -201,12 +201,16 @@ msgstr "Consumers International-logo"
 #~ msgstr "*privacy niet inbegrepen – Geestelijke gezondheidsapps-editie"
 
 #~ msgctxt "hero_button_text"
-#~ msgid "Call For Projects Now Open"
-#~ msgstr "Oproep voor projecten nu geopend"
+#~ msgid "Read The Guide"
+#~ msgstr "De Gids lezen"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Trustworthy AI Working Groups"
 #~ msgstr "Werkgroepen Betrouwbare AI"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Call For Projects Now Open"
+#~ msgstr "Oproep voor projecten nu geopend"
 
 #~ msgctxt "hero_headline"
 #~ msgid "The Lessons We Carry from MozFest 2022"
@@ -223,3 +227,7 @@ msgstr "Consumers International-logo"
 #~ msgctxt "hero_button_text"
 #~ msgid "Learn More Here"
 #~ msgstr "Meer info hier"
+
+#~ msgctxt "hero_headline"
+#~ msgid "*Privacy Not Included — Reproductive Health Apps Edition"
+#~ msgstr "*Privacy niet inbegrepen – Reproductieve gezondheidsapps-editie"

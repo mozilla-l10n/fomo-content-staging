@@ -144,13 +144,13 @@ msgctxt "ai_can_user_control_helptext"
 msgid "Sleep sensing can be turned on and off at any point."
 msgstr "La détection du sommeil peut être activée et désactivée à tout moment."
 
-#~ msgctxt "price"
-#~ msgid "89.99"
-#~ msgstr "89,99"
-
 #~ msgctxt "privacy_policy_helptext"
 #~ msgid "All things Nest have been moved over to the Google Store. Google has a page detailing their privacy principles for Nest products."
 #~ msgstr "Tout ce qui concerne Nest a été déplacé vers le Google Store. Google dispose d’une page détaillant ses principes de confidentialité en ce qui concerne les produits Nest."
+
+#~ msgctxt "price"
+#~ msgid "89.99"
+#~ msgstr "89,99"
 
 #~ msgctxt "blurb"
 #~ msgid ""

@@ -16,8 +16,10 @@ msgstr "Gearwurkingen &amp; Prizen-blog"
 
 msgctxt "intro"
 msgid "<a id=\"a1\">Mozilla Fellowships</a> cover a range of topics and disciplines within the broader mission of Internet Health, upholding the internet as a force for good."
-msgstr ""
+msgstr "<a id=\"a1\">Mozilla Fellowships</a> behannelet in rige ûnderwerpen en dissiplinen binnen de bredere missy fan ynternetsûnens, wêrby’t it ynternet yn stân hâlden wurdt as in krêft foar it goede."
 
 msgctxt "intro"
 msgid "While <a id=\"a1\">Mozilla Awards</a> supports educators, artists, technologists, and innovators of all types committed to making the internet better for their communities and us all."
 msgstr ""
+"<a id=\"a1\">Mozilla Awards</a> stipet alderlei soarten dosinten, keunstners, technologen en ynnovators, dy't harren ynsette om it ynternet better te meitsjen foar harren mienskippen en ús "
+"allegearre."

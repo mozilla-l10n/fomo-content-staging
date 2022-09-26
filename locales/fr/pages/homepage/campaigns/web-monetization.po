@@ -1,0 +1,156 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-09-26 07:04:37.282384+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 9728f7d0-8626-43eb-a89e-3027476ae710\n"
+
+msgctxt "seo_title"
+msgid "Web Monetization at Mozilla Foundation"
+msgstr "Web Monetization à la Fondation Mozilla"
+
+msgctxt "intro"
+msgid "At Mozilla Foundation we’re currently experimenting with Web Monetization."
+msgstr "À la Fondation Mozilla, nous expérimentons actuellement Web Monetization."
+
+msgctxt "body.d3514301-2dbc-4387-abbf-a29eba71fc64"
+msgid "What does this mean?"
+msgstr "Qu’est-ce que cela signifie ?"
+
+msgctxt "body.d3514301-2dbc-4387-abbf-a29eba71fc64"
+msgid ""
+"Web Monetization is essentially an open, native web payments standard that allows creators to accept “streaming payments” for their work on platforms where monetization is enabled. Our intention in "
+"enabling this across our properties is part of Mozilla’s broader effort to promote initiatives that support a diverse, inclusive, decentralized, open and private web."
+msgstr ""
+"Web Monetization est une norme de paiement web ouverte et native qui permet aux créateurs d’accepter des « paiements en continu » pour leur travail sur des plateformes où la monétisation est "
+"activée. Notre objectif en permettant cela via nos sites fait partie d’un effort plus large de Mozilla visant à promouvoir des initiatives qui soutiennent un Web diversifié, inclusif, décentralisé, "
+"ouvert et privé."
+
+msgctxt "body.d3514301-2dbc-4387-abbf-a29eba71fc64"
+msgid "Through this experiment we aim to:"
+msgstr "À travers cette expérimentation, nous visons à :"
+
+msgctxt "body.d3514301-2dbc-4387-abbf-a29eba71fc64"
+msgid "gain a first hand experience in implementing a model for supporting content that is not reliant on advertising"
+msgstr "acquérir une expérience de première main dans la mise en œuvre d’un modèle de prise en charge de contenu qui ne dépend pas de la publicité ;"
+
+msgctxt "body.d3514301-2dbc-4387-abbf-a29eba71fc64"
+msgid "support and contribute to the growth of Web Monetization as a standard"
+msgstr "soutenir et contribuer à la croissance de Web Monetization en tant que norme ;"
+
+msgctxt "body.d3514301-2dbc-4387-abbf-a29eba71fc64"
+msgid "share what we learn"
+msgstr "partager nos enseignements."
+
+msgctxt "body.d3514301-2dbc-4387-abbf-a29eba71fc64"
+msgid "You can read about the launch of our experiment <a id=\"a1\">here</a>."
+msgstr "Vous pouvez en apprendre davantage sur le lancement de notre test <a id=\"a1\">ici</a>."
+
+msgctxt "body.d3514301-2dbc-4387-abbf-a29eba71fc64"
+msgid ""
+"All content on our website will continue to be freely accessible to all users; we would never put it behind a paywall or require subscriptions. Only users with a Web Monetization enabled extension "
+"in their browsers will be aware of the implementation."
+msgstr ""
+"L’ensemble du contenu de notre site web continuera d’être librement accessible à tous les internautes ; nous ne le mettrons jamais derrière un paywall ni n’exigerons d’abonnements. Seuls les "
+"internautes disposant d’une extension prenant en charge Web Monetization dans leurs navigateurs seront informés de son implémentation."
+
+msgctxt "body.4dc26e0f-82ce-4a40-b962-0b1d43f17435"
+msgid "Are there other ways you’re engaging with Web Monetization?"
+msgstr "Participez-vous d’autres manières à Web Monetization ?"
+
+msgctxt "body.4dc26e0f-82ce-4a40-b962-0b1d43f17435"
+msgid ""
+"In 2019, Mozilla <a id=\"a1\">joined up</a> with Coil and Creative Commons to support <a id=\"a2\">Grant for the Web</a> as an initiative to empower individual creators and galvanize an alternative "
+"business model for online content. The fund is administered by the <a id=\"a3\">Interledger Foundation</a> and aims ot kickstart a and support a healthy, vibrant ecosystem of web monetized tools, "
+"content, and resources."
+msgstr ""
+"En 2019, Mozilla <a id=\"a1\">s’est associée</a> à Coil et Creative Commons pour soutenir <a id=\"a2\">Grant for the Web</a> en tant qu’initiative visant à rendre autonomes les créateurs individuels"
+" et à stimuler un modèle économique alternatif pour le contenu en ligne. Le fonds est administré par la <a id=\"a3\">Interledger Foundation</a> et vise à lancer et à soutenir un écosystème sain et "
+"dynamique d’outils, de contenus et de ressources monétisés sur le Web."
+
+msgctxt "body.4dc26e0f-82ce-4a40-b962-0b1d43f17435"
+msgid "<a id=\"a1\">A $100million investment to Reshape the Economics of the Web</a>"
+msgstr "<a id=\"a1\">Un investissement de 100 millions de dollars pour remodeler l’économie du Web</a>"
+
+msgctxt "body.4dc26e0f-82ce-4a40-b962-0b1d43f17435"
+msgid ""
+"Over the past year we have also been working to drive greater public discourse that at once a) explores alternative business models for the web, and b) shifts control away from data collection and "
+"targeted advertising towards business models that respect privacy and directly reward content creators."
+msgstr ""
+"Au cours de l’année écoulée, nous nous sommes également efforcés de susciter un débat public plus large qui a) explore des modèles économiques alternatifs pour le Web, et b) déplace le contrôle de "
+"la collecte de données et de la publicité ciblée vers des modèles économiques qui respectent la vie privée et récompensent directement les créateurs de contenu."
+
+msgctxt "body.4dc26e0f-82ce-4a40-b962-0b1d43f17435"
+msgid "Mozfest: Dialogues &amp; Debates <a id=\"a1\">Alternative Business Models for the Web</a>"
+msgstr "Débats et discussions du MozFest : <a id=\"a1\">Alternative Business Models for the Web</a>"
+
+msgctxt "body.4dc26e0f-82ce-4a40-b962-0b1d43f17435"
+msgid "<a id=\"a1\">Introducing Two New Fellows to Reshape the Economics of the Web</a>"
+msgstr "<a id=\"a1\">Présentation de deux nouveaux titulaires de bourse pour remodeler l’économie du Web</a>"
+
+msgctxt "body.4dc26e0f-82ce-4a40-b962-0b1d43f17435"
+msgid "<a id=\"a1\">An update on our experiment with Web Monetization</a>"
+msgstr "<a id=\"a1\">Des nouvelles de notre expérimentation avec Web Monetization</a>"
+
+msgctxt "body.4dc26e0f-82ce-4a40-b962-0b1d43f17435"
+msgid "Mozfest: Dialogues &amp; Debates <a id=\"a1\">Alternatives to Digital Ads</a>"
+msgstr "Débats et discussions du MozFest : <a id=\"a1\">Alternatives to Digital Ads</a>"
+
+msgctxt "body.cbb6329c-e5e2-41a8-b76c-cf1c674b4452"
+msgid "What other resources are available?"
+msgstr "Quelles autres ressources sont disponibles ?"
+
+msgctxt "body.cbb6329c-e5e2-41a8-b76c-cf1c674b4452"
+msgid "‘<a id=\"a1\">Web Monetization Like I’m 5</a>’ by Sultan Akintunde Bolaji"
+msgstr "« <a id=\"a1\">Web Monetization Like I’m 5</a> » par Sultan Akintunde Bolaji"
+
+msgctxt "body.cbb6329c-e5e2-41a8-b76c-cf1c674b4452"
+msgid "‘<a id=\"a1\">How to Web Monetization Your Content and Support Creators Online with Micropayments</a>’ by Amber Case"
+msgstr "« <a id=\"a1\">How to Web Monetization Your Content and Support Creators Online with Micropayments</a> » par Amber Case"
+
+msgctxt "body.cbb6329c-e5e2-41a8-b76c-cf1c674b4452"
+msgid "‘<a id=\"a1\">A Web Monetization Story</a>’ by Sharon Wang and Elliot Evans"
+msgstr "« <a id=\"a1\">A Web Monetization Story</a> » par Sharon Wang et Elliot Evans"
+
+msgctxt "body.cbb6329c-e5e2-41a8-b76c-cf1c674b4452"
+msgid "<a id=\"a1\">Web Monetization Research Papers</a>, collected by Story to Go"
+msgstr "<a id=\"a1\">Documents de recherche sur Web Monetization</a>, recueillis  par Story to Go"
+
+msgctxt "body.cbb6329c-e5e2-41a8-b76c-cf1c674b4452"
+msgid "Web Monetization <a id=\"a1\">docs, specification, and Github repo</a>"
+msgstr "Web Monetization : <a id=\"a1\">documentation, spécification et dépôt GitHub</a>"
+
+msgctxt "body.cbb6329c-e5e2-41a8-b76c-cf1c674b4452"
+msgid "The Interledger Protocol: <a id=\"a1\">Getting Started</a>"
+msgstr "Le protocole Interledger : <a id=\"a1\">pour débuter</a>"
+
+msgctxt "body.cbb6329c-e5e2-41a8-b76c-cf1c674b4452"
+msgid "<a id=\"a1\">Grant for the Web</a>"
+msgstr "<a id=\"a1\">Grant for the Web</a>"
+
+msgctxt "body.1b256aad-40b6-44f8-9dab-e126df90d61b"
+msgid "Are there other ways Mozilla is working to shift economic power on the web?"
+msgstr "Mozilla change-t-elle le pouvoir économique sur le Web d’autres façons ?"
+
+msgctxt "body.1b256aad-40b6-44f8-9dab-e126df90d61b"
+msgid ""
+"In 2021 Mozilla launched a Data Futures Lab to explore ways in which responsible data governance has the potential to shift technology, society and our economy<b>.</b> <a id=\"a1\"><b>Learn "
+"more</b></a>"
+msgstr ""
+"En 2021, Mozilla a lancé le Data Futures Lab pour explorer les moyens par lesquels une gouvernance responsable des données a le potentiel de faire évoluer la technologie, la société et notre "
+"économie. <a id=\"a1\"><b>En savoir plus</b></a>"
+
+msgctxt "body.1b256aad-40b6-44f8-9dab-e126df90d61b"
+msgid "Mozilla Fellows have researched <a id=\"a1\">privacy friendly digital ads</a> and explored the <a id=\"a2\">dangers of AI-powered advertising</a>."
+msgstr "Les titulaires de bourses Mozilla ont étudié les <a id=\"a1\">publicités numériques respectueuses de la vie privée</a> et exploré les <a id=\"a2\">dangers de la publicité assistée par l’IA</a>."
+
+msgctxt "body.1b256aad-40b6-44f8-9dab-e126df90d61b"
+msgid "And we’ve been leading efforts to encourage <a id=\"a1\">social media platforms</a> to make more transparent who is buying ads on their platform, and for what purpose. <a id=\"a2\">Learn more</a>"
+msgstr ""
+"Et nous menons des efforts pour encourager les <a id=\"a1\">plateformes de réseaux sociaux</a> à être plus transparentes par rapport à qui achète des publicités sur leur plateforme, et dans quel "
+"but. <a id=\"a2\">En savoir plus</a>"
+
+msgctxt "title"
+msgid "Web Monetization"
+msgstr "Web Monetization"

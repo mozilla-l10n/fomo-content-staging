@@ -236,6 +236,10 @@ msgstr "Las cámaras de Ring comienzan a grabar cuando la cámara detecta movimi
 #~ "Las cámaras Ring usan detección de movimiento en la propia cámara para empezar a grabar. Una encuestra filtrada que permitía a los probadores Beta puntuar funciones incluía «detección facial». Ring "
 #~ "no usa tecnología de reconocimiento facial a día de hoy, pero las cosas siempre pueden cambiar."
 
+#~ msgctxt "title"
+#~ msgid "Ring Video Doorbell"
+#~ msgstr "Ring Video Doorbell"
+
 #~ msgctxt "manage_vulnerabilities_helptext"
 #~ msgid "Amazon has a bug bounty program, which means that anyone who finds a security issue and discloses it responsibly may get paid. https://hackerone.com/ring"
 #~ msgstr ""
@@ -253,10 +257,6 @@ msgstr "Las cámaras de Ring comienzan a grabar cuando la cámara detecta movimi
 #~ msgstr ""
 #~ "Puedes borrar tus grabaciones en tu cuenta cuando quieras. Puedes solicitar que los datos se borren. Puedes negarte a los servicios de análisis de terceros en Ring.com y en la aplicación Ring desde "
 #~ "el Centro de Control."
-
-#~ msgctxt "title"
-#~ msgid "Ring Video Doorbell"
-#~ msgstr "Ring Video Doorbell"
 
 #~ msgctxt "blurb"
 #~ msgid ""

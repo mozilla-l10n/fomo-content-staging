@@ -90,7 +90,7 @@ msgstr "<a id=\"a1\">Lire les lettres →</a>"
 
 msgctxt "body.355a0bf0-7ebe-4f3c-a2c6-c7e0de1e1d55.label"
 msgid "See all our advocacy work"
-msgstr "Voir tous nos efforts de militantisme"
+msgstr "Voir tous nos efforts de plaidoyer"
 
 msgctxt "body.355a0bf0-7ebe-4f3c-a2c6-c7e0de1e1d55.URL"
 msgid "https://foundation.mozilla.org/advocacy/"
@@ -197,8 +197,8 @@ msgstr ""
 "propres campagnes et programmes éducatifs."
 
 msgctxt "body.a65e0b39-3ffa-4203-b8f4-e05b09092bdb.altText"
-msgid "colorful illustration containing speech bubbles, buttons and other shapes"
-msgstr "illustration colorée contenant des bulles, des boutons et d’autres formes"
+msgid "colorful illustration made up of shades of purple with black lines and dots, and containing IRL and mozilla logos"
+msgstr "illustration colorée composée de nuances de violet avec des lignes et des points noirs, et contenant les logos IRL et mozilla"
 
 msgctxt "body.a65e0b39-3ffa-4203-b8f4-e05b09092bdb.text"
 msgid "Internet Health Report"
@@ -257,3 +257,7 @@ msgstr "https://foundation.mozilla.org/insights/"
 msgctxt "title"
 msgid "What we do"
 msgstr "Nos initiatives"
+
+#~ msgctxt "body.a65e0b39-3ffa-4203-b8f4-e05b09092bdb.altText"
+#~ msgid "colorful illustration containing speech bubbles, buttons and other shapes"
+#~ msgstr "illustration colorée contenant des bulles, des boutons et d’autres formes"

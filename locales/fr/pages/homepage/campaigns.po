@@ -20,4 +20,4 @@ msgstr ""
 
 msgctxt "header"
 msgid "Advocacy"
-msgstr "Militantisme"
+msgstr "Plaidoyer"

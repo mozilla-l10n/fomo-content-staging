@@ -8,8 +8,8 @@ msgstr ""
 
 msgctxt "name"
 msgid "Internet Health Report"
-msgstr ""
+msgstr "Ripoti ya Maadili ya Mtandao"
 
 msgctxt "title"
 msgid "Internet Health Report Blog"
-msgstr ""
+msgstr "Blogu ya Ripoti ya Maadili ya Mtandao"

@@ -8,12 +8,12 @@ msgstr ""
 
 msgctxt "name"
 msgid "Mozilla Festival"
-msgstr ""
+msgstr "Festival Mozilla"
 
 msgctxt "title"
 msgid "Mozilla Festival"
-msgstr ""
+msgstr "Festival Mozilla"
 
 msgctxt "intro"
 msgid "<a id=\"a1\">Mozilla Festival</a> is the world's leading event for and by the open Internet movement."
-msgstr ""
+msgstr "El <a id=\"a1\">Festival Mozilla</a> es el evento más importante del mundo realizado por y para el movimiento de la Internet abierta."

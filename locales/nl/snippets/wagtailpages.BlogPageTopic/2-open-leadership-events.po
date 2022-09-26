@@ -8,12 +8,14 @@ msgstr ""
 
 msgctxt "name"
 msgid "Open Leadership &amp; Events"
-msgstr ""
+msgstr "Open Leiderschap &amp; Evenementen"
 
 msgctxt "title"
 msgid "Open Leadership &amp; Events Blog"
-msgstr ""
+msgstr "Open Leiderschap &amp; Evenementen-blog"
 
 msgctxt "intro"
 msgid "The <a id=\"a1\">Open Leadership and Events</a> team supports a series of programs and events designed to build and protect a healthy internet — and our best online lives."
 msgstr ""
+"Het <a id=\"a1\">Open Leiderschap en Evenementen</a>-team ondersteunt een reeks programma’s en evenementen die zijn ontworpen om een gezond internet te bouwen en te beschermen – en ons beste online "
+"leven."

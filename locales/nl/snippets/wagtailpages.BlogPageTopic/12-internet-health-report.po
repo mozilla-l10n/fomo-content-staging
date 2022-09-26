@@ -12,4 +12,4 @@ msgstr "Internet Health Report"
 
 msgctxt "title"
 msgid "Internet Health Report Blog"
-msgstr ""
+msgstr "Internet Health Report-blog"

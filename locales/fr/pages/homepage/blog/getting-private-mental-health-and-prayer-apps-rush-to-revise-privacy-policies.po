@@ -72,7 +72,7 @@ msgstr ""
 
 msgctxt "body.e2b9d2d1-0553-4413-966d-c88e50bf4b89.attribution"
 msgid "Ashley Boyd, Vice President Advocacy and Engagement Mozilla"
-msgstr "Ashley Boyd, vice-présidente Militantisme et Engagement de Mozilla"
+msgstr "Ashley Boyd, vice-présidente Plaidoyer et Engagement de Mozilla"
 
 msgctxt "body.96170b26-b114-44bf-9fea-e4615a74d10f"
 msgid "Here’s a round-up of the notable changes:"

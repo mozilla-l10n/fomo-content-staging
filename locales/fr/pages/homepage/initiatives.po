@@ -49,7 +49,7 @@ msgstr "En savoir plus"
 
 msgctxt "initiative_sections.96801444-2f2b-4c23-94d7-59673392b94c.sectionHeader"
 msgid "Advocacy"
-msgstr "Militantisme"
+msgstr "Plaidoyer"
 
 msgctxt "initiative_sections.96801444-2f2b-4c23-94d7-59673392b94c.sectionCopy"
 msgid ""

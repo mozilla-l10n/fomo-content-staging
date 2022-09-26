@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "seo_title"
 msgid "Mozilla Foundation"
-msgstr "Fundacja Mozilla"
+msgstr "Mozilla Foundation"
 
 msgctxt "search_description"
 msgid "Mozilla is a global nonprofit dedicated to keeping the Internet a global public resource that is open and accessible to all."
@@ -19,11 +19,11 @@ msgid "Homepage"
 msgstr "Strona główna"
 
 msgctxt "hero_headline"
-msgid "*Privacy Not Included — Reproductive Health Apps Edition"
+msgid "Does YouTube’s Dislike Button Even Work?"
 msgstr ""
 
 msgctxt "hero_button_text"
-msgid "Read The Guide"
+msgid "Here’s What We Found"
 msgstr ""
 
 msgctxt "spotlight_headline"
@@ -98,10 +98,18 @@ msgctxt "partner_logos.929c99af-30b5-43e9-868d-348dff76a7cb.name"
 msgid "Consumers International logo"
 msgstr "Logo Consumers International"
 
+#~ msgctxt "hero_headline"
+#~ msgid "Mozilla Festival 2023 Dates Announced!"
+#~ msgstr "Ogłoszenie daty Festiwalu Mozilla 2023!"
+
 #~ msgctxt "hero_button_text"
 #~ msgid "Find Out When"
 #~ msgstr "Poznaj termin"
 
+#~ msgctxt "hero_button_text"
+#~ msgid "Read The Guide"
+#~ msgstr "Przeczytaj przewodnik"
+
 #~ msgctxt "hero_headline"
-#~ msgid "Mozilla Festival 2023 Dates Announced!"
-#~ msgstr "Ogłoszenie daty Festiwalu Mozilla 2023!"
+#~ msgid "*Privacy Not Included — Reproductive Health Apps Edition"
+#~ msgstr "*Prywatność do nabycia osobno — edycja aplikacji dotyczących zdrowia reprodukcyjnego"

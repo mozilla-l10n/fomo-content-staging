@@ -8,18 +8,20 @@ msgstr ""
 
 msgctxt "name"
 msgid "Moz News Beat"
-msgstr ""
+msgstr "Moz News Beat"
 
 msgctxt "title"
 msgid "Moz News Beat"
-msgstr ""
+msgstr "Moz News Beat"
 
 msgctxt "intro"
 msgid ""
 "Every week our <b><i>Mozilla News Beat</i></b> takes a fun look at what’s going on in the world and on the internet from awesome to awful. Like what you see? <a id=\"a1\">Sign up</a> to get it "
 "delivered to your email inbox every week."
 msgstr ""
+"Kila wiki habari zetu kwenye blogu ya <b><i>\"Mozilla News Beat\"</i></b> zinaangazia habari zenye kupendeza kuhusiana na kinachoendelea duniani na kwenye mtandao kutoka kwa habari za kushangaza "
+"hadi za kutisha. Je, unapendezwa na unachoona? <a id=\"a1\">Jisajili</a> ili upate habari kama hizi kupitia barua pepe kila wiki."
 
 msgctxt "share_description"
 msgid "Every week our Mozilla News Beat takes a fun look at what’s going on in the world and on the internet, from awesome to awful."
-msgstr ""
+msgstr "Kila wiki Mozilla News Beat inaangazia habari zenye kupendeza kuhusiana na kinachoendelea duniani na kwenye mtandao kutoka kwa habari za kushangaza hadi za kutisha."

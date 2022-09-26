@@ -8,11 +8,11 @@ msgstr ""
 
 msgctxt "name"
 msgid "Advocacy"
-msgstr "Militantisme"
+msgstr "Plaidoyer"
 
 msgctxt "title"
 msgid "Advocacy Blog"
-msgstr "Blog militantisme"
+msgstr "Blog de plaidoyer"
 
 msgctxt "intro"
 msgid ""

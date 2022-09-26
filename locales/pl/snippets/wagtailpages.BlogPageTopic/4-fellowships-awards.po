@@ -8,16 +8,16 @@ msgstr ""
 
 msgctxt "name"
 msgid "Fellowships &amp; Awards"
-msgstr ""
+msgstr "Fellowships & Awards"
 
 msgctxt "title"
 msgid "Fellowships &amp; Awards Blog"
-msgstr ""
+msgstr "Fellowships & Awards"
 
 msgctxt "intro"
 msgid "<a id=\"a1\">Mozilla Fellowships</a> cover a range of topics and disciplines within the broader mission of Internet Health, upholding the internet as a force for good."
-msgstr ""
+msgstr "<a id=\"a1\">Mozilla Fellowships</a> obejmują szereg tematów i dyscyplin w ramach szerszej misji Internet Health, podtrzymując Internet jako trwałą potęgę."
 
 msgctxt "intro"
 msgid "While <a id=\"a1\">Mozilla Awards</a> supports educators, artists, technologists, and innovators of all types committed to making the internet better for their communities and us all."
-msgstr ""
+msgstr "<a id=\"a1\">Mozilla Awards</a> wspiera pedagogów, artystów, technologów i wszelkiego rodzaju innowatorów dbających o to, by Internet był coraz lepszy dla ich społeczności i dla nas wszystkich."

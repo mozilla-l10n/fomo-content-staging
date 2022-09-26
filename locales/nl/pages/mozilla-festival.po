@@ -434,26 +434,6 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "Watch the recording"
 #~ msgstr "Opnamen bekijken"
 
-#~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.5f7692cf-6d0d-43de-b993-759ac762f0fd.caption"
-#~ msgid "Mutale Nkonde"
-#~ msgstr "Mutale Nkonde"
-
-#~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.34d6b491-3634-4860-8c73-625492e50ec6.alt_text"
-#~ msgid "Nanjira Sambuli"
-#~ msgstr "Nanjira Sambuli"
-
-#~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.34d6b491-3634-4860-8c73-625492e50ec6.caption"
-#~ msgid "Nanjira Sambuli"
-#~ msgstr "Nanjira Sambuli"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.subheading_link.df00eb66-3e07-4b82-84d7-7cfb1b1a6976.label"
-#~ msgid "Community Plenary"
-#~ msgstr "Plenaire bijeenkomst van de gemeenschap"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.buttons.40a6fc5f-dce6-4b47-84de-a67c06be8378.label"
-#~ msgid "Watch On-Demand"
-#~ msgstr "On-demand kijken"
-
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.subheading_link.5cc865b6-7fb6-4069-b47f-22a271ff8289.label"
 #~ msgid "On-Demand"
 #~ msgstr "On-Demand"
@@ -469,10 +449,6 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgstr ""
 #~ "MozFest is afhankelijk van zijn vrijwilligers om de best mogelijke ervaring voor al zijn deelnemers te leveren. De oproep om deel te nemen aan het cohort van MozFest Virtual Volunteers van dit jaar "
 #~ "is nu geopend."
-
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.title"
-#~ msgid "Ethical Dilemma Cafe, Manchester"
-#~ msgstr "Ethisch Dilemma-café, Manchester"
 
 #~ msgctxt "cta_button_label"
 #~ msgid "Secure your ticket"
@@ -493,10 +469,6 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
 #~ msgid "<b>Get an insider look at confirmed, interactive sessions on the</b> <a id=\"a1\"><b>MozFest Plaza</b></a>"
 #~ msgstr "<b>Krijg een inkijkje op bevestigde, interactieve sessies op de</b> <a id=\"a1\"><b>MozFest Plaza</b></a>"
-
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.subheading_link.968ba3c3-9870-4c9e-becb-31aa775e4445.label"
-#~ msgid "April 26-27, 2022"
-#~ msgstr "26-27 april 2022"
 
 #~ msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
 #~ msgid "Get Your MozFest Ticket Here"
@@ -574,10 +546,6 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "Expand new partnerships and deepen engagement with MozFest Fringe Events. Connect and collaborate early, and often."
 #~ msgstr "Breid nieuwe partnerschappen uit en verdiep uw betrokkenheid met MozFest Fringe-evenementen. Maak vroeg en vaak verbinding en werk vroeg en vaak samen."
 
-#~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.5f7692cf-6d0d-43de-b993-759ac762f0fd.url"
-#~ msgid "https://www.mozillafestival.org/on-demand/previous-festivals"
-#~ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
-
 #~ msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
 #~ msgid "Secure Your MozFest Ticket Here"
 #~ msgstr "Stel hier uw MozFest-ticket veilig"
@@ -637,6 +605,22 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.5f7692cf-6d0d-43de-b993-759ac762f0fd.alt_text"
 #~ msgid "Mutale Nkonde"
 #~ msgstr "Mutale Nkonde"
+
+#~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.5f7692cf-6d0d-43de-b993-759ac762f0fd.caption"
+#~ msgid "Mutale Nkonde"
+#~ msgstr "Mutale Nkonde"
+
+#~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.5f7692cf-6d0d-43de-b993-759ac762f0fd.url"
+#~ msgid "https://www.mozillafestival.org/on-demand/previous-festivals"
+#~ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
+
+#~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.34d6b491-3634-4860-8c73-625492e50ec6.alt_text"
+#~ msgid "Nanjira Sambuli"
+#~ msgstr "Nanjira Sambuli"
+
+#~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.34d6b491-3634-4860-8c73-625492e50ec6.caption"
+#~ msgid "Nanjira Sambuli"
+#~ msgstr "Nanjira Sambuli"
 
 #~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.34d6b491-3634-4860-8c73-625492e50ec6.url"
 #~ msgid "https://www.mozillafestival.org/on-demand/previous-festivals"
@@ -702,6 +686,14 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "Watch On-Demand"
 #~ msgstr "On-demand kijken"
 
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.subheading_link.df00eb66-3e07-4b82-84d7-7cfb1b1a6976.label"
+#~ msgid "Community Plenary"
+#~ msgstr "Plenaire bijeenkomst van de gemeenschap"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.buttons.40a6fc5f-dce6-4b47-84de-a67c06be8378.label"
+#~ msgid "Watch On-Demand"
+#~ msgstr "On-demand kijken"
+
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.body"
 #~ msgid "Rewatch the opening of our 5 day festival with Mozilla, hear from the community on why MozFest is so important as a place to connect and collaborate."
 #~ msgstr "Kijk de opening van ons 5-daagse festival terug met Mozilla, hoor van de gemeenschap waarom MozFest zo belangrijk is als een plek om contact te maken en samen te werken."
@@ -725,6 +717,14 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.title"
 #~ msgid "Sustaining Momentum with MozFest Fringe Events"
 #~ msgstr "Momentum behouden met MozFest Fringe Events"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.title"
+#~ msgid "Ethical Dilemma Cafe, Manchester"
+#~ msgstr "Ethisch Dilemma-café, Manchester"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.subheading_link.968ba3c3-9870-4c9e-becb-31aa775e4445.label"
+#~ msgid "April 26-27, 2022"
+#~ msgstr "26-27 april 2022"
 
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.body"
 #~ msgid "Explore and understand the power of your data and algorithms, and how they shape our world today. This is an in-person event."
@@ -770,6 +770,10 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "https://vote.webbyawards.com/PublicVoting#/2022/virtual-remote/features/best-festival-or-conference"
 #~ msgstr "https://vote.webbyawards.com/PublicVoting#/2022/virtual-remote/features/best-festival-or-conference"
 
+#~ msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
+#~ msgid "Secure Your MozFest On-Demand Ticket Here"
+#~ msgstr "Stel hier uw MozFest On-Demand-ticket veilig"
+
 #~ msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
 #~ msgid "This panel is slated for June 2, 2022 at 16:00 UTC (18:00 CET / 12:00 ET / 21:30 IST)"
 #~ msgstr "Dit panel is gepland op 2 juni 2022 om 16:00 UTC (18:00 CET / 12:00 ET / 21:30 IST)"
@@ -810,10 +814,6 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "Join Toshi Reagon, in conversation with Adrienne Maree Brown, both stewards of “Parable of the Sower” by Octavia E. Butler, as they discuss its influence on their artistic practice."
 #~ msgstr ""
 #~ "Sluit aan bij Toshi Reagon, in gesprek met Adrienne Maree Brown, beide stewards van “Parable of the Sower” van Octavia E. Butler, terwijl ze de invloed ervan op hun artistieke praktijk bespreken."
-
-#~ msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
-#~ msgid "Secure Your MozFest On-Demand Ticket Here"
-#~ msgstr "Stel hier uw MozFest On-Demand-ticket veilig"
 
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.76efa64e-673f-40b7-9b98-1ddf5e28cd63.title"
 #~ msgid "Attend a MozFest Fringe Event"

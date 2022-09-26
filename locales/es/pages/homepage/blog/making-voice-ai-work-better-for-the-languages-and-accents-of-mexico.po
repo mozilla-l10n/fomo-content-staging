@@ -548,14 +548,6 @@ msgid "Making Voice AI work better for the languages and accents of Mexico"
 msgstr "Trabajamos para que la tecnología de voz funcione mejor para los idiomas y acentos de México"
 
 #~ msgctxt "body.4cfff7ec-296c-4797-8354-568e05f99ea7"
-#~ msgid ""
-#~ "<a id=\"a1\">commonvoice@mozilla.com</a> for more information<br/><br/><br/>This event is a collaboration made possible by the Mozilla Foundation, Instituto de Investigaciones Antropológicas, "
-#~ "Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, Indiana University Gateway Mexico, Mozilla Mexico and our partners at NVIDIA."
-#~ msgstr ""
-#~ "Escríbenos a <a id=\"a1\">commonvoice@mozilla.com</a> si deseas más información.<br/><br/><br/>Este evento es una colaboración entre la Fundación Mozilla, el Instituto de Investigaciones "
-#~ "Antropológicas, el Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, Indiana University Gateway México, Mozilla México y nuestros socios de NVIDIA."
-
-#~ msgctxt "body.4cfff7ec-296c-4797-8354-568e05f99ea7"
 #~ msgid "Cash prize hackathon for speech-enabled software in all Mexican languages"
 #~ msgstr "Hackatón con premios en efectivo para software habilitado para voz en todos los idiomas mexicanos"
 
@@ -566,6 +558,14 @@ msgstr "Trabajamos para que la tecnología de voz funcione mejor para los idioma
 #~ msgctxt "body.4cfff7ec-296c-4797-8354-568e05f99ea7"
 #~ msgid "CONTACT"
 #~ msgstr "CONTACTO"
+
+#~ msgctxt "body.4cfff7ec-296c-4797-8354-568e05f99ea7"
+#~ msgid ""
+#~ "<a id=\"a1\">commonvoice@mozilla.com</a> for more information<br/><br/><br/>This event is a collaboration made possible by the Mozilla Foundation, Instituto de Investigaciones Antropológicas, "
+#~ "Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, Indiana University Gateway Mexico, Mozilla Mexico and our partners at NVIDIA."
+#~ msgstr ""
+#~ "Escríbenos a <a id=\"a1\">commonvoice@mozilla.com</a> si deseas más información.<br/><br/><br/>Este evento es una colaboración entre la Fundación Mozilla, el Instituto de Investigaciones "
+#~ "Antropológicas, el Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, Indiana University Gateway México, Mozilla México y nuestros socios de NVIDIA."
 
 #~ msgctxt "body.4cfff7ec-296c-4797-8354-568e05f99ea7"
 #~ msgid "Panels, demos and workshops on languages of Mexico / issue names"

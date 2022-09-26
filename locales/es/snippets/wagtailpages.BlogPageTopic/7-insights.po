@@ -8,12 +8,12 @@ msgstr ""
 
 msgctxt "name"
 msgid "Insights"
-msgstr ""
+msgstr "Insights"
 
 msgctxt "title"
 msgid "Insights Blog"
-msgstr ""
+msgstr "Blog de Insights"
 
 msgctxt "intro"
 msgid "Mozilla Insights: analyzing and documenting internet health and trustworthy AI to help shape a human-centered internet."
-msgstr ""
+msgstr "Mozilla Insights: analizar y documentar la salud de Internet y la IA confiable para ayudar a dar forma a una Internet centrada en los humanos."

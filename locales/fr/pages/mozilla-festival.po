@@ -524,6 +524,10 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ "Le MozFest dépend de ses bénévoles pour offrir la meilleure expérience possible à toutes les personnes qui y participent. L’appel à rejoindre la cohorte virtuelle de bénévoles pour le MozFest de "
 #~ "cette année est maintenant ouvert."
 
+#~ msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
+#~ msgid "Secure Your MozFest Ticket Here"
+#~ msgstr "Réservez votre billet pour le MozFest ici"
+
 #~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
 #~ msgid "Early Bird Tickets Now Available"
 #~ msgstr "Les tickets Early Bird du MozFest sont en vente"
@@ -539,10 +543,6 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.subheading_link.5cc865b6-7fb6-4069-b47f-22a271ff8289.label"
 #~ msgid "February 10, 2022 18:30 CET (UTC+1)"
 #~ msgstr "10 février 2022 18:30 CET (UTC+1)"
-
-#~ msgctxt "body.4b85120f-7ba6-4074-ab58-518c8b891517.caption"
-#~ msgid "Click here to vote for us"
-#~ msgstr "Cliquez ici pour voter pour nous"
 
 #~ msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
 #~ msgid "Get Your MozFest Ticket Here"
@@ -572,10 +572,6 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "Start building your own schedule now on the <a id=\"a1\">MozFest Plaza</a>"
 #~ msgstr "Commencez dès maintenant à créer votre programme sur la <a id=\"a1\">MozFest Plaza</a>"
 
-#~ msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
-#~ msgid "Secure Your MozFest Ticket Here"
-#~ msgstr "Réservez votre billet pour le MozFest ici"
-
 #~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
 #~ msgid "Expand new partnerships and deepen engagement with MozFest Fringe Events. Connect and collaborate early, and often."
 #~ msgstr "Développez de nouveaux partenariats et approfondissez l’engagement avec les Fringe Events du MozFest. Entrez en contact et collaborez en amont et de façon récurrente."
@@ -591,30 +587,6 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
 #~ msgid "Start planning now. Support session development and build momentum towards the festival."
 #~ msgstr "Commencez à planifier dès maintenant. Apportez votre aide au développement des sessions et créez une dynamique en amont du festival."
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.body"
-#~ msgid ""
-#~ "Mozilla Common Voice and MozFest are working to improve the representation of Kiswahili in Common Voice; an open, crowd-sourced database designed to help people create voice recognition applications"
-#~ " that better understand a diverse set of languages and accents."
-#~ msgstr ""
-#~ "Mozilla Common Voice et le MozFest s’efforcent d’améliorer la représentation du kiswahili dans Common Voice ; une base de données ouverte et collaborative conçue pour aider les gens à créer des "
-#~ "applications de reconnaissance vocale qui comprennent mieux un ensemble de langues et d’accents variés."
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.title"
-#~ msgid "Building Trustworthy AI with Tech &amp; Society"
-#~ msgstr "Créer une IA digne de confiance avec la tech et la société"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.title"
-#~ msgid "The Grand MozFest Web Monetization Experiment"
-#~ msgstr "La grande expérience MozFest Web Monetization"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.subheading_link.d08c6e9c-98e7-48d0-ba22-86a21decf064.label"
-#~ msgid "February 15th, 2022 16:00 CET (UTC+1)"
-#~ msgstr "15 février 2022 16:00 CET (UTC+1)"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.body"
-#~ msgid "Join us in learning about and discovering how you can participate in the Grand MozFest Web Monetization Experiment at MozFest 2022."
-#~ msgstr "Rejoignez-nous pour découvrir et savoir comment vous pouvez participer à la grande expérience MozFest Web Monetization au MozFest 2022."
 
 #~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
 #~ msgid "<b>Get an insider look at confirmed, and build your schedule of interactive sessions on the</b> <a id=\"a1\"><b>MozFest Plaza</b></a>"
@@ -643,6 +615,30 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.subheading_link.df00eb66-3e07-4b82-84d7-7cfb1b1a6976.label"
 #~ msgid "March 3rd, 2022 09:00 CET (UTC+1)"
 #~ msgstr "3 mars 2022 09:00 CET (UTC+1)"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.body"
+#~ msgid ""
+#~ "Mozilla Common Voice and MozFest are working to improve the representation of Kiswahili in Common Voice; an open, crowd-sourced database designed to help people create voice recognition applications"
+#~ " that better understand a diverse set of languages and accents."
+#~ msgstr ""
+#~ "Mozilla Common Voice et le MozFest s’efforcent d’améliorer la représentation du kiswahili dans Common Voice ; une base de données ouverte et collaborative conçue pour aider les gens à créer des "
+#~ "applications de reconnaissance vocale qui comprennent mieux un ensemble de langues et d’accents variés."
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.title"
+#~ msgid "Building Trustworthy AI with Tech &amp; Society"
+#~ msgstr "Créer une IA digne de confiance avec la tech et la société"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.title"
+#~ msgid "The Grand MozFest Web Monetization Experiment"
+#~ msgstr "La grande expérience MozFest Web Monetization"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.subheading_link.d08c6e9c-98e7-48d0-ba22-86a21decf064.label"
+#~ msgid "February 15th, 2022 16:00 CET (UTC+1)"
+#~ msgstr "15 février 2022 16:00 CET (UTC+1)"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.body"
+#~ msgid "Join us in learning about and discovering how you can participate in the Grand MozFest Web Monetization Experiment at MozFest 2022."
+#~ msgstr "Rejoignez-nous pour découvrir et savoir comment vous pouvez participer à la grande expérience MozFest Web Monetization au MozFest 2022."
 
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.body"
 #~ msgid "The goal of this contribute-a-thon will be to increase participation for varying dialects and accents of Kiswahili that are typically underrepresented in voice databases."
@@ -861,13 +857,13 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "A series of lightning talks from leaders in the space on the competition themes and demos of resources to participate."
 #~ msgstr "Une série de conférences éclair des leaders du domaine à propos des thèmes et des démos de ressources pour participer au concours."
 
+#~ msgctxt "body.4b85120f-7ba6-4074-ab58-518c8b891517.caption"
+#~ msgid "Click here to vote for us"
+#~ msgstr "Cliquez ici pour voter pour nous"
+
 #~ msgctxt "body.3d2b6d17-80b8-4fdd-8af2-82d1de15f706.URL"
 #~ msgid "https://vote.webbyawards.com/PublicVoting#/2022/virtual-remote/features/best-festival-or-conference"
 #~ msgstr "https://vote.webbyawards.com/PublicVoting#/2022/virtual-remote/features/best-festival-or-conference"
-
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.76efa64e-673f-40b7-9b98-1ddf5e28cd63.subheading_link.729cc9ca-3d67-4253-8dce-cfa64d8373fd.label"
-#~ msgid "On-Demand"
-#~ msgstr "À la demande"
 
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.subheading_link.968ba3c3-9870-4c9e-becb-31aa775e4445.label"
 #~ msgid "May 17, 2022 at 20:00 CET"
@@ -888,6 +884,10 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
 #~ msgid "Secure Your MozFest On-Demand Ticket Here"
 #~ msgstr "Réservez votre billet pour le MozFest à la demande ici"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.76efa64e-673f-40b7-9b98-1ddf5e28cd63.subheading_link.729cc9ca-3d67-4253-8dce-cfa64d8373fd.label"
+#~ msgid "On-Demand"
+#~ msgstr "À la demande"
 
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.76efa64e-673f-40b7-9b98-1ddf5e28cd63.body"
 #~ msgid "Expand new partnerships and deepen engagement with MozFest Fringe Events. Connect and collaborate early, and often."
