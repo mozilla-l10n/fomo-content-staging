@@ -117,10 +117,10 @@ msgstr ""
 #~ msgid "You can request that data be deleted. You can opt out of Additional Usage Data collection in the Sonos App."
 #~ msgstr "Vous pouvez demander la suppression des données. Vous pouvez aussi refuser la collecte de données d’utilisation supplémentaires dans l’application Sonos."
 
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Nothing to do really except enjoy your speaker!"
-#~ msgstr "Rien à faire à part profiter de votre enceinte !"
-
 #~ msgctxt "track_record_details"
 #~ msgid "An email sent by Sonos to 450 customers revealed all of their email addresses to each other in January 2020."
 #~ msgstr "En janvier 2020, un e-mail envoyé par Sonos à 450 client·e·s a exposé leurs adresses e-mail à tou·te·s les destinataires."
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Nothing to do really except enjoy your speaker!"
+#~ msgstr "Rien à faire à part profiter de votre enceinte !"

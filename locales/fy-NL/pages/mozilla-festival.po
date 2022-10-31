@@ -36,8 +36,8 @@ msgid "Save The Date"
 msgstr "Bewarje de datum"
 
 msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
-msgid "MozFest 2023, taking place from March 20-24th. Join 1000s of activists in diverse global movements fighting for a more humane digital world."
-msgstr "MozFest 2023, fynt plak fan 20-24 maart. Doch mei mei tûzenen aktivisten yn ferskate wrâldwide bewegingen dy’t fjochtsje foar in minskliker digitale wrâld."
+msgid "MozFest Virtual will take place 20-24 March, 2023. MozFest House in Amsterdam will take place 8-10 June, 2023."
+msgstr "MozFest Virtual sil plak fine fan 20-24 maart 2023. MozFest House yn Amsterdam sil plak fine fan 8-10 juny 2023."
 
 msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
 msgid "Stay Connected"
@@ -67,8 +67,8 @@ msgid "sneak peak icon"
 msgstr "piktogram tipje fan de sluier"
 
 msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
-msgid "Add the dates for MozFest 2023 to your calendar, on <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> or <a id=\"a3\">download the invitation</a>."
-msgstr "Foegje de datums foar MozFest 2023 ta oan jo aginda, op <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> of <a id=\"a3\">download de útnûging </a>."
+msgid "Add the dates for MozFest Virtual 2023 to your calendar, on <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> or <a id=\"a3\">download the invitation</a>."
+msgstr "Foegje de datums foar MozFest Virtual 2023 ta oan jo aginda, yn <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> of <a id=\"a3\">download de útnûging </a>."
 
 msgctxt "body.4ef1c6a8-1f8d-463b-b6e0-d014c2474355.altText"
 msgid "A photograph of a person sitting with their laptop on the stairs of the MozFest House venue, next to them is an orange and pink sign with the MozFest house logo."
@@ -457,6 +457,10 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgstr "Opnamen besjen"
 
 #~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
+#~ msgid "Tickets Now Available"
+#~ msgstr "Kaarten no beskikber"
+
+#~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
 #~ msgid "Early Bird Tickets Now Available"
 #~ msgstr "Tickets foar betide fûgels binne no beskikber"
 
@@ -504,6 +508,10 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "The goal of this contribute-a-thon will be to increase participation for varying dialects and accents of Kiswahili that are typically underrepresented in voice databases."
 #~ msgstr "It doel fan dizze contribute-a-thon is om de dielnimming te fergrutsjen foar ferskate dialekten en aksinten fan it Kiswahili, dy’t trochgeans ûnderfertsjintwurdige binne yn spraakdatabases."
 
+#~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
+#~ msgid "Start planning now. Support session development and build momentum towards the festival."
+#~ msgstr "Begjin no mei plannen. Stypje ûntwikkeling fan sesjes en bou momentum op rjochting it festival."
+
 #~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
 #~ msgid "Join us online, 7-11 March 2022, to connect with others around the world who have a single mission: a better, healthier internet."
 #~ msgstr "Doch fan 7 oant 11 maart 2022 online mei, om yn kontakt te kommen mei oaren fan oer de hiele wrâld dy't ien missy hawwe: in better, sûner ynternet."
@@ -517,16 +525,8 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgstr "Momentum bouwe"
 
 #~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
-#~ msgid "Start planning now. Support session development and build momentum towards the festival."
-#~ msgstr "Begjin no mei plannen. Stypje ûntwikkeling fan sesjes en bou momentum op rjochting it festival."
-
-#~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
 #~ msgid "Expand new partnerships and deepen engagement with MozFest Fringe Events. Connect and collaborate early, and often."
 #~ msgstr "Wreidzje nije gearwurkingsferbannen út en ferdjipje jo belutsenens by MozFest Fringe-eveneminten. Meitsje betiid en faak ferbining en wurkje betiid en faak tegearre."
-
-#~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
-#~ msgid "Tickets Now Available"
-#~ msgstr "Kaarten no beskikber"
 
 #~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
 #~ msgid "Start building your own schedule now on the <a id=\"a1\">MozFest Plaza</a>"
@@ -852,3 +852,11 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.heading"
 #~ msgid "Movement Building from Home"
 #~ msgstr "Bewegingsopbou fan hûs út"
+
+#~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
+#~ msgid "MozFest 2023, taking place from March 20-24th. Join 1000s of activists in diverse global movements fighting for a more humane digital world."
+#~ msgstr "MozFest 2023, fynt plak fan 20-24 maart. Doch mei mei tûzenen aktivisten yn ferskate wrâldwide bewegingen dy’t fjochtsje foar in minskliker digitale wrâld."
+
+#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
+#~ msgid "Add the dates for MozFest 2023 to your calendar, on <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> or <a id=\"a3\">download the invitation</a>."
+#~ msgstr "Foegje de datums foar MozFest 2023 ta oan jo aginda, op <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> of <a id=\"a3\">download de útnûging </a>."

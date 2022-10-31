@@ -12,7 +12,7 @@ msgstr "Plaidoyer"
 
 msgctxt "title"
 msgid "Advocacy Blog"
-msgstr "Blog de plaidoyer"
+msgstr "Blog du plaidoyer"
 
 msgctxt "intro"
 msgid ""

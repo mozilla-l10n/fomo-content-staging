@@ -163,10 +163,6 @@ msgstr "Google utiliza el procesamiento del lenguaje natural para entenderte y s
 #~ "posible que Google llegue a conocerte muy bien, quizás demasiado. Puede que te reconozcan por todas las veces que has pedido pizza margarita. Y que sepan que no tienes pareja (¿quién pide pizza "
 #~ "margarita?). Es broma, saben que no tienes pareja por todas las pedicuras que has reservado para uno. Puede que dé igual que Google te conozca tan bien. O puede que dé yuyu..."
 
-#~ msgctxt "ai_helptext"
-#~ msgid "Google publishes academic papers about its AI research (https://ai.google/) and makes several tools available via open source. https://ai.google/tools/"
-#~ msgstr "Google publica artículos académicos sobre sus estudios en materia de IA (https://ai.google/) y pone varias herramientas de código abierto a disposición del público. https://ai.google/tools/"
-
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid "Google says that your personal data is never sold to third parties."
 #~ msgstr "Google asevera que nunca vende tus datos personales a terceros."
@@ -188,3 +184,7 @@ msgstr "Google utiliza el procesamiento del lenguaje natural para entenderte y s
 #~ msgstr ""
 #~ "En 2018 se reveló información personal tras varios incidentes derivados del acceso por parte de desarrolladores de la app, exposición en las apps móviles o un bug en la API Google+. Google también "
 #~ "ha almacenado datos de ubicación sin permiso."
+
+#~ msgctxt "ai_helptext"
+#~ msgid "Google publishes academic papers about its AI research (https://ai.google/) and makes several tools available via open source. https://ai.google/tools/"
+#~ msgstr "Google publica artículos académicos sobre sus estudios en materia de IA (https://ai.google/) y pone varias herramientas de código abierto a disposición del público. https://ai.google/tools/"

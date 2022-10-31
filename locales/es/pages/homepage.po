@@ -20,7 +20,7 @@ msgstr "Inicio"
 
 msgctxt "hero_headline"
 msgid "Does YouTube’s Dislike Button Even Work?"
-msgstr ""
+msgstr "¿Acaso funciona el botón «No me gusta» de YouTube?"
 
 msgctxt "hero_button_text"
 msgid "Here’s What We Found"
