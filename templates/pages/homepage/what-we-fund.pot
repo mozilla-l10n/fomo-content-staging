@@ -79,12 +79,24 @@ msgctxt "body.eb8905d8-edd1-4f9b-954a-e54e945d7f5c"
 msgid "Current Funding Opportunities"
 msgstr ""
 
-msgctxt "body.37e2a6d6-1e06-4c55-91f3-645951b071c6.altText"
-msgid "connect icon"
+msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.altText"
+msgid "Current Opportunities"
 msgstr ""
 
-msgctxt "body.37e2a6d6-1e06-4c55-91f3-645951b071c6.text"
-msgid "2023 Data Futures Lab Cohort Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
+msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
+msgid "<b>Data Futures Lab</b> Cohort Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
+msgstr ""
+
+msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
+msgid "<b>Creative Media Awards</b> Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
+msgstr ""
+
+msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
+msgid "<b>Africa Innovation Mradi IRL Fund</b> Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
+msgstr ""
+
+msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
+msgid "<b>Responsible Computer Science Challenge</b> in Kenya is accepting applications <a id=\"a1\">Learn more and apply →</a>"
 msgstr ""
 
 msgctxt "body.e718ced0-43af-45ff-bcc8-cb5ebf563eb2"

@@ -460,6 +460,10 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "Tickets Now Available"
 #~ msgstr "Kaarten no beskikber"
 
+#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
+#~ msgid "Start building your own schedule now on the <a id=\"a1\">MozFest Plaza</a>"
+#~ msgstr "Begjin no mei it bouwen fan jo eigen skema op it <a id=\"a1\">MozFest Plaza</a>"
+
 #~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
 #~ msgid "Early Bird Tickets Now Available"
 #~ msgstr "Tickets foar betide fûgels binne no beskikber"
@@ -512,13 +516,13 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "Start planning now. Support session development and build momentum towards the festival."
 #~ msgstr "Begjin no mei plannen. Stypje ûntwikkeling fan sesjes en bou momentum op rjochting it festival."
 
-#~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
-#~ msgid "Join us online, 7-11 March 2022, to connect with others around the world who have a single mission: a better, healthier internet."
-#~ msgstr "Doch fan 7 oant 11 maart 2022 online mei, om yn kontakt te kommen mei oaren fan oer de hiele wrâld dy't ien missy hawwe: in better, sûner ynternet."
-
 #~ msgctxt "cta_button_label"
 #~ msgid "Build your schedule"
 #~ msgstr "Meitsje jo skema"
+
+#~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
+#~ msgid "Join us online, 7-11 March 2022, to connect with others around the world who have a single mission: a better, healthier internet."
+#~ msgstr "Doch fan 7 oant 11 maart 2022 online mei, om yn kontakt te kommen mei oaren fan oer de hiele wrâld dy't ien missy hawwe: in better, sûner ynternet."
 
 #~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.heading"
 #~ msgid "Building Momentum"
@@ -527,10 +531,6 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
 #~ msgid "Expand new partnerships and deepen engagement with MozFest Fringe Events. Connect and collaborate early, and often."
 #~ msgstr "Wreidzje nije gearwurkingsferbannen út en ferdjipje jo belutsenens by MozFest Fringe-eveneminten. Meitsje betiid en faak ferbining en wurkje betiid en faak tegearre."
-
-#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
-#~ msgid "Start building your own schedule now on the <a id=\"a1\">MozFest Plaza</a>"
-#~ msgstr "Begjin no mei it bouwen fan jo eigen skema op it <a id=\"a1\">MozFest Plaza</a>"
 
 #~ msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
 #~ msgid "Secure Your MozFest Ticket Here"

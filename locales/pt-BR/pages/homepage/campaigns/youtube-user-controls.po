@@ -78,10 +78,6 @@ msgstr "Assine nossa petição agora mesmo e nos ajude a pressionar o YouTube."
 #~ msgstr "Mesmo depois de usar os mecanismos de feedback, <b>o algoritmo do YouTube recomenda vídeos indesejados</b>"
 
 #~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
-#~ msgid "A video recommender system that is already dangerous by default and, as it turns out, does not listen to user feedback desperately needs to be fixed."
-#~ msgstr "Um sistema de recomendações de vídeos que já é perigoso por padrão e, como vimos, não escuta o feedback de seus usuários, precisa urgentemente ser corrigido."
-
-#~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
 #~ msgid ""
 #~ "From conspiracy theories to propaganda, YouTube’s algorithm promotes a minefield of controversial videos. <b>Have you ever wondered why it keeps recommending the same clickbait content</b> even "
 #~ "after you click “dislike” or “do not recommend”?"
@@ -97,3 +93,7 @@ msgstr "Assine nossa petição agora mesmo e nos ajude a pressionar o YouTube."
 #~ msgid "With the help of 20,000 Mozilla supporters we studied YouTube’s feedback mechanisms – what we found out, published in the “Does This Button Work” report, is alarming:"
 #~ msgstr ""
 #~ "Com a ajuda de 20 mil apoiadores da Mozilla, estudamos os mecanismos de feedback do YouTube. Nossa descoberta, publicada no relatório “Does This Button Work” (\"Este botão funciona?\"), é alarmante:"
+
+#~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
+#~ msgid "A video recommender system that is already dangerous by default and, as it turns out, does not listen to user feedback desperately needs to be fixed."
+#~ msgstr "Um sistema de recomendações de vídeos que já é perigoso por padrão e, como vimos, não escuta o feedback de seus usuários, precisa urgentemente ser corrigido."

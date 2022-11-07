@@ -331,10 +331,6 @@ msgctxt "ai_can_user_control_helptext"
 msgid "We found no control over AI in the app"
 msgstr "Nous n’avons trouvé aucun paramètre d’IA dans l’application."
 
-#~ msgctxt "ai_is_transparent_helptext"
-#~ msgid "We found no whitepapers about AI"
-#~ msgstr "Nous n’avons trouvé aucun livre blanc concernant l’IA"
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "So, what's the worst that could happen with Flo? Well, you could trust a company with a spotty track record to keep all that personal information you share with them private, safe, and secure. It's "
@@ -362,6 +358,10 @@ msgstr "Nous n’avons trouvé aucun paramètre d’IA dans l’application."
 #~ "L’application de suivi des menstruations Flo <a id=\"a1\">s’est fait rappeler à l’ordre</a> par la Federal Trade Commission (FTC) pour des pratiques « trompeuses » concernant son partage de données."
 #~ " Flo Health <a id=\"a2\">a conclu un accord</a> avec la Federal Trade Commission au sujet d’allégations selon lesquelles l’entreprise, après avoir promis de respecter la vie privée, partageait les "
 #~ "données de santé des utilisateurs et utilisatrices utilisant son application de suivi de la fertilité avec des sociétés d’analyse de données externes, y compris Facebook et Google."
+
+#~ msgctxt "ai_is_transparent_helptext"
+#~ msgid "We found no whitepapers about AI"
+#~ msgstr "Nous n’avons trouvé aucun livre blanc concernant l’IA"
 
 #~ msgctxt "worst_case"
 #~ msgid ""

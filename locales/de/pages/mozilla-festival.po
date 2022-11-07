@@ -215,6 +215,14 @@ msgctxt "body.8200cb36-4764-4d1e-bf1b-261157155f73.url"
 msgid "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbranding=0"
 msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbranding=0"
 
+#~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.2640bdbe-433d-4a0f-add5-5b68f98aa85d.alt_text"
+#~ msgid "Nighat Dad"
+#~ msgstr "Nighat Dad"
+
+#~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.2640bdbe-433d-4a0f-add5-5b68f98aa85d.caption"
+#~ msgid "Nighat Dad"
+#~ msgstr "Nighat Dad"
+
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.title"
 #~ msgid "Call for Volunteers"
 #~ msgstr "Ruf nach Freiwilligen"
@@ -457,6 +465,10 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "Building Momentum"
 #~ msgstr "Dynamik aufbauen"
 
+#~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.34d6b491-3634-4860-8c73-625492e50ec6.caption"
+#~ msgid "Nanjira Sambuli"
+#~ msgstr "Nanjira Sambuli"
+
 #~ msgctxt "cta_button_label"
 #~ msgid "Become a Festival Insider"
 #~ msgstr "Werden Sie ein Festival-Insider"
@@ -473,9 +485,9 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "Here are some ways to get involved with MozFest in the lead up to the festival."
 #~ msgstr "Hier sind einige Möglichkeiten, sich im Vorfeld des Festivals am MozFest zu beteiligen."
 
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.buttons.649b9400-bd0b-441e-8ed2-4866bfc84f48.label"
-#~ msgid "Watch On-Demand"
-#~ msgstr "Auf Abruf ansehen"
+#~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.2640bdbe-433d-4a0f-add5-5b68f98aa85d.url"
+#~ msgid "https://www.mozillafestival.org/on-demand/previous-festivals"
+#~ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
 
 #~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.description"
 #~ msgid "Secure your ticket to access hundreds of sessions and interactive exhibits, and connect with our exciting global community."
@@ -485,9 +497,21 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "<b>Get an insider look at confirmed, interactive sessions on the</b> <a id=\"a1\"><b>MozFest Plaza</b></a>"
 #~ msgstr "<b>Verschaffen Sie sich einen Insider-Einblick in bestätigte, interaktive Sitzungen auf der</b> <a id=\"a1\"><b>MozFest-Plaza</b></a>"
 
+#~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.5f7692cf-6d0d-43de-b993-759ac762f0fd.alt_text"
+#~ msgid "Mutale Nkonde"
+#~ msgstr "Mutale Nkonde"
+
 #~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
 #~ msgid "Tickets Now Available"
 #~ msgstr "Tickets jetzt erhältlich"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.title"
+#~ msgid "How to Create an Interactive MozFest Presentation in Mozilla Hubs"
+#~ msgstr "Erstellen einer interaktiven MozFest-Präsentation in Mozilla Hubs"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.subheading_link.d0133b5c-0e7e-40c2-81b9-fe2d34a2d326.label"
+#~ msgid "February 18th, 2022 19:00 CET (UTC+1)"
+#~ msgstr "18. Februar 2022 19:00 MEZ (UTC+1)"
 
 #~ msgctxt "cta_button_label"
 #~ msgid "Build your schedule"
@@ -516,14 +540,6 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.title"
 #~ msgid "AI Reckoning"
 #~ msgstr "Betrachtungen zu KI"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.subheading_link.df00eb66-3e07-4b82-84d7-7cfb1b1a6976.label"
-#~ msgid "Community Plenary"
-#~ msgstr "Plenum der Gemeinschaft"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.buttons.40a6fc5f-dce6-4b47-84de-a67c06be8378.label"
-#~ msgid "Watch On-Demand"
-#~ msgstr "Auf Abruf ansehen"
 
 #~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
 #~ msgid "Join us online, 7-11 March 2022, to connect with others around the world who have a single mission: a better, healthier internet."
@@ -565,14 +581,6 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "Join us in learning about and discovering how you can participate in the Grand MozFest Web Monetization Experiment at MozFest 2022."
 #~ msgstr "Machen Sie mit und erfahren Sie, wie Sie am großen MozFest-Web-Monetarisierungsexperiment beim MozFest 2022 teilnehmen können."
 
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.title"
-#~ msgid "How to Create an Interactive MozFest Presentation in Mozilla Hubs"
-#~ msgstr "Erstellen einer interaktiven MozFest-Präsentation in Mozilla Hubs"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.subheading_link.d0133b5c-0e7e-40c2-81b9-fe2d34a2d326.label"
-#~ msgid "February 18th, 2022 19:00 CET (UTC+1)"
-#~ msgstr "18. Februar 2022 19:00 MEZ (UTC+1)"
-
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.body"
 #~ msgid "Join Mozilla Hubs team members for an interactive tutorial session on how to create and setup a space in Mozilla Hubs."
 #~ msgstr "Begleiten Sie die Mitglieder des Mozilla-Hubs-Teams zu einer interaktiven Tutorial-Sitzung zum Erstellen und Einrichten eines Raums in Mozilla Hubs."
@@ -601,6 +609,10 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "rmddu9xc1hs,mozfest-mega-patron"
 #~ msgstr "rmddu9xc1hs,mozfest-mega-patron"
 
+#~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.5f7692cf-6d0d-43de-b993-759ac762f0fd.caption"
+#~ msgid "Mutale Nkonde"
+#~ msgstr "Mutale Nkonde"
+
 #~ msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
 #~ msgid "Secure Your MozFest Ticket Here"
 #~ msgstr "Sichern Sie sich hier Ihr MozFest-Ticket"
@@ -608,38 +620,6 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.subheading_link.d0133b5c-0e7e-40c2-81b9-fe2d34a2d326.label"
 #~ msgid "March 7th, 2022 19:00 CET (UTC+1)"
 #~ msgstr "7. März 2022, 19:00 MEZ (UTC+1)"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.body"
-#~ msgid "How do we refocus and realign AI as a mechanism for systems thinking and manifestation – revealing the correlation and connectedness of all things."
-#~ msgstr "Wie können wir KI als Mechanismus für Systemdenken und -manifestation neu fokussieren und neu ausrichten – um die Korrelation und Verbundenheit aller Dinge aufzudecken?"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.subheading_link.df00eb66-3e07-4b82-84d7-7cfb1b1a6976.label"
-#~ msgid "March 8th, 2022 17:30 CET (UTC+1)"
-#~ msgstr "8. März 2022, 17:30 MEZ (UTC+1)"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.body"
-#~ msgid "If we lay down the burden of a future-only presumption of what technology is and can be, are we more likely to center people and the environment?"
-#~ msgstr "Wenn wir die Last einer zukunftsorientierten Annahme darüber, was Technologie ist und sein kann, niederlegen, werden wir dann eher Menschen und Umwelt in den Mittelpunkt stellen?"
-
-#~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.2640bdbe-433d-4a0f-add5-5b68f98aa85d.alt_text"
-#~ msgid "Nighat Dad"
-#~ msgstr "Nighat Dad"
-
-#~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.2640bdbe-433d-4a0f-add5-5b68f98aa85d.caption"
-#~ msgid "Nighat Dad"
-#~ msgstr "Nighat Dad"
-
-#~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.2640bdbe-433d-4a0f-add5-5b68f98aa85d.url"
-#~ msgid "https://www.mozillafestival.org/on-demand/previous-festivals"
-#~ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
-
-#~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.5f7692cf-6d0d-43de-b993-759ac762f0fd.alt_text"
-#~ msgid "Mutale Nkonde"
-#~ msgstr "Mutale Nkonde"
-
-#~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.5f7692cf-6d0d-43de-b993-759ac762f0fd.caption"
-#~ msgid "Mutale Nkonde"
-#~ msgstr "Mutale Nkonde"
 
 #~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.5f7692cf-6d0d-43de-b993-759ac762f0fd.url"
 #~ msgid "https://www.mozillafestival.org/on-demand/previous-festivals"
@@ -649,9 +629,17 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "Nanjira Sambuli"
 #~ msgstr "Nanjira Sambuli"
 
-#~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.34d6b491-3634-4860-8c73-625492e50ec6.caption"
-#~ msgid "Nanjira Sambuli"
-#~ msgstr "Nanjira Sambuli"
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.body"
+#~ msgid "If we lay down the burden of a future-only presumption of what technology is and can be, are we more likely to center people and the environment?"
+#~ msgstr "Wenn wir die Last einer zukunftsorientierten Annahme darüber, was Technologie ist und sein kann, niederlegen, werden wir dann eher Menschen und Umwelt in den Mittelpunkt stellen?"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.body"
+#~ msgid "How do we refocus and realign AI as a mechanism for systems thinking and manifestation – revealing the correlation and connectedness of all things."
+#~ msgstr "Wie können wir KI als Mechanismus für Systemdenken und -manifestation neu fokussieren und neu ausrichten – um die Korrelation und Verbundenheit aller Dinge aufzudecken?"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.subheading_link.df00eb66-3e07-4b82-84d7-7cfb1b1a6976.label"
+#~ msgid "March 8th, 2022 17:30 CET (UTC+1)"
+#~ msgstr "8. März 2022, 17:30 MEZ (UTC+1)"
 
 #~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.34d6b491-3634-4860-8c73-625492e50ec6.url"
 #~ msgid "https://www.mozillafestival.org/on-demand/previous-festivals"
@@ -722,6 +710,18 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.subheading_link.d0133b5c-0e7e-40c2-81b9-fe2d34a2d326.label"
 #~ msgid "Community Plenary"
 #~ msgstr "Plenum der Gemeinschaft"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.buttons.649b9400-bd0b-441e-8ed2-4866bfc84f48.label"
+#~ msgid "Watch On-Demand"
+#~ msgstr "Auf Abruf ansehen"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.subheading_link.df00eb66-3e07-4b82-84d7-7cfb1b1a6976.label"
+#~ msgid "Community Plenary"
+#~ msgstr "Plenum der Gemeinschaft"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.buttons.40a6fc5f-dce6-4b47-84de-a67c06be8378.label"
+#~ msgid "Watch On-Demand"
+#~ msgstr "Auf Abruf ansehen"
 
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.76efa64e-673f-40b7-9b98-1ddf5e28cd63.subheading_link.729cc9ca-3d67-4253-8dce-cfa64d8373fd.label"
 #~ msgid "May 10, 2022 at 18:00 CET"
@@ -887,10 +887,10 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "Movement Building from Home"
 #~ msgstr "Entwicklung von Bewegungen von zu Hause aus"
 
-#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
-#~ msgid "Add the dates for MozFest 2023 to your calendar, on <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> or <a id=\"a3\">download the invitation</a>."
-#~ msgstr "Fügen Sie die Termine für das MozFest 2023 zu Ihrem Kalender hinzu, (auf <a id=\"a1\">Google</a> oder <a id=\"a2\">Outlook</a>) oder <a id=\"a3\">laden Sie die Einladung herunter</a>."
-
 #~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
 #~ msgid "MozFest 2023, taking place from March 20-24th. Join 1000s of activists in diverse global movements fighting for a more humane digital world."
 #~ msgstr "MozFest 2023 findet vom 20. bis 24. März statt. Schließen Sie sich Tausenden von Aktivisten in verschiedenen globalen Bewegungen an, die für eine humanere digitale Welt kämpfen."
+
+#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
+#~ msgid "Add the dates for MozFest 2023 to your calendar, on <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> or <a id=\"a3\">download the invitation</a>."
+#~ msgstr "Fügen Sie die Termine für das MozFest 2023 zu Ihrem Kalender hinzu, (auf <a id=\"a1\">Google</a> oder <a id=\"a2\">Outlook</a>) oder <a id=\"a3\">laden Sie die Einladung herunter</a>."
