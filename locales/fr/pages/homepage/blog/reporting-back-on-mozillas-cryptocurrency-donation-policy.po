@@ -25,7 +25,7 @@ msgstr ""
 
 msgctxt "body.9b528596-6416-4bdc-a455-1340c9917a63"
 msgid "I’m writing to share the results of that review. Starting today, we are updating our donation policy:"
-msgstr "Je vous écris pour partager les résultats de cet examen. À partir d’aujourd'hui, nous mettons à jour notre politique de don :"
+msgstr "Je vous écris pour partager les résultats de cet examen. À partir d’aujourd’hui, nous mettons à jour notre politique de don :"
 
 msgctxt "body.9b528596-6416-4bdc-a455-1340c9917a63"
 msgid "Mozilla will no longer accept 'proof-of-work' cryptocurrencies, which are more energy intensive."

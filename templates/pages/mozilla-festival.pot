@@ -6,11 +6,11 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 
 msgctxt "seo_title"
-msgid "Mozilla Festival"
+msgid "Mozilla Festival 2023"
 msgstr ""
 
 msgctxt "search_description"
-msgid "Activists in the internet health movement will gather at MozFest to move the needle in tech, art, social responsibility, ethics, and AI. Will you join us in March 2022?"
+msgid "Activists in the internet health movement will gather at MozFest to move the needle in tech, art, social responsibility, ethics, and AI. Will you join us in March 2023?"
 msgstr ""
 
 msgctxt "title"
@@ -18,15 +18,11 @@ msgid "Mozilla Festival"
 msgstr ""
 
 msgctxt "cta_button_label"
-msgid "Sign up for updates"
+msgid "Secure your ticket"
 msgstr ""
 
 msgctxt "banner_heading"
 msgid "Arrive with an idea, leave with a community."
-msgstr ""
-
-msgctxt "banner_cta_label"
-msgid "Watch the MozFest 2022 Wrap-up Video"
 msgstr ""
 
 msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.heading"
@@ -34,7 +30,7 @@ msgid "Save The Date"
 msgstr ""
 
 msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
-msgid "MozFest Virtual will take place 20-24 March, 2023. MozFest House in Amsterdam will take place 8-10 June, 2023."
+msgid "MozFest Virtual will take place online from 20th - 24th March, 2023."
 msgstr ""
 
 msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
@@ -46,11 +42,11 @@ msgid "Stay up-to-date with MozFest news by signing up for our newsletter, follo
 msgstr ""
 
 msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.heading"
-msgid "Sustaining Momentum"
+msgid "Early Bird Tickets"
 msgstr ""
 
 msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
-msgid "Passionate about creating and promoting solutions to the most urgent issues in AI? Connect with MozFest's Trustworthy AI Working Groups."
+msgid "Secure your Early Bird ticket to unlock exclusive access to fringe events in January and February!"
 msgstr ""
 
 msgctxt "body.4befc18c-92fe-4b88-af48-a5cdc5add964"
@@ -58,12 +54,8 @@ msgid ""
 "MozFest is a unique hybrid: part art, tech and society convening, part maker festival, and the premiere gathering for activists in diverse global movements fighting for a more humane digital world."
 msgstr ""
 
-msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.altText"
-msgid "sneak peak icon"
-msgstr ""
-
-msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
-msgid "Add the dates for MozFest Virtual 2023 to your calendar, on <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> or <a id=\"a3\">download the invitation</a>."
+msgctxt "body.d0b8df98-96b7-45e1-a2bf-ffe3c77ad58f.button_label"
+msgid "Secure your MozFest ticket"
 msgstr ""
 
 msgctxt "body.4ef1c6a8-1f8d-463b-b6e0-d014c2474355.altText"
@@ -132,23 +124,23 @@ msgid "Learn more"
 msgstr ""
 
 msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.title"
-msgid "Movement Building From Home"
+msgid "Submit your session to MozFest"
 msgstr ""
 
 msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.subheading_link.a00f4042-4a44-49e4-bd30-43cbb22e62e5.label"
-msgid "MozFest Community"
+msgid "Call for Proposals"
 msgstr ""
 
 msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.body"
-msgid "Join us as we navigate the challenges and opportunities of facilitative leadership and online organizing 2 years into a remote-first world."
+msgid "Are you working towards Trustworthy AI and want to share your work with a global community? Submit a session idea for MozFest 2023!"
 msgstr ""
 
 msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.buttons.3288563e-0194-4fb8-9986-b72162f06753.label"
-msgid "Learn More"
+msgid "Submit your proposal"
 msgstr ""
 
 msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.buttons.c0a6a6fc-052c-42b7-a1a7-de0bb7dbf43e.label"
-msgid "Register Now"
+msgid "Learn more"
 msgstr ""
 
 msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.457a0611-f56c-4cdf-b5fd-4a99107de728.title"
@@ -185,12 +177,11 @@ msgstr ""
 
 msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
 msgid ""
-"Technology further codifies biases and categorizes personhood, not simply a reflection of the society that creates it but possibly an imperfect and flawed mirror of it. That has resulted in software"
-" and AI systems that are at odds with fluidity, that endanger the privacy and security of the LGBTQIA+ community, and often infer heteronormative assumptions and forces binary gender "
-"classifications. How does the queer community change this technology landscape? And what does it mean to queer the landscape, coopt these systems, and create safe, online spaces? And accordingly, "
-"how has technology made a global LGBTQIA+ movement possible?"
+"If you’re on social media or other corners of the internet a lot, you’ve likely encountered AI systems with names like GPT-3 or DALL·E in recent months. These are some of the AI systems that have "
+"become surprisingly good at creating convincing snippets of text or computer-generated images. These models come with risks, too: for example, they can perpetuate harmful stereotypes against women "
+"or marginalized groups. How can these risks be addressed? And what part can regulation play in this?"
 msgstr ""
 
 msgctxt "body.8200cb36-4764-4d1e-bf1b-261157155f73.url"
-msgid "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbranding=0"
+msgid "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbranding=0"
 msgstr ""

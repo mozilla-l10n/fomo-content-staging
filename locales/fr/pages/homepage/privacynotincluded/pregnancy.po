@@ -138,7 +138,7 @@ msgstr ""
 msgctxt "how_does_it_use_data_collected"
 msgid "\"We do not sell and have not sold Personal Information in the preceding 12 months, as “sale” is defined in the CCPA. We do not sell the Personal Information of minors under 16 years of age.\""
 msgstr ""
-"« Nous ne vendons pas et n’avons pas vendu de renseignements personnels au cours des 12 derniers mois, au sens de la définition du mot « vente » dans l’ACFPC. Nous ne vendons pas les renseignements "
+"« Nous ne vendons pas et n’avons pas vendu de renseignements personnels au cours des 12 derniers mois, au sens de la définition du mot « vente » dans la CCPA. Nous ne vendons pas les renseignements "
 "personnels de mineurs de moins de 16 ans. »"
 
 msgctxt "how_does_it_use_data_collected"

@@ -132,7 +132,7 @@ msgid ""
 "predict things like your ethnicity, who you might vote for, whether you might be expecting a baby, if you love gambling, and even if you suffer from a mental illness."
 msgstr ""
 "Sie können mehr erfahren, indem sie die Daten, die sie über Sie aus den Ebenen 1 und 2 gesammelt haben, mit Daten vergleichen, die sie von anderen gesammelt haben, und Muster in diesen Informationen"
-" erstellen. Maschinen treffen auf der Grundlage von Statistiken Annahmen und Vorhersagen über Sie. Sie verwenden all das zuvor über Sie gesammelte \"Wissen\" sowie Beobachtungen, die Sie über Ihre "
+" erstellen. Maschinen treffen auf der Grundlage von Statistiken Annahmen und Vorhersagen über Sie. Sie verwenden all das zuvor über Sie gesammelte \"Wissen\" sowie Beobachtungen, die sie über Ihre "
 "Freunde oder ähnliche Personen gemacht haben, um Dinge wie Ihre ethnische Zugehörigkeit vorherzusagen, wen Sie wählen könnten, ob Sie ein Baby erwarten, ob Sie Glücksspiele lieben und sogar, ob Sie "
 "an einer psychischen Krankheit leiden."
 

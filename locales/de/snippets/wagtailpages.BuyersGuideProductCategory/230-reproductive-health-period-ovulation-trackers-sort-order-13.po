@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-01-23 07:02:37.715063+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 5693e4a8-4f8f-48ec-bdf8-414745fda536\n"
+
+msgctxt "name"
+msgid "Period &amp; Ovulation Trackers"
+msgstr "Perioden- &amp; Ovulations-Tracker"
+
+msgctxt "description"
+msgid "Period and fertility tracking apps"
+msgstr "Perioden- und Fruchtbarkeits-Tracking-Apps"

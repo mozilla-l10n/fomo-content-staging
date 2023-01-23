@@ -6,6 +6,16 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "X-WagtailLocalize-TranslationID: 5603b5b5-7df7-45ee-a6e1-29cd936fbde1\n"
 
+msgctxt "seo_title"
+msgid "Iterating Dataset Access on Common Voice"
+msgstr "Toegang tot itererende gegevenssets op Common Voice"
+
+msgctxt "search_description"
+msgid ""
+"Announcing: Delta Releases on Mozilla Common Voice!\r"
+"<br/>As of October 2022, we will be providing delta release downloads in addition to the full release dataset downloads."
+msgstr "Aankondiging: deltaversies op Mozilla Common Voice!<br/>Vanaf oktober 2022 bieden we downloads van deltaversies aan, naast de downloads van volledige gegevenssets."
+
 msgctxt "body.6b2962a2-48d3-4cb4-9692-ae4ff2122ebf"
 msgid "Announcing: Delta Releases on Mozilla Common Voice!"
 msgstr "Aankondiging: delta-releases op Mozilla Common Voice!"

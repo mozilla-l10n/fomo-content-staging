@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-01-23 07:02:36.842946+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 2f7c7579-2c0e-4472-93ee-a0d46b1e52da\n"
+
+msgctxt "name"
+msgid "Kids &amp; Teen Apps"
+msgstr "Kinder- &amp; Teenager-Apps"
+
+msgctxt "description"
+msgid "Mental health apps for kids and teens"
+msgstr "Apps zur psychischen Gesundheit für Kinder und Jugendliche"

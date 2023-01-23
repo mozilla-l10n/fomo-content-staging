@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-01-23 07:02:54.482469+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: a83ef410-56e0-4889-a58d-4d4cf159212d\n"
+
+msgctxt "name"
+msgid "AI Chatbots"
+msgstr "Chatbots de IA"
+
+msgctxt "description"
+msgid "Mental health AI chatbots"
+msgstr "Chatbots de IA para la salud mental"

@@ -1,0 +1,142 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-01-23 07:02:59.838105+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: a92ef413-8a66-4b82-b22f-361717156fa5\n"
+
+msgctxt "seo_title"
+msgid "Platform and Dataset"
+msgstr "Plateforme et jeu de données"
+
+msgctxt "header"
+msgid "Platform &amp; data"
+msgstr "Plateforme et données"
+
+msgctxt "intro"
+msgid ""
+"Common Voice is the most diverse open voice dataset in the world. Most voice datasets are owned by companies, which stifles innovation. They also under-represent almost every language in the world, "
+"as well as people of colour, disabled people, women and LGBTQIA+ people. We want to change that by mobilising people everywhere to share their voice."
+msgstr ""
+"Common Voice est le jeu de données vocales ouvertes le plus diversifié au monde. La plupart des jeux de données vocales appartiennent à des entreprises, ce qui empêche l’innovation. Ces jeux de "
+"données sous-représentent également presque toutes les langues du monde, ainsi que les personnes de couleur, les personnes handicapées, les femmes et les personnes LGBTQIA+. Nous voulons changer "
+"cela en mobilisant des personnes de tous horizons pour qu’elles partagent leur voix."
+
+msgctxt "body.c13cf4a8-b650-44e2-affe-d2b84ee02703"
+msgid "Platform and Dataset"
+msgstr "Plateforme et jeu de données"
+
+msgctxt "body.c13cf4a8-b650-44e2-affe-d2b84ee02703"
+msgid "Common Voice is the largest crowdsourced multilingual speech dataset in the world"
+msgstr "Common Voice est le plus grand jeu de données vocales multilingues en crowdsourcing au monde"
+
+msgctxt "body.d4f01d10-13b2-4b51-bc11-c9a8d747210d.altText"
+msgid "common voice about"
+msgstr "à propos de Common Voice"
+
+msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
+msgid "Why Common Voice?"
+msgstr "Pourquoi Common Voice ?"
+
+msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
+msgid ""
+"Voice-enabled technology is becoming increasingly ubiquitous - from smart phone assistants to wearable healthcare devices to language practice software. It’s also leaving a lot of people behind. "
+"Voice assistants currently support fewer than 1% of the world’s languages! For some communities, even if their language is supported, they might not be understood as AI training data regularly "
+"under-represents gender-diverse communities, People of Color, and those with marginalised or non-native accents."
+msgstr ""
+"La technologie vocale est de plus en plus omniprésente — des assistants de smartphones aux appareils de santé portables en passant par les logiciels de pratique linguistique. Beaucoup de personnes "
+"sont aussi exclues. Les assistants vocaux prennent actuellement en charge moins de 1 % des langues du monde ! Pour certaines communautés, même si leur langue est prise en charge, elles peuvent ne "
+"pas être comprises, car les données d’entrainement de l’IA sous-représentent régulièrement les communautés de genres divers, les personnes de couleur et celles qui ont des accents marginalisés ou "
+"non natifs."
+
+msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
+msgid "We’re here to change that! By making it easy for people like you to share your voice."
+msgstr "C’est ce que nous voulons changer, en permettant à des personnes comme vous de partager facilement votre voix."
+
+msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
+msgid "How does Common Voice work?"
+msgstr "Comment fonctionne Common Voice ?"
+
+msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
+msgid "Step 1. Someone asks for a language to be added."
+msgstr "Étape 1. Quelqu’un demande l’ajout d’une langue."
+
+msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
+msgid "Step 2. The website text is translated into that language by volunteers."
+msgstr "Étape 2. Le texte du site web est traduit dans cette langue par des bénévoles."
+
+msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
+msgid "Step 3. Sentences are collected for people to read aloud."
+msgstr "Étape 3. Des phrases sont collectées pour être lues à haute voix."
+
+msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
+msgid "Step 4. We launch the Common Voice platform in this language."
+msgstr "Étape 4. Nous lançons la plateforme Common Voice dans cette langue."
+
+msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
+msgid "Step 5. People come and contribute their voices."
+msgstr "Étape 5. Des personnes contribuent avec leur voix."
+
+msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
+msgid "Step 6. Other people validate those voice clips."
+msgstr "Étape 6. D’autres personnes valident ces extraits vocaux."
+
+msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
+msgid "Step 7. We release the dataset every 3 months."
+msgstr "Étape 7. Nous publions les données tous les 3 mois."
+
+msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
+msgid "Step 8. The cycle continues! More sentences, more clips, more validations! We always need your help!"
+msgstr "Étape 8. Le cycle continue ! Plus de phrases, plus de clips, plus de validations ! Nous avons toujours besoin de votre aide !"
+
+msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
+msgid "So how do I get involved?"
+msgstr "Alors, comment puis-je participer ?"
+
+msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
+msgid "Thanks for asking! Check on the platform to see if your language needs more clips, more validations, or more sentences."
+msgstr "Merci d’avoir posé la question ! Vérifiez sur la plateforme si votre langue a besoin de plus d’échantillons, de plus de validations ou de plus de phrases."
+
+msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
+msgid "If you’re not sure - go ahead and <a id=\"a1\">contribute some clips</a>! It only takes a couple of moments to make AI work better for everyone."
+msgstr "En cas de doute, n’hésitez pas à <a id=\"a1\">enregistrer quelques échantillons</a> ! Il suffit de quelques instants pour que l’IA fonctionne mieux pour tout le monde."
+
+msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
+msgid ""
+"If you want to get more deeply involved, why not become a community mobiliser - from being an educator on AI inclusion issues online to to running local events in your community - there are lots of "
+"ways to help! Just reach out and we’ll put you in touch with the right people to help."
+msgstr ""
+"Si vous souhaitez vous impliquer davantage, pourquoi ne pas devenir mobilisateur·trice communautaire ? Que ce soit pour éduquer sur les questions d’inclusion de l’IA en ligne à l’organisation "
+"d’évènements locaux dans votre communauté, il existe de nombreuses façons d’aider ! Contactez-nous et nous vous mettrons en contact avec les bonnes personnes pour vous aider."
+
+msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
+msgid "What’s next for the Common Voice platform!"
+msgstr "Quelles sont les prochaines étapes pour la plateforme Common Voice ?"
+
+msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
+msgid ""
+"In terms of contributor experience, we’re currently working to make the platform easier to use for people in low bandwidth contexts and making it simpler for new people to get involved quickly. For "
+"app architecture and infrastructure, we’re making the platform more scalable and the dataset more segmentable for data consumers."
+msgstr ""
+"En termes d’expérience de contribution, nous travaillons actuellement à rendre la plateforme plus facile à utiliser pour les personnes qui disposent d’une faible bande passante et à faciliter la "
+"participation rapide de nouvelles personnes. Pour l’architecture et l’infrastructure des applications, nous rendons la plateforme plus évolutive et augmentons la segmentation du jeu de données pour "
+"les personnes qui utilisent les données."
+
+msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
+msgid "Next year, we will be working on some major platform evolutions - including expanding into spontaneous speech. If you’re an engineer or data scientist who wants to help out - get in touch!"
+msgstr ""
+"L’année prochaine, nous travaillerons sur certaines évolutions majeures de la plateforme, y compris l’ajout d’échantillons spontanés. Si vous êtes un·e ingénieur·e ou un·e scientifique des données "
+"qui souhaite nous aider, contactez-nous !"
+
+msgctxt "body.5d84991f-22e1-45c2-81da-a6d27bb04166.label"
+msgid "Contribute to Common Voice"
+msgstr "Contribuer à Common Voice"
+
+msgctxt "body.5d84991f-22e1-45c2-81da-a6d27bb04166.URL"
+msgid "https://commonvoice.mozilla.org/speak"
+msgstr "https://commonvoice.mozilla.org/speak"
+
+msgctxt "title"
+msgid "Platform and Dataset"
+msgstr "Plateforme et jeu de données"

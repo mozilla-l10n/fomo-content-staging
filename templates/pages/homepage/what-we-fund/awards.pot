@@ -30,26 +30,6 @@ msgctxt "body.79b7de1c-7c75-4f05-996f-d39741a8b419"
 msgid "Current Funding Opportunities"
 msgstr ""
 
-msgctxt "body.f240b80c-61c4-4a47-b2ff-8397ed1fd333.altText"
-msgid "connect-icon"
-msgstr ""
-
-msgctxt "body.f240b80c-61c4-4a47-b2ff-8397ed1fd333.text"
-msgid "<b>Data Futures Lab</b> Cohort Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
-msgstr ""
-
-msgctxt "body.f240b80c-61c4-4a47-b2ff-8397ed1fd333.text"
-msgid "<b>Creative Media Awards</b> is accepting applications! <a id=\"a1\">Learn more and apply →</a>"
-msgstr ""
-
-msgctxt "body.f240b80c-61c4-4a47-b2ff-8397ed1fd333.text"
-msgid "<b>Africa Innovation Mradi IRL Fund</b> Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
-msgstr ""
-
-msgctxt "body.f240b80c-61c4-4a47-b2ff-8397ed1fd333.text"
-msgid "<b>Responsible Computer Science Challenge</b> in Kenya is accepting applications <a id=\"a1\">Learn more and apply →</a>"
-msgstr ""
-
 msgctxt "body.e7d7bf0e-2268-4077-af17-973119c29f79.altText"
 msgid "Africa Innovation Mradi"
 msgstr ""
@@ -99,11 +79,7 @@ msgid "Mozilla Awards promote better machine learning through art."
 msgstr ""
 
 msgctxt "body.8c68365e-066a-4b62-be3e-6e4bdbb2031b.text"
-msgid "The <b>Creative Media Awards</b> fund art that explores the impact of artificial intelligence on society."
-msgstr ""
-
-msgctxt "body.8c68365e-066a-4b62-be3e-6e4bdbb2031b.text"
-msgid "Applications are open until 30 November 2022. <a id=\"a1\">Learn more →</a>"
+msgid "The <b>Creative Media Awards</b> fund art that explores the impact of artificial intelligence on society. <a id=\"a1\">Learn more →</a>"
 msgstr ""
 
 msgctxt "body.12dcf4f7-2e48-4780-a5b8-e0095f7e3d04.altText"
@@ -128,8 +104,8 @@ msgstr ""
 
 msgctxt "body.42c74a41-09bc-4609-9ed2-911f0f026c3b.text"
 msgid ""
-"The <b>Data Futures Lab</b> is an experimental space for instigating new approaches to data stewardship. The Lab's grantmaking include a Prototype Fund and an Infrastructure Fund. <i>The Prototype "
-"Fund is currently accepting applications.</i><br/> <a id=\"a1\">Learn more →</a>"
+"The <b>Data Futures Lab</b> is an experimental space for instigating new approaches to data stewardship. The Lab's grantmaking include a Prototype Fund and an Infrastructure Fund. Applications are "
+"closed.<br/> <a id=\"a1\">Learn more →</a>"
 msgstr ""
 
 msgctxt "body.5cee6975-c727-45a7-b571-91ed9072cc06"
@@ -228,10 +204,6 @@ msgstr ""
 
 msgctxt "body.9d14e4d5-1344-427f-a4a1-4d956e567ed2"
 msgid "Apply for open award opportunities <a id=\"a1\">via Fluxx</a>."
-msgstr ""
-
-msgctxt "body.9d14e4d5-1344-427f-a4a1-4d956e567ed2"
-msgid "Mozilla Research Grants are administered by Mozilla's Emerging Technologies Team. <a id=\"a1\">Find out more.</a>"
 msgstr ""
 
 msgctxt "body.9d14e4d5-1344-427f-a4a1-4d956e567ed2"

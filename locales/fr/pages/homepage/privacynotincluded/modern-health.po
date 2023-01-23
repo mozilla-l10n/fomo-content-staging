@@ -195,7 +195,7 @@ msgid ""
 "may combine information that is obtained from your use of the Services with information obtained from such third parties in order to provide you with more personalized Services.”"
 msgstr ""
 "<b>Lorsque la loi le permet, Modern Health peut également compléter ou combiner des informations vous concernant, y compris vos Informations personnelles, avec des informations vous concernant que "
-"nous obtenons de tiers.</b> « Nous pouvons combiner les informations vous concernant obtenues pendant l'utilisation des Services avec des informations obtenues auprès desdits tiers afin de vous "
+"nous obtenons de tiers.</b> « Nous pouvons combiner les informations vous concernant obtenues pendant l’utilisation des Services avec des informations obtenues auprès desdits tiers afin de vous "
 "proposer des Services plus personnalisés. »"
 
 msgctxt "uses_encryption_helptext"

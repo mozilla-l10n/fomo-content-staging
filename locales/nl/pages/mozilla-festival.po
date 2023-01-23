@@ -7,38 +7,34 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 02bcee56-8333-446f-bc35-9ff56348b7d8\n"
 
 msgctxt "seo_title"
-msgid "Mozilla Festival"
-msgstr "Mozilla Festival"
+msgid "Mozilla Festival 2023"
+msgstr "Mozilla Festival 2023"
 
 msgctxt "search_description"
-msgid "Activists in the internet health movement will gather at MozFest to move the needle in tech, art, social responsibility, ethics, and AI. Will you join us in March 2022?"
+msgid "Activists in the internet health movement will gather at MozFest to move the needle in tech, art, social responsibility, ethics, and AI. Will you join us in March 2023?"
 msgstr ""
 "Activisten van de internetgezondheidsbeweging verzamelen zich bij MozFest om de bakens te verzetten op het vlak van techniek, kunst, sociale verantwoordelijkheid, ethiek en AI. Doet u mee in maart "
-"2022?"
+"2023?"
 
 msgctxt "title"
 msgid "Mozilla Festival"
 msgstr "Mozilla Festival"
 
 msgctxt "cta_button_label"
-msgid "Sign up for updates"
-msgstr "Inschrijven voor updates"
+msgid "Secure your ticket"
+msgstr "Stel uw ticket veilig"
 
 msgctxt "banner_heading"
 msgid "Arrive with an idea, leave with a community."
 msgstr "Kom met een idee, vertrek met een gemeenschap."
-
-msgctxt "banner_cta_label"
-msgid "Watch the MozFest 2022 Wrap-up Video"
-msgstr "Bekijk de MozFest 2022 Wrap-up-video"
 
 msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.heading"
 msgid "Save The Date"
 msgstr "Noteer de datum"
 
 msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
-msgid "MozFest Virtual will take place 20-24 March, 2023. MozFest House in Amsterdam will take place 8-10 June, 2023."
-msgstr "MozFest Virtual vindt plaats van 20-24 maart 2023. MozFest House in Amsterdam vindt plaats van 8-10 juni 2023."
+msgid "MozFest Virtual will take place online from 20th - 24th March, 2023."
+msgstr "MozFest Virtual vindt online plaats van 20 - 24 maart 2023."
 
 msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
 msgid "Stay Connected"
@@ -49,12 +45,12 @@ msgid "Stay up-to-date with MozFest news by signing up for our newsletter, follo
 msgstr "Blijf op de hoogte van MozFest-nieuws door u aan te melden voor onze nieuwsbrief, ons te volgen op LinkedIn en Twitter en lid te worden van Slack."
 
 msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.heading"
-msgid "Sustaining Momentum"
-msgstr "Momentum behouden"
+msgid "Early Bird Tickets"
+msgstr "Early Bird-tickets"
 
 msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
-msgid "Passionate about creating and promoting solutions to the most urgent issues in AI? Connect with MozFest's Trustworthy AI Working Groups."
-msgstr "Gepassioneerd over het creëren en promoten van oplossingen voor de meest urgente problemen in AI? Maak contact met de werkgroepen voor Betrouwbare AI van MozFest."
+msgid "Secure your Early Bird ticket to unlock exclusive access to fringe events in January and February!"
+msgstr "Reserveer uw Early Bird-ticket voor exclusieve toegang tot bijzondere evenementen in januari en februari!"
 
 msgctxt "body.4befc18c-92fe-4b88-af48-a5cdc5add964"
 msgid ""
@@ -63,13 +59,9 @@ msgstr ""
 "MozFest is een unieke hybride: deels een kunst-, tech- en maatschappelijke bijeenkomst, deels makerfestival, en de meest vooraanstaande bijeenkomst voor activisten in wereldwijde bewegingen die "
 "vechten voor een humane digitale wereld."
 
-msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.altText"
-msgid "sneak peak icon"
-msgstr "pictogram tipje van de sluier"
-
-msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
-msgid "Add the dates for MozFest Virtual 2023 to your calendar, on <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> or <a id=\"a3\">download the invitation</a>."
-msgstr "Voeg de datums voor MozFest Virtual 2023 toe aan uw agenda, in <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> of <a id=\"a3\">download de uitnodiging</a>."
+msgctxt "body.d0b8df98-96b7-45e1-a2bf-ffe3c77ad58f.button_label"
+msgid "Secure your MozFest ticket"
+msgstr "Stel uw MozFest-ticket veilig"
 
 msgctxt "body.4ef1c6a8-1f8d-463b-b6e0-d014c2474355.altText"
 msgid "A photograph of a person sitting with their laptop on the stairs of the MozFest House venue, next to them is an orange and pink sign with the MozFest house logo."
@@ -141,24 +133,24 @@ msgid "Learn more"
 msgstr "Meer info"
 
 msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.title"
-msgid "Movement Building From Home"
-msgstr "Bewegingsopbouw vanuit huis"
+msgid "Submit your session to MozFest"
+msgstr "Dien uw sessie in bij MozFest"
 
 msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.subheading_link.a00f4042-4a44-49e4-bd30-43cbb22e62e5.label"
-msgid "MozFest Community"
-msgstr "MozFest-gemeenschap"
+msgid "Call for Proposals"
+msgstr "Oproep om voorstellen in te dienen"
 
 msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.body"
-msgid "Join us as we navigate the challenges and opportunities of facilitative leadership and online organizing 2 years into a remote-first world."
-msgstr "Doe met ons mee terwijl we door de uitdagingen en kansen van faciliterend leiderschap en online organiseren in een wereld die 2 jaar vooral van afstand meedeed navigeren."
+msgid "Are you working towards Trustworthy AI and want to share your work with a global community? Submit a session idea for MozFest 2023!"
+msgstr "Werkt u aan betrouwbare AI en wilt u uw werk delen met een wereldwijde gemeenschap? Dien een sessie-idee in voor MozFest 2023!"
 
 msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.buttons.3288563e-0194-4fb8-9986-b72162f06753.label"
-msgid "Learn More"
-msgstr "Meer info"
+msgid "Submit your proposal"
+msgstr "Uw voorstel indienen"
 
 msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.buttons.c0a6a6fc-052c-42b7-a1a7-de0bb7dbf43e.label"
-msgid "Register Now"
-msgstr "Nu registreren"
+msgid "Learn more"
+msgstr "Meer info"
 
 msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.457a0611-f56c-4cdf-b5fd-4a99107de728.title"
 msgid "Join the MozFest Slack"
@@ -194,27 +186,25 @@ msgstr "Onze laatste dialogen en debatten"
 
 msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
 msgid ""
-"Technology further codifies biases and categorizes personhood, not simply a reflection of the society that creates it but possibly an imperfect and flawed mirror of it. That has resulted in software"
-" and AI systems that are at odds with fluidity, that endanger the privacy and security of the LGBTQIA+ community, and often infer heteronormative assumptions and forces binary gender "
-"classifications. How does the queer community change this technology landscape? And what does it mean to queer the landscape, coopt these systems, and create safe, online spaces? And accordingly, "
-"how has technology made a global LGBTQIA+ movement possible?"
+"If you’re on social media or other corners of the internet a lot, you’ve likely encountered AI systems with names like GPT-3 or DALL·E in recent months. These are some of the AI systems that have "
+"become surprisingly good at creating convincing snippets of text or computer-generated images. These models come with risks, too: for example, they can perpetuate harmful stereotypes against women "
+"or marginalized groups. How can these risks be addressed? And what part can regulation play in this?"
 msgstr ""
-"Technologie codificeert vooroordelen nog meer en categoriseert persoonlijkheid, niet slechts een weerspiegeling van de samenleving die het creëert, maar mogelijk een onvolmaakte en gebrekkige "
-"spiegel ervan. Dat heeft geresulteerd in software en AI-systemen die op gespannen voet staan met vloeibaarheid, die de privacy en veiligheid van de LGBTQIA+-gemeenschap in gevaar brengen en die vaak"
-" hetero-normatieve aannames afleiden en binaire genderclassificaties afdwingen. Hoe verandert de queergemeenschap dit technologielandschap? En wat betekent het om het landschap te queeren, deze "
-"systemen te coöpteren en veilige, online ruimtes te creëren? En hoe heeft dientengevolge technologie een wereldwijde LGBTQIA+-beweging mogelijk gemaakt?"
+"Als u veel op sociale media of andere uithoeken van het internet zit, bent u de afgelopen maanden waarschijnlijk AI-systemen tegengekomen met namen als GPT-3 of DALL·E. Dit zijn enkele van de AI-"
+"systemen die verrassend goed zijn geworden in het maken van overtuigende tekstfragmenten of door de computer aangemaakte afbeeldingen. Deze modellen brengen ook risico’s met zich mee: ze kunnen "
+"bijvoorbeeld schadelijke stereotypen over vrouwen of gemarginaliseerde groepen in stand houden. Hoe kunnen deze risico’s worden aangepakt? En welke rol kan regelgeving hierin spelen?"
 
 msgctxt "body.8200cb36-4764-4d1e-bf1b-261157155f73.url"
-msgid "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbranding=0"
-msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbranding=0"
+msgid "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbranding=0"
+msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbranding=0"
 
 #~ msgctxt "cta_button_label"
 #~ msgid "Submit a Proposal"
 #~ msgstr "Een voorstel indienen"
 
-#~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.heading"
-#~ msgid "Call for Proposals"
-#~ msgstr "Oproep om voorstellen in te dienen"
+#~ msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
+#~ msgid "Watch live on LinkedIn and YouTube on November 29, 2022 at 17:30 UTC."
+#~ msgstr "Kijk live op LinkedIn en YouTube op 29 november 2022 om 17:30 UTC."
 
 #~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.heading"
 #~ msgid "MozFest House: Amsterdam"
@@ -251,6 +241,12 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgctxt "body.6e296e18-8b27-4770-a482-3a550ff0bf68.URL"
 #~ msgid "https://www.mozillafestival.org/on-demand/previous-festivals"
 #~ msgstr "https://www.mozillafestival.org/on-demand/previous-festivals"
+
+#~ msgctxt "search_description"
+#~ msgid "Activists in the internet health movement will gather at MozFest to move the needle in tech, art, social responsibility, ethics, and AI. Will you join us in March 2022?"
+#~ msgstr ""
+#~ "Activisten van de internetgezondheidsbeweging verzamelen zich bij MozFest om de bakens te verzetten op het vlak van techniek, kunst, sociale verantwoordelijkheid, ethiek en AI. Doet u mee in maart "
+#~ "2022?"
 
 #~ msgctxt "banner_guide_text"
 #~ msgid ""
@@ -330,13 +326,13 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "Watch the video"
 #~ msgstr "De video bekijken"
 
-#~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.description"
-#~ msgid "Working towards Trustworthy AI? Share your work with our global community by submitting a proposal before Nov 14th."
-#~ msgstr "Werken aan betrouwbare AI? Deel uw werk met onze wereldwijde gemeenschap door uiterlijk 14 november een voorstel in te dienen."
-
 #~ msgctxt "body.485bd442-233d-41eb-a4b0-bb18f14f5f3b.text"
 #~ msgid "<b>The deadline for the MozFest 2022 Call for Proposals has been extended.</b> <a id=\"a1\">Submit your proposal</a> by end of day November 14th."
 #~ msgstr "<b>De deadline voor de MozFest 2022-oproep tot het indienen van voorstellen is verlengd.</b> <a id=\"a1\">Dien uw voorstel</a> uiterlijk 14 november in."
+
+#~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.description"
+#~ msgid "Working towards Trustworthy AI? Share your work with our global community by submitting a proposal before Nov 14th."
+#~ msgstr "Werken aan betrouwbare AI? Deel uw werk met onze wereldwijde gemeenschap door uiterlijk 14 november een voorstel in te dienen."
 
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.title"
 #~ msgid "Here is what's coming up next on the MozFest calendar:"
@@ -450,10 +446,6 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ "MozFest is afhankelijk van zijn vrijwilligers om de best mogelijke ervaring voor al zijn deelnemers te leveren. De oproep om deel te nemen aan het cohort van MozFest Virtual Volunteers van dit jaar "
 #~ "is nu geopend."
 
-#~ msgctxt "cta_button_label"
-#~ msgid "Secure your ticket"
-#~ msgstr "Stel uw ticket veilig"
-
 #~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.heading"
 #~ msgid "MozFest Virtual"
 #~ msgstr "Virtueel MozFest"
@@ -465,6 +457,10 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.description"
 #~ msgid "Secure your ticket to access hundreds of sessions and interactive exhibits, and connect with our exciting global community."
 #~ msgstr "Stel uw ticket veilig voor toegang tot honderden sessies en interactieve tentoonstellingen en maak contact met onze opwindende wereldwijde gemeenschap."
+
+#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.altText"
+#~ msgid "sneak peak icon"
+#~ msgstr "pictogram tipje van de sluier"
 
 #~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
 #~ msgid "<b>Get an insider look at confirmed, interactive sessions on the</b> <a id=\"a1\"><b>MozFest Plaza</b></a>"
@@ -522,6 +518,10 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "Join Mozilla Hubs team members for an interactive tutorial session on how to create and setup a space in Mozilla Hubs."
 #~ msgstr "Sluit u aan bij Mozilla Hubs-teamleden voor een interactieve zelfstudiesessie over het maken en instellen van een ruimte in Mozilla Hubs."
 
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.buttons.649b9400-bd0b-441e-8ed2-4866bfc84f48.label"
+#~ msgid "Learn More"
+#~ msgstr "Meer info"
+
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.13061a8d-141a-41f1-8c50-77e5b76f8c48.title"
 #~ msgid "Kiswahili Common Voice Contribute-a-thon"
 #~ msgstr "Kiswahili Common Voice Contribute-a-thon"
@@ -534,6 +534,10 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "The goal of this contribute-a-thon will be to increase participation for varying dialects and accents of Kiswahili that are typically underrepresented in voice databases."
 #~ msgstr "Het doel van deze contribute-a-thon is om de deelname te vergroten voor verschillende dialecten en accenten van het Kiswahili, die doorgaans ondervertegenwoordigd zijn in spraakdatabases."
 
+#~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
+#~ msgid "Expand new partnerships and deepen engagement with MozFest Fringe Events. Connect and collaborate early, and often."
+#~ msgstr "Breid nieuwe partnerschappen uit en verdiep uw betrokkenheid met MozFest Fringe-evenementen. Maak vroeg en vaak verbinding en werk vroeg en vaak samen."
+
 #~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
 #~ msgid "Join us online, 7-11 March 2022, to connect with others around the world who have a single mission: a better, healthier internet."
 #~ msgstr "Doe van 7 tot 11 maart 2022 online mee, om in contact te komen met anderen over de hele wereld die één missie hebben: een beter, gezonder internet."
@@ -541,10 +545,6 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.heading"
 #~ msgid "Building Momentum"
 #~ msgstr "Momentum bouwen"
-
-#~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
-#~ msgid "Expand new partnerships and deepen engagement with MozFest Fringe Events. Connect and collaborate early, and often."
-#~ msgstr "Breid nieuwe partnerschappen uit en verdiep uw betrokkenheid met MozFest Fringe-evenementen. Maak vroeg en vaak verbinding en werk vroeg en vaak samen."
 
 #~ msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
 #~ msgid "Secure Your MozFest Ticket Here"
@@ -650,6 +650,10 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "Build your watch list"
 #~ msgstr "Bouw uw volglijst"
 
+#~ msgctxt "banner_cta_label"
+#~ msgid "Watch the MozFest 2022 Wrap-up Video"
+#~ msgstr "Bekijk de MozFest 2022 Wrap-up-video"
+
 #~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.heading"
 #~ msgid "MozFest On-Demand"
 #~ msgstr "MozFest On-Demand"
@@ -657,6 +661,10 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
 #~ msgid "Access hundreds of recorded sessions and other content from MozFest 2022 until 25 June with an on-demand ticket."
 #~ msgstr "Krijg tot 25 juni toegang tot honderden opgenomen sessies en andere inhoud van MozFest 2022 met een on-demand ticket."
+
+#~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.heading"
+#~ msgid "Sustaining Momentum"
+#~ msgstr "Momentum behouden"
 
 #~ msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.releases"
 #~ msgid "48kaqlsi1x8,mozfest-mega-patron"
@@ -770,10 +778,6 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgid "https://vote.webbyawards.com/PublicVoting#/2022/virtual-remote/features/best-festival-or-conference"
 #~ msgstr "https://vote.webbyawards.com/PublicVoting#/2022/virtual-remote/features/best-festival-or-conference"
 
-#~ msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
-#~ msgid "Secure Your MozFest On-Demand Ticket Here"
-#~ msgstr "Stel hier uw MozFest On-Demand-ticket veilig"
-
 #~ msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
 #~ msgid "This panel is slated for June 2, 2022 at 16:00 UTC (18:00 CET / 12:00 ET / 21:30 IST)"
 #~ msgstr "Dit panel is gepland op 2 juni 2022 om 16:00 UTC (18:00 CET / 12:00 ET / 21:30 IST)"
@@ -815,6 +819,10 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgstr ""
 #~ "Sluit aan bij Toshi Reagon, in gesprek met Adrienne Maree Brown, beide stewards van “Parable of the Sower” van Octavia E. Butler, terwijl ze de invloed ervan op hun artistieke praktijk bespreken."
 
+#~ msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
+#~ msgid "Secure Your MozFest On-Demand Ticket Here"
+#~ msgstr "Stel hier uw MozFest On-Demand-ticket veilig"
+
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.76efa64e-673f-40b7-9b98-1ddf5e28cd63.title"
 #~ msgid "Attend a MozFest Fringe Event"
 #~ msgstr "Woon een MozFest Fringe-evenement bij"
@@ -830,6 +838,10 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.b0f30d0a-316a-493b-978e-e52e6f83f937.subheading_link.5b3d8f48-0741-4d48-9028-bf5b4d4e5d94.label"
 #~ msgid "MozFest On-Demand"
 #~ msgstr "MozFest On-Demand"
+
+#~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
+#~ msgid "Passionate about creating and promoting solutions to the most urgent issues in AI? Connect with MozFest's Trustworthy AI Working Groups."
+#~ msgstr "Gepassioneerd over het creëren en promoten van oplossingen voor de meest urgente problemen in AI? Maak contact met de werkgroepen voor Betrouwbare AI van MozFest."
 
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.76efa64e-673f-40b7-9b98-1ddf5e28cd63.body"
 #~ msgid "Expand new partnerships and deepen engagement with MozFest Fringe Events. Connect and collaborate early, and often."
@@ -847,17 +859,57 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ "Jen Caltrider en Misha Rykov hebben meer dan 30 van de meest populaire therapie-apps beoordeeld op het vlak van privacy en veiligheid. In deze Dialogen en debatten – <b>Privacy nog steeds niet "
 #~ "inbegrepen</b> – gaan we verder met het gesprek en bespreken we de bevindingen van de gids en het belang van het verbeteren van de privacy en beveiliging van apps."
 
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.title"
+#~ msgid "Movement Building From Home"
+#~ msgstr "Bewegingsopbouw vanuit huis"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.body"
+#~ msgid "Join us as we navigate the challenges and opportunities of facilitative leadership and online organizing 2 years into a remote-first world."
+#~ msgstr "Doe met ons mee terwijl we door de uitdagingen en kansen van faciliterend leiderschap en online organiseren in een wereld die 2 jaar vooral van afstand meedeed navigeren."
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.buttons.3288563e-0194-4fb8-9986-b72162f06753.label"
+#~ msgid "Learn More"
+#~ msgstr "Meer info"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.buttons.c0a6a6fc-052c-42b7-a1a7-de0bb7dbf43e.label"
+#~ msgid "Register Now"
+#~ msgstr "Nu registreren"
+
+#~ msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
+#~ msgid ""
+#~ "Technology further codifies biases and categorizes personhood, not simply a reflection of the society that creates it but possibly an imperfect and flawed mirror of it. That has resulted in software"
+#~ " and AI systems that are at odds with fluidity, that endanger the privacy and security of the LGBTQIA+ community, and often infer heteronormative assumptions and forces binary gender "
+#~ "classifications. How does the queer community change this technology landscape? And what does it mean to queer the landscape, coopt these systems, and create safe, online spaces? And accordingly, "
+#~ "how has technology made a global LGBTQIA+ movement possible?"
+#~ msgstr ""
+#~ "Technologie codificeert vooroordelen nog meer en categoriseert persoonlijkheid, niet slechts een weerspiegeling van de samenleving die het creëert, maar mogelijk een onvolmaakte en gebrekkige "
+#~ "spiegel ervan. Dat heeft geresulteerd in software en AI-systemen die op gespannen voet staan met vloeibaarheid, die de privacy en veiligheid van de LGBTQIA+-gemeenschap in gevaar brengen en die vaak"
+#~ " hetero-normatieve aannames afleiden en binaire genderclassificaties afdwingen. Hoe verandert de queergemeenschap dit technologielandschap? En wat betekent het om het landschap te queeren, deze "
+#~ "systemen te coöpteren en veilige, online ruimtes te creëren? En hoe heeft dientengevolge technologie een wereldwijde LGBTQIA+-beweging mogelijk gemaakt?"
+
 #~ msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
 #~ msgid "This panel is slated for June 21, 2022 at 15:00 UTC (17:00 CET / 11:00 ET / 20:30 IST)"
 #~ msgstr "Dit panel is gepland op 21 juni 2022 om 15:00 UTC (17:00 CET / 11:00 ET / 20:30 IST)"
+
+#~ msgctxt "body.8200cb36-4764-4d1e-bf1b-261157155f73.url"
+#~ msgid "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbranding=0"
+#~ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbranding=0"
 
 #~ msgctxt "body.30f6d395-8ebc-4ddf-8e60-25ce914d7a17.URL"
 #~ msgid "https://schedule.mozillafestival.org/session/CMKSKH-1"
 #~ msgstr "https://schedule.mozillafestival.org/session/CMKSKH-1"
 
+#~ msgctxt "cta_button_label"
+#~ msgid "Sign up for updates"
+#~ msgstr "Inschrijven voor updates"
+
 #~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.heading"
 #~ msgid "Movement Building from Home"
 #~ msgstr "Bewegingsopbouw vanuit huis"
+
+#~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
+#~ msgid "Join us as we navigate the challenges and opportunities of facilitative leadership and online organizing 2 years into a remote-first world."
+#~ msgstr "Doe met ons mee terwijl we door de uitdagingen en kansen van faciliterend leiderschap en online organiseren, in een wereld die 2 jaar vooral van afstand meedeed, navigeren."
 
 #~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
 #~ msgid "MozFest 2023, taking place from March 20-24th. Join 1000s of activists in diverse global movements fighting for a more humane digital world."
@@ -866,3 +918,23 @@ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbrand
 #~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
 #~ msgid "Add the dates for MozFest 2023 to your calendar, on <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> or <a id=\"a3\">download the invitation</a>."
 #~ msgstr "Voeg de datums voor MozFest 2023 toe aan uw agenda, in <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> of <a id=\"a3\">download de uitnodiging</a>."
+
+#~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
+#~ msgid "MozFest Virtual will take place 20-24 March, 2023. MozFest House in Amsterdam will take place 8-10 June, 2023."
+#~ msgstr "MozFest Virtual vindt plaats van 20-24 maart 2023. MozFest House in Amsterdam vindt plaats van 8-10 juni 2023."
+
+#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
+#~ msgid "Add the dates for MozFest Virtual 2023 to your calendar, on <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> or <a id=\"a3\">download the invitation</a>."
+#~ msgstr "Voeg de datums voor MozFest Virtual 2023 toe aan uw agenda, in <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> of <a id=\"a3\">download de uitnodiging</a>."
+
+#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.altText"
+#~ msgid "MozFest Logo"
+#~ msgstr "MozFest-logo"
+
+#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
+#~ msgid "The MozFest 2023 Call for Proposals is now open, and closes on December 16th 2022. <a id=\"a1\">Submit your proposal now.</a>"
+#~ msgstr "De MozFest 2023-oproep tot het indienen van voorstellen is nu geopend en sluit op 16 december 2022. <a id=\"a1\">Dien nu uw voorstel in.</a>"
+
+#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
+#~ msgid "The MozFest 2023 Call for Proposals is now open, and closes on December 20th 2022. <a id=\"a1\">Submit your proposal now.</a>"
+#~ msgstr "De MozFest 2023-oproep tot het indienen van voorstellen is nu geopend en sluit op 20 december 2022. <a id=\"a1\">Dien nu uw voorstel in.</a>"

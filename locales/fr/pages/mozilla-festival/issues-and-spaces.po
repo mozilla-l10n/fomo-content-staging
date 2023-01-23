@@ -1,0 +1,314 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-01-23 07:03:05.223088+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: ce3d0f28-be1e-4214-abfd-96d77585ed20\n"
+
+msgctxt "title"
+msgid "Issues and Spaces"
+msgstr "Enjeux et espaces"
+
+msgctxt "intro"
+msgid ""
+"We are committed to the realization of Artificial Intelligence that is worthy of trust, both on and offline. This commitment brings important topics such as bias, transparency and the stewardship of"
+" data to the forefront of the internet health movement."
+msgstr ""
+"Nous souhaitons l’émergence d’une Intelligence Artificielle digne de confiance, à la fois en ligne et hors ligne. Cet engagement place des sujets importants tels que les préjugés, la transparence et"
+" la gestion des données au premier plan du mouvement pour la bonne santé d’Internet."
+
+msgctxt "body.a5183dd1-1f55-498e-a5ac-08347739f208"
+msgid "Trustworthy AI"
+msgstr "IA digne de confiance"
+
+msgctxt "body.a5183dd1-1f55-498e-a5ac-08347739f208"
+msgid ""
+"In 2023, MozFest is harnessing our collective power to better our digital landscape, build transformative systems, and sustain momentum within our community towards positive human and digital rights"
+" progress. It is through the collective power of the people that we can actualize Trustworthy AI."
+msgstr ""
+"En 2023, MozFest exploite notre pouvoir collectif pour améliorer notre paysage numérique, construire des systèmes transformateurs et maintenir l’élan au sein de notre communauté vers des progrès "
+"positifs en matière de droits humains et numériques. C’est grâce au pouvoir collectif des personnes que nous pouvons concrétiser l’IA digne de confiance."
+
+msgctxt "body.7470525e-bfe9-46ef-a46b-92bc8a2dd187.button_label"
+msgid "Secure your MozFest ticket"
+msgstr "Réserver votre billet pour le MozFest"
+
+msgctxt "body.0162cb52-20c8-4239-97f6-93463585c0b9.altText"
+msgid "placeholder"
+msgstr "espace réservé"
+
+msgctxt "body.0162cb52-20c8-4239-97f6-93463585c0b9.text"
+msgid "\"15.7 trillion. The amount AI is predicted to contribute to the global economy by 2030.\""
+msgstr "« 15,7 trillions. C’est le montant auquel l’IA devrait contribuer à l’économie mondiale d’ici 2030. »"
+
+msgctxt "body.0162cb52-20c8-4239-97f6-93463585c0b9.text"
+msgid "Sizing the Prize, PricewaterhouseCoopers, 2017"
+msgstr "Sizing the Prize, PricewaterhouseCoopers, 2017"
+
+msgctxt "body.cc64aa9d-d0b5-497e-9ce4-7052d742ee31"
+msgid ""
+"As we investigate Trustworthy AI and the ways in which we can move from opaque, closed systems towards open, transparent ones, we center the people: builders, users, whistle blowers, and all those "
+"affected. MozFest is the gathering place for human intelligence that weaves in ancestral, ecological, technical and spiritual knowledge, to move the needle in shaping Artificial Intelligence."
+msgstr ""
+"Alors que nous étudions l’IA digne de confiance et les moyens de passer de systèmes opaques et fermés à des systèmes ouverts et transparents, nous nous concentrons sur les personnes : les créateurs,"
+" les utilisateurs, les lanceurs d’alerte et toutes les personnes concernées. Le MozFest est le lieu de rassemblement de l’intelligence humaine qui intègre les connaissances ancestrales, écologiques,"
+" techniques et spirituelles, afin de faire avancer l’intelligence artificielle."
+
+msgctxt "body.137a0ebf-5af2-4ea5-91cf-eb75d6073863.url"
+msgid "https://player.vimeo.com/video/786927574?h=62bd40c016"
+msgstr "https://player.vimeo.com/video/786927574?h=62bd40c016"
+
+msgctxt "body.604b898c-51ff-4d96-805a-fda579adb896"
+msgid "2023 Central Issues"
+msgstr "Enjeux centraux de 2023"
+
+msgctxt "body.604b898c-51ff-4d96-805a-fda579adb896"
+msgid "At MozFest, we focus on the most pressing issues of our current digital world."
+msgstr "Au MozFest, nous nous concentrons sur les problèmes les plus urgents de notre monde numérique actuel."
+
+msgctxt "body.d2455b87-cc62-4d75-9de9-314ecccb822b.cards.15d533bc-45d2-4b5d-add3-ce56dc0b1e4d.alt_text"
+msgid "A poster pinned to a corkboard that reads 'Trust me, I'm an AI.' surrounded by sticky notes to the right of the poster."
+msgstr "Une affiche épinglée sur un panneau de liège qui indique « Faites-moi confiance, je suis une IA. » entouré de post-it à droite de l’affiche."
+
+msgctxt "body.d2455b87-cc62-4d75-9de9-314ecccb822b.cards.15d533bc-45d2-4b5d-add3-ce56dc0b1e4d.title"
+msgid "Bias"
+msgstr "Biais"
+
+msgctxt "body.d2455b87-cc62-4d75-9de9-314ecccb822b.cards.15d533bc-45d2-4b5d-add3-ce56dc0b1e4d.body"
+msgid "The result of systematic design, allowing for unevenly distributed power. Let's redesign the system."
+msgstr "Le résultat d’une conception systématique, permettant une puissance inégalement répartie. Repensons le système."
+
+msgctxt "body.d2455b87-cc62-4d75-9de9-314ecccb822b.cards.9f802455-b4bb-43ec-97d9-b35009ccf4df.alt_text"
+msgid "A black and white tailors mannequin with a pink sign around the neck that says 'Free Your Data!' in the background there is a model of a fox's head."
+msgstr "Un mannequin de tailleur noir et blanc avec un panneau rose autour du cou qui indique « Libérez vos données ! », à l’arrière-plan, un modèle de tête de renard."
+
+msgctxt "body.d2455b87-cc62-4d75-9de9-314ecccb822b.cards.9f802455-b4bb-43ec-97d9-b35009ccf4df.title"
+msgid "Data Stewardship"
+msgstr "Gestion des données"
+
+msgctxt "body.d2455b87-cc62-4d75-9de9-314ecccb822b.cards.9f802455-b4bb-43ec-97d9-b35009ccf4df.body"
+msgid "The process of how our data is gathered, governed, deployed. Our data should benefit, not harm."
+msgstr "Le processus de collecte, de gouvernance et de déploiement de nos données. Nos données doivent être utiles, pas néfastes."
+
+msgctxt "body.d2455b87-cc62-4d75-9de9-314ecccb822b.cards.f9a0d9f3-c897-46be-9db9-bed6fad84677.alt_text"
+msgid "A world map with sticky notes added to different countries"
+msgstr "Une carte du monde avec des notes autocollantes ajoutées sur différents pays"
+
+msgctxt "body.d2455b87-cc62-4d75-9de9-314ecccb822b.cards.f9a0d9f3-c897-46be-9db9-bed6fad84677.title"
+msgid "Movement Building"
+msgstr "Construction du mouvement"
+
+msgctxt "body.d2455b87-cc62-4d75-9de9-314ecccb822b.cards.f9a0d9f3-c897-46be-9db9-bed6fad84677.body"
+msgid "An enduring practice, deep commitment towards shared goals, and desire to see systemic change."
+msgstr "Une pratique durable, un engagement profond envers des objectifs communs et un désir de voir un changement systémique."
+
+msgctxt "body.d2455b87-cc62-4d75-9de9-314ecccb822b.cards.1675dba8-8651-48e2-90ee-4bbafa29e2a3.alt_text"
+msgid "A photograph of a transparent, plastic, cube with blue LED lights and mirror inside it, creating a dotted pattern on it's surface."
+msgstr "Une photographie d’un cube en plastique transparent avec des lumières LED bleues et un miroir à l’intérieur, créant un motif en pointillé sur sa surface."
+
+msgctxt "body.d2455b87-cc62-4d75-9de9-314ecccb822b.cards.1675dba8-8651-48e2-90ee-4bbafa29e2a3.title"
+msgid "Transparency"
+msgstr "Transparence"
+
+msgctxt "body.d2455b87-cc62-4d75-9de9-314ecccb822b.cards.1675dba8-8651-48e2-90ee-4bbafa29e2a3.body"
+msgid "To clearly see the root of the problem and realistic solutions. We practice co-creation and openness."
+msgstr "Pour voir clairement la racine du problème et des solutions réalistes. Nous pratiquons la co-création et l’ouverture."
+
+msgctxt "body.988394b4-8eab-4621-82f7-e473f78c7662"
+msgid ""
+"There are many forces that move the world, and one of them is the collective power of people. In recent years, collective power has fueled the open source movement by providing access for more "
+"people to build online, propelled global awareness of political and social injustice, and helped individuals navigate a deadly pandemic through mutual aid efforts. But change is constant, and the "
+"internet of today has created new problems around open and collective power."
+msgstr ""
+"Il existe de nombreuses forces qui font bouger le monde, et l’une d’entre elles est le pouvoir collectif des individus. Au cours des dernières années, le pouvoir collectif a alimenté le mouvement "
+"open source en permettant à un plus grand nombre de personnes de créer en ligne, a favorisé une prise de conscience mondiale de l’injustice politique et sociale et a aidé des personnes à faire face "
+"à une pandémie mortelle grâce à des efforts de solidarité. Mais le changement est constant, et l’Internet d’aujourd’hui a créé de nouveaux problèmes autour du pouvoir ouvert et collectif."
+
+msgctxt "body.e5efaadd-e942-4e14-a32a-a10470fcff60.alt_text"
+msgid "Photo of Tara Vassefi"
+msgstr "Photo de Tara Vassefi"
+
+msgctxt "body.e5efaadd-e942-4e14-a32a-a10470fcff60.metadata"
+msgid "Community Spotlight"
+msgstr "Mise en avant communautaire"
+
+msgctxt "body.e5efaadd-e942-4e14-a32a-a10470fcff60.title"
+msgid "Meet Tara Vassefi"
+msgstr "Découvrez Tara Vassefi"
+
+msgctxt "body.e5efaadd-e942-4e14-a32a-a10470fcff60.body"
+msgid "Her Trustworthy AI Working Group project, \"Truth As A Public Good\" is the foundation of her now full-time job. She is able to apply her project to waste diversion for the city of Washington D.C."
+msgstr ""
+"Son projet de groupe de travail sur l’IA digne de confiance, « La vérité en tant que bien public », est à la source de ce qui est désormais son emploi à plein temps. Elle est en mesure d’appliquer "
+"son projet au tri des déchets pour la ville de Washington D.C."
+
+msgctxt "body.2bb963ae-7993-41e8-a5e8-8dfd8cbf6e99"
+msgid "MozFest 2023 Spaces"
+msgstr "Espaces du MozFest 2023"
+
+msgctxt "body.2bb963ae-7993-41e8-a5e8-8dfd8cbf6e99"
+msgid ""
+"Think of Spaces at MozFest as mini-festivals. Within each Space, participants can find everything they need: interactive, community-led sessions, inspiring talks, art installations, lots of coffee, "
+"and community."
+msgstr ""
+"Voyez les espaces au MozFest comme des mini-festivals. Dans chaque Espace, les participant·e·s peuvent trouver tout ce dont ils et elles ont besoin : des sessions interactives et animées par la "
+"communauté, des conférences inspirantes, des installations artistiques, beaucoup de café et une communauté."
+
+msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.2e57a937-5b94-433f-8973-c36d15780c07.alt_text"
+msgid "Blockchain Fairy Tales: What if Happily Ever After is not Guaranteed?"
+msgstr "Blockchain Fairy Tales: What if Happily Ever After is not Guaranteed?"
+
+msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.2e57a937-5b94-433f-8973-c36d15780c07.caption"
+msgid "AI Cosmologies"
+msgstr "AI Cosmologies"
+
+msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.a26cd4c5-f5a1-472e-86a5-59da3f578944.alt_text"
+msgid "A crowd photo of participants at a prior MozFest event, centered on the Mozilla mascot"
+msgstr "Une photo de la foule des participant·e·s à un évènement précédent du MozFest, centrée sur la mascotte de Mozilla"
+
+msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.a26cd4c5-f5a1-472e-86a5-59da3f578944.caption"
+msgid "Allies in Practice"
+msgstr "Alliés en pratique"
+
+msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.e128fed3-aa33-4460-b3e2-05e9cb5ec3b5.alt_text"
+msgid "A sign on a cork pin board that says \"Trust me, I'm an AI: surrounded by sticky notes."
+msgstr "Un panneau sur un tableau d’affichage en liège qui indique « Faites-moi confiance, je suis une IA » entouré de notes autocollantes."
+
+msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.e128fed3-aa33-4460-b3e2-05e9cb5ec3b5.caption"
+msgid "Autonomy &amp; Governance"
+msgstr "Autonomie et gouvernance"
+
+msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.f9a617de-1535-4bce-93c5-df467d6a649b.alt_text"
+msgid "a person wearing glasses facing away from the camera, their blue tshirt has yellow writing on the back that reads 'this technology could fall into the right hands'"
+msgstr "une personne portant des lunettes face à l’appareil photo, son t-shirt bleu a une écriture jaune au dos indiquant « cette technologie pourrait tomber entre de bonnes mains »"
+
+msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.f9a617de-1535-4bce-93c5-df467d6a649b.caption"
+msgid "Humans Behind The Machine"
+msgstr "Les humains derrière la machine"
+
+msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.b124b821-4b95-4084-9df6-82f097f0ec63.caption"
+msgid "Radical Inclusion"
+msgstr "Inclusion radicale"
+
+msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.281d9442-89fd-4a81-83b7-fd390b0016f4.alt_text"
+msgid "a paper jungle created to decorate a space at a previous in-person MozFest"
+msgstr "une jungle de papier créée pour décorer un espace lors d’un précédent MozFest en personne"
+
+msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.281d9442-89fd-4a81-83b7-fd390b0016f4.caption"
+msgid "Tech &amp; Biodiversity"
+msgstr "Technologie et biodiversité"
+
+msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.dc170584-7d10-4b12-a9e6-e20fa03e78f2.alt_text"
+msgid "An illustration of a person meditating with the words 'Human Centred Internet' on the right."
+msgstr "Une illustration d’une personne méditant avec les mots « Human Centered Internet » sur la droite."
+
+msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.dc170584-7d10-4b12-a9e6-e20fa03e78f2.caption"
+msgid "Education &amp; Access"
+msgstr "Éducation et accès"
+
+msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.1c05118c-a43f-4a77-a8bb-ff5400ed854f.alt_text"
+msgid "mozilla logo - a white m in the middle of a black square"
+msgstr "logo mozilla - un m blanc au milieu d’un carré noir"
+
+msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.1c05118c-a43f-4a77-a8bb-ff5400ed854f.caption"
+msgid "MoZone"
+msgstr "MoZone"
+
+msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.17077bdb-b94a-4760-8d64-b9edcb30f8d1.alt_text"
+msgid "A MozFest Session taking place in the Youth Zone, where a facilitator is helping a participant"
+msgstr "Une session du MozFest se déroulant dans la zone jeunesse, où un animateur aide une participante"
+
+msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.17077bdb-b94a-4760-8d64-b9edcb30f8d1.caption"
+msgid "Youth Zone"
+msgstr "Espace jeunesse"
+
+msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.738d41c1-0c8f-4823-8fdc-3505068e8b4b.alt_text"
+msgid "A Transparent Cube with blue LED lights inside it"
+msgstr "Un cube transparent avec des lumières LED bleues à l’intérieur"
+
+msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.738d41c1-0c8f-4823-8fdc-3505068e8b4b.caption"
+msgid "Utility of Transparency"
+msgstr "Utilité de la transparence"
+
+msgctxt "body.8d70f02e-b70f-4c30-954f-b15f8ff437a6"
+msgid "Get Involved"
+msgstr "S’impliquer"
+
+msgctxt "body.8d70f02e-b70f-4c30-954f-b15f8ff437a6"
+msgid "There are many ways to participate in MozFest, from working groups to facilitating a session, to watching our speaker series online."
+msgstr "Il existe de nombreuses façons de participer au MozFest, des groupes de travail à l’animation d’une session, en passant par le visionnage de notre série de conférences en ligne."
+
+msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.f86946c0-c423-46e8-bd73-653a6b284d77.title"
+msgid "MozFest 2023 Tickets"
+msgstr "Billets pour le MozFest 2023"
+
+msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.f86946c0-c423-46e8-bd73-653a6b284d77.body"
+msgid "There are two types of registrations available, Pay What You Can, which starts at €0, or you can become a MozFest Patron, offering additional benefits, starting at €250."
+msgstr ""
+"Il existe deux types d’inscriptions disponibles, « Payez ce que vous pouvez », à partir de 0 €, ou vous pouvez devenir mécène du MozFest, vous procurant des avantages supplémentaires, à partir de "
+"250 €."
+
+msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.f86946c0-c423-46e8-bd73-653a6b284d77.link_url"
+msgid "https://www.mozillafestival.org/tickets"
+msgstr "https://www.mozillafestival.org/tickets"
+
+msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.f86946c0-c423-46e8-bd73-653a6b284d77.link_label"
+msgid "Secure your ticket"
+msgstr "Réservez votre ticket"
+
+msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.41818e75-0f4b-4d7d-afb6-ae69440ed1b0.title"
+msgid "Working Groups"
+msgstr "Groupes de travail"
+
+msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.41818e75-0f4b-4d7d-afb6-ae69440ed1b0.body"
+msgid "The Building Trustworthy AI Working Group for AI builders is an engaged community of over 400 global members who aim to help the MozFest community build more Trustworthy AI."
+msgstr ""
+"Le groupe de travail « La création d’IA digne de confiance » destiné aux créateurs d’IA est une communauté engagée de plus de 400 membres des quatre coins du monde qui vise à aider la communauté "
+"MozFest à créer une IA plus digne de confiance."
+
+msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.41818e75-0f4b-4d7d-afb6-ae69440ed1b0.link_url"
+msgid "https://www.mozillafestival.org/community/working-groups"
+msgstr "https://www.mozillafestival.org/fr/community/working-groups"
+
+msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.41818e75-0f4b-4d7d-afb6-ae69440ed1b0.link_label"
+msgid "Join a working group"
+msgstr "Rejoindre un groupe de travail"
+
+msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.5beb5a2f-1d6e-4986-86a9-5f28e230117c.title"
+msgid "Volunteer"
+msgstr "Participer"
+
+msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.5beb5a2f-1d6e-4986-86a9-5f28e230117c.body"
+msgid "Being a volunteer at the festival is a great behind-the-scenes chance to learn how this incredible event unfolds. Registration opens December 2022."
+msgstr "Être bénévole au festival est une excellente occasion d’apprendre comment se déroule cet évènement incroyable en coulisses. Les inscriptions ouvrent en décembre 2022."
+
+msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.5beb5a2f-1d6e-4986-86a9-5f28e230117c.link_url"
+msgid "https://www.mozillafestival.org/community/volunteers"
+msgstr "https://www.mozillafestival.org/fr/community/volunteers"
+
+msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.5beb5a2f-1d6e-4986-86a9-5f28e230117c.link_label"
+msgid "Learn more"
+msgstr "En savoir plus"
+
+#~ msgctxt "body.137a0ebf-5af2-4ea5-91cf-eb75d6073863.url"
+#~ msgid "https://www.youtube-nocookie.com/embed/P-iiN0c2uic?modestbranding=1&amp;rel=0&amp;iv_load_policy=3&amp;color=white"
+#~ msgstr "https://www.youtube-nocookie.com/embed/P-iiN0c2uic?modestbranding=1&amp;rel=0&amp;iv_load_policy=3&amp;color=white&amp;cc_load_policy=1&amp;cc_lang_pref=fr"
+
+#~ msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.f86946c0-c423-46e8-bd73-653a6b284d77.title"
+#~ msgid "Call for Proposals"
+#~ msgstr "Appel à propositions"
+
+#~ msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.f86946c0-c423-46e8-bd73-653a6b284d77.link_url"
+#~ msgid "https://www.mozillafestival.org/proposals"
+#~ msgstr "https://www.mozillafestival.org/fr/proposals"
+
+#~ msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.f86946c0-c423-46e8-bd73-653a6b284d77.link_label"
+#~ msgid "Submit your session idea"
+#~ msgstr "Proposer votre idée de session"
+
+#~ msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.f86946c0-c423-46e8-bd73-653a6b284d77.body"
+#~ msgid "We welcome sessions on a wide range of topics relevant to Trustworthy AI, and the internet health movement, but all sessions must be interactive and inclusive."
+#~ msgstr ""
+#~ "Nous accueillons des sessions sur un large éventail de sujets pertinents pour une IA digne de confiance et le mouvement pour la bonne santé d’Internet, mais toutes les sessions doivent être "
+#~ "interactives et inclusives."

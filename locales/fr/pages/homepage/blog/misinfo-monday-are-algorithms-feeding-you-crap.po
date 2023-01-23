@@ -83,7 +83,7 @@ msgstr "Découvrez la bulle de quelqu’un d’autre sur <a id=\"a1\">Their.Tube
 
 msgctxt "body.d8825714-d72f-4614-8647-294e3b2efb1d"
 msgid "Want to read more about recommendation algorithms? Here are some great resources from around the web:"
-msgstr "Vous voulez en savoir plus sur les algorithmes de recommandation ? Voici d'excellentes ressources en ligne :"
+msgstr "Vous voulez en savoir plus sur les algorithmes de recommandation ? Voici d’excellentes ressources en ligne :"
 
 msgctxt "body.d8825714-d72f-4614-8647-294e3b2efb1d"
 msgid "<a id=\"a1\">More about TheirTube</a>, a Mozilla Creative Media Award Winner on the Mozilla blog"

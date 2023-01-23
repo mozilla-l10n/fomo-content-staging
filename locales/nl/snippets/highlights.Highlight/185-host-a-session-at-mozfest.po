@@ -1,0 +1,23 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-01-23 07:03:12.636590+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: d38b1d50-51a4-4110-811e-2302c3969c63\n"
+
+msgctxt "title"
+msgid "Host A Session At MozFest"
+msgstr "Organiseer een sessie op MozFest"
+
+msgctxt "description"
+msgid "MozFest is looking for participatory, collaborative and interactive session ideas! The Call for Proposals is open now through 16 December."
+msgstr "MozFest is op zoek naar ideeën voor participatieve, collaboratieve en interactieve sessies! De Oproep voor voorstellen loopt van nu tot en met 16 december."
+
+msgctxt "link_label"
+msgid "Submit A Session"
+msgstr "Een sessie indienen"
+
+msgctxt "footer"
+msgid "<a id=\"a1\">Submit A Session</a>"
+msgstr "<a id=\"a1\">Een sessie indienen</a>"

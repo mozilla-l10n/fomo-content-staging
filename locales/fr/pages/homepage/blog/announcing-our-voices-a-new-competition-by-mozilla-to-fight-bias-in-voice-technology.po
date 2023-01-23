@@ -119,7 +119,7 @@ msgid ""
 " other institutions and organizations. The panel is 50% women, 60% multilingual, and 30% people of colour."
 msgstr ""
 "Les projets seront jugés de manière globale sur des critères tels que le taux d’erreur de mots, le besoin social, la possibilité de déploiement et l’impact environnemental. Les juges sont neuf "
-"expert·e·s en technologie vocale de NVIDIA, Mozilla, d’universités et d'autres institutions et organisations. Le jury est composé de 50 % de femmes, de 60 % de personnes multilingues et de 30 % de "
+"expert·e·s en technologie vocale de NVIDIA, Mozilla, d’universités et d’autres institutions et organisations. Le jury est composé de 50 % de femmes, de 60 % de personnes multilingues et de 30 % de "
 "personnes de couleur."
 
 msgctxt "body.eeb749ff-f953-4675-89f5-b6c9c10fa27b"

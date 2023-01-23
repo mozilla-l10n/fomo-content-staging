@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "introduction"
 msgid "Neha is a project manager on the Insights team at Mozilla Foundation."
-msgstr "Neha est chef de projet au sein de l'équipe Insights de la Fondation Mozilla."
+msgstr "Neha est chef de projet au sein de l’équipe Insights de la Fondation Mozilla."

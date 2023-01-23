@@ -95,20 +95,8 @@ msgid "Current Opportunities"
 msgstr "Aktuelle Möglichkeiten"
 
 msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
-msgid "<b>Data Futures Lab</b> Cohort Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
-msgstr "Ab sofort bitten wir um Vorschläge für die Kohorte <b>Data Futures Lab</b> 2023! <a id=\"a1\">Weitere Informationen und Bewerbung →</a>"
-
-msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
-msgid "<b>Creative Media Awards</b> Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
-msgstr "Ab sofort bitten wir um Vorschläge für die <b>Creative Media Awards</b>! <a id=\"a1\">Weitere Informationen und Bewerbung →</a>"
-
-msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
-msgid "<b>Africa Innovation Mradi IRL Fund</b> Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
-msgstr "Ab sofort bitten wir um Vorschläge für <b>Africa Innovation Mradi IRL Fund</b>! <a id=\"a1\">Weitere Informationen und Bewerbung →</a>"
-
-msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
-msgid "<b>Responsible Computer Science Challenge</b> in Kenya is accepting applications <a id=\"a1\">Learn more and apply →</a>"
-msgstr "<b>Responsible Computer Science Challenge</b> in Kenia akzeptiert Bewertungen. <a id=\"a1\">Weitere Informationen und Bewerbung →</a>"
+msgid "We do not currently have any open funding opportunities."
+msgstr "Derzeit haben wir keine offenen Fördermöglichkeiten."
 
 msgctxt "body.e718ced0-43af-45ff-bcc8-cb5ebf563eb2"
 msgid "How we fund"
@@ -374,5 +362,21 @@ msgstr "Was wir finanzieren"
 #~ msgstr "Ab sofort bitten wir um Vorschläge für die Kohorte Data Futures Lab 2023! <a id=\"a1\">Weitere Informationen und Bewerbung →</a>"
 
 #~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
+#~ msgid "<b>Data Futures Lab</b> Cohort Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
+#~ msgstr "Ab sofort bitten wir um Vorschläge für die Kohorte <b>Data Futures Lab</b> 2023! <a id=\"a1\">Weitere Informationen und Bewerbung →</a>"
+
+#~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
+#~ msgid "<b>Creative Media Awards</b> Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
+#~ msgstr "Ab sofort bitten wir um Vorschläge für die <b>Creative Media Awards</b>! <a id=\"a1\">Weitere Informationen und Bewerbung →</a>"
+
+#~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
 #~ msgid "<b>Africa Mradi IRL Fund</b> Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
 #~ msgstr "Ab sofort bitten wir um Vorschläge für <b>Africa Mradi IRL Fund</b>! <a id=\"a1\">Weitere Informationen und Bewerbung →</a>"
+
+#~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
+#~ msgid "<b>Responsible Computer Science Challenge</b> in Kenya is accepting applications <a id=\"a1\">Learn more and apply →</a>"
+#~ msgstr "<b>Responsible Computer Science Challenge</b> in Kenia akzeptiert Bewertungen. <a id=\"a1\">Weitere Informationen und Bewerbung →</a>"
+
+#~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
+#~ msgid "<b>Africa Innovation Mradi IRL Fund</b> Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
+#~ msgstr "Ab sofort bitten wir um Vorschläge für <b>Africa Innovation Mradi IRL Fund</b>! <a id=\"a1\">Weitere Informationen und Bewerbung →</a>"
