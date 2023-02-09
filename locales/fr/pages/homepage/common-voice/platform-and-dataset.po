@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-01-23 07:02:59.838105+00:00\n"
+"PO-Revision-Date: 2023-02-09 12:57+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: a92ef413-8a66-4b82-b22f-361717156fa5\n"
 
 msgctxt "seo_title"
@@ -33,7 +38,7 @@ msgstr "Common Voice est le plus grand jeu de données vocales multilingues en c
 
 msgctxt "body.d4f01d10-13b2-4b51-bc11-c9a8d747210d.altText"
 msgid "common voice about icon"
-msgstr ""
+msgstr "Icône à propos de Common Voice"
 
 msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
 msgid "Why Common Voice?"
