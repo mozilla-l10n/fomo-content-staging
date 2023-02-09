@@ -214,6 +214,14 @@ msgstr "Jukka Vahti"
 #~ msgid "Presenting Sponsor"
 #~ msgstr "Principaux sponsors"
 
+#~ msgctxt "body.fdbc0fc3-4ef5-4c26-853f-01d389ae1d28"
+#~ msgid "Tera Level Patrons"
+#~ msgstr "Mécènes de niveau Tera"
+
+#~ msgctxt "body.e7cbe07f-dad6-4c71-aef7-3d5d4c96b4e8"
+#~ msgid "MozFest Partners"
+#~ msgstr "Partenaires du MozFest"
+
 #~ msgctxt "body.2efb469f-d8b2-40e6-b94d-40e5f0eeceda"
 #~ msgid "Guardian Sponsors"
 #~ msgstr "Sponsors Guardian"
@@ -221,14 +229,6 @@ msgstr "Jukka Vahti"
 #~ msgctxt "body.8035a38f-8a09-4af2-8107-0e6b3d611a98"
 #~ msgid "Champion Sponsors"
 #~ msgstr "Sponsors Champion"
-
-#~ msgctxt "body.e7cbe07f-dad6-4c71-aef7-3d5d4c96b4e8"
-#~ msgid "MozFest Partners"
-#~ msgstr "Partenaires du MozFest"
-
-#~ msgctxt "body.fdbc0fc3-4ef5-4c26-853f-01d389ae1d28"
-#~ msgid "Tera Level Patrons"
-#~ msgstr "Mécènes de niveau Tera"
 
 #~ msgctxt "body.4307afe2-f13a-4d4b-b9c8-75892c6a5517"
 #~ msgid "Giga Level Patrons"

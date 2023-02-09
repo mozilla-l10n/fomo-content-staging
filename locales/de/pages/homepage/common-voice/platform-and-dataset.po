@@ -31,8 +31,8 @@ msgid "Common Voice is the largest crowdsourced multilingual speech dataset in t
 msgstr "Common Voice ist der weltweit größte, mehrsprachige Sprachdatensatz aus Crowdsourcing"
 
 msgctxt "body.d4f01d10-13b2-4b51-bc11-c9a8d747210d.altText"
-msgid "common voice about"
-msgstr "Über Common Voice"
+msgid "common voice about icon"
+msgstr ""
 
 msgctxt "body.99cee0d5-f2fa-4b56-858a-16d719452539"
 msgid "Why Common Voice?"
@@ -137,3 +137,7 @@ msgstr "https://commonvoice.mozilla.org/speak"
 msgctxt "title"
 msgid "Platform and Dataset"
 msgstr "Plattform und Datensatz"
+
+#~ msgctxt "body.d4f01d10-13b2-4b51-bc11-c9a8d747210d.altText"
+#~ msgid "common voice about"
+#~ msgstr "Über Common Voice"
