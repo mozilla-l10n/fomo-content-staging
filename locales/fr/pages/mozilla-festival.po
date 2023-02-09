@@ -134,26 +134,6 @@ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-
 msgid "Learn more"
 msgstr "En savoir plus"
 
-msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.title"
-msgid "Submit your session to MozFest"
-msgstr "Proposez votre session pour le MozFest"
-
-msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.subheading_link.a00f4042-4a44-49e4-bd30-43cbb22e62e5.label"
-msgid "Call for Proposals"
-msgstr "Appel à propositions"
-
-msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.body"
-msgid "Are you working towards Trustworthy AI and want to share your work with a global community? Submit a session idea for MozFest 2023!"
-msgstr "Votre travail contribue à une IA digne de confiance et vous souhaitez partager votre travail avec une communauté internationale ? Soumettez une idée de session pour le MozFest 2023 !"
-
-msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.buttons.3288563e-0194-4fb8-9986-b72162f06753.label"
-msgid "Submit your proposal"
-msgstr "Soumettre une proposition"
-
-msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.buttons.c0a6a6fc-052c-42b7-a1a7-de0bb7dbf43e.label"
-msgid "Learn more"
-msgstr "En savoir plus"
-
 msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.457a0611-f56c-4cdf-b5fd-4a99107de728.title"
 msgid "Join the MozFest Slack"
 msgstr "Rejoignez le Slack du MozFest"
@@ -196,6 +176,10 @@ msgstr ""
 "systèmes d’IA sont devenus étonnamment efficaces pour générer des extraits de texte ou des images générées par ordinateur convaincants. Ces modèles comportent également des risques : par exemple, "
 "ils peuvent perpétuer des stéréotypes préjudiciables aux femmes ou aux groupes marginalisés. Comment faire face à ces risques ? Et quel rôle la règlementation peut-elle jouer ?"
 
+msgctxt "body.fd0e8d8b-7e24-454d-b6e8-748ee35b7774"
+msgid "Test"
+msgstr ""
+
 msgctxt "body.8200cb36-4764-4d1e-bf1b-261157155f73.url"
 msgid "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbranding=0"
 msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbranding=0"
@@ -215,6 +199,10 @@ msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbrand
 #~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
 #~ msgid "Join us online, 7-10 March 2022, to connect with others around the world who have a single mission: a better, healthier internet."
 #~ msgstr "Rejoignez-nous en ligne, du 7 au 10 mars 2022, pour rencontrer d’autres personnes dans le monde qui partagent une mission unique : un Internet meilleur et plus sain."
+
+#~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.heading"
+#~ msgid "Call for Proposals"
+#~ msgstr "Appel à propositions"
 
 #~ msgctxt "banner_carousel.1ec12eea-59d5-4544-8c7a-45bf6f0807dd.description"
 #~ msgid "Working towards Trustworthy AI? Share your work with our global community by submitting a proposal before November 5th."
@@ -1025,6 +1013,26 @@ msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbrand
 #~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
 #~ msgid "The MozFest 2023 Call for Proposals is now open, and closes on December 16th 2022. <a id=\"a1\">Submit your proposal now.</a>"
 #~ msgstr "L’appel à propositions pour le MozFest 2023 est à présent ouvert et se clôturera le 16 décembre 2022. <a id=\"a1\">Soumettez votre proposition maintenant.</a>"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.title"
+#~ msgid "Submit your session to MozFest"
+#~ msgstr "Proposez votre session pour le MozFest"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.subheading_link.a00f4042-4a44-49e4-bd30-43cbb22e62e5.label"
+#~ msgid "Call for Proposals"
+#~ msgstr "Appel à propositions"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.buttons.3288563e-0194-4fb8-9986-b72162f06753.label"
+#~ msgid "Submit your proposal"
+#~ msgstr "Soumettre une proposition"
+
+#~ msgctxt "cta_button_label"
+#~ msgid "Submit your proposal"
+#~ msgstr "Proposer une session"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.body"
+#~ msgid "Are you working towards Trustworthy AI and want to share your work with a global community? Submit a session idea for MozFest 2023!"
+#~ msgstr "Votre travail contribue à une IA digne de confiance et vous souhaitez partager votre travail avec une communauté internationale ? Soumettez une idée de session pour le MozFest 2023 !"
 
 #~ msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
 #~ msgid "Watch live on LinkedIn and YouTube on November 29, 2022 at 17:30 UTC."

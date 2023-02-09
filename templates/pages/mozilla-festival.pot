@@ -123,26 +123,6 @@ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-
 msgid "Learn more"
 msgstr ""
 
-msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.title"
-msgid "Submit your session to MozFest"
-msgstr ""
-
-msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.subheading_link.a00f4042-4a44-49e4-bd30-43cbb22e62e5.label"
-msgid "Call for Proposals"
-msgstr ""
-
-msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.body"
-msgid "Are you working towards Trustworthy AI and want to share your work with a global community? Submit a session idea for MozFest 2023!"
-msgstr ""
-
-msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.buttons.3288563e-0194-4fb8-9986-b72162f06753.label"
-msgid "Submit your proposal"
-msgstr ""
-
-msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.buttons.c0a6a6fc-052c-42b7-a1a7-de0bb7dbf43e.label"
-msgid "Learn more"
-msgstr ""
-
 msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.457a0611-f56c-4cdf-b5fd-4a99107de728.title"
 msgid "Join the MozFest Slack"
 msgstr ""
@@ -180,6 +160,10 @@ msgid ""
 "If you’re on social media or other corners of the internet a lot, you’ve likely encountered AI systems with names like GPT-3 or DALL·E in recent months. These are some of the AI systems that have "
 "become surprisingly good at creating convincing snippets of text or computer-generated images. These models come with risks, too: for example, they can perpetuate harmful stereotypes against women "
 "or marginalized groups. How can these risks be addressed? And what part can regulation play in this?"
+msgstr ""
+
+msgctxt "body.fd0e8d8b-7e24-454d-b6e8-748ee35b7774"
+msgid "Test"
 msgstr ""
 
 msgctxt "body.8200cb36-4764-4d1e-bf1b-261157155f73.url"
