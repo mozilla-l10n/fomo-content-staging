@@ -110,6 +110,10 @@ msgctxt "user_friendly_privacy_policy_helptext"
 msgid "Structured and concise"
 msgstr "Structurée et concise"
 
+msgctxt "security_updates_helptext"
+msgid "Test description"
+msgstr ""
+
 msgctxt "tips_to_protect_yourself"
 msgid "Use two-factor authentication"
 msgstr "Utilisez l’authentification à deux facteurs"
