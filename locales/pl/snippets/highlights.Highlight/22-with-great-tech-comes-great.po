@@ -1,0 +1,23 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-03-01 16:44:17.202119+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 5afc88ea-cec6-400d-ae7e-f8afe965c512\n"
+
+msgctxt "title"
+msgid "With Great Tech Comes Great…"
+msgstr "Wielkie technologie to wielka…"
+
+msgctxt "description"
+msgid "With Great Tech Comes Great Responsibility is a student guide for navigating ethical issues in the tech industry."
+msgstr "„Wielkie technologie to wielka odpowiedzialność” to studencki przewodnik po etycznych aspektach branży technologicznej."
+
+msgctxt "link_label"
+msgid "Read the Guide"
+msgstr "Przeczytaj przewodnik"
+
+msgctxt "footer"
+msgid "With Great Tech Comes Great Responsibility is a student guide for navigating ethical issues in the tech industry."
+msgstr "„Wielkie technologie to wielka odpowiedzialność” to studencki przewodnik po etycznych aspektach branży technologicznej."

@@ -19,12 +19,12 @@ msgid "Homepage"
 msgstr "Inicio"
 
 msgctxt "hero_headline"
-msgid "Nadya Tolokonnikova, Pussy Riot Founder keynote speaker at MozFest!"
-msgstr ""
+msgid "Google Play Store Labels Are Misleading"
+msgstr "Las etiquetas de Google Play Store son engañosas"
 
 msgctxt "hero_button_text"
-msgid "Secure Your Tickets"
-msgstr ""
+msgid "Read The Research"
+msgstr "Para leer el estudio"
 
 msgctxt "spotlight_headline"
 msgid "All About Common Voice"
@@ -143,6 +143,10 @@ msgstr "Logo de Consumers International"
 #~ msgid "MozFest 2023 Call For Proposals"
 #~ msgstr "Convocatoria de propuestas para el MozFest 2023"
 
+#~ msgctxt "hero_headline"
+#~ msgid "MozFest 2023 — Virtual Experience"
+#~ msgstr "MozFest 2023 — Experiencia virtual"
+
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Findings"
 #~ msgstr "Revisar los resultados"
@@ -170,6 +174,10 @@ msgstr "Logo de Consumers International"
 #~ msgctxt "hero_button_text"
 #~ msgid "Find Out When"
 #~ msgstr "Descubre cuándo será"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Secure Your Ticket Now"
+#~ msgstr "Asegura tu boleto"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Here’s What We Found"

@@ -19,11 +19,11 @@ msgid "Homepage"
 msgstr "Startside"
 
 msgctxt "hero_headline"
-msgid "Nadya Tolokonnikova, Pussy Riot Founder keynote speaker at MozFest!"
-msgstr "Nadya Tolokonnikova, oprjochter fan Pussy Riot, keynote-sprekker op MozFest!"
+msgid "Google Play Store Labels Are Misleading"
+msgstr ""
 
 msgctxt "hero_button_text"
-msgid "Secure Your Tickets"
+msgid "Read The Research"
 msgstr ""
 
 msgctxt "spotlight_headline"
@@ -235,6 +235,14 @@ msgstr "Consumers International-logo"
 #~ msgstr "Mear ynfo hjir"
 
 #~ msgctxt "hero_headline"
+#~ msgid "MozFest 2023 — Virtual Experience"
+#~ msgstr "MozFest 2023 — Firtuele ûnderfining"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Secure Your Ticket Now"
+#~ msgstr "Stel no jo tickets feilich"
+
+#~ msgctxt "hero_headline"
 #~ msgid "Mozilla Festival 2023 Dates Announced!"
 #~ msgstr "Datums Mozilla Festival 2023 oankundige!"
 
@@ -254,10 +262,6 @@ msgstr "Consumers International-logo"
 #~ msgid "Here’s What We Found"
 #~ msgstr "Hjir is wat wy ûntdutsen hawwe"
 
-#~ msgctxt "hero_button_text"
-#~ msgid "Secure Yours"
-#~ msgstr "Krij no jo kaartsjes"
-
 #~ msgctxt "hero_headline"
 #~ msgid "MozFest 2023 Tickets Are Now Available"
 #~ msgstr "Kaartsjes foar MozFest 2023 binne no te krijen"
@@ -270,6 +274,10 @@ msgstr "Consumers International-logo"
 #~ msgid "Shop smart, and safe."
 #~ msgstr "Winkel slim, en feilich."
 
+#~ msgctxt "hero_button_text"
+#~ msgid "Secure Yours"
+#~ msgstr "Krij no jo kaartsjes"
+
 #~ msgctxt "hero_headline"
 #~ msgid "MozFest 2023 Call For Proposals"
 #~ msgstr "MozFest 2023-oprop foar foarstellen"
@@ -281,6 +289,10 @@ msgstr "Consumers International-logo"
 #~ msgctxt "hero_headline"
 #~ msgid "Read expert reviews on this season's hottest connected gifts."
 #~ msgstr "Lês resinsjes fan eksperts oer de populêrste ferbûne geskinken fan dit seizoen."
+
+#~ msgctxt "hero_headline"
+#~ msgid "Nadya Tolokonnikova, Pussy Riot Founder keynote speaker at MozFest!"
+#~ msgstr "Nadya Tolokonnikova, oprjochter fan Pussy Riot, keynote-sprekker op MozFest!"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Secure Your Tickets Now"

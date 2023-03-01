@@ -97,16 +97,16 @@ msgid "The <b>Creative Media Awards</b> fund art that explores the impact of art
 msgstr "Les <b>Creative Media Awards</b> financent des œuvres d’art qui explorent l’impact de l’intelligence artificielle sur la société. <a id=\"a1\">En savoir plus →</a>"
 
 msgctxt "body.12dcf4f7-2e48-4780-a5b8-e0095f7e3d04.altText"
-msgid "Responsible Computer Science Challenge logo"
-msgstr "Logo Responsible Computer Science Challenge"
+msgid "Responsible Computing Challenge logo"
+msgstr "Logo du Responsible Computing Science Challenge"
 
 msgctxt "body.12dcf4f7-2e48-4780-a5b8-e0095f7e3d04.text"
 msgid "Mozilla Awards support the next wave of responsible technology builders."
 msgstr "Les subventions Mozilla financent la prochaine vague de créateurs et créatrices de technologies responsables."
 
 msgctxt "body.12dcf4f7-2e48-4780-a5b8-e0095f7e3d04.text"
-msgid "The <b>Responsible Computer Science Challenge</b> supports the integration of ethics into undergraduate computer science curricula. <a id=\"a1\">Learn more →</a>"
-msgstr "Le <b>Responsible Computer Science Challenge</b> encourage l’intégration de l’éthique dans les programmes de premier cycle en informatique. <a id=\"a1\">En savoir plus →</a>"
+msgid "The <b>Responsible Computing Challenge</b> supports the integration of ethics into undergraduate computing curricula. <a id=\"a1\">Learn more →</a>"
+msgstr "Le <b>Responsible Computing Science Challenge</b> encourage l’intégration de l’éthique dans les programmes de premier cycle en informatique. <a id=\"a1\">En savoir plus →</a>"
 
 msgctxt "body.42c74a41-09bc-4609-9ed2-911f0f026c3b.altText"
 msgid "data futures lab icon"
@@ -258,6 +258,10 @@ msgstr "Subventions"
 #~ msgid "Applications are open until 9 December 2022. <a id=\"a1\">Learn more →</a>"
 #~ msgstr "Les candidatures sont ouvertes jusqu’au 9 décembre 2022. <a id=\"a1\">En savoir plus →</a>"
 
+#~ msgctxt "body.12dcf4f7-2e48-4780-a5b8-e0095f7e3d04.altText"
+#~ msgid "Responsible Computer Science Challenge logo"
+#~ msgstr "Logo Responsible Computer Science Challenge"
+
 #~ msgctxt "body.fcfc3b3b-ff3d-4d54-81d8-5c077e49e733.text"
 #~ msgid ""
 #~ "The <b>Mozilla Technology Fund (MTF)</b> funds technologies in the open-source and free software movement that align with Mozilla’s mission and address pressing internet health issues. <a "
@@ -265,6 +269,10 @@ msgstr "Subventions"
 #~ msgstr ""
 #~ "Le <b>Mozilla Technology Fund (MTF)</b> finance les technologies dans le mouvement des logiciels libres et open source qui s’alignent sur la mission de Mozilla et s’attaquent aux problèmes urgents "
 #~ "de santé d’Internet. <a id=\"a1\">En savoir plus →</a>"
+
+#~ msgctxt "body.12dcf4f7-2e48-4780-a5b8-e0095f7e3d04.text"
+#~ msgid "The <b>Responsible Computer Science Challenge</b> supports the integration of ethics into undergraduate computer science curricula. <a id=\"a1\">Learn more →</a>"
+#~ msgstr "Le <b>Responsible Computer Science Challenge</b> encourage l’intégration de l’éthique dans les programmes de premier cycle en informatique. <a id=\"a1\">En savoir plus →</a>"
 
 #~ msgctxt "body.9d14e4d5-1344-427f-a4a1-4d956e567ed2"
 #~ msgid "Mozilla Research Grants are administered by Mozilla's Emerging Technologies Team. <a id=\"a1\">Find out more.</a>"
@@ -295,12 +303,12 @@ msgstr "Subventions"
 #~ "de santé d’Internet. Les candidatures sont maintenant ouvertes. <a id=\"a1\">En savoir plus →</a>"
 
 #~ msgctxt "body.f240b80c-61c4-4a47-b2ff-8397ed1fd333.text"
-#~ msgid "There are currently no open calls for proposals. Keep an eye out for updates!"
-#~ msgstr "Il n’y a actuellement aucun appel à propositions ouvert. Gardez un œil sur cette page !"
-
-#~ msgctxt "body.f240b80c-61c4-4a47-b2ff-8397ed1fd333.text"
 #~ msgid "2023 Data Futures Lab Cohort Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
 #~ msgstr "L’appel à propositions 2023 de la cohorte Data Futures Lab est ouvert ! <a id=\"a1\">En savoir plus et candidater →</a>"
+
+#~ msgctxt "body.f240b80c-61c4-4a47-b2ff-8397ed1fd333.text"
+#~ msgid "There are currently no open calls for proposals. Keep an eye out for updates!"
+#~ msgstr "Il n’y a actuellement aucun appel à propositions ouvert. Gardez un œil sur cette page !"
 
 #~ msgctxt "body.42c74a41-09bc-4609-9ed2-911f0f026c3b.text"
 #~ msgid ""
@@ -309,10 +317,6 @@ msgstr "Subventions"
 #~ msgstr ""
 #~ "Le <b>Data Futures Lab</b> est un projet expérimental qui examine de nouvelles approches de la gestion des données. Les subventions du Lab comprennent un fonds Prototype et un fonds Infrastructure. "
 #~ "<i>Le fonds Prototype accepte actuellement les candidatures.</i><br/> <a id=\"a1\">En savoir plus →</a>"
-
-#~ msgctxt "body.e7d7bf0e-2268-4077-af17-973119c29f79.altText"
-#~ msgid "Africa Mradi"
-#~ msgstr "Africa Mradi"
 
 #~ msgctxt "body.f240b80c-61c4-4a47-b2ff-8397ed1fd333.text"
 #~ msgid "2023 <b>Data Futures Lab</b> Cohort Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
@@ -341,6 +345,10 @@ msgstr "Subventions"
 #~ msgctxt "body.f240b80c-61c4-4a47-b2ff-8397ed1fd333.text"
 #~ msgid "<b>Data Futures Lab</b> Cohort Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
 #~ msgstr "L’appel à propositions de la cohorte <b>Data Futures Lab</b> est ouvert ! <a id=\"a1\">En savoir plus et candidater →</a>"
+
+#~ msgctxt "body.e7d7bf0e-2268-4077-af17-973119c29f79.altText"
+#~ msgid "Africa Mradi"
+#~ msgstr "Africa Mradi"
 
 #~ msgctxt "body.f240b80c-61c4-4a47-b2ff-8397ed1fd333.text"
 #~ msgid "<b>Africa Mradi IRL Fund</b> Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"

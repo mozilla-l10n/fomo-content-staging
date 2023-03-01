@@ -28,28 +28,36 @@ msgctxt "banner_heading"
 msgid "Arrive with an idea, leave with a community."
 msgstr "Chegue com uma ideia, saia com uma comunidade."
 
-msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.heading"
-msgid "Save The Date"
-msgstr "Reserve a data"
-
-msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
-msgid "MozFest Virtual will take place online from 20th - 24th March, 2023."
+msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
+msgid "Tickets available now"
 msgstr ""
 
-msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
-msgid "Stay Connected"
-msgstr "Mantenha-se conectado"
-
 msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.description"
-msgid "Stay up-to-date with MozFest news by signing up for our newsletter, following us on LinkedIn and Twitter, and joining Slack."
-msgstr "Fique em dia com as notícias do MozFest inscrevendo-se em nosso boletim informativo, nos seguindo no LinkedIn e no Twitter, e participando no Slack."
+msgid "Secure your pay-what-you-can ticket to access 360+ sessions at MozFest Virtual happening 20-24 March, 2023"
+msgstr ""
+
+msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.heading"
+msgid "Amplifying voices"
+msgstr ""
+
+msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
+msgid "Angela Davis and Christian Smalls take the MozFest stage with activists from different movements who contribute to technologies that shape our realities."
+msgstr ""
 
 msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.heading"
-msgid "Early Bird Tickets"
+msgid "On-Demand Access"
 msgstr ""
 
 msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
-msgid "Secure your Early Bird ticket to unlock exclusive access to fringe events in January and February!"
+msgid "Each MozFest ticket includes access to pre- and post-festival events, plus access to recorded sessions and on-demand art and media through June."
+msgstr ""
+
+msgctxt "body.42711a1c-6e90-494d-820f-91b052d55e81.altText"
+msgid "nadya tolokonnikova"
+msgstr ""
+
+msgctxt "body.42711a1c-6e90-494d-820f-91b052d55e81.text"
+msgid "<b>Watch the recording of the MozFest Keynote \"No Act of Protest is Too Small by Pussy Riot\"</b> <a id=\"a1\">on the MozFest Plaza</a>"
 msgstr ""
 
 msgctxt "body.4befc18c-92fe-4b88-af48-a5cdc5add964"
@@ -171,13 +179,9 @@ msgid ""
 "or marginalized groups. How can these risks be addressed? And what part can regulation play in this?"
 msgstr ""
 
-msgctxt "body.fd0e8d8b-7e24-454d-b6e8-748ee35b7774"
-msgid "Test"
-msgstr ""
-
 msgctxt "body.8200cb36-4764-4d1e-bf1b-261157155f73.url"
 msgid "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbranding=0"
-msgstr ""
+msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbranding=0"
 
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.subheading_link.5cc865b6-7fb6-4069-b47f-22a271ff8289.label"
 #~ msgid "On-Demand"
@@ -599,6 +603,14 @@ msgstr ""
 #~ msgid "Watch the MozFest 2022 Wrap-up Video"
 #~ msgstr "Assista ao vídeo de encerramento do MozFest 2022"
 
+#~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
+#~ msgid "Stay Connected"
+#~ msgstr "Mantenha-se conectado"
+
+#~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.description"
+#~ msgid "Stay up-to-date with MozFest news by signing up for our newsletter, following us on LinkedIn and Twitter, and joining Slack."
+#~ msgstr "Fique em dia com as notícias do MozFest inscrevendo-se em nosso boletim informativo, nos seguindo no LinkedIn e no Twitter, e participando no Slack."
+
 #~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.heading"
 #~ msgid "Sustaining Momentum"
 #~ msgstr "Como manter o impulso"
@@ -845,6 +857,10 @@ msgstr ""
 #~ msgid "Add the dates for MozFest 2023 to your calendar, on <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> or <a id=\"a3\">download the invitation</a>."
 #~ msgstr "Adicione as datas do MozFest 2023 à sua agenda, no <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> ou <a id=\"a3\">baixe o convite</a>."
 
+#~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.heading"
+#~ msgid "Save The Date"
+#~ msgstr "Reserve a data"
+
 #~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
 #~ msgid "MozFest Virtual will take place 20-24 March, 2023. MozFest House in Amsterdam will take place 8-10 June, 2023."
 #~ msgstr "O MozFest virtual acontecerá de 20 a 24 de março de 2023. O MozFest presencial em Amsterdã acontecerá de 8 a 10 de junho de 2023."
@@ -852,6 +868,14 @@ msgstr ""
 #~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
 #~ msgid "Add the dates for MozFest Virtual 2023 to your calendar, on <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> or <a id=\"a3\">download the invitation</a>."
 #~ msgstr "Adicione as datas do MozFest virtual 2023 à sua agenda, no <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> ou <a id=\"a3\">baixe o convite</a>."
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.title"
+#~ msgid "Submit your session to MozFest"
+#~ msgstr "Envie sua sessão ao MozFest"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.subheading_link.a00f4042-4a44-49e4-bd30-43cbb22e62e5.label"
+#~ msgid "Call for Proposals"
+#~ msgstr "Chamada de propostas"
 
 #~ msgctxt "cta_button_label"
 #~ msgid "Submit your proposal"
@@ -864,14 +888,6 @@ msgstr ""
 #~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
 #~ msgid "The MozFest 2023 Call for Proposals is now open, and closes on December 16th 2022. <a id=\"a1\">Submit your proposal now.</a>"
 #~ msgstr "A chamada de propostas do MozFest 2023 já está aberta e termina em 16 de dezembro de 2022. <a id=\"a1\">Envie sua proposta agora.</a>"
-
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.title"
-#~ msgid "Submit your session to MozFest"
-#~ msgstr "Envie sua sessão ao MozFest"
-
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.subheading_link.a00f4042-4a44-49e4-bd30-43cbb22e62e5.label"
-#~ msgid "Call for Proposals"
-#~ msgstr "Chamada de propostas"
 
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.body"
 #~ msgid "Are you working towards Trustworthy AI and want to share your work with a global community? Submit a session idea for MozFest 2023!"

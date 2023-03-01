@@ -25,28 +25,36 @@ msgctxt "banner_heading"
 msgid "Arrive with an idea, leave with a community."
 msgstr ""
 
-msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.heading"
-msgid "Save The Date"
-msgstr ""
-
-msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
-msgid "MozFest Virtual will take place online from 20th - 24th March, 2023."
-msgstr ""
-
 msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
-msgid "Stay Connected"
+msgid "Tickets available now"
 msgstr ""
 
 msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.description"
-msgid "Stay up-to-date with MozFest news by signing up for our newsletter, following us on LinkedIn and Twitter, and joining Slack."
+msgid "Secure your pay-what-you-can ticket to access 360+ sessions at MozFest Virtual happening 20-24 March, 2023"
+msgstr ""
+
+msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.heading"
+msgid "Amplifying voices"
+msgstr ""
+
+msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
+msgid "Angela Davis and Christian Smalls take the MozFest stage with activists from different movements who contribute to technologies that shape our realities."
 msgstr ""
 
 msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.heading"
-msgid "Early Bird Tickets"
+msgid "On-Demand Access"
 msgstr ""
 
 msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
-msgid "Secure your Early Bird ticket to unlock exclusive access to fringe events in January and February!"
+msgid "Each MozFest ticket includes access to pre- and post-festival events, plus access to recorded sessions and on-demand art and media through June."
+msgstr ""
+
+msgctxt "body.42711a1c-6e90-494d-820f-91b052d55e81.altText"
+msgid "nadya tolokonnikova"
+msgstr ""
+
+msgctxt "body.42711a1c-6e90-494d-820f-91b052d55e81.text"
+msgid "<b>Watch the recording of the MozFest Keynote \"No Act of Protest is Too Small by Pussy Riot\"</b> <a id=\"a1\">on the MozFest Plaza</a>"
 msgstr ""
 
 msgctxt "body.4befc18c-92fe-4b88-af48-a5cdc5add964"
@@ -160,10 +168,6 @@ msgid ""
 "If you’re on social media or other corners of the internet a lot, you’ve likely encountered AI systems with names like GPT-3 or DALL·E in recent months. These are some of the AI systems that have "
 "become surprisingly good at creating convincing snippets of text or computer-generated images. These models come with risks, too: for example, they can perpetuate harmful stereotypes against women "
 "or marginalized groups. How can these risks be addressed? And what part can regulation play in this?"
-msgstr ""
-
-msgctxt "body.fd0e8d8b-7e24-454d-b6e8-748ee35b7774"
-msgid "Test"
 msgstr ""
 
 msgctxt "body.8200cb36-4764-4d1e-bf1b-261157155f73.url"

@@ -33,11 +33,8 @@ msgctxt "body.53f1223b-4a62-45b8-9475-b585b8f820cd"
 msgid ""
 "We appreciate each and every person who's submitted a proposal to MozFest 2023! We'll begin reaching out to folks to let them know the status of their proposal starting on 13 January - so keep an "
 "eye on your inbox! In February, we'll be offering opportunities for Facilitators whose sessions have been accepted to attend session excellence and platform training calls to make sure each "
-"Facilitator has the tools for success."
-msgstr ""
-
-msgctxt "body.d12f5f66-1461-442c-96b0-80c1434e5b3e"
-msgid "In the meantime, we have more information available in our <a id=\"a1\">Facilitator Guide</a> including upcoming milestones, festival information, and platform information."
+"Facilitator has the tools for success.<br/><br/> In the meantime, we have more information available in our <a id=\"a1\">Facilitator Guide</a> including upcoming milestones, festival information, "
+"and platform information."
 msgstr ""
 
 msgctxt "body.4749801d-0b27-4a3c-ae1f-714bdfda4250"
@@ -45,7 +42,7 @@ msgid "Don't forget to secure your MozFest tickets now!"
 msgstr ""
 
 msgctxt "body.73c7ee0b-2400-4da3-a376-975f3f6026ff.button_label"
-msgid "Get your MozFest 2023 tickets"
+msgid "Get your MozFest 2023 tickets!"
 msgstr ""
 
 msgctxt "body.3c6c0287-cb3f-4f51-8185-cc4fd3a4efdc.url"

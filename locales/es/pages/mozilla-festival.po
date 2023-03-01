@@ -27,29 +27,37 @@ msgctxt "banner_heading"
 msgid "Arrive with an idea, leave with a community."
 msgstr "Llegas con una idea, te vas con una comunidad."
 
-msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.heading"
-msgid "Save The Date"
-msgstr "Apunta estas fechas"
-
-msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
-msgid "MozFest Virtual will take place online from 20th - 24th March, 2023."
-msgstr "El MozFest virtual se llevará a cabo del 20 al 24 de marzo de 2023."
-
 msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
-msgid "Stay Connected"
-msgstr "Mantente conectado(a)"
+msgid "Tickets available now"
+msgstr ""
 
 msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.description"
-msgid "Stay up-to-date with MozFest news by signing up for our newsletter, following us on LinkedIn and Twitter, and joining Slack."
-msgstr "No te pierdas las últimas noticias del MozFest: suscríbete a nuestro boletín de noticias, síguenos en LinkedIn y Twitter, y únete a Slack."
+msgid "Secure your pay-what-you-can ticket to access 360+ sessions at MozFest Virtual happening 20-24 March, 2023"
+msgstr ""
+
+msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.heading"
+msgid "Amplifying voices"
+msgstr ""
+
+msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
+msgid "Angela Davis and Christian Smalls take the MozFest stage with activists from different movements who contribute to technologies that shape our realities."
+msgstr ""
 
 msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.heading"
-msgid "Early Bird Tickets"
-msgstr "Boletos de entrada de pronto pago"
+msgid "On-Demand Access"
+msgstr ""
 
 msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
-msgid "Secure your Early Bird ticket to unlock exclusive access to fringe events in January and February!"
-msgstr "¡Asegura tu boleto de pronto pago para obtener acceso exclusivo a los eventos previos en enero y febrero!"
+msgid "Each MozFest ticket includes access to pre- and post-festival events, plus access to recorded sessions and on-demand art and media through June."
+msgstr ""
+
+msgctxt "body.42711a1c-6e90-494d-820f-91b052d55e81.altText"
+msgid "nadya tolokonnikova"
+msgstr "nadya tolokonnikova"
+
+msgctxt "body.42711a1c-6e90-494d-820f-91b052d55e81.text"
+msgid "<b>Watch the recording of the MozFest Keynote \"No Act of Protest is Too Small by Pussy Riot\"</b> <a id=\"a1\">on the MozFest Plaza</a>"
+msgstr "<b>Mira la grabación de la ponencia inaugural del MozFest \"Ningún acto de protesta es poca cosa para Pussy Riot\"</b> <a id=\"a1\">en el MozFest Plaza</a>"
 
 msgctxt "body.4befc18c-92fe-4b88-af48-a5cdc5add964"
 msgid ""
@@ -173,10 +181,6 @@ msgstr ""
 " sistemas de inteligencia artificial que se han vuelto increíblemente buenos para crear convincentes extractos de texto e imágenes generadas por computadora. Estos modelos también conllevan riesgos:"
 " por ejemplo, pueden perpetuar estereotipos dañinos contra las mujeres o los grupos marginados. ¿Cómo se pueden abordar estos riesgos? ¿Y qué papel puede jugar la regulación al respecto?"
 
-msgctxt "body.fd0e8d8b-7e24-454d-b6e8-748ee35b7774"
-msgid "Test"
-msgstr ""
-
 msgctxt "body.8200cb36-4764-4d1e-bf1b-261157155f73.url"
 msgid "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbranding=0"
 msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbranding=0"
@@ -224,6 +228,10 @@ msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbrand
 #~ msgctxt "banner_cta_label"
 #~ msgid "Watch the MozFest 2022 Wrap-up Video"
 #~ msgstr "Mira el vídeo de cierre del MozFest 2022"
+
+#~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.description"
+#~ msgid "Stay up-to-date with MozFest news by signing up for our newsletter, following us on LinkedIn and Twitter, and joining Slack."
+#~ msgstr "No te pierdas las últimas noticias del MozFest: suscríbete a nuestro boletín de noticias, síguenos en LinkedIn y Twitter, y únete a Slack."
 
 #~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.heading"
 #~ msgid "Sustaining Momentum"
@@ -281,18 +289,26 @@ msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbrand
 #~ msgid "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&amp;modestbranding=0"
 #~ msgstr "https://www.youtube-nocookie.com/embed/p1peBG0ndaY?rel=0&modestbranding=0"
 
-#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
-#~ msgid "Add the dates for MozFest 2023 to your calendar, on <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> or <a id=\"a3\">download the invitation</a>."
-#~ msgstr "Apunta las fechas del MozFest 2023 en tu calendario, en <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> o <a id=\"a3\">descarga la invitación</a>."
-
 #~ msgctxt "search_description"
 #~ msgid "Activists in the internet health movement will gather at MozFest to move the needle in tech, art, social responsibility, ethics, and AI. Will you join us in March 2022?"
 #~ msgstr ""
 #~ "Activistas del movimiento de la salud de Internet se reunirán en el MozFest para generar cambios en tecnología, arte, responsabilidad social, ética e IA. ¿Te unirás a nosotros en marzo de 2022?"
 
+#~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.heading"
+#~ msgid "Save The Date"
+#~ msgstr "Apunta estas fechas"
+
 #~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
 #~ msgid "MozFest 2023, taking place from March 20-24th. Join 1000s of activists in diverse global movements fighting for a more humane digital world."
 #~ msgstr "El MozFest 2023 tendrá lugar entre el 20 y el 24 de marzo. Únete a miles de activistas de diversos movimientos globales que luchan por un mundo digital más humano."
+
+#~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
+#~ msgid "Stay Connected"
+#~ msgstr "Mantente conectado(a)"
+
+#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
+#~ msgid "Add the dates for MozFest 2023 to your calendar, on <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> or <a id=\"a3\">download the invitation</a>."
+#~ msgstr "Apunta las fechas del MozFest 2023 en tu calendario, en <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> o <a id=\"a3\">descarga la invitación</a>."
 
 #~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
 #~ msgid "Add the dates for MozFest Virtual 2023 to your calendar, on <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> or <a id=\"a3\">download the invitation</a>."
@@ -329,3 +345,15 @@ msgstr "https://www.youtube-nocookie.com/embed/nIYIksnDB3E?rel=0&amp;modestbrand
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.buttons.3288563e-0194-4fb8-9986-b72162f06753.label"
 #~ msgid "Submit your proposal"
 #~ msgstr "Envía tu propuesta"
+
+#~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
+#~ msgid "MozFest Virtual will take place online from 20th - 24th March, 2023."
+#~ msgstr "El MozFest virtual se llevará a cabo del 20 al 24 de marzo de 2023."
+
+#~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.heading"
+#~ msgid "Early Bird Tickets"
+#~ msgstr "Boletos de entrada de pronto pago"
+
+#~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
+#~ msgid "Secure your Early Bird ticket to unlock exclusive access to fringe events in January and February!"
+#~ msgstr "¡Asegura tu boleto de pronto pago para obtener acceso exclusivo a los eventos previos en enero y febrero!"
