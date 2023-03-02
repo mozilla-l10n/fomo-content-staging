@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-02 16:06:32.404809+00:00\n"
+"PO-Revision-Date: 2023-03-02 16:36+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 8377321d-ce91-4469-a219-ab7231f21982\n"
 
 msgctxt "title"
@@ -42,7 +47,7 @@ msgstr ""
 
 msgctxt "uses_encryption_helptext"
 msgid "We were unable to determine if they use encryption to protect users' personal information, chats, photos, and more."
-msgstr ""
+msgstr "No hemos podido determinar si se usa el cifrado para proteger la información personal, los chats, las fotos y los otros datos de los usuarios."
 
 msgctxt "strong_password_helptext"
 msgid "Minimum eight characters but no further requirements. 12345678 worked"
@@ -50,7 +55,7 @@ msgstr ""
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "We were unable to tell if they have a bug bounty program."
-msgstr ""
+msgstr "No hemos podido saber si cuentan con un programa de recompensa de errores."
 
 msgctxt "personal_data_collected"
 msgid ""
