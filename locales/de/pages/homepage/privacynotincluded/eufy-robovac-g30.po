@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-01 18:07:18.249559+00:00\n"
@@ -59,7 +59,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use two-factor authentication"
-msgstr ""
+msgstr "Nutzen Sie Zwei-Faktor-Authentifizierung"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Limit your robot vacuum's data sharing"
