@@ -1,15 +1,10 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2023-03-02 16:06:11.388522+00:00\n"
-"PO-Revision-Date: 2023-03-02 16:34+0000\n"
-"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
-"Language: de\n"
+"POT-Creation-Date: 2023-03-02 17:07:22.643472+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pontoon\n"
-"X-WagtailLocalize-TranslationID: 69c34be2-375c-4630-b8e4-60f7fce36150\n"
+"X-WagtailLocalize-TranslationID: 4d5193cd-9fd2-4eae-8c43-872949a2ae9f\n"
 
 msgctxt "title"
 msgid "Qiui Cellmate"
@@ -56,7 +51,7 @@ msgstr ""
 
 msgctxt "biometric_data_collected"
 msgid "Weight (optional), height (optional)"
-msgstr "Größe (optional), Gewicht (optional)"
+msgstr ""
 
 msgctxt "social_data_collected"
 msgid "None"
