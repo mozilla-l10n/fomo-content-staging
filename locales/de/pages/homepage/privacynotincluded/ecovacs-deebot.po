@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-02 16:06:09.449824+00:00\n"
+"PO-Revision-Date: 2023-03-02 16:35+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 37339949-c8e9-43d2-ab89-8a6231b4390d\n"
 
 msgctxt "title"
@@ -53,15 +58,15 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Limit your robot vacuum's data sharing"
-msgstr ""
+msgstr "Begrenzen Sie die Datenfreigabe Ihres Roboterstaubsaugers"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use strong passwords"
-msgstr ""
+msgstr "Verwenden Sie starke Passwörter"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your robot vacuum's firmware updated"
-msgstr ""
+msgstr "Halten Sie die Firmware Ihres Saugroboters auf dem neuesten Stand"
 
 msgctxt "personal_data_collected"
 msgid "Email, name, telephone number, gender, age, location (if you give permission),"
@@ -79,7 +84,7 @@ msgstr ""
 
 msgctxt "track_record_details"
 msgid "No known incidents in the last 3 years."
-msgstr ""
+msgstr "Keine bekannten Vorfälle in den letzten 3 Jahren."
 
 msgctxt "ai_what_can_it_do"
 msgid "Visual detection to recognize objects. Navigation and mapping capabilities according this <a id=\"a1\">blog post</a>."
