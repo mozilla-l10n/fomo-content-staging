@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-02 17:07:04.168265+00:00\n"
+"PO-Revision-Date: 2023-03-02 17:24+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: a92c8f40-126d-4c4d-98c4-1a23668d0ba6\n"
 
 msgctxt "title"
 msgid "Pocketbook"
-msgstr ""
+msgstr "Pocketbook"
 
 msgctxt "blurb"
 msgid ""
@@ -27,15 +32,15 @@ msgstr ""
 
 msgctxt "signup_requirement_explanation"
 msgid "If you want to use PocketBook Cloud"
-msgstr ""
+msgstr "Si vous souhaitez utiliser PocketBook Cloud"
 
 msgctxt "how_does_it_use_data_collected"
 msgid "PocketBook does not collect person-identified data, therefore does not share it."
-msgstr ""
+msgstr "PocketBook ne collecte pas de données personnelles et ne les partage donc pas."
 
 msgctxt "user_friendly_privacy_policy_helptext"
 msgid "Pocketbook provides separate privacy policies for different services."
-msgstr ""
+msgstr "Pocketbook fournit des politiques de confidentialité séparées pour différents services."
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
@@ -45,7 +50,7 @@ msgstr ""
 
 msgctxt "personal_data_collected"
 msgid "PocketBook does not collect personal identified data and therefore does not share it."
-msgstr ""
+msgstr "PocketBook ne collecte pas de données personnelles et ne les partage donc pas."
 
 msgctxt "how_can_you_control_your_data"
 msgid "You can request restriction of processing your data or withdraw consent at any point. Pocketbook tries to respond to all legitimate requests within one month."
@@ -53,4 +58,4 @@ msgstr ""
 
 msgctxt "track_record_details"
 msgid "No known incidents in the last 3 years."
-msgstr ""
+msgstr "Aucun incident connu au cours des 3 dernières années."
