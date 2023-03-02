@@ -1502,7 +1502,7 @@ locales = [ "de", "es", "fr",]
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/grindr.pot"
 l10n = "locales/{locale}/pages/homepage/privacynotincluded/grindr.po"
-locales = [ "de", "es", "fr",]
+locales = [ "de", "es", "fr", "pt-BR",]
 
 [[paths]]
 reference = "templates/pages/homepage/privacynotincluded/articles/alexa-help-me-which-smart-speaker-has-the-best-privacy.pot"
@@ -2540,43 +2540,13 @@ l10n = "locales/{locale}/pages/homepage/blog/mozfest-2022-building-a-healthier-i
 locales = [ "nl",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/translating-kiswahili-software-versus-human.pot"
-l10n = "locales/{locale}/pages/homepage/blog/translating-kiswahili-software-versus-human.po"
+reference = "templates/pages/homepage/blog/talk-swahili-to-me-voice-enabled-apps-changing-the-game-for-farmers-and-local-communities.pot"
+l10n = "locales/{locale}/pages/homepage/blog/talk-swahili-to-me-voice-enabled-apps-changing-the-game-for-farmers-and-local-communities.po"
 locales = [ "sw",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/opening-up-voice-for-global-communities.pot"
-l10n = "locales/{locale}/pages/homepage/blog/opening-up-voice-for-global-communities.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/voice-technologies-and-privacy.pot"
-l10n = "locales/{locale}/pages/homepage/blog/voice-technologies-and-privacy.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/does-technology-have-a-gender.pot"
-l10n = "locales/{locale}/pages/homepage/blog/does-technology-have-a-gender.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/nami-ni-rebecca-ryakitimbo-and-i-am-rebecca-ryakitimbo.pot"
-l10n = "locales/{locale}/pages/homepage/blog/nami-ni-rebecca-ryakitimbo-and-i-am-rebecca-ryakitimbo.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/snippets/wagtailpages.Profile/384-mercy-wambui-kingori.pot"
-l10n = "locales/{locale}/snippets/wagtailpages.Profile/384-mercy-wambui-kingori.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/hekaya-arts-initiative-announces-third-kiswahili-writing-competition.pot"
-l10n = "locales/{locale}/pages/homepage/blog/hekaya-arts-initiative-announces-third-kiswahili-writing-competition.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/jina-ni-britone-mwasaru-the-name-is-britone-mwasaru.pot"
-l10n = "locales/{locale}/pages/homepage/blog/jina-ni-britone-mwasaru-the-name-is-britone-mwasaru.po"
+reference = "templates/pages/homepage/blog/interview-between-the-writer-george-githuma-njogu-and-kevin-omondi-who-is-the-community-manager-of-contributors-in-the-open-source-project-common-voice.pot"
+l10n = "locales/{locale}/pages/homepage/blog/interview-between-the-writer-george-githuma-njogu-and-kevin-omondi-who-is-the-community-manager-of-contributors-in-the-open-source-project-common-voice.po"
 locales = [ "sw",]
 
 [[paths]]
@@ -2585,13 +2555,8 @@ l10n = "locales/{locale}/pages/homepage/blog/kujitambulisha-kathleen-siminyu-int
 locales = [ "sw",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/common-voice-for-everyone-mozilla-advances-projects-with-nvidia-enabling-voice-data-donation-in-low-internet-contexts.pot"
-l10n = "locales/{locale}/pages/homepage/blog/common-voice-for-everyone-mozilla-advances-projects-with-nvidia-enabling-voice-data-donation-in-low-internet-contexts.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/conversations-on-culture-and-preserving-history.pot"
-l10n = "locales/{locale}/pages/homepage/blog/conversations-on-culture-and-preserving-history.po"
+reference = "templates/snippets/wagtailpages.Profile/384-mercy-wambui-kingori.pot"
+l10n = "locales/{locale}/snippets/wagtailpages.Profile/384-mercy-wambui-kingori.po"
 locales = [ "sw",]
 
 [[paths]]
@@ -2600,18 +2565,63 @@ l10n = "locales/{locale}/pages/homepage/blog/open-call-the-second-edition-of-com
 locales = [ "sw",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/common-voice-announces-400000-in-awards-for-kiswahili-voice-technologies.pot"
-l10n = "locales/{locale}/pages/homepage/blog/common-voice-announces-400000-in-awards-for-kiswahili-voice-technologies.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/talk-swahili-to-me-voice-enabled-apps-changing-the-game-for-farmers-and-local-communities.pot"
-l10n = "locales/{locale}/pages/homepage/blog/talk-swahili-to-me-voice-enabled-apps-changing-the-game-for-farmers-and-local-communities.po"
+reference = "templates/pages/homepage/blog/does-technology-have-a-gender.pot"
+l10n = "locales/{locale}/pages/homepage/blog/does-technology-have-a-gender.po"
 locales = [ "sw",]
 
 [[paths]]
 reference = "templates/pages/homepage/blog/lessons-from-building-for-kinyarwanda-on-common-voice.pot"
 l10n = "locales/{locale}/pages/homepage/blog/lessons-from-building-for-kinyarwanda-on-common-voice.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/translating-kiswahili-software-versus-human.pot"
+l10n = "locales/{locale}/pages/homepage/blog/translating-kiswahili-software-versus-human.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/taxation-and-digital-literacy-efforts.pot"
+l10n = "locales/{locale}/pages/homepage/blog/taxation-and-digital-literacy-efforts.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/voice-technologies-and-privacy.pot"
+l10n = "locales/{locale}/pages/homepage/blog/voice-technologies-and-privacy.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/common-voice-announces-400000-in-awards-for-kiswahili-voice-technologies.pot"
+l10n = "locales/{locale}/pages/homepage/blog/common-voice-announces-400000-in-awards-for-kiswahili-voice-technologies.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/the-politics-of-language-the-controversial-origin-story-of-kiswahili-sanifu-and-considerations-for-building-language-technology.pot"
+l10n = "locales/{locale}/pages/homepage/blog/the-politics-of-language-the-controversial-origin-story-of-kiswahili-sanifu-and-considerations-for-building-language-technology.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/powering-local-innovation-in-the-global-south-prospects-and-a-way-forward.pot"
+l10n = "locales/{locale}/pages/homepage/blog/powering-local-innovation-in-the-global-south-prospects-and-a-way-forward.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/jina-ni-britone-mwasaru-the-name-is-britone-mwasaru.pot"
+l10n = "locales/{locale}/pages/homepage/blog/jina-ni-britone-mwasaru-the-name-is-britone-mwasaru.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/nami-ni-rebecca-ryakitimbo-and-i-am-rebecca-ryakitimbo.pot"
+l10n = "locales/{locale}/pages/homepage/blog/nami-ni-rebecca-ryakitimbo-and-i-am-rebecca-ryakitimbo.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/conversations-on-culture-and-preserving-history.pot"
+l10n = "locales/{locale}/pages/homepage/blog/conversations-on-culture-and-preserving-history.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/common-voice-for-everyone-mozilla-advances-projects-with-nvidia-enabling-voice-data-donation-in-low-internet-contexts.pot"
+l10n = "locales/{locale}/pages/homepage/blog/common-voice-for-everyone-mozilla-advances-projects-with-nvidia-enabling-voice-data-donation-in-low-internet-contexts.po"
 locales = [ "sw",]
 
 [[paths]]
@@ -2630,28 +2640,18 @@ l10n = "locales/{locale}/pages/homepage/blog/access-denied-this-doesnt-sound-lik
 locales = [ "sw",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/powering-local-innovation-in-the-global-south-prospects-and-a-way-forward.pot"
-l10n = "locales/{locale}/pages/homepage/blog/powering-local-innovation-in-the-global-south-prospects-and-a-way-forward.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/interview-between-the-writer-george-githuma-njogu-and-kevin-omondi-who-is-the-community-manager-of-contributors-in-the-open-source-project-common-voice.pot"
-l10n = "locales/{locale}/pages/homepage/blog/interview-between-the-writer-george-githuma-njogu-and-kevin-omondi-who-is-the-community-manager-of-contributors-in-the-open-source-project-common-voice.po"
-locales = [ "sw",]
-
-[[paths]]
-reference = "templates/pages/homepage/blog/taxation-and-digital-literacy-efforts.pot"
-l10n = "locales/{locale}/pages/homepage/blog/taxation-and-digital-literacy-efforts.po"
-locales = [ "sw",]
-
-[[paths]]
 reference = "templates/snippets/wagtailpages.Profile/223-kathleen-siminyu.pot"
 l10n = "locales/{locale}/snippets/wagtailpages.Profile/223-kathleen-siminyu.po"
 locales = [ "sw",]
 
 [[paths]]
-reference = "templates/pages/homepage/blog/the-politics-of-language-the-controversial-origin-story-of-kiswahili-sanifu-and-considerations-for-building-language-technology.pot"
-l10n = "locales/{locale}/pages/homepage/blog/the-politics-of-language-the-controversial-origin-story-of-kiswahili-sanifu-and-considerations-for-building-language-technology.po"
+reference = "templates/pages/homepage/blog/opening-up-voice-for-global-communities.pot"
+l10n = "locales/{locale}/pages/homepage/blog/opening-up-voice-for-global-communities.po"
+locales = [ "sw",]
+
+[[paths]]
+reference = "templates/pages/homepage/blog/hekaya-arts-initiative-announces-third-kiswahili-writing-competition.pot"
+l10n = "locales/{locale}/pages/homepage/blog/hekaya-arts-initiative-announces-third-kiswahili-writing-competition.po"
 locales = [ "sw",]
 
 [[paths]]
