@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-01 18:07:22.869032+00:00\n"
+"PO-Revision-Date: 2023-03-02 09:55+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 35b6181f-ed9b-4533-8787-5d7016ae2789\n"
 
 msgctxt "title"
@@ -67,7 +72,7 @@ msgstr ""
 
 msgctxt "how_does_it_use_data_collected"
 msgid "We ding this product for sharing personal data for advertisement and for combining users' data with data from third parties."
-msgstr ""
+msgstr "Wir bemängeln an diesem Produkt, dass es personenbezogene Daten zu Werbezwecken weitergibt und die Daten der Nutzer mit denen von Dritten kombiniert."
 
 msgctxt "how_does_it_use_data_collected"
 msgid ""
@@ -81,16 +86,20 @@ msgid ""
 "<b>Eufy also combine users' data with data obtained from third parties:</b> \"We collect or obtain Personal Data from third parties who provide it to us (e.g., credit reference agencies; law "
 "enforcement authorities; etc.).\""
 msgstr ""
+"<b>Eufy kombiniert auch die Daten der Nutzer mit Daten, die von Dritten stammen:</b> „Wir sammeln oder erhalten personenbezogene Daten von Dritten, die sie uns zur Verfügung stellen (z. B. "
+"Kreditauskunfteien, Strafverfolgungsbehörden usw.)“."
 
 msgctxt "tips_to_protect_yourself"
 msgid ""
 "Be very careful what third party companies you consent to share you health data with. If you do decided to share your health data with another company, read their privacy policy to see how they "
 "protect, secure, and share or sell your data."
 msgstr ""
+"Seien Sie sehr vorsichtig, mit welchen Drittunternehmen Sie Ihre Gesundheitsdaten teilen. Wenn Sie sich entscheiden, Ihre Gesundheitsdaten mit einem anderen Unternehmen zu teilen, lesen Sie deren "
+"Datenschutzrichtlinien, um zu erfahren, wie diese Ihre Daten schützen, sichern und teilen oder verkaufen."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr ""
+msgstr "Melden Sie sich nicht mit Konten von Drittanbietern an. Melden Sie sich am besten einfach mit E-Mail und starkem Passwort an."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
