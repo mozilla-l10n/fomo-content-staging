@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-01 18:08:19.157705+00:00\n"
+"PO-Revision-Date: 2023-03-02 09:28+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 3e5764fd-c410-4411-9a2f-a61ebfd6bf65\n"
 
 msgctxt "title"
@@ -70,11 +75,11 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use two-factor authentication"
-msgstr ""
+msgstr "Use a autenticação de dois fatores"
 
 msgctxt "personal_data_collected"
 msgid "Name, email address"
-msgstr ""
+msgstr "Nome, endereço de e-mail"
 
 msgctxt "how_can_you_control_your_data"
 msgid "Eufy provides you with the ability to review, manage, or delete your information."
@@ -85,7 +90,12 @@ msgid ""
 "In <a id=\"a1\">May 2021</a>, Eufy was forced to <a id=\"a2\">apologize</a> for a bug that exposed the <a id=\"a3\">camera feeds</a> of 712 users to strangers. Eufy said the glitch happened during a"
 " software update and “users were able to access video feeds from other users’ cameras.” Eufy said in a <a id=\"a4\">statement</a> the glitch was fixed an hour after it was discovered."
 msgstr ""
+"Em <a id=\"a1\">maio de 2021</a>, a Eufy foi forçada a <a id=\"a2\">se desculpar</a> por um bug que expôs os <a id=\"a3\">feeds de câmeras</a> de 712 usuários a estranhos. A Eufy disse que a falha "
+"aconteceu durante uma atualização de software e “os usuários foram capazes de acessar feeds de vídeo das câmeras de outros usuários.\" A Eufy informou em um <a id=\"a4\">comunicado</a> a falha foi "
+"corrigida uma hora depois de ser descoberta."
 
 msgctxt "ai_what_can_it_do"
 msgid "The built-in AI reduces the number of false alerts you receive by intelligently differentiating people from objects. It has features alike pet detection, and even crying detection."
 msgstr ""
+"A IA integrada reduz o número de alertas falsos que você recebe, diferenciando inteligentemente as pessoas dos objetos. Possui recursos como detecção de animais de estimação e até mesmo detecção de "
+"choro."
