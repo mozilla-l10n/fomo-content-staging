@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-02 09:06:31.760892+00:00\n"
-"PO-Revision-Date: 2023-03-02 09:16+0000\n"
+"PO-Revision-Date: 2023-03-02 09:18+0000\n"
 "Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Lovense Nora &amp; Max"
-msgstr ""
+msgstr "Lovense Nora et Max"
 
 msgctxt "blurb"
 msgid ""
@@ -42,8 +42,8 @@ msgstr "Oui (pour l’application) et non (pour l’appareil)"
 
 msgctxt "strong_password_helptext"
 msgid "App requires creation of account &amp; password, but the login for the app does not require a very strong password."
-msgstr ""
+msgstr "L’application exige la création d’un compte et d’un mot de passe, mais la connexion à l’application n’exige pas un mot de passe très fort."
 
 msgctxt "privacy_policy_helptext"
 msgid "You can get more answers about Lovense's privacy here: https://www.lovense.com/faq/Privacy"
-msgstr ""
+msgstr "Vous pouvez obtenir plus de réponses de Lovense sur le respect de la vie privée ici : https://www.lovense.com/faq/Privacy"

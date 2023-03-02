@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-02 09:13:35.911475+00:00\n"
+"PO-Revision-Date: 2023-03-02 09:20+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 1fa5751d-e9a1-4d71-8ef7-b6e2681f43b1\n"
 
 msgctxt "title"
@@ -58,7 +63,7 @@ msgstr ""
 
 msgctxt "how_can_you_control_your_data"
 msgid "Can't determine"
-msgstr ""
+msgstr "Impossible à déterminer"
 
 msgctxt "track_record_details"
 msgid "No known data breaches or incidents in the last two years"
