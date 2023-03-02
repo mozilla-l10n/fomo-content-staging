@@ -1,14 +1,19 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-02 17:07:15.799169+00:00\n"
+"PO-Revision-Date: 2023-03-02 17:21+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 2c5e5798-0b03-46ee-a2a4-d66ce83f867c\n"
 
 msgctxt "title"
 msgid "Pocketbook"
-msgstr ""
+msgstr "Pocketbook"
 
 msgctxt "blurb"
 msgid ""
@@ -53,4 +58,4 @@ msgstr ""
 
 msgctxt "track_record_details"
 msgid "No known incidents in the last 3 years."
-msgstr ""
+msgstr "Nenhum incidente conhecido nos últimos 3 anos."
