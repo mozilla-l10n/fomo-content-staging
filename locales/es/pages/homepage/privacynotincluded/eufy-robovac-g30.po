@@ -1,9 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2023-03-01 18:07:49.250576+00:00\n"
+"PO-Revision-Date: 2023-03-02 09:45+0000\n"
+"Last-Translator: Théo Chevalier <theochevalier@pm.me>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 "X-WagtailLocalize-TranslationID: 9e3e6df4-724b-47bb-8edd-edf3815aac6e\n"
 
 msgctxt "title"
@@ -58,23 +63,23 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Limit your robot vacuum's data sharing"
-msgstr ""
+msgstr "Limita los datos compartidos de tu robot aspirador"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use strong passwords"
-msgstr ""
+msgstr "Utiliza contraseñas seguras"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your robot vacuum's firmware updated"
-msgstr ""
+msgstr "Mantén actualizado el firmware de tu robot aspirador"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Use two-factor authentication"
-msgstr ""
+msgstr "Utiliza la autenticación de dos factores"
 
 msgctxt "personal_data_collected"
 msgid "Name, email address"
-msgstr ""
+msgstr "Nombre, dirección de correo electrónico"
 
 msgctxt "how_can_you_control_your_data"
 msgid "Eufy provides you with the ability to review, manage, or delete your information."
@@ -85,7 +90,12 @@ msgid ""
 "In <a id=\"a1\">May 2021</a>, Eufy was forced to <a id=\"a2\">apologize</a> for a bug that exposed the <a id=\"a3\">camera feeds</a> of 712 users to strangers. Eufy said the glitch happened during a"
 " software update and “users were able to access video feeds from other users’ cameras.” Eufy said in a <a id=\"a4\">statement</a> the glitch was fixed an hour after it was discovered."
 msgstr ""
+"En <a id=\"a1\">mayo de 2021</a>, Eufy se vio obligado a <a id=\"a2\">disculparse</a> por un bug que expuso las <a id=\"a3\">transmisiones de las cámaras</a> de 712 usuarios a extraños. Eufy dijo "
+"que el fallo ocurrió durante una actualización de software y que «algunos usuarios pudieron acceder a los canales de vídeo de las cámaras de otros usuarios». Eufy dijo en una <a "
+"id=\"a4\">declaración</a> que el fallo se solucionó una hora después de ser descubierto."
 
 msgctxt "ai_what_can_it_do"
 msgid "The built-in AI reduces the number of false alerts you receive by intelligently differentiating people from objects. It has features alike pet detection, and even crying detection."
 msgstr ""
+"La IA integrada reduce la cantidad de falsas alertas que recibes ya que puede diferenciar a las personas de los objetos. Tiene características como la detección de mascotas, e incluso la detección "
+"de llantos."
