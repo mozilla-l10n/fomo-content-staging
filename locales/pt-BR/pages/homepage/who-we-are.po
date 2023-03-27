@@ -106,7 +106,7 @@ msgstr "Em um momento em que precisamos desesperadamente de inteligência artifi
 
 msgctxt "body.3ed371bd-6554-4179-be62-e7c1ea5a63f7"
 msgid "Get Involved"
-msgstr "Envolva-se"
+msgstr "Participe"
 
 msgctxt "body.3ed371bd-6554-4179-be62-e7c1ea5a63f7"
 msgid "Join us and help protect the internet as a global public resource. To get started, explore <a id=\"a1\">opportunities for participation</a> or <a id=\"a2\">make a donation</a>."

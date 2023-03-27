@@ -8,8 +8,8 @@ msgstr ""
 
 msgctxt "name"
 msgid "Kiswahili"
-msgstr ""
+msgstr "Kiswahili"
 
 msgctxt "title"
 msgid "Kiswahili Blog"
-msgstr ""
+msgstr "Blogu ya Kiswahili"

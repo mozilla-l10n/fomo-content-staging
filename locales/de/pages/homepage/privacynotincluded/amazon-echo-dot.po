@@ -469,15 +469,6 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ "weil Sie sie darum bitten, die Sprachaufzeichnung dieses Kaufs zu löschen. Die Aufzeichnung des Kaufs sind Daten, die auch in Zukunft über Sie vorhanden sind und die genutzt werden können, um Ihnen "
 #~ "Werbung für weitere Produkte zu schicken."
 
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid ""
-#~ "Amazon <a id=\"a1\">collects data</a> from third parties about you, to target ads better: \"Some third-parties may provide Amazon pseudonymized information about you (such as demographic information"
-#~ " or sites where you have been shown ads) from offline and online sources that we may use to provide you more relevant and useful advertising.\""
-#~ msgstr ""
-#~ "Amazon <a id=\"a1\">sammelt Daten</a> von Drittanbietern über Sie, um Anzeigen gezielter auszurichten: \"Einige Drittanbieter können Amazon pseudonymisierte Informationen über Sie (wie demografische"
-#~ " Informationen oder Websites, auf denen Ihnen Werbung gezeigt wurde) aus Offline- und Online-Quellen zur Verfügung stellen, die wir nutzen können, um Ihnen weitere relevante und nützliche Werbung zu"
-#~ " liefern.\""
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "And then there are Alexa Skills, those little apps you use to interact with Alexa. These Skills can be developed <a id=\"a1\">by just about anyone</a> with the, uhm, skill. And with <a id=\"a2\">too"
@@ -560,6 +551,15 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ "Zugriff auf datenschutzsensible Daten beantragten, entweder keine eigenen Datenschutzrichtlinien hatten oder dass ihre Datenschutzrichtlinien irreführend oder unvollständig waren. Einige forderten "
 #~ "beispielsweise private Informationen an, obwohl sie das laut ihrer Privatsphäre-Richtlinien nicht tun.\" Neben irreführenden Datenschutzrichtlinien <a id=\"a4\">kam es auch vor</a>, dass Entwickler "
 #~ "eine gefälschte Identität angaben ('Samsung', 'Apple'), dass mehrere Skills dieselben Alexa-Auslösewörter nutzen, usw."
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid ""
+#~ "Amazon <a id=\"a1\">collects data</a> from third parties about you, to target ads better: \"Some third-parties may provide Amazon pseudonymized information about you (such as demographic information"
+#~ " or sites where you have been shown ads) from offline and online sources that we may use to provide you more relevant and useful advertising.\""
+#~ msgstr ""
+#~ "Amazon <a id=\"a1\">sammelt Daten</a> von Drittanbietern über Sie, um Anzeigen gezielter auszurichten: \"Einige Drittanbieter können Amazon pseudonymisierte Informationen über Sie (wie demografische"
+#~ " Informationen oder Websites, auf denen Ihnen Werbung gezeigt wurde) aus Offline- und Online-Quellen zur Verfügung stellen, die wir nutzen können, um Ihnen weitere relevante und nützliche Werbung zu"
+#~ " liefern.\""
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

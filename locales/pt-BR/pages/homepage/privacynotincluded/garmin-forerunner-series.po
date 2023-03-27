@@ -158,7 +158,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr "Não se cadastre utilizando contas de aplicativos terceiros. É melhor criar um login com seu e-mail e uma senha forte."
+msgstr "Não se cadastre com contas de terceiros. É melhor acessar com email e senha forte."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc."
@@ -174,7 +174,7 @@ msgstr "Ao se cadastrar, não concorde com o rastreamento dos seus dados, se pos
 
 msgctxt "personal_data_collected"
 msgid "Name, email address, gender (optional), age (optional), date of birth (optional), photos (optional), location"
-msgstr "Nome, endereço de e-mail, sexo (opcional), idade (opcional), data de nascimento (opcional), fotos (opcional), local"
+msgstr "Nome, endereço de email, sexo (opcional), idade (opcional), data de nascimento (opcional), fotos (opcional), local"
 
 msgctxt "biometric_data_collected"
 msgid "Activity data, such as menstrual cycle information, steps, distance, pace, activity time, calories burned, heart rate, sleep, location, golf stats, etc."

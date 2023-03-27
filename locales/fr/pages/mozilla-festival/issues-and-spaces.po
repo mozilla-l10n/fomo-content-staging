@@ -369,6 +369,14 @@ msgstr "En savoir plus"
 #~ "Nous accueillons des sessions sur un large éventail de sujets pertinents pour une IA digne de confiance et le mouvement pour la bonne santé d’Internet, mais toutes les sessions doivent être "
 #~ "interactives et inclusives."
 
+#~ msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.dc170584-7d10-4b12-a9e6-e20fa03e78f2.alt_text"
+#~ msgid "An illustration of a person meditating with the words 'Human Centred Internet' on the right."
+#~ msgstr "Une illustration d’une personne méditant avec les mots « Human Centered Internet » sur la droite."
+
+#~ msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.1c05118c-a43f-4a77-a8bb-ff5400ed854f.alt_text"
+#~ msgid "mozilla logo - a white m in the middle of a black square"
+#~ msgstr "logo mozilla - un m blanc au milieu d’un carré noir"
+
 #~ msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.a26cd4c5-f5a1-472e-86a5-59da3f578944.alt_text"
 #~ msgid "A crowd photo of participants at a prior MozFest event, centered on the Mozilla mascot"
 #~ msgstr "Une photo de la foule des participant·e·s à un évènement précédent du MozFest, centrée sur la mascotte de Mozilla"
@@ -384,14 +392,6 @@ msgstr "En savoir plus"
 #~ msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.281d9442-89fd-4a81-83b7-fd390b0016f4.alt_text"
 #~ msgid "a paper jungle created to decorate a space at a previous in-person MozFest"
 #~ msgstr "une jungle de papier créée pour décorer un espace lors d’un précédent MozFest en personne"
-
-#~ msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.dc170584-7d10-4b12-a9e6-e20fa03e78f2.alt_text"
-#~ msgid "An illustration of a person meditating with the words 'Human Centred Internet' on the right."
-#~ msgstr "Une illustration d’une personne méditant avec les mots « Human Centered Internet » sur la droite."
-
-#~ msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.1c05118c-a43f-4a77-a8bb-ff5400ed854f.alt_text"
-#~ msgid "mozilla logo - a white m in the middle of a black square"
-#~ msgstr "logo mozilla - un m blanc au milieu d’un carré noir"
 
 #~ msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.17077bdb-b94a-4760-8d64-b9edcb30f8d1.url"
 #~ msgid "https://www.mozillafestival.org/issues-and-spaces/bias/youth-zone"

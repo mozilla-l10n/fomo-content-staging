@@ -8,18 +8,20 @@ msgstr ""
 
 msgctxt "header"
 msgid "Blog"
-msgstr ""
+msgstr "Blogu"
 
 msgctxt "intro"
 msgid ""
 "Common Voice is the most diverse open voice dataset in the world. Most voice datasets are owned by companies, which stifles innovation. They also under-represent almost every language in the world, "
 "as well as people of colour, disabled people, women and LGBTQIA+ people. We want to change that by mobilising people everywhere to share their voice."
 msgstr ""
+"Sauti ya Jamii ndio seti ya takwimu iliyo na lugha nyingi tofauti zaidi duniani. Takwimu nyingi za sauti zinamilikiwa na makampuni yanayozuia uvumbuzi. Hayawakilishi vizuri takriban lugha zote "
+"ulimwenguni, watu wasio wazungu, walemavu, wanawake na jumuiya ya LGBTQIA+. Tunataka kubadilisha hilo kwa kuhamasisha watu kila mahali kushiriki sauti zao."
 
 msgctxt "body.cdd06b95-283f-4dd9-a34d-67708c571ebd.title"
 msgid "Read about Common Voice"
-msgstr ""
+msgstr "Kuhusu Sauti ya Jamii"
 
 msgctxt "title"
 msgid "Blog"
-msgstr ""
+msgstr "Blogu"

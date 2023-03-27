@@ -24,7 +24,7 @@ msgstr "Dies sind keine politischen Ads"
 
 msgctxt "subtitle"
 msgid "How Partisan Influencers Are Evading TikTok’s Weak Political Ad Policies"
-msgstr "Wie parteiliche Influencer:innen TikToks schwache Richtlinien für Wahlwerbung umgehen"
+msgstr "Wie parteiliche Influencer*innen TikToks schwache Richtlinien für Wahlwerbung umgehen"
 
 msgctxt "contents_title"
 msgid "Table of Contents"

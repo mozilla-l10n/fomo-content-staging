@@ -38,7 +38,7 @@ msgid ""
 "Here's what we do know. 7 Cups says they can collect a whole lot of personal information, including your first name, last name, email address, location, phone number, age, gender, race ethnicity, "
 "sexual orientation, disabilities, and veteran status, and information about your health and medical history if you chose to give it."
 msgstr ""
-"Voici ce que nous savons. La société détenant 7  Cups dit qu’elle peut recueillir un grand nombre d’informations personnelles, y compris votre prénom, nom, adresse e-mail, localisation, numéro de "
+"Voici ce que nous savons. La société détenant 7 Cups dit qu’elle peut recueillir un grand nombre d’informations personnelles, y compris votre prénom, nom, adresse e-mail, localisation, numéro de "
 "téléphone, âge, sexe, origine ethnique raciale, orientation sexuelle, handicaps et statut de vétéran, ainsi que des informations sur votre santé et vos antécédents médicaux si vous avez choisi de "
 "les renseigner."
 

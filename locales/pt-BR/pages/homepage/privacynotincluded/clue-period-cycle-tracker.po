@@ -288,7 +288,7 @@ msgstr "Ative um código PIN exclusivo ou ative o TouchID (iPhone 5S-8) para o a
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts such as Facebook or Google! It's better to login with email and password."
-msgstr "Não se inscreva em contas de terceiros, como Facebook ou Google! É melhor fazer login com e-mail e senha."
+msgstr "Não se cadastre em contas de terceiros, como Facebook ou Google! É melhor acessar com email e senha."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass, etc."
@@ -315,7 +315,7 @@ msgstr "Solicite que seus dados sejam excluídos assim que você parar de usar o
 
 msgctxt "personal_data_collected"
 msgid "If you create an account: Email, name, age"
-msgstr "Se você criar uma conta: e-mail, nome, idade"
+msgstr "Se você criar uma conta: email, nome, idade"
 
 msgctxt "biometric_data_collected"
 msgid ""
@@ -376,4 +376,4 @@ msgstr ""
 
 msgctxt "ai_can_user_control_helptext"
 msgid "We found no AI controls in the app."
-msgstr "Não encontramos controles de IA no aplicativo."
+msgstr "Não encontramos controles de inteligência artificial no aplicativo."

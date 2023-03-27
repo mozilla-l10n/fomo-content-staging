@@ -278,4 +278,4 @@ msgstr ""
 
 msgctxt "ai_what_can_it_do"
 msgid "Sony is <a id=\"a1\">planning</a> to employ AI via its Sony AI arm."
-msgstr "A Sony está <a id=\"a1\">planejando</a> empregar IA por meio da sua divisão Sony AI."
+msgstr "A Sony está <a id=\"a1\">planejando</a> empregar inteligência artificial por meio da sua divisão Sony AI."

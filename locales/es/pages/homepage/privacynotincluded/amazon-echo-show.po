@@ -431,6 +431,10 @@ msgctxt "ai_what_can_it_do"
 msgid "Amazon Alexa uses natural language processing to understand you and to generate answers to your requests."
 msgstr "Amazon Alexa utiliza el procesamiento del lenguaje natural para entenderte y ser capaz de generar respuestas adecuadas a tus solicitudes."
 
+#~ msgctxt "track_record_details"
+#~ msgid "<a id=\"a1\">In 2018</a>, Amazon's Echo Dot device recorded private conversation and sent it to random contact. The recording consisted of 1,700 audio files."
+#~ msgstr "En <a id=\"a1\">2018</a>, el dispositivo Echo Dot de Amazon grabó una conversación privada y la envió a un contacto aleatorio. La grabación constaba de 1700 archivos de audio."
+
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "Amazon proudly states they are not in the business of selling your personal information to others, which is good. However, a good question to ask is, why would Amazon need to sell your data when "
@@ -508,10 +512,6 @@ msgstr "Amazon Alexa utiliza el procesamiento del lenguaje natural para entender
 #~ msgstr ""
 #~ "Amazon <a id=\"a1\">recopila datos</a> de terceros sobre ti para orientar mejor sus anuncios: «Algunos terceros podrían proporcionar a Amazon información seudonimizada sobre ti (como información "
 #~ "demográfica o sitios donde se te han mostrado anuncios), provenientes de fuentes en línea y fuera de línea, que podemos utilizar para ofrecerte publicidad más relevante y útil»."
-
-#~ msgctxt "track_record_details"
-#~ msgid "<a id=\"a1\">In 2018</a>, Amazon's Echo Dot device recorded private conversation and sent it to random contact. The recording consisted of 1,700 audio files."
-#~ msgstr "En <a id=\"a1\">2018</a>, el dispositivo Echo Dot de Amazon grabó una conversación privada y la envió a un contacto aleatorio. La grabación constaba de 1700 archivos de audio."
 
 #~ msgctxt "worst_case"
 #~ msgid ""

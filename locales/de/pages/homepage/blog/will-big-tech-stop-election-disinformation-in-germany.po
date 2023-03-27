@@ -87,7 +87,7 @@ msgid ""
 "misinformation."
 msgstr ""
 "<i>Mehr <a id=\"a1\">Transparenz</a> und Daten über die Auswirkungen</i>: Bisher haben nur die Plattformen selbst einen Überblick darüber, wie ihr Eingreifen sich ausgewirkt hat. Plattformen könnten"
-" mehr Daten darüber veröffentlichen und es so außenstehenden Forscher:innen, Journalist:innen, Gesetzgeber:innen und der Öffentlichkeit ermöglichen, die Auswirkungen dieser Richtlinien auf "
+" mehr Daten darüber veröffentlichen und es so außenstehenden Forscher*innen, Journalist*innen, Gesetzgeber*innen und der Öffentlichkeit ermöglichen, die Auswirkungen dieser Richtlinien auf "
 "wahlbezogene Fehlinformationen besser unabhängig bewerten zu können."
 
 msgctxt "body.f204ce7d-c5d4-4b84-8c24-11294783100c"

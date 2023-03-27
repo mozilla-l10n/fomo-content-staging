@@ -227,7 +227,7 @@ msgstr "Ao iniciar uma inscrição, não concorde com o rastreamento de seus dad
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with your Google account. Better just log in with email and password."
-msgstr "Não se inscreva na sua Conta Google. É melhor fazer login com e-mail e senha."
+msgstr "Não se cadastre com sua conta do Google. É melhor acessar com email e senha."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
@@ -254,7 +254,7 @@ msgstr "Solicite que seus dados sejam excluídos assim que você parar de usar o
 
 msgctxt "personal_data_collected"
 msgid "Name; Email address; Year of birth; Place of residence and associated location information including time zone and language"
-msgstr "Nome; Endereço de e-mail; Ano de nascimento; Local de residência e informações de localização associadas, incluindo fuso horário e idioma"
+msgstr "Nome; Endereço de email; Ano de nascimento; Local de residência e informações de localização associadas, incluindo fuso horário e idioma"
 
 msgctxt "biometric_data_collected"
 msgid ""
@@ -317,7 +317,7 @@ msgstr "Seus ciclos menstruais"
 
 msgctxt "ai_can_user_control_helptext"
 msgid "We found no control over AI in the app"
-msgstr "Não encontramos controle sobre a IA no aplicativo"
+msgstr "Não encontramos nenhum controle sobre inteligência artificial no aplicativo"
 
 #~ msgctxt "worst_case"
 #~ msgid ""
@@ -365,6 +365,14 @@ msgstr "Não encontramos controle sobre a IA no aplicativo"
 #~ "para começar. <a id=\"a1\">Flo disse no Twitter que</a> eles estão trabalhando em um \"Modo Anônimo\" para este aplicativo que eles esperam que, em breve, irá remover sua identidade pessoal da sua "
 #~ "conta Flo. Espero que eles façam isso e o façam logo!"
 
+#~ msgctxt "worst_case"
+#~ msgid ""
+#~ "Flo <a id=\"a1\">recently announced</a> the launch of an \"Anonymous Mode,\" which is a free features that allows people to \"use the service without any personally identifiable information, such as"
+#~ " a name, email address, and technical identifier being associated with the account.\" We like that for sure! See, we told you there was both good and bad news when it comes to Flo."
+#~ msgstr ""
+#~ "O Flo <a id=\"a1\">anunciou recentemente</a> o lançamento de um \"Modo Anônimo\", que é um recurso gratuito que permite que as pessoas \"usem o serviço sem qualquer informação de identificação "
+#~ "pessoal, como um nome, endereço de e-mail e identificador técnico associado à conta.\" Nós gostamos disso com certeza! Nós dissemos que havia boas e más notícias quando se trata do Flo."
+
 #~ msgctxt "track_record_details"
 #~ msgid ""
 #~ "The period app Flo <a id=\"a1\">got in trouble</a> with the Federal Trade Commission (FTC) for “deceptive” practices around its data sharing. Flo Health <a id=\"a2\">settled</a> with the Federal "
@@ -378,11 +386,3 @@ msgstr "Não encontramos controle sobre a IA no aplicativo"
 #~ msgctxt "ai_is_transparent_helptext"
 #~ msgid "We found no whitepapers about AI"
 #~ msgstr "Não encontramos nenhum relatório branco sobre IA"
-
-#~ msgctxt "worst_case"
-#~ msgid ""
-#~ "Flo <a id=\"a1\">recently announced</a> the launch of an \"Anonymous Mode,\" which is a free features that allows people to \"use the service without any personally identifiable information, such as"
-#~ " a name, email address, and technical identifier being associated with the account.\" We like that for sure! See, we told you there was both good and bad news when it comes to Flo."
-#~ msgstr ""
-#~ "O Flo <a id=\"a1\">anunciou recentemente</a> o lançamento de um \"Modo Anônimo\", que é um recurso gratuito que permite que as pessoas \"usem o serviço sem qualquer informação de identificação "
-#~ "pessoal, como um nome, endereço de e-mail e identificador técnico associado à conta.\" Nós gostamos disso com certeza! Nós dissemos que havia boas e más notícias quando se trata do Flo."

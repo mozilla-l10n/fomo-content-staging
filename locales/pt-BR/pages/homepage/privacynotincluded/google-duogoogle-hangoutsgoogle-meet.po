@@ -121,4 +121,4 @@ msgstr ""
 
 msgctxt "ai_helptext"
 msgid "AI does things like offer suggestions for chats and ad targeting."
-msgstr "A IA faz coisas como oferecer sugestões para bate-papos e direcionamento de anúncios."
+msgstr "Inteligência artificial faz coisas como oferecer sugestões de conversas e direcionamento de anúncios."

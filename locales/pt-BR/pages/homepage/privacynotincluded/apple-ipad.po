@@ -181,7 +181,7 @@ msgstr "Mantenha seu iPad sempre atualizado."
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, address"
-msgstr "Nome, e-mail, número de telefone, endereço"
+msgstr "Nome, email, número de telefone, endereço"
 
 msgctxt "biometric_data_collected"
 msgid "If you opt-in: Fingerprint, Voice recordings"

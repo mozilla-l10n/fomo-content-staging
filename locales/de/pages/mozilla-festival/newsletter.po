@@ -72,11 +72,11 @@ msgstr "Aktuelle Festival-News"
 #~ msgstr "Mozilla Festival – Neuigkeiten und Updates"
 
 #~ msgctxt "body.db634a21-62a3-4d1f-982d-083c06064af8"
-#~ msgid "The most up-to-date news and sneak peeks about what to expect at the next MozFest"
-#~ msgstr "Die aktuellsten Neuigkeiten und Vorschauen zum nächsten MozFest"
-
-#~ msgctxt "body.db634a21-62a3-4d1f-982d-083c06064af8"
 #~ msgid "The next Mozilla Festival will be held in March 2022. But you can join us and the internet health movement today. Are you ready to join the Mozilla Festival community online?"
 #~ msgstr ""
 #~ "Das nächste Mozilla Festival findet im März 2022 statt. Aber Sie können sich uns und der Internet-Gesundheitsbewegung noch heute anschließen. Sind Sie bereit, der Mozilla-Festival-Gemeinschaft im "
 #~ "Internet beizutreten?"
+
+#~ msgctxt "body.db634a21-62a3-4d1f-982d-083c06064af8"
+#~ msgid "The most up-to-date news and sneak peeks about what to expect at the next MozFest"
+#~ msgstr "Die aktuellsten Neuigkeiten und Vorschauen zum nächsten MozFest"

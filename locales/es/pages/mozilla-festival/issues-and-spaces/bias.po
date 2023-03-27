@@ -97,7 +97,7 @@ msgstr "Asegura tu boleto"
 
 msgctxt "body.046f0ea0-52fc-446c-a77d-280cbca57040.url"
 msgid "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
-msgstr "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
+msgstr "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fes%2Fregistrations%2Fnew"
 
 msgctxt "body.68aaf7cf-da82-45e3-9bb2-0dd547bf3718.title"
 msgid "Radical Inclusion"
@@ -131,7 +131,7 @@ msgstr "Asegura tu boleto"
 
 msgctxt "body.68aaf7cf-da82-45e3-9bb2-0dd547bf3718.url"
 msgid "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
-msgstr "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
+msgstr "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fes%2Fregistrations%2Fnew"
 
 msgctxt "body.bbc7c3d4-7d1e-40dc-9ba8-59890ccced6d.title"
 msgid "Youth Zone"
@@ -165,7 +165,7 @@ msgstr "Asegura tu boleto"
 
 msgctxt "body.bbc7c3d4-7d1e-40dc-9ba8-59890ccced6d.url"
 msgid "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
-msgstr "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
+msgstr "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fes%2Fregistrations%2Fnew"
 
 msgctxt "body.bc23ed19-13e2-487f-a3dc-8643b145851f.title"
 msgid "MoZone"
@@ -189,7 +189,7 @@ msgstr "Asegura tu boleto"
 
 msgctxt "body.bc23ed19-13e2-487f-a3dc-8643b145851f.url"
 msgid "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
-msgstr "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
+msgstr "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fes%2Fregistrations%2Fnew"
 
 msgctxt "body.5ffc329e-4c13-41e5-86eb-70fc0e95eb3f"
 msgid ""
@@ -307,10 +307,6 @@ msgctxt "body.739385ed-3beb-4e3d-98ec-7cfe5d2ad256.cards.c812c918-a143-440b-b681
 msgid "Read now"
 msgstr "Leer ahora"
 
-#~ msgctxt "body.af96ea9f-256d-46d8-8c14-bfa286acd33a.altText"
-#~ msgid "space placeholders"
-#~ msgstr "marcadores de posición"
-
 #~ msgctxt "body.0f1b5ef9-7218-448c-ae2f-0d0aeaeaab85.label"
 #~ msgid "Submit your session idea"
 #~ msgstr "Envía tu idea para una sesión"
@@ -338,6 +334,10 @@ msgstr "Leer ahora"
 #~ msgctxt "body.705b4f29-162d-4e1c-8f94-51b8cc98136b.URL"
 #~ msgid "https://pretalx.com/mozilla-festival-2023/cfp"
 #~ msgstr "https://pretalx.com/mozilla-festival-2023/cfp"
+
+#~ msgctxt "body.af96ea9f-256d-46d8-8c14-bfa286acd33a.altText"
+#~ msgid "space placeholders"
+#~ msgstr "marcadores de posición"
 
 #~ msgctxt "body.af96ea9f-256d-46d8-8c14-bfa286acd33a.text"
 #~ msgid "(This is an experience that is not accepting proposals.)"

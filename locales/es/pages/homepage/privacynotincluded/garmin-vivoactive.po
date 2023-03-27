@@ -280,12 +280,12 @@ msgstr "En su política de privacidad, Garmin declara que «Garmin no toma ningu
 #~ "los correos electrónicos, para marketing."
 
 #~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Don't connect your Garmin app to any social networks like Facebook."
-#~ msgstr "No conectes tu aplicación de Garmin a ninguna red social como Facebook."
-
-#~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Be very careful who you chose to share your Garmin wellness data with."
 #~ msgstr "Ten mucho cuidado al elegir con quién compartes tus datos de bienestar de Garmin."
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Don't connect your Garmin app to any social networks like Facebook."
+#~ msgstr "No conectes tu aplicación de Garmin a ninguna red social como Facebook."
 
 #~ msgctxt "personal_data_collected"
 #~ msgid "Name, email address, gender (optional), age (optional), date of birth (optional), photos (optional), location"

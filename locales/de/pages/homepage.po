@@ -19,12 +19,12 @@ msgid "Homepage"
 msgstr "Startseite"
 
 msgctxt "hero_headline"
-msgid "Google Play Store Labels Are Misleading"
-msgstr "Beschriftungen im Google Play Store sind irreführend"
+msgid "Mozilla.ai — Investing In Trustworthy AI"
+msgstr "Mozilla.ai – Investition in vertrauenswürdige KI"
 
 msgctxt "hero_button_text"
-msgid "Read The Research"
-msgstr "Forschungsarbeit lesen"
+msgid "Learn More"
+msgstr "Weitere Informationen"
 
 msgctxt "spotlight_headline"
 msgid "All About Common Voice"
@@ -165,10 +165,6 @@ msgstr "Logo von Consumers International"
 #~ msgstr "Termine für das Mozilla Festival 2023 bekannt gegeben!"
 
 #~ msgctxt "hero_headline"
-#~ msgid "MozFest 2023 Call For Proposals"
-#~ msgstr "Aufruf für Vorschläge zum MozFest 2023"
-
-#~ msgctxt "hero_headline"
 #~ msgid "*Privacy Not Included — Reproductive Health Apps Edition"
 #~ msgstr "*Datenschutz nicht inbegriffen – Ausgabe „Apps für reproduktive Gesundheit“"
 
@@ -179,6 +175,10 @@ msgstr "Logo von Consumers International"
 #~ msgctxt "hero_headline"
 #~ msgid "Does YouTube’s Dislike Button Even Work?"
 #~ msgstr "Funktioniert die „Gefällt mir nicht“-Schaltfläche von YouTube überhaupt?"
+
+#~ msgctxt "hero_headline"
+#~ msgid "MozFest 2023 Call For Proposals"
+#~ msgstr "Aufruf für Vorschläge zum MozFest 2023"
 
 #~ msgctxt "hero_headline"
 #~ msgid "MozFest 2023 Tickets Are Now Available"
@@ -195,6 +195,14 @@ msgstr "Logo von Consumers International"
 #~ msgctxt "hero_headline"
 #~ msgid "Nadya Tolokonnikova, Pussy Riot Founder keynote speaker at MozFest!"
 #~ msgstr "Nadya Tolokonnikova, Pussy-Riot-Gründerin, Hauptrednerin beim MozFest!"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Google Play Store Labels Are Misleading"
+#~ msgstr "Beschriftungen im Google Play Store sind irreführend"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Activism, Whistleblowers &amp; the Collective Power of People"
+#~ msgstr "Aktivismus, Whistleblower &amp; die kollektive Macht der Menschen"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Findings"
@@ -241,10 +249,6 @@ msgstr "Logo von Consumers International"
 #~ msgstr "Aufruf zur Meldung von Projekten jetzt eröffnet"
 
 #~ msgctxt "hero_button_text"
-#~ msgid "Learn More"
-#~ msgstr "Weitere Informationen"
-
-#~ msgctxt "hero_button_text"
 #~ msgid "Learn More Here"
 #~ msgstr "Hier finden Sie weitere Informationen"
 
@@ -253,16 +257,16 @@ msgstr "Logo von Consumers International"
 #~ msgstr "Erfahren Sie die Termine"
 
 #~ msgctxt "hero_button_text"
-#~ msgid "Submit Your Session Idea"
-#~ msgstr "Reichen Sie Ihre Sitzungs-Idee ein"
-
-#~ msgctxt "hero_button_text"
 #~ msgid "Secure Your Ticket Now"
 #~ msgstr "Sichern Sie sich jetzt Ihr Ticket"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Here’s What We Found"
 #~ msgstr "Unsere Erkenntnisse"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Submit Your Session Idea"
+#~ msgstr "Reichen Sie Ihre Sitzungs-Idee ein"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Secure Yours"
@@ -275,6 +279,14 @@ msgstr "Logo von Consumers International"
 #~ msgctxt "hero_button_text"
 #~ msgid "Secure Your Tickets Now"
 #~ msgstr "Sichern Sie sich jetzt Ihre Tickets"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Read The Research"
+#~ msgstr "Forschungsarbeit lesen"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Get Your MozFest 2023 Tickets"
+#~ msgstr "Holen Sie sich Ihre Tickets für das MozFest 2023"
 
 #~ msgctxt "spotlight_headline"
 #~ msgid "What To Know About Venmo"

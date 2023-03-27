@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "introduction"
 msgid "Tasmiha Khan is a freelance journalist who has written for publications like New York Times and National Geographic in the past"
-msgstr ""
+msgstr "Tasmiha Khan é uma jornalista independente que já escreveu para publicações como New York Times e National Geographic"

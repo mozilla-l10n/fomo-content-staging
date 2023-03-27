@@ -551,10 +551,6 @@ msgstr ""
 #~ msgid "<b>The deadline for the MozFest 2022 Call for Proposals has been extended.</b> Submit your proposal by end of day November 14th."
 #~ msgstr "<b>Se ha ampliado el plazo para la convocatoria de propuestas de MozFest 2022.</b> Envíe su propuesta antes del 14 de noviembre."
 
-#~ msgctxt "body.e7b781ea-1aac-4660-a6f7-c7f345baaf62.cards.549f44ff-5998-4cdc-afe5-279a929e718f.title"
-#~ msgid "Tech &amp; Biodiversity: Legacy 2060"
-#~ msgstr "Tecnología y biodiversidad: legado 2060"
-
 #~ msgctxt "body.444065a0-82dd-40cf-93c9-9793e7c87c64"
 #~ msgid ""
 #~ "Welcome! We are so excited you’re considering proposing a session for MozFest 2023! Below you’ll find all the info you need to propose a session. We welcome sessions on a wide range of topics "
@@ -571,6 +567,10 @@ msgstr ""
 #~ msgctxt "body.3c6c0287-cb3f-4f51-8185-cc4fd3a4efdc.url"
 #~ msgid "https://player.vimeo.com/video/768202873?h=b40ca9e69f&amp;amp;badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479"
 #~ msgstr "https://player.vimeo.com/video/768202873?h=b40ca9e69f&badge=0&autopause=0&player_id=0&app_id=58479"
+
+#~ msgctxt "body.e7b781ea-1aac-4660-a6f7-c7f345baaf62.cards.549f44ff-5998-4cdc-afe5-279a929e718f.title"
+#~ msgid "Tech &amp; Biodiversity: Legacy 2060"
+#~ msgstr "Tecnología y biodiversidad: legado 2060"
 
 #~ msgctxt "body.1ae48f1e-9712-4f00-bf0f-7f52e0e62d12.URL"
 #~ msgid "https://pretalx.com/mozilla-festival-2023/cfp"

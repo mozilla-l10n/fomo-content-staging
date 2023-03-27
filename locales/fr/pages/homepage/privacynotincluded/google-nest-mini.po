@@ -450,12 +450,12 @@ msgstr "Google utilise le traitement du langage naturel pour vous comprendre et 
 #~ "Des informations ne permettant pas de vous identifier personnellement peuvent être partagées avec des partenaires. Google affirme que vos données personnelles ne sont jamais vendues à des tiers."
 
 #~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Visit privacy &amp; security controls to adjust the amount of data collected"
-#~ msgstr "Consultez les paramètres de confidentialité et de vie privée pour ajuster la quantité de données collectées"
-
-#~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Review Nest <a id=\"a1\">privacy tips</a>"
 #~ msgstr "Consultez les <a id=\"a1\">Conseils de confidentialité de Nest</a>."
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Visit privacy &amp; security controls to adjust the amount of data collected"
+#~ msgstr "Consultez les paramètres de confidentialité et de vie privée pour ajuster la quantité de données collectées"
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

@@ -197,7 +197,7 @@ msgstr ""
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, address"
-msgstr "Nome, e-mail, número de telefone, endereço"
+msgstr "Nome, email, número de telefone, endereço"
 
 msgctxt "social_data_collected"
 msgid "Contacts"

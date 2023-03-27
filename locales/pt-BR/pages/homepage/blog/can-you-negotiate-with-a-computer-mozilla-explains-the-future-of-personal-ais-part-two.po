@@ -16,7 +16,7 @@ msgid ""
 "Whitt returns to explore the third type of institutional AI: bureaucratic unseens, and how a personal AI might interact with them."
 msgstr ""
 "Você já foi vítima de um processo burocrático que parecia desafiar a lógica? Neste episódio de Mozilla explica, Richard Whitt, membro da Mozilla e ex-advogado de políticas públicas do Google, volta "
-"para explorar o terceiro tipo de IA institucional: as burocráticas invisíveis, e como uma IA pessoal pode interagir com elas."
+"para explorar o terceiro tipo de inteligência artificial institucional: burocráticas invisíveis e como uma inteligência artificial pessoal pode interagir com elas."
 
 msgctxt "body.2d8c25be-fb0b-4ded-a24d-5a03e0ab493c"
 msgid ""

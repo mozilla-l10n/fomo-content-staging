@@ -12,7 +12,7 @@ msgstr "Funktioniert diese Schaltfläche? Eine Untersuchung von YouTubes ineffiz
 
 msgctxt "search_description"
 msgid "Mozilla scrutinized YouTube to determine how much control people actually have over the platform’s recommendation algorithm. This is what we learned."
-msgstr "Mozilla hat YouTube unter die Lupe genommen und nachgeforscht, wie viel Einfluss Nutzer:innen wirklich auf den Empfehlungs-Algorithmus der Plattform haben. Das haben wir herausgefunden."
+msgstr "Mozilla hat YouTube unter die Lupe genommen und nachgeforscht, wie viel Einfluss Nutzer*innen wirklich auf den Empfehlungs-Algorithmus der Plattform haben. Das haben wir herausgefunden."
 
 msgctxt "title"
 msgid "YouTube User Control Study"

@@ -33,7 +33,7 @@ msgid ""
 "Now, we want to hear from you. We’re hosting a panel conversation with misinformation and election experts about the Bundestag election, and as a member of the Mozilla community in Germany, we want "
 "to know what questions about the role Big Tech companies may play in the upcoming German election."
 msgstr ""
-"Wir wollen Ihre Meinung hören. Wir veranstalten eine Diskussionsrunde mit Wahlexpert:innen und Expert:innen im Bereich Fehlinformationen mit Thema Bundestagswahl 2021 und möchten von Ihnen als "
+"Wir wollen Ihre Meinung hören. Wir veranstalten eine Diskussionsrunde mit Wahlexpert*innen und Expert*innen im Bereich Fehlinformationen mit Thema Bundestagswahl 2021 und möchten von Ihnen als "
 "Mitglied der Mozilla-Community in Deutschland wissen, welche Fragen Sie über die Rolle großer Tech-Unternehmen bei der Bundestagswahl haben."
 
 msgctxt "body.0939ffeb-2e51-4b85-9829-835b0e6fc7d6"

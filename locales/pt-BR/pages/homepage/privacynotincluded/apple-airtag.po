@@ -214,7 +214,7 @@ msgstr "Use os controles de privacidade do seu dispositivo para limitar o acesso
 msgctxt "personal_data_collected"
 msgid "Email address, age, name, email address, physical address, phone number, or other contact information are needed to set up the Apple account. Location is collected from the device itself"
 msgstr ""
-"Endereço de e-mail, idade, nome, endereço de e-mail, endereço físico, número de telefone ou outras informações de contato são necessários para configurar a conta Apple. A localização é coletada do "
+"Endereço de email, idade, nome, endereço de email, endereço físico, número de telefone ou outras informações de contato são necessários para configurar a conta Apple. A localização é coletada pelo "
 "próprio dispositivo"
 
 msgctxt "how_can_you_control_your_data"

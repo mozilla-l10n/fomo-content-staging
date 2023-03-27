@@ -87,7 +87,7 @@ msgstr "Nein"
 
 msgctxt "social_data_collected"
 msgid "No. Chats and speaker's stats are destroyed directly at the end of the meeting."
-msgstr "Nein. Chatverläufe und Statistiken über die Teilnehmer:innen werden direkt im Anschluss an das Ende eines Meetings vernichtet."
+msgstr "Nein. Chatverläufe und Statistiken über die Teilnehmer*innen werden direkt im Anschluss an das Ende eines Meetings vernichtet."
 
 msgctxt "how_can_you_control_your_data"
 msgid ""

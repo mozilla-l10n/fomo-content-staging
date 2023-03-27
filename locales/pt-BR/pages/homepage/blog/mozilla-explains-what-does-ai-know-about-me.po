@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "seo_title"
 msgid "What Does AI Know About Me? Mozilla Explains: Your Digital Profile"
-msgstr "O que a IA sabe sobre mim? Mozilla explica: seu perfil digital"
+msgstr "O que a inteligência artificial sabe sobre mim? Mozilla explica: Seu perfil digital"
 
 msgctxt "search_description"
 msgid ""
@@ -165,4 +165,4 @@ msgstr ""
 
 msgctxt "title"
 msgid "Mozilla Explains: What Does AI Know About Me?"
-msgstr "Mozilla explica: O que a IA sabe sobre mim?"
+msgstr "Mozilla explica: O que a inteligência artificial sabe sobre mim?"

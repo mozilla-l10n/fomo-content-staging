@@ -178,7 +178,7 @@ msgstr "Você pode dizer \"E aí, Siri. Pare de ouvir.\" para desligar o reconhe
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr "Não se inscreva com contas de terceiros. É melhor fazer login com e-mail e senha forte."
+msgstr "Não se cadastre com contas de terceiros. É melhor acessar com email e senha forte."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
@@ -211,7 +211,7 @@ msgstr "Ao iniciar uma inscrição, não concorde com o rastreamento de seus dad
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, address"
-msgstr "Nome, e-mail, número de telefone, endereço"
+msgstr "Nome, email, número de telefone, endereço"
 
 msgctxt "biometric_data_collected"
 msgid "Voice recordings, if you opt-in"

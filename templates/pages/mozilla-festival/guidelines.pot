@@ -150,12 +150,6 @@ msgid ""
 msgstr ""
 
 msgctxt "body.42f9379f-f5b4-4d87-ad04-cb8abaea92bb"
-msgid ""
-"Email us at <a id=\"a1\">festivalsafety@mozilla.com</a>. You may also direct-message us on twitter <a id=\"a2\">@mozillafestival</a>. These channels reach Sarah Allen, Festival Director and Marc "
-"Walsh, Senior Digital Producer."
-msgstr ""
-
-msgctxt "body.42f9379f-f5b4-4d87-ad04-cb8abaea92bb"
 msgid "All issues raised are treated as confidential and shared only as needed with specific members of the Mozilla team."
 msgstr ""
 
@@ -182,6 +176,10 @@ msgid "Ping @festivalsafety on the <a id=\"a1\">MozFest Community Slack</a>. Thi
 msgstr ""
 
 msgctxt "body.42f9379f-f5b4-4d87-ad04-cb8abaea92bb"
+msgid "These channels reach Sarah Allen, Festival Director and Marc Walsh, MozFest Senior Digital Producer, Sulafa Silim, DEI Lead with Mozilla Foundation and Dirk Slater from Fabriders."
+msgstr ""
+
+msgctxt "body.42f9379f-f5b4-4d87-ad04-cb8abaea92bb"
 msgid "Thank you for being a part of MozFest 2023 and a part of our community."
 msgstr ""
 
@@ -191,6 +189,7 @@ msgstr ""
 
 msgctxt "body.8257419d-d722-428f-91c7-2eef7d45077e"
 msgid ""
-"We also acknowledge these times are emotionally distressful so we are honored to have the support of <a id=\"a1\">Vita Activa</a> throughout the week during MozFest 2023. If you need to talk to them"
-" they are on the <a id=\"a2\">MozFest community Slack</a> on the <a id=\"a3\">#vita-activa-support-channel</a>."
+"We also acknowledge we live in fast paced lives predominently online and many of us are experiencing burn out- so we are honored to have the support of <a id=\"a1\">Vita Activa</a> throughout the "
+"week during MozFest 2023. If you need to talk to them, they are here to support you in your journey to cultivate good mental health practice, combat burnout and strive for wellbeing. You can find "
+"them on our <a id=\"a2\">MozFest community Slack</a> on the <a id=\"a3\">#burn-out-clinic</a>. They will also host an open sessions so please check the schedule for updated times"
 msgstr ""

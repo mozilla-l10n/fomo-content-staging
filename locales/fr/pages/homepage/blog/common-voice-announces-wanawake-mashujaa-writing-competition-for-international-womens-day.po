@@ -1,0 +1,125 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-03-27 07:05:24.848473+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 9d0faf30-6abb-40eb-ba24-efdd4c5d4e3c\n"
+
+msgctxt "search_description"
+msgid "Mozilla is seeking essays about outstanding women in East and Central Africa, in order to expand our open-source Kiswahili data set"
+msgstr "Mozilla recherche des essais sur des femmes exceptionnelles en Afrique orientale et centrale, afin d’élargir notre jeu de données open source en swahili"
+
+msgctxt "body.18eaccc7-947c-4cfe-9a11-471f0e6cbc1e.altText"
+msgid "MCV"
+msgstr "MCV"
+
+msgctxt "body.e7dfc828-09a1-485e-be49-83447f87d336"
+msgid "Mozilla is seeking essays about outstanding women in East and Central Africa, in order to expand our open-source Kiswahili data set"
+msgstr "Mozilla recherche des essais sur des femmes exceptionnelles en Afrique orientale et centrale, afin d’élargir notre jeu de données open source en swahili"
+
+msgctxt "body.e7dfc828-09a1-485e-be49-83447f87d336"
+msgid ""
+"<b>(TANZANIA, KENYA, AND THE DRC | MARCH 8, 2023)</b> -- This International Women’s Day, Mozilla <a id=\"a1\">Common Voice</a> is announcing an initiative to honor outstanding women in East and "
+"Central Africa — and also to expand its open-source Kiswahili data set."
+msgstr ""
+"<b>(TANZANIE, KENYA ET LA RDC | 8 MARS 2023)</b> — En cette Journée internationale des droits des femmes, Mozilla <a id=\"a1\">Common Voice</a> annonce une initiative visant à mettre à l’honneur des"
+" femmes exceptionnelles en Afrique orientale et centrale – et également pour étendre son jeu de données open source en swahili."
+
+msgctxt "body.e7dfc828-09a1-485e-be49-83447f87d336"
+msgid "The “Wanawake Mashujaa” writing competition — Kiswahili for <i>Brave Women</i> — is seeking written biographies of extraordinary women in local communities across Tanzania, Kenya, and the DRC."
+msgstr ""
+"Le concours d’écriture « Wanawake Mashujaa » — <i>femmes courageuses</i>, en swahili — recherche des biographies écrites de femmes exceptionnelles dans les communautés locales de Tanzanie, du Kenya "
+"et de la RDC."
+
+msgctxt "body.e7dfc828-09a1-485e-be49-83447f87d336"
+msgid ""
+"The essays will be added to Mozilla's Common Voice text corpus to enrich its Kiswahili data set and broaden its gender diversity. They will also be published on the Common Voice website and on "
+"partners’ websites. A panel of African linguists and artists will also select three winning essays to receive $450, $230, and $120 USD, respectively."
+msgstr ""
+"Les essais seront ajoutés au corpus de textes Common Voice de Mozilla pour enrichir son jeu de données en swahili et étendre sa diversité de genre. Ils seront également publiés sur le site web de "
+"Common Voice et sur les sites web des partenaires. Un panel de linguistes et d’artistes africains sélectionnera également trois essais gagnants pour recevoir respectivement 450 $, 230 $ et 120 $ US."
+
+msgctxt "body.e7dfc828-09a1-485e-be49-83447f87d336"
+msgid "<b><i>To enter:</i></b> <a id=\"a1\"><b><i>Kiswahili form</i></b></a><b><i> |</i></b> <a id=\"a2\"><b><i>English form</i></b></a><b><i> |</i></b> <a id=\"a3\"><b><i>French form</i></b></a>"
+msgstr ""
+"<b><i>Pour participer :</i></b> <a id=\"a1\"><b><i>Formulaire en swahili</i></b></a><b><i> |</i></b> <a id=\"a2\"><b><i>Formulaire en anglais</i></b></a><b><i> |</i></b> <a "
+"id=\"a3\"><b><i>Formulaire en français</i></b></a>"
+
+msgctxt "body.e7dfc828-09a1-485e-be49-83447f87d336"
+msgid ""
+"Says <a id=\"a1\">Rebecca Ryakitimbo</a>, Mozilla Fellow leading the initiative: “This competition will honor the amazing work being done by women across East and Central Africa on International "
+"Women’s Day. Oftentimes, women’s contributions aren’t represented online — and especially in under-resourced languages such as Kiswahili. This is an opportunity to add their stories to the data sets"
+" that power voice assistants and other technologies.”"
+msgstr ""
+"Selon <a id=\"a1\">Rebecca Ryakitimbo</a>, Mozilla Fellow à la tête de l’initiative : « Ce concours honorera le travail incroyable accompli par les femmes d’Afrique orientale et centrale à "
+"l’occasion de la Journée internationale des droits des femmes. Souvent, les contributions des femmes ne sont pas représentées en ligne – et en particulier dans les langues qui manquent de "
+"ressources, comme le swahili. C’est l’occasion d’ajouter leurs parcours aux jeux de données utilisés par les assistants vocaux et d’autres technologies. »"
+
+msgctxt "body.e7dfc828-09a1-485e-be49-83447f87d336"
+msgid ""
+"Mozilla<a id=\"a1\"> Common Voice</a> is an open-source initiative to make voice technology more inclusive. In recent years, Common Voice has <a id=\"a2\">awarded</a> $400,000 to people and projects"
+" across East Africa leveraging the data set."
+msgstr ""
+"Mozilla <a id=\"a1\">Common Voice</a> est une initiative open source visant à rendre la technologie vocale plus inclusive. Ces dernières années, Common Voice a <a id=\"a2\">attribué</a> 400 000 $ à "
+"des personnes et à des projets en Afrique de l’Est qui tirent parti du jeu de données."
+
+msgctxt "body.e7dfc828-09a1-485e-be49-83447f87d336"
+msgid "Competition details"
+msgstr "Détails du concours"
+
+msgctxt "body.e7dfc828-09a1-485e-be49-83447f87d336"
+msgid "Essays should be written in either Congolese or Tanzanian Swahili and be between 1,000 and 2,000 words in length. All work submitted should be under Public Domain (CC-0) license."
+msgstr "Les essais doivent être rédigés en swahili congolais ou tanzanien et compter entre 1 000 et 2 000 mots. Tous les travaux soumis doivent être sous licence domaine public (CC-0)."
+
+msgctxt "body.e7dfc828-09a1-485e-be49-83447f87d336"
+msgid "Submissions will be accepted from March 8 through March 22, 2023. The essays will be evaluated and judged by April 5, and the winners will be announced later that month."
+msgstr "Les envois seront acceptés du 8 mars au 22 mars 2023. Les essais seront évalués et jugés d’ici au 5 avril, et les gagnants seront annoncés courant avril."
+
+msgctxt "body.e7dfc828-09a1-485e-be49-83447f87d336"
+msgid "Text specifications :"
+msgstr "Instructions pour le texte :"
+
+msgctxt "body.e7dfc828-09a1-485e-be49-83447f87d336"
+msgid "There should be no digits in the written work such as 2021 instead use words"
+msgstr "Le texte ne doit pas comporter de chiffres tels que 2021. Veuillez utiliser des mots à la place."
+
+msgctxt "body.e7dfc828-09a1-485e-be49-83447f87d336"
+msgid "Abbreviations and acronyms like “USA” or “ICE” should be avoided because they may be read in a way that does not coincide with their spelling"
+msgstr "Les abréviations et acronymes comme « USA » ou « ICE » doivent être évités car ils peuvent être lus d’une manière qui ne coïncide pas avec leur orthographe."
+
+msgctxt "body.e7dfc828-09a1-485e-be49-83447f87d336"
+msgid "The text should not use derogatory language"
+msgstr "Le texte ne doit pas contenir de propos déplacés"
+
+msgctxt "body.e7dfc828-09a1-485e-be49-83447f87d336"
+msgid "The text should not promote any form of gender harassment, abuse or violence"
+msgstr "Le texte ne doit promouvoir aucune forme de harcèlement, d’abus ou de violence sexiste"
+
+msgctxt "body.e7dfc828-09a1-485e-be49-83447f87d336"
+msgid "The text should not perpetuate or condone sexual harassment or biases"
+msgstr "Le texte ne doit pas perpétuer ou tolérer le harcèlement sexuel ou les préjugés"
+
+msgctxt "body.e7dfc828-09a1-485e-be49-83447f87d336"
+msgid "The text should be respective of gender diversities i.e usage of correct pronouns"
+msgstr "Le texte doit respecter la diversité des genres, c’est-à-dire l’utilisation de pronoms corrects"
+
+msgctxt "body.e7dfc828-09a1-485e-be49-83447f87d336"
+msgid "The text should not propagate violence and/or threats of violence"
+msgstr "Le texte ne doit pas propager de violence et/ou des menaces de violence"
+
+msgctxt "body.e7dfc828-09a1-485e-be49-83447f87d336"
+msgid "The text should be in a digital format and not handwritten"
+msgstr "Le texte doit être au format numérique et non manuscrit"
+
+msgctxt "body.e7dfc828-09a1-485e-be49-83447f87d336"
+msgid "The content must be your own; no plagiarized content"
+msgstr "Le contenu doit être le vôtre ; aucun contenu plagié"
+
+msgctxt "body.e7dfc828-09a1-485e-be49-83447f87d336"
+msgid "<b><i>Press contact:</i></b> <i>Kevin Zawacki | kevin@mozillafoundation.org | +1 (914) 837-4333</i>"
+msgstr "<b><i>Contact presse :</i></b> <i>Kevin Zawacki | kevin@mozillafoundation.org | +1 (914) 837-4333</i>"
+
+msgctxt "title"
+msgid "Common Voice Announces ‘Wanawake Mashujaa’ Writing Competition for International Women’s Day"
+msgstr "Common Voice annonce le concours d’écriture « Wanawake Mashujaa » pour la Journée internationale des droits des femmes"

@@ -421,6 +421,15 @@ msgstr "Google utiliza el procesamiento del lenguaje natural para entenderte y s
 #~ msgid "Google publishes academic papers about its AI research (https://ai.google/) and makes several tools available via open source. https://ai.google/tools/"
 #~ msgstr "Google publica artículos académicos sobre sus estudios en materia de IA (https://ai.google/) y pone varias herramientas de código abierto a disposición del público. https://ai.google/tools/"
 
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid ""
+#~ "Google provides various privacy controls, accessible via Google Privacy tools. There are several clearly defined ways to delete personal data, incl. deleting data from Nest app or deleting a whole "
+#~ "Google Account. An autotimer can be set up for 3 or 18 month. The retention details are also listed in the Policy."
+#~ msgstr ""
+#~ "Google proporciona varios controles de privacidad, accesibles a través de sus herramientas de privacidad. Hay varias formas claramente definidas de eliminar datos personales, incluida la eliminación"
+#~ " de datos de la aplicación Nest o la eliminación de toda la cuenta de Google. Puedes configurar un temporizador automático en 3 o 18 meses. Los detalles de retención de datos también figuran en la "
+#~ "política de privacidad."
+
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Delete your historical data from time to time. You can do this by saying, “Hey Google, delete this week’s activity.” or \"Hey Google, that wasn't for you\" to delete the last thing you said."
 #~ msgstr ""
@@ -506,15 +515,6 @@ msgstr "Google utiliza el procesamiento del lenguaje natural para entenderte y s
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid "Google says to send data outside of the organization only with a user's consent."
 #~ msgstr "Google dice que solo envía datos fuera de la organización con el consentimiento del usuario."
-
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid ""
-#~ "Google provides various privacy controls, accessible via Google Privacy tools. There are several clearly defined ways to delete personal data, incl. deleting data from Nest app or deleting a whole "
-#~ "Google Account. An autotimer can be set up for 3 or 18 month. The retention details are also listed in the Policy."
-#~ msgstr ""
-#~ "Google proporciona varios controles de privacidad, accesibles a través de sus herramientas de privacidad. Hay varias formas claramente definidas de eliminar datos personales, incluida la eliminación"
-#~ " de datos de la aplicación Nest o la eliminación de toda la cuenta de Google. Puedes configurar un temporizador automático en 3 o 18 meses. Los detalles de retención de datos también figuran en la "
-#~ "política de privacidad."
 
 #~ msgctxt "track_record_details"
 #~ msgid ""

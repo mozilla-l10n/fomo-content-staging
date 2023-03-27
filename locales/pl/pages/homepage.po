@@ -19,11 +19,11 @@ msgid "Homepage"
 msgstr "Strona główna"
 
 msgctxt "hero_headline"
-msgid "Google Play Store Labels Are Misleading"
+msgid "Mozilla.ai — Investing In Trustworthy AI"
 msgstr ""
 
 msgctxt "hero_button_text"
-msgid "Read The Research"
+msgid "Learn More"
 msgstr ""
 
 msgctxt "spotlight_headline"
@@ -129,3 +129,11 @@ msgstr "Logo Consumers International"
 #~ msgctxt "hero_button_text"
 #~ msgid "Secure Your Ticket Now"
 #~ msgstr "Zarezerwuj miejsce już dziś"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Google Play Store Labels Are Misleading"
+#~ msgstr "Etykiety w sklepie Google Play wprowadzają w błąd"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Read The Research"
+#~ msgstr "Zobacz wyniki badania"

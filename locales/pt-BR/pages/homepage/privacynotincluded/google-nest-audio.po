@@ -210,7 +210,7 @@ msgstr "Ao realizar uma inscrição, não concorde com o rastreamento de seus da
 
 msgctxt "tips_to_protect_yourself"
 msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-msgstr "Não se inscreva com contas de terceiros. É melhor fazer o login somente com e-mail e senha forte."
+msgstr "Não se cadastre com contas de terceiros. É melhor acessar com email e senha forte."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
@@ -239,7 +239,7 @@ msgstr "Solicite que seus dados sejam excluídos quando você parar de usar o ap
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, address"
-msgstr "Nome, e-mail, número de telefone, endereço"
+msgstr "Nome, email, número de telefone, endereço"
 
 msgctxt "biometric_data_collected"
 msgid "Voice recordings"
@@ -347,7 +347,9 @@ msgstr ""
 
 msgctxt "ai_helptext"
 msgid "Google publishes academic papers about its AI research (<a id=\"a1\">https://ai.google/</a>) and makes several tools available via open source. <a id=\"a2\">https://ai.google/tools/</a>"
-msgstr "O Google publica artigos acadêmicos sobre sua pesquisa de IA (<a id=\"a1\">https://ai.google/</a>) e disponibiliza várias ferramentas via código aberto. <a id=\"a2\">https://ai.google/tools/</a>"
+msgstr ""
+"O Google publica artigos acadêmicos sobre sua pesquisa de inteligência artificial (<a id=\"a1\">https://ai.google/</a>) e disponibiliza várias ferramentas via código aberto. <a "
+"id=\"a2\">https://ai.google/tools/</a>"
 
 msgctxt "ai_what_can_it_do"
 msgid "Google uses natural language processing to understand you and to generate answers to your requests."

@@ -37,7 +37,7 @@ msgstr "https://www.youtube.com/embed/P-iiN0c2uic?rel=0&cc_load_policy=1&cc_lang
 
 msgctxt "body.d371d8fc-225b-414e-8bc6-b285497af90f.caption"
 msgid "Becca Ricks explains AI — Mozilla Foundation"
-msgstr "Becca Ricks explica a IA - Fundação Mozilla"
+msgstr "Becca Ricks explica inteligência artificial — Fundação Mozilla"
 
 msgctxt "body.d371d8fc-225b-414e-8bc6-b285497af90f.captionURL"
 msgid "https://youtu.be/P-iiN0c2uic"
@@ -81,7 +81,7 @@ msgstr "https://youtu.be/P-iiN0c2uic"
 
 msgctxt "body.422db5c6-4850-4814-9abb-7a393eae272f"
 msgid "What does AI look like in the real world?"
-msgstr "Como é a IA no mundo real?"
+msgstr "Como inteligência artificial se parece no mundo real?"
 
 msgctxt "body.422db5c6-4850-4814-9abb-7a393eae272f"
 msgid ""
@@ -97,19 +97,19 @@ msgstr ""
 
 msgctxt "body.87477ca8-2e8d-4261-b622-644d9142cb21.altText"
 msgid "Gmails use of AI to autofill email sentences"
-msgstr "O Gmail usa a IA para preencher frases de e-mail automaticamente"
+msgstr "Uso de inteligência artificial pelo Gmail para preencher frases de email automaticamente"
 
 msgctxt "body.0154ed70-71af-4ed6-8997-1a3a50687b87"
 msgid "So AI is really important, huh?"
-msgstr "Então a IA é bem importante, né?"
+msgstr "Então inteligência artificial é realmente importante, né?"
 
 msgctxt "body.0154ed70-71af-4ed6-8997-1a3a50687b87"
 msgid ""
 "Yup. And as AI becomes more prevalent, it becomes extremely important that we all understand both artificial intelligence and the impact it can have. The better we understand it, the more we’ll make"
 " sure that AI reflects the priorities of everyone, not just the select few privileged enough to create it."
 msgstr ""
-"É. E conforme a IA se populariza, torna-se cada vez mais importante que todos nós entendamos a inteligência artificial e o impacto que ela pode ter. Quanto melhor a entendermos, mais garantiremos "
-"que a IA reflita as prioridades de todos, não apenas das poucas pessoas privilegiadas o suficiente para criá-la."
+"Sim. E conforme a inteligência artificial se torna mais predominante, torna-se extremamente importante que todos entendamos a inteligência artificial e o impacto que ela pode ter. Quanto melhor a "
+"entendermos, mais garantiremos que a inteligência artificial reflita as prioridades de todos, não apenas das poucas pessoas privilegiadas o suficiente para criá-la."
 
 msgctxt "title"
 msgid "Mozilla Explains: What Is AI?"

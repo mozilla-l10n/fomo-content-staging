@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: 2022-07-04 07:05:22.852751+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: fef7d108-4f74-4b23-9b39-1b90efa79e26\n"
+"X-WagtailLocalize-TranslationID: cdabbf92-f184-4df5-982b-a378ca61c722\n"
 
 msgctxt "seo_title"
 msgid "Whose’s calling you in? Language, People and Technology"

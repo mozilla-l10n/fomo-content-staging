@@ -166,4 +166,4 @@ msgstr ""
 
 msgctxt "ai_helptext"
 msgid "Their AI technology <a id=\"a1\">connects</a> people to listeners in one-on-one chat."
-msgstr "Sua tecnologia de IA <a id=\"a1\">conecta</a> as pessoas aos ouvintes em um bate-papo individual."
+msgstr "Sua tecnologia de inteligência artificial <a id=\"a1\">conecta</a> pessoas a ouvintes em conversas individuais."

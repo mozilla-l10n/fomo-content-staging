@@ -1,0 +1,31 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-03-27 07:05:24.027810+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 0e2806d3-3db6-4bc7-8443-95c563277ea6\n"
+
+msgctxt "title"
+msgid "Change Copyright"
+msgstr "Change Copyright"
+
+msgctxt "header"
+msgid "Change Copyright"
+msgstr "Change Copyright"
+
+msgctxt "body.24f3b3c4-6ed0-41aa-9344-838ab4927f49"
+msgid "Change Copyright was Mozilla's action to promote copyright law in the EU that promoted competition and innovation online."
+msgstr "Change Copyright était une initiative de Mozilla visant à promouvoir des directives relatives au droit d’auteur dans l’Union européenne qui favorisent la concurrence et l’innovation en ligne."
+
+msgctxt "body.b69d59fc-a02c-45b8-92f4-ed1682fcd35d.altText"
+msgid "A screenshot of the retired change copyright website homepage"
+msgstr "Capture d’écran de la page d’accueil de l’ancien site web Change Copyright"
+
+msgctxt "body.8c29f994-20e8-420b-9f7c-6a2b8779fd9a.label"
+msgid "GitHub"
+msgstr "GitHub"
+
+msgctxt "body.8c29f994-20e8-420b-9f7c-6a2b8779fd9a.URL"
+msgid "https://github.com/mozilla/copyright"
+msgstr "https://github.com/mozilla/copyright"

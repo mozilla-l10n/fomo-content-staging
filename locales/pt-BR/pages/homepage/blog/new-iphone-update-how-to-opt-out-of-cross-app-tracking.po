@@ -58,7 +58,7 @@ msgstr "http://share.mozilla.org/352/217447/facebook"
 
 msgctxt "body.47fe7ef3-6e30-4cd3-9534-bde5cb0d283c.label"
 msgid "Send an email"
-msgstr "Compartilhe por e-mail"
+msgstr "Enviar por email"
 
 msgctxt "body.47fe7ef3-6e30-4cd3-9534-bde5cb0d283c.URL"
 msgid "http://share.mozilla.org/352/217331/email"

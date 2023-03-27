@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "search_description"
 msgid "This post discusses concerns around voice technology and privacy."
-msgstr ""
+msgstr "Chapisho hili linajadili masuala yanayohusu teknolojia ya sauti na faragha."
 
 msgctxt "body.75c54d0e-4fad-4e95-80fc-1fb9255cfe6c"
 msgid "Introduction"

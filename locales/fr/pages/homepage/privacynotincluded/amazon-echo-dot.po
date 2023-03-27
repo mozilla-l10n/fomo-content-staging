@@ -95,9 +95,9 @@ msgid ""
 "parties, now your data is floating around in places you might never have imagined."
 msgstr ""
 "Et puis il y a Alexa Skills, ces petites applications que vous utilisez pour interagir avec Alexa. Ces « compétences » peuvent être développées <a id=\"a1\">par à peu près n’importe qui</a> ayant "
-"cette heu… compétence. Et avec <a id=\"a2\">énormément de Skills</a>, les <a id=\"a3\">politiques de confidentialité des tiers sont trompeuses</a>, incomplètes ou tout simplement inexistantes, selon"
-" une étude récente. Lorsque vos données sont traitées par une Skill Alexa, la suppression de vos enregistrements vocaux ne supprime pas les données que le développeur de cette Skill collecte sur "
-"vous. Avec <a id=\"a4\">plus de 100 000 Skills Alexa</a>, dont beaucoup sont développées par des tiers, vos données se retrouvent un peu partout sans que vous en ayez forcément conscience."
+"cette heu… compétence. Et avec <a id=\"a2\">autant de Skills</a>, les <a id=\"a3\">politiques de confidentialité des tiers sont trompeuses</a>, incomplètes ou tout simplement inexistantes, selon une"
+" étude récente. Lorsque vos données sont traitées par une Skill Alexa, la suppression de vos enregistrements vocaux ne supprime pas les données que le développeur de cette Skill collecte sur vous. "
+"Avec <a id=\"a4\">plus de 100 000 Skills Alexa</a>, dont beaucoup sont développées par des tiers, vos données se retrouvent un peu partout sans que vous en ayez forcément conscience."
 
 msgctxt "worst_case"
 msgid ""
@@ -457,6 +457,14 @@ msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprend
 #~ msgid "<a id=\"a1\">https://www.amazon.science/tag/alexa</a>"
 #~ msgstr "<a id=\"a1\">https://www.amazon.science/tag/alexa</a>"
 
+#~ msgctxt "user_friendly_privacy_policy_helptext"
+#~ msgid "In addition to general privacy notice, Amazon provides a privacy FAQ with answers to key questions about Alexa."
+#~ msgstr "En plus de son avis général de confidentialité, Amazon fournit une FAQ sur la confidentialité avec des réponses aux questions clés sur Alexa."
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number, address"
+#~ msgstr "Nom, adresse e-mail, numéro de téléphone, adresse postale"
+
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "The hockey puck has become a globe. Amazon's Alexa-powered Echo Dot smart speaker is now round and there's even a version that can show you the time. Alexa has become the most bossed around bot on "
@@ -489,14 +497,6 @@ msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprend
 #~ "De nos jours, Alexa est intégrée partout, des enceintes connectées Echo Dot aux jouets de vos enfants en passant par vos lunettes, écouteurs et thermostats. Et bien qu’Amazon ne vende pas vos "
 #~ "informations personnelles, ils en utilisent certainement pour vous cibler et vous faire acheter toujours plus de choses. Est-ce flippant ? Eh bien, avec autant de données qui circulent dans autant "
 #~ "d’endroits (pas juste au sein d’Amazon, mais aussi avec des tiers), oui, l’enceinte connectée Echo Dot d’Amazon avec Alexa est plutôt flippante."
-
-#~ msgctxt "user_friendly_privacy_policy_helptext"
-#~ msgid "In addition to general privacy notice, Amazon provides a privacy FAQ with answers to key questions about Alexa."
-#~ msgstr "En plus de son avis général de confidentialité, Amazon fournit une FAQ sur la confidentialité avec des réponses aux questions clés sur Alexa."
-
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number, address"
-#~ msgstr "Nom, adresse e-mail, numéro de téléphone, adresse postale"
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

@@ -1,0 +1,305 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-03-27 07:05:24.630482+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 92074839-2d7d-488f-9a31-b21458680d2e\n"
+
+msgctxt "search_description"
+msgid ""
+"MozFest's Dialogues &amp; Debates will take place March 20 through March 24, covering topics around collective power of people through movements, labor unions, the Fediverse and regulating AI. "
+"Here's what you can expect."
+msgstr ""
+"Les discussions et débats auront lieu du 20 au 24 mars, et couvriront des sujets autour du pouvoir collectif des individus à travers les mouvements, les syndicats, le Fediverse et la réglementation "
+"de l’IA. Voici ce à quoi vous pouvez vous attendre."
+
+msgctxt "body.8a2c81dc-3811-4de1-a237-b5046eed4a6a"
+msgid "MozFest's signature speaker series will explore collective power as it shapes technological systems, policy, and social and political movements – both on and offline."
+msgstr ""
+"La série de conférences emblématique du MozFest abordera le pouvoir collectif et son influence sur les systèmes technologiques, les politiques et les mouvements sociaux et politiques — à la fois en "
+"ligne et hors ligne."
+
+msgctxt "body.8a2c81dc-3811-4de1-a237-b5046eed4a6a"
+msgid "Dialogues &amp; Debates is MozFest's speakers series — a place for fiery conversations and compelling panels."
+msgstr "Débats et discussions est la série de conférences du MozFest — un espace pour des conversations enflammées et des panels captivants."
+
+msgctxt "body.8a2c81dc-3811-4de1-a237-b5046eed4a6a"
+msgid ""
+"Between March 20 and March 24, we'll broadcast deep discussions about people behind movements; building the Fediverse; collective power from civil rights to labor unions; the race to regulate AI; "
+"and much more. You can watch the Dialogues and Debates panels on the <a id=\"a1\">Mozilla Festival Plaza</a>, YouTube, LinkedIn or Twitter and join the conversation by asking questions using "
+"#DialoguesAndDebates."
+msgstr ""
+"Du 20 au 24 mars, nous diffuserons des discussions approfondies sur des personnes à l’origine de mouvements ; la conception du Fediverse ; le pouvoir collectif des droits civiques aux syndicats ; la"
+" course à la réglementation de l’IA ; et beaucoup plus. Vous pouvez regarder les panels Discussions et débats sur la <a id=\"a1\">Plaza du Mozilla Festival</a>, YouTube, LinkedIn ou Twitter et "
+"rejoindre la conversation en posant des questions en utilisant le hashtag #DialoguesAndDebates."
+
+msgctxt "body.8a2c81dc-3811-4de1-a237-b5046eed4a6a"
+msgid "Below, learn more about our Dialogues &amp; Debates speakers and the schedule:"
+msgstr "Découvrez ci-dessous les intervenants et intervenantes et le programme des Discussions et débats :"
+
+msgctxt "body.4897d51b-927b-4629-bf21-8f7d68dcbf2f.label"
+msgid "Secure your MozFest ticket"
+msgstr "Réserver votre billet pour le MozFest"
+
+msgctxt "body.4897d51b-927b-4629-bf21-8f7d68dcbf2f.URL"
+msgid "https://www.mozillafestival.org/tickets/#/"
+msgstr "https://www.mozillafestival.org/tickets/#/"
+
+msgctxt "body.00e6181a-9bd5-48e9-932c-250f0d309f6d"
+msgid "People Make Movements | Monday, March 20 @ 12pm ET / 5pm CET"
+msgstr "People Make Movements | Lundi 20 mars à 12h ET / 17h CET"
+
+msgctxt "body.00e6181a-9bd5-48e9-932c-250f0d309f6d"
+msgid ""
+"In the work towards harnessing collective power for advancing positive human and digital rights progress, how do we center the people whose lives are at the crux of the issues we are fighting for? "
+"What is activism in the context of dissent? When activist art reflects the pain of people, what happens if it is commodified? What is the role of intimacy in the work of building movements? And what"
+" is the potential impact of social platforms on the success of movements, and the lives of those who are prominent online? <i>A panel featuring:</i>"
+msgstr ""
+"Dans le cadre des efforts visant à mobiliser le pouvoir collectif pour faire avancer les progrès positifs en matière de droits humains et de droits numériques, comment centrer les personnes dont la "
+"vie est au cœur des questions pour lesquelles nous nous battons ? Qu’est-ce que le militantisme dans le contexte de la contestation ? Quand l’art militant reflète la douleur des gens, que se passe-"
+"t-il si il est transformé en marchandise ? Quel est le rôle de l’intimité dans le travail de création des mouvements ? Et quel est l’impact potentiel des plateformes sociales sur le succès des "
+"mouvements, et la vie de celles et ceux qui occupent une place importante en ligne ? <i>Un panel qui inclut :</i>"
+
+msgctxt "body.3d6e23b6-eeb5-47c1-b16b-3c5e0c4be08e.altText"
+msgid "Valeriia Voshchevska"
+msgstr "Valeriia Voshchevska"
+
+msgctxt "body.3d6e23b6-eeb5-47c1-b16b-3c5e0c4be08e.text"
+msgid "<a id=\"a1\"><b>Valeriia Voshchevska</b></a>, Ukrainian human rights activist and digital strategist"
+msgstr "<a id=\"a1\"><b>Valeriia Voshchevska</b></a>, militante ukrainienne pour les droits humains et stratège numérique"
+
+msgctxt "body.c14285d8-b6fd-40c4-a57d-4609904214a8.altText"
+msgid "Tara Aghdashloo"
+msgstr "Tara Aghdashloo"
+
+msgctxt "body.c14285d8-b6fd-40c4-a57d-4609904214a8.text"
+msgid "<a id=\"a1\"><b>Tara Aghdashloo</b></a>, Iranian writer, filmmaker, advocate for women, diversity and MENA representation in film, and a human rights activist"
+msgstr "<a id=\"a1\"><b>Tara Aghdashloo</b></a>, écrivaine iranienne, cinéaste, défenseure des femmes, de la diversité et de la représentation MENA dans le cinéma, et militante pour les droits humains"
+
+msgctxt "body.f015527e-1740-4ee7-988a-d3e41770d4b6.altText"
+msgid "Alia Malek"
+msgstr "Alia Malek"
+
+msgctxt "body.f015527e-1740-4ee7-988a-d3e41770d4b6.text"
+msgid "And moderator <a id=\"a1\"><b>Alia Malek</b></a>, Journalist, former civil rights lawyer, and author of several books including “The Home That Was Our Country: A Memoir of Syria”."
+msgstr "Et la modératrice <a id=\"a1\"><b>Alia Malek</b></a>, journaliste, ancienne avocate des droits civiques et autrice de plusieurs livres dont « The Home That Was Our Country: A Memoir of Syria »."
+
+msgctxt "body.066e55b2-a5f0-4d44-a7b5-abbb5852e459"
+msgid "Mozilla 25: Funding Ethical Tech &amp; The Next Mozilla Chapter | Tuesday, March 21 @ 11am ET / 4pm CET"
+msgstr "Mozilla 25: Funding Ethical Tech &amp; The Next Mozilla Chapter | Mardi 21 mars à 11h ET / 16h CET"
+
+msgctxt "body.066e55b2-a5f0-4d44-a7b5-abbb5852e459"
+msgid ""
+"Mozilla is turning 25 this March. In the past year, it has also grown to include Mozilla Ventures and Mozilla.ai. These new entities strengthen the Mozilla manifesto by responding to the current "
+"moment and the evolution in technology. What is the future of Mozilla, ethical tech, and open-source AI tools and practices? A panel featuring:"
+msgstr ""
+"Mozilla fête ses 25 ans en mars. Au cours des 12 derniers mois, Mozilla a également grandi et accueilli Mozilla Ventures et Mozilla.ai. Ces nouvelles entités renforcent le manifeste de Mozilla en "
+"répondant à la réalité actuelle et à l’évolution de la technologie. Quel est l’avenir de Mozilla, de la technologie éthique et des outils et pratiques en matière d’IA open source ? Le panel inclut :"
+
+msgctxt "body.e1b94bcc-1d10-4110-9b8e-7a8cb01139ac.altText"
+msgid "Mitchell Baker"
+msgstr "Mitchell Baker"
+
+msgctxt "body.e1b94bcc-1d10-4110-9b8e-7a8cb01139ac.text"
+msgid "<a id=\"a1\"><b>Mitchell Baker</b></a>, CEO of Mozilla Corporation"
+msgstr "<a id=\"a1\"><b>Mitchell Baker</b></a>, PDG de Mozilla Corporation"
+
+msgctxt "body.4395f7a6-57d5-4a6b-aa16-3d2b3f1f48fe.altText"
+msgid "J. Bob Alotta"
+msgstr "J. Bob Alotta"
+
+msgctxt "body.4395f7a6-57d5-4a6b-aa16-3d2b3f1f48fe.text"
+msgid "<a id=\"a1\"><b>J. Bob Alotta</b></a>, VP of Global Programs, Mozilla"
+msgstr "<a id=\"a1\"><b>J. Bob Alotta</b></a>, vice-présidente des programmes internationaux de Mozilla"
+
+msgctxt "body.9ad4a44f-a081-4c2c-b39c-3f2295ccfd19.altText"
+msgid "Pelonomi Moiloa"
+msgstr "Pelonomi Moiloa"
+
+msgctxt "body.9ad4a44f-a081-4c2c-b39c-3f2295ccfd19.text"
+msgid "<a id=\"a1\"><b>Pelonomi Moiloa</b></a><b>,</b> CEO, Lelapa.AI"
+msgstr "<a id=\"a1\"><b>Pelonomi Moiloa</b></a><b>,</b> PDG de Lelapa.AI"
+
+msgctxt "body.bc15d187-be06-4a63-9215-92439c361da3.altText"
+msgid "Imo Udom"
+msgstr "Imo Udom"
+
+msgctxt "body.bc15d187-be06-4a63-9215-92439c361da3.text"
+msgid "<a id=\"a1\"><b>Imo Udom</b></a>, Senior Vice President, Innovation Ecosystems, Mozilla Corporation"
+msgstr "<a id=\"a1\"><b>Imo Udom</b></a>, vice-président principal, Ecosystèmes d’innovation, Mozilla Corporation"
+
+msgctxt "body.b78cf4d7-ebab-4de7-991b-4db5c2fc7618.altText"
+msgid "Mohamed Nanabhay"
+msgstr "Mohamed Nanabhay"
+
+msgctxt "body.b78cf4d7-ebab-4de7-991b-4db5c2fc7618.text"
+msgid "<a id=\"a1\"><b>Mohamed Nanabhay</b></a>, Managing Partner, Mozilla Ventures"
+msgstr "<a id=\"a1\"><b>Mohamed Nanabhay</b></a>, directeur associé de Mozilla Ventures"
+
+msgctxt "body.1e4b70bc-0b07-483b-ad19-d966f72dcb13.altText"
+msgid "Carys Afoko"
+msgstr "Carys Afoko"
+
+msgctxt "body.1e4b70bc-0b07-483b-ad19-d966f72dcb13.text"
+msgid "And moderator <a id=\"a1\"><b>Carys Afoko</b></a>, Senior Director, Communications and External Affairs, Mozilla Foundation"
+msgstr "Et la modératrice <a id=\"a1\"><b>Carys Afoko</b></a>, directrice principale de la communication et des affaires externes de la Fondation Mozilla"
+
+msgctxt "body.c552e1d8-8cf4-4a66-bc08-285c12a0e2ab"
+msgid "Making the Fediverse | Wednesday, March 22 @ 11am ET / 5pm CET"
+msgstr "Making the Fediverse | Mercredi 22 mars à 11h ET / 17h CET"
+
+msgctxt "body.c552e1d8-8cf4-4a66-bc08-285c12a0e2ab"
+msgid ""
+"Mozilla is joining the Fediverse in 2023 to co-create its future. What are its greatest opportunities and limitations? How can we scale methodology and not solutions? What is the public discourse "
+"square of the future? Who is building it? <i>A panel featuring:</i>"
+msgstr ""
+"Mozilla rejoint le Fediverse en 2023 pour co-créer son avenir. Quelles sont ses plus grandes possibilités et limites ? Comment pouvons-nous adapter la méthodologie et non les solutions ? Quelle sera"
+" la place du débat public ? Qui le créé ? <i>Le panel inclut :</i>"
+
+msgctxt "body.4e5ab3f0-f036-443c-96ba-22c0565b2a68.altText"
+msgid "Steve Teixeira"
+msgstr "Steve Teixeira"
+
+msgctxt "body.4e5ab3f0-f036-443c-96ba-22c0565b2a68.text"
+msgid "<a id=\"a1\"><b>Steve Teixeira</b></a>, Chief Product Officer at Mozilla Corporation"
+msgstr "<a id=\"a1\"><b>Steve Teixeira</b></a>, chef de produit chez Mozilla Corporation"
+
+msgctxt "body.12fbfbab-01cb-45fb-9988-423ce92105d3.altText"
+msgid "Anouk Ruhaak"
+msgstr "Anouk Ruhaak"
+
+msgctxt "body.12fbfbab-01cb-45fb-9988-423ce92105d3.text"
+msgid "<a id=\"a1\"><b>Anouk Ruhaak</b></a>, Digital Governance Researcher and Designer"
+msgstr "<a id=\"a1\"><b>Anouk Ruhaak</b></a>, chercheuse et designer en gouvernance numérique"
+
+msgctxt "body.19b79818-e658-43d6-84a4-4f0158af2a60.altText"
+msgid "Tarunima Prabhakar"
+msgstr "Tarunima Prabhakar"
+
+msgctxt "body.19b79818-e658-43d6-84a4-4f0158af2a60.text"
+msgid "<b>Tarunima Prabhakar</b>, Researcher and Co-founder of <a id=\"a1\">Tattle</a>"
+msgstr "<b>Tarunima Prabhakar</b>, chercheuse et cofondatrice de <a id=\"a1\">Tattle</a>"
+
+msgctxt "body.0cb01f28-ca64-459d-a063-df33268af17a.altText"
+msgid "Darius Kazemi"
+msgstr "Darius Kazemi"
+
+msgctxt "body.0cb01f28-ca64-459d-a063-df33268af17a.text"
+msgid "<b>Darius Kazemi</b>, Senior Software Engineer at Meedan and works on federated, decentralized social media"
+msgstr "<b>Darius Kazemi</b>, ingénieur logiciel senior chez Meedan et travaille sur les réseaux sociaux fédérés et décentralisés"
+
+msgctxt "body.79d0aed4-7285-457c-bb0c-55e0b7ba1687.altText"
+msgid "An Xiao Mina"
+msgstr "An Xiao Mina"
+
+msgctxt "body.79d0aed4-7285-457c-bb0c-55e0b7ba1687.text"
+msgid "And moderator <b>An Xiao Mina</b>, Senior Civic Media Fellow at the USC Annenberg School for Journalism and Communication"
+msgstr "Et la modératrice <b>An Xiao Mina</b>, chercheuse en médias civiques à l’USC Annenberg School for Journalism and Communication"
+
+msgctxt "body.0ee7fb50-b204-43aa-940f-4a3e48604939"
+msgid "A Conversation with Angela Davis and Christian Smalls<b> | Thursday, March 23 @ 12pm ET / 5pm CET</b>"
+msgstr "A Conversation with Angela Davis and Christian Smalls<b> | Jeudi 23 mars à 12h ET / 17h CET</b>"
+
+msgctxt "body.0ee7fb50-b204-43aa-940f-4a3e48604939"
+msgid ""
+"A panel discussion featuring two of today's leading voices in activism and social justice. Angela Davis, a renowned scholar, author, and advocate for human rights, and Christian Smalls, a labor "
+"rights activist and founder of the Stock-Shop Alliance, will share their insights and experiences on building and mobilizing grassroots movements for change. <i>A conversation featuring:</i>"
+msgstr ""
+"Une table ronde à laquelle participeront deux des principales voix actuelles en matière de militantisme et de justice sociale. Angela Davis, universitaire renommée, autrice et défenseure des droits "
+"humains, et Christian Smalls, militant des droits des travailleurs et fondateur de la Stock-Shop Alliance, partageront leurs idées et leurs expériences sur la création et la mobilisation de "
+"mouvements populaires pour le changement. <i>Une conversation avec :</i>"
+
+msgctxt "body.7ab4f015-002f-4da8-963b-f38c2bf7fd73.altText"
+msgid "Angela Davis"
+msgstr "Angela Davis"
+
+msgctxt "body.7ab4f015-002f-4da8-963b-f38c2bf7fd73.text"
+msgid "<b>Angela Davis</b>, Human rights activist, professor, author"
+msgstr "<b>Angela Davis</b>, militante pour les droits humains, professeure, autrice"
+
+msgctxt "body.cc2d7815-bf5b-4a16-bc89-f4cb45a6705b.altText"
+msgid "Christian Smalls"
+msgstr "Christian Smalls"
+
+msgctxt "body.cc2d7815-bf5b-4a16-bc89-f4cb45a6705b.text"
+msgid "<a id=\"a1\"><b>Christian Smalls</b></a>, founder and president of the Amazon Labor Union, an independent, democratic, worker-led labor union at Amazon in Staten Island"
+msgstr "<a id=\"a1\"><b>Christian Smalls</b></a>, fondateur et président de l’Amazon Labour Union, un syndicat indépendant, démocratique et dirigé par les travailleurs d’Amazon à Staten Island"
+
+msgctxt "body.aae567a7-ea9e-4de3-8dcb-e7260fe68a04.altText"
+msgid "J. Bob Alotta"
+msgstr "J. Bob Alotta"
+
+msgctxt "body.aae567a7-ea9e-4de3-8dcb-e7260fe68a04.text"
+msgid "And moderator <a id=\"a1\"><b>J. Bob Alotta</b></a>, VP of Global Programs, Mozilla Foundation"
+msgstr "Et la modératrice <a id=\"a1\"><b>J. Bob Alotta</b></a>, vice-présidente des programmes internationaux de la Fondation Mozilla"
+
+msgctxt "body.2dcc1a70-3bc9-4094-acdf-05d7a6f2265d"
+msgid "<b>The Race To Regulate: How Will This Impact the World?</b> | <b>Friday, March 24 @ 11am ET / 5pm CET</b>"
+msgstr "<b>The Race To Regulate: How Will This Impact the World?</b> | <b>Vendredi 24 mars à 11h ET / 17h CET</b>"
+
+msgctxt "body.2dcc1a70-3bc9-4094-acdf-05d7a6f2265d"
+msgid ""
+"Who will set the standard in this geopolitical race as Europe and the US race towards big tech regulation – and is this the new frontier of digital colonization? What is the interplay between "
+"governments and platforms? How will regulation standards be adopted by and exported to the global majority? Where is the consumer in these conversations? <i>A panel featuring:</i>"
+msgstr ""
+"Qui établira la norme dans cette course géopolitique alors que l’Europe et les États-Unis se précipitent vers la réglementation des géants de la tech — et est-ce la nouvelle frontière de la "
+"colonisation numérique ? Quelle est l’interaction entre les gouvernements et les plateformes ? Comment les réglementations seront-elles adoptées et exportées vers la majorité mondiale ? Quelle est "
+"la place du consommateur dans ces conversations ? <i>Un panel qui inclut :</i>"
+
+msgctxt "body.ee560b84-eb6b-412a-a533-5e82eaaa4db6.altText"
+msgid "Aisha Kadiri"
+msgstr "Aisha Kadiri"
+
+msgctxt "body.ee560b84-eb6b-412a-a533-5e82eaaa4db6.text"
+msgid "<a id=\"a1\"><b>Aisha Kadiri,</b></a> PhD Candidate at the École Normale Supérieure in Paris (PSL University) and the Chair of Geopolitics of Risk"
+msgstr "<a id=\"a1\"><b>Aisha Kadiri,</b></a> doctorante à l’École normale supérieure de Paris (université PSL) et titulaire de la chaire Géopolitique du risque"
+
+msgctxt "body.8e71c328-aa39-4791-ac12-43da74b3e38d.altText"
+msgid "Nikhil Pahwa"
+msgstr "Nikhil Pahwa"
+
+msgctxt "body.8e71c328-aa39-4791-ac12-43da74b3e38d.text"
+msgid "<a id=\"a1\"><b>Nikhil Pahwa</b></a>, Entrepreneur, journalist, activist and founder &amp; editor of MediaNama"
+msgstr "<a id=\"a1\"><b>Nikhil Pahwa</b></a>, entrepreneur, journaliste, militant, et fondateur et rédacteur en chef de MediaNama"
+
+msgctxt "body.ef4a18a6-ba20-4c6a-b080-b7f09e53e31a.altText"
+msgid "Marietje Schaake"
+msgstr "Marietje Schaake"
+
+msgctxt "body.ef4a18a6-ba20-4c6a-b080-b7f09e53e31a.text"
+msgid ""
+"<a id=\"a1\"><b>Marietje Schaake</b></a>, International policy director at Stanford University Cyber Policy Center and international policy fellow at Stanford’s Institute for Human-Centered "
+"Artificial Intelligence"
+msgstr ""
+"<a id=\"a1\"><b>Marietje Schaake</b></a>, directrice des politiques internationales au Stanford University Cyber Policy Center et chargée de recherche en politiques internationales à l’Institut "
+"d’Intelligence Artificielle centrée sur l’Humain de Stanford"
+
+msgctxt "body.2507f3e8-f747-409f-aa9c-8ee16ee8bfcb.altText"
+msgid "Kush Amlani"
+msgstr "Kush Amlani"
+
+msgctxt "body.2507f3e8-f747-409f-aa9c-8ee16ee8bfcb.text"
+msgid "And moderator <b>Kush Amlani</b>, Global Competition and Regulatory Counsel at Mozilla Corporation"
+msgstr "Et le modérateur <b>Kush Amlani</b>, Conseil de la concurrence internationale et de la réglementation chez Mozilla Corporation"
+
+msgctxt "title"
+msgid "Announcing the MozFest 2023 Dialogues &amp; Debates"
+msgstr "Annonce des discussions et débats du MozFest 2023"
+
+#~ msgctxt "body.066e55b2-a5f0-4d44-a7b5-abbb5852e459"
+#~ msgid "Mozilla 25 | Tuesday, March 21 @ 11am ET / 4pm CET"
+#~ msgstr "Mozilla 25 | Mardi 21 mars à 11h ET / 16h CET"
+
+#~ msgctxt "body.12fbfbab-01cb-45fb-9988-423ce92105d3.text"
+#~ msgid "<a id=\"a1\"><b>Anouk Ruhaak</b></a>, Head of Governance, apiary"
+#~ msgstr "<a id=\"a1\"><b>Anouk Ruhaak</b></a>, responsable de la gouvernance, apiary"
+
+#~ msgctxt "body.0ee7fb50-b204-43aa-940f-4a3e48604939"
+#~ msgid ""
+#~ "inspiring panel discussion featuring two of today's leading voices in activism and social justice. Angela Davis, a renowned scholar, author, and advocate for human rights, and Christian Smalls, a "
+#~ "labor rights activist and founder of the Stock-Shop Alliance, will share their insights and experiences on building and mobilizing grassroots movements for change. <i>A conversation featuring:</i>"
+#~ msgstr ""
+#~ "Une table ronde inspirante à laquelle participeront deux des principales voix actuelles en matière de militantisme et de justice sociale. Angela Davis, universitaire renommée, autrice et défenseure "
+#~ "des droits humains, et Christian Smalls, militant des droits des travailleurs et fondateur de la Stock-Shop Alliance, partageront leurs idées et leurs expériences sur la création et la mobilisation "
+#~ "de mouvements populaires pour le changement. <i>Une conversation avec :</i>"

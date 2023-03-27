@@ -392,10 +392,6 @@ msgctxt "ai_what_can_it_do"
 msgid "Google uses natural language processing to understand you and to generate answers to your requests."
 msgstr "Google utilise le traitement du langage naturel pour vous comprendre et générer des réponses à vos demandes."
 
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid "You can review and delete your data via the Google Privacy Dashboard."
-#~ msgstr "Vous pouvez consulter et supprimer vos données avec le tableau de bord de confidentialité Google."
-
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "\"Hey Google!\" That will become your new favorite saying if you go the route of Chromecast, now with Google TV. This little dongle lets you stream what you're watching or listening to on your phone"
@@ -435,6 +431,10 @@ msgstr "Google utilise le traitement du langage naturel pour vous comprendre et 
 #~ msgstr ""
 #~ "Google dispose d’un programme de récompense en matière de sécurité, ce qui signifie que toute personne qui découvre une faille de sécurité et la signale de façon responsable peut être payée. "
 #~ "https://www.google.com/about/appsecurity/programs-home/"
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "You can review and delete your data via the Google Privacy Dashboard."
+#~ msgstr "Vous pouvez consulter et supprimer vos données avec le tableau de bord de confidentialité Google."
 
 #~ msgctxt "track_record_details"
 #~ msgid ""

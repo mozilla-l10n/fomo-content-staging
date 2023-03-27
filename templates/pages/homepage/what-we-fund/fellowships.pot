@@ -51,46 +51,8 @@ msgid ""
 " and challenges facing a healthy internet."
 msgstr ""
 
-msgctxt "body.9b5a2a4f-2cb1-428b-8b8a-a8d25bf4e261.altText"
-msgid "Britone"
-msgstr ""
-
-msgctxt "body.9b5a2a4f-2cb1-428b-8b8a-a8d25bf4e261.text"
-msgid "Common Voice"
-msgstr ""
-
-msgctxt "body.9b5a2a4f-2cb1-428b-8b8a-a8d25bf4e261.text"
-msgid ""
-"These experts in deep learning-based voice technologies are fostering open data collection efforts and providing technical advising to support speech recognition and speech synthesis for local "
-"languages in East Africa. These Fellows are part of Mozilla’s <a id=\"a1\">Common Voice project</a>."
-msgstr ""
-
-msgctxt "body.a8c6afc4-6374-4c66-a24f-e027557a3527.altText"
-msgid "Anouk"
-msgstr ""
-
-msgctxt "body.a8c6afc4-6374-4c66-a24f-e027557a3527.text"
-msgid "Data Futures Lab"
-msgstr ""
-
-msgctxt "body.a8c6afc4-6374-4c66-a24f-e027557a3527.text"
-msgid ""
-"As part of Mozilla’s <a id=\"a1\">Data Futures Lab</a>, these Fellows are instigating new approaches to data stewardship that give greater control and agency to people, disrupt current data "
-"economies, and shift the dynamics of data and power."
-msgstr ""
-
-msgctxt "body.6848d108-ffa2-4a15-b324-0ab06a0a8f79.altText"
-msgid "Namrata"
-msgstr ""
-
-msgctxt "body.6848d108-ffa2-4a15-b324-0ab06a0a8f79.text"
-msgid "OpenDOTT"
-msgstr ""
-
-msgctxt "body.6848d108-ffa2-4a15-b324-0ab06a0a8f79.text"
-msgid ""
-"These Fellows are early stage researchers exploring how to build a more open, secure, and trustworthy Internet of Things. They are part of a partnered <a id=\"a1\">PhD program</a> at Northumbria "
-"University."
+msgctxt "body.52a3cc0d-f3cd-4a0a-abcf-0305846ce99e"
+msgid "Fellows hosted with civil society organizations"
 msgstr ""
 
 msgctxt "body.3856bfd0-60a3-45ba-af0c-772356ec336a.altText"
@@ -107,6 +69,78 @@ msgid ""
 "civil society organizations around the world, lending their technical expertise."
 msgstr ""
 
+msgctxt "body.10c72fbe-427e-474a-adef-2b3dad1a6c90.altText"
+msgid "Brian Obilo"
+msgstr ""
+
+msgctxt "body.10c72fbe-427e-474a-adef-2b3dad1a6c90.text"
+msgid "Tech + Society"
+msgstr ""
+
+msgctxt "body.10c72fbe-427e-474a-adef-2b3dad1a6c90.text"
+msgid ""
+"These Fellows are <a id=\"a1\">building capacity</a> at the intersection of technology and society. They are embedded with local organizations to create a ‘third space’ where key civil society "
+"organizations and tech-focused individuals address issues at the intersection of technology and society."
+msgstr ""
+
+msgctxt "body.10c72fbe-427e-474a-adef-2b3dad1a6c90.text"
+msgid "<b> </b><a id=\"a1\">Meet the Fellows</a>"
+msgstr ""
+
+msgctxt "body.55f5776f-e742-4eb1-a0c4-76a21b738a56"
+msgid "Fellows embedded with Mozilla"
+msgstr ""
+
+msgctxt "body.9b5a2a4f-2cb1-428b-8b8a-a8d25bf4e261.altText"
+msgid "Britone"
+msgstr ""
+
+msgctxt "body.9b5a2a4f-2cb1-428b-8b8a-a8d25bf4e261.text"
+msgid "Common Voice"
+msgstr ""
+
+msgctxt "body.9b5a2a4f-2cb1-428b-8b8a-a8d25bf4e261.text"
+msgid ""
+"These experts in deep learning-based voice technologies are fostering open data collection efforts and providing technical advising to support speech recognition and speech synthesis for local "
+"languages in East Africa. These Fellows are part of Mozilla’s <a id=\"a1\">Common Voice project</a>."
+msgstr ""
+
+msgctxt "body.9b5a2a4f-2cb1-428b-8b8a-a8d25bf4e261.text"
+msgid "<a id=\"a1\">Meet the Fellows</a>"
+msgstr ""
+
+msgctxt "body.df597a17-f684-4287-a207-4eaf8440175b.altText"
+msgid "Kathy Pham"
+msgstr ""
+
+msgctxt "body.df597a17-f684-4287-a207-4eaf8440175b.text"
+msgid "Responsible Computing"
+msgstr ""
+
+msgctxt "body.df597a17-f684-4287-a207-4eaf8440175b.text"
+msgid ""
+"As part of Mozilla’s <a id=\"a1\">Responsible Computing Challenge</a>, these fellows support promising approaches to integrating ethics into computer science education and empowering a new wave of "
+"graduating technologists to bring holistic thinking to the design of tech products and drive a culture shift in the tech industry."
+msgstr ""
+
+msgctxt "body.4e28cf6e-2a42-4b77-b43d-8e317d40927a.altText"
+msgid "tech policy fellows"
+msgstr ""
+
+msgctxt "body.4e28cf6e-2a42-4b77-b43d-8e317d40927a.text"
+msgid "Senior Fellows: Tech policy"
+msgstr ""
+
+msgctxt "body.4e28cf6e-2a42-4b77-b43d-8e317d40927a.text"
+msgid ""
+"These Senior Fellows are <a id=\"a1\">policy experts</a> who are thinking deeply about innovative but specific policy solutions needed for making the AI ecosystem more trustworthy and who are "
+"looking at these policy issues from an intersectional lens with other movement areas."
+msgstr ""
+
+msgctxt "body.4e28cf6e-2a42-4b77-b43d-8e317d40927a.text"
+msgid "<a id=\"a1\">Meet the Fellows </a>"
+msgstr ""
+
 msgctxt "body.3a8b9f3b-70a9-47cd-ba39-cd36a2b38659.altText"
 msgid "Deborah Raji"
 msgstr ""
@@ -121,60 +155,8 @@ msgid ""
 "issues around bias, poor transparency, and data governance that currently hinder that reality."
 msgstr ""
 
-msgctxt "body.df597a17-f684-4287-a207-4eaf8440175b.altText"
-msgid "Kathy Pham"
-msgstr ""
-
-msgctxt "body.df597a17-f684-4287-a207-4eaf8440175b.text"
-msgid "Senior Fellows: Responsible Computing"
-msgstr ""
-
-msgctxt "body.df597a17-f684-4287-a207-4eaf8440175b.text"
-msgid ""
-"As part of Mozilla’s <a id=\"a1\">Responsible Computer Science Challenge</a>, these fellows support promising approaches to integrating ethics into computer science education and empowering a new "
-"wave of graduating technologists to bring holistic thinking to the design of tech products and drive a culture shift in the tech industry."
-msgstr ""
-
-msgctxt "body.10c72fbe-427e-474a-adef-2b3dad1a6c90.altText"
-msgid "Brian Obilo"
-msgstr ""
-
-msgctxt "body.10c72fbe-427e-474a-adef-2b3dad1a6c90.text"
-msgid "Tech + Society"
-msgstr ""
-
-msgctxt "body.10c72fbe-427e-474a-adef-2b3dad1a6c90.text"
-msgid ""
-"These Fellows are <a id=\"a1\">building capacity</a> at the intersection of technology and society. They are embedded with local organizations to create a ‘third space’ where key civil society "
-"organizations and tech-focused individuals address issues at the intersection of technology and society. <a id=\"a2\"><b>Meet Mozilla's Tech + Society Fellows</b></a>."
-msgstr ""
-
-msgctxt "body.4e28cf6e-2a42-4b77-b43d-8e317d40927a.altText"
-msgid "tech policy fellows"
-msgstr ""
-
-msgctxt "body.4e28cf6e-2a42-4b77-b43d-8e317d40927a.text"
-msgid "Tech policy"
-msgstr ""
-
-msgctxt "body.4e28cf6e-2a42-4b77-b43d-8e317d40927a.text"
-msgid ""
-"Fellows examine the <a id=\"a1\">interplay of technology and public policy</a>, and craft legal, academic, and governmental solutions. These policy professionals conduct research, debate issues, and"
-" strive to reimagine policy solutions that support a more open, secure, and inclusive internet around the world."
-msgstr ""
-
-msgctxt "body.9a148e3e-0df0-4fb5-919f-25bb9a4422d2.altText"
-msgid "case"
-msgstr ""
-
-msgctxt "body.9a148e3e-0df0-4fb5-919f-25bb9a4422d2.text"
-msgid "Web Monetization"
-msgstr ""
-
-msgctxt "body.9a148e3e-0df0-4fb5-919f-25bb9a4422d2.text"
-msgid ""
-"These fellows are <a id=\"a1\">reimagining new models</a> and approaches for sustaining web content that is not reliant on advertising. They're exploring alternative models of digital and data "
-"services that more evenly distribute equity and prosperity, and that don’t rely on the exploitation of people’s data."
+msgctxt "body.3a8b9f3b-70a9-47cd-ba39-cd36a2b38659.text"
+msgid "<a id=\"a1\">Meet the fellows </a>"
 msgstr ""
 
 msgctxt "body.400a0036-ceb7-4c3a-a90c-b126bbc207f8"

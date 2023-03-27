@@ -18,11 +18,11 @@ msgid "Homepage"
 msgstr ""
 
 msgctxt "hero_headline"
-msgid "Google Play Store Labels Are Misleading"
+msgid "Mozilla.ai — Investing In Trustworthy AI"
 msgstr ""
 
 msgctxt "hero_button_text"
-msgid "Read The Research"
+msgid "Learn More"
 msgstr ""
 
 msgctxt "spotlight_headline"

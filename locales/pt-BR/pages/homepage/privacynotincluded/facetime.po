@@ -107,4 +107,4 @@ msgstr ""
 
 msgctxt "ai_helptext"
 msgid "FaceTime uses AI for its 'Eye contact' feature."
-msgstr "O FaceTime usa IA para seu recurso \"Contato visual\"."
+msgstr "O FaceTime usa inteligência artificial em seu recurso 'Contato visual'."

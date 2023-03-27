@@ -120,4 +120,6 @@ msgstr ""
 
 msgctxt "ai_helptext"
 msgid "Discord allows AI chatbots. Discord recently bought Sentropy, a start-up that makes AI-powered software to detect and remove online harassment."
-msgstr "O Discord permite robôs de bate-papo de IA. O Discord comprou recentemente a Sentropy, uma startup que faz softwares baseados em IA para detectar e remover assédio online."
+msgstr ""
+"O Discord permite inteligência artificial de robôs de conversa. O Discord comprou recentemente a Sentropy, uma startup que produz softwares baseados em inteligência artificial para detectar e "
+"remover assédio online."

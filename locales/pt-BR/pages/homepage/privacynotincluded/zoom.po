@@ -135,4 +135,4 @@ msgstr ""
 
 msgctxt "ai_helptext"
 msgid "Zoom uses AI to auto-generate transcripts."
-msgstr "O Zoom usa IA para gerar transcrições automaticamente."
+msgstr "O Zoom usa inteligência artificial para gerar transcrições automaticamente."
