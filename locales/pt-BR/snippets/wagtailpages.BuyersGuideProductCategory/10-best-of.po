@@ -7,9 +7,13 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 336c46a0-1d35-474f-8d94-ca0b231808da\n"
 
 msgctxt "name"
-msgid "Best Of"
-msgstr "Melhor de"
+msgid "Best of"
+msgstr ""
 
 msgctxt "description"
 msgid "*Privacy Not Included Best Of Category"
 msgstr "Melhores da categoria em *Privacidade não incluída"
+
+#~ msgctxt "name"
+#~ msgid "Best Of"
+#~ msgstr "Melhor de"
