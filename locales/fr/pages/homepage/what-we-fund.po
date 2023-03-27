@@ -12,7 +12,7 @@ msgstr "Financement et ressources pour des personnes exceptionnelles et des idé
 
 msgctxt "header"
 msgid "Test header"
-msgstr ""
+msgstr "Traduction test "
 
 msgctxt "intro"
 msgid "Funding and resources for a more human-centered internet."
