@@ -76,7 +76,7 @@ msgid "Parents have a decent degree of control within the settings. You can:"
 msgstr ""
 
 msgctxt "body.37fab7f0-5439-4e36-b067-5953a533b0e7"
-msgid "Set a playtime limit"
+msgid "Set a playtime limit."
 msgstr ""
 
 msgctxt "body.37fab7f0-5439-4e36-b067-5953a533b0e7"

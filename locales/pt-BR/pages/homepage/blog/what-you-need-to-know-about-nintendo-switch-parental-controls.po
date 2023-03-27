@@ -92,8 +92,8 @@ msgid "Parents have a decent degree of control within the settings. You can:"
 msgstr "Os pais têm um nível razoável de controle nas configurações. Você pode"
 
 msgctxt "body.37fab7f0-5439-4e36-b067-5953a533b0e7"
-msgid "Set a playtime limit"
-msgstr "Definir limite para o tempo de jogo"
+msgid "Set a playtime limit."
+msgstr ""
 
 msgctxt "body.37fab7f0-5439-4e36-b067-5953a533b0e7"
 msgid "Restrict access to sharing on social media"
@@ -223,3 +223,7 @@ msgstr ""
 msgctxt "title"
 msgid "What You Need To Know About Nintendo Switch Parental Controls"
 msgstr "Nintendo Switch: mantenha seus filhos seguros com os controles dos pais"
+
+#~ msgctxt "body.37fab7f0-5439-4e36-b067-5953a533b0e7"
+#~ msgid "Set a playtime limit"
+#~ msgstr "Definir limite para o tempo de jogo"

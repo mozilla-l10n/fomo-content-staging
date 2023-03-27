@@ -10,6 +10,10 @@ msgctxt "search_description"
 msgid "Funding and resources for bright people and bold ideas working to shape a more human-centered internet."
 msgstr "Zasoby dla śmiałych ludzi i finansowanie odważnych pomysłów, aby Internet był bardziej ludzki."
 
+msgctxt "header"
+msgid "Test header"
+msgstr ""
+
 msgctxt "intro"
 msgid "Funding and resources for a more human-centered internet."
 msgstr "Finansowanie i zasoby, dzięki którym Internet jest bardziej dla ludzi."
