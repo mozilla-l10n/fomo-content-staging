@@ -8,8 +8,8 @@ msgstr ""
 
 msgctxt "name"
 msgid "Reproductive Health"
-msgstr ""
+msgstr "Zdrowie reprodukcyjne"
 
 msgctxt "description"
 msgid "Period, ovulation, and pregnancy tracking apps and wearable devices"
-msgstr ""
+msgstr "Aplikacje do śledzenia okresu, owulacji i ciąży oraz urządzenia do noszenia"

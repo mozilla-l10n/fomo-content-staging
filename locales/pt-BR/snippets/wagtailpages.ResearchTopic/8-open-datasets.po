@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-04-10 07:06:04.080325+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 2f74092e-cae3-4627-ab9e-c208e63f034a\n"
+
+msgctxt "name"
+msgid "Open datasets"
+msgstr "Conjuntos abertos de dados"

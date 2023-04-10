@@ -8,8 +8,8 @@ msgstr ""
 
 msgctxt "name"
 msgid "Pregnancy Trackers"
-msgstr ""
+msgstr "Śledzenie ciąży"
 
 msgctxt "description"
 msgid "Pregnancy tracking apps"
-msgstr ""
+msgstr "Aplikacje do śledzenia ciąży"

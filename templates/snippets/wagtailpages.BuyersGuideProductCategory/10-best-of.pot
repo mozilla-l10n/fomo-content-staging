@@ -6,7 +6,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 
 msgctxt "name"
-msgid "Best of"
+msgid "Best Of"
 msgstr ""
 
 msgctxt "description"

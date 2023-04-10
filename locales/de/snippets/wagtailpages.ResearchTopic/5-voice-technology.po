@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-04-10 07:05:25.077550+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: c7e2fa34-fe01-4f45-a512-637147f07896\n"
+
+msgctxt "name"
+msgid "Voice Technology"
+msgstr "Sprachtechnologie"

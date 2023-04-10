@@ -19,8 +19,8 @@ msgid "Homepage"
 msgstr "Startpagina"
 
 msgctxt "hero_headline"
-msgid "Mozilla.ai — Investing In Trustworthy AI"
-msgstr "Mozilla.ai – Investeren in betrouwbare AI"
+msgid "Exposing the Sexism in Generative AI"
+msgstr "Sexisme in generatieve AI blootgelegd"
 
 msgctxt "hero_button_text"
 msgid "Learn More"
@@ -303,3 +303,7 @@ msgstr "Consumers International-logo"
 #~ msgctxt "hero_headline"
 #~ msgid "Google Play Store Labels Are Misleading"
 #~ msgstr "Google Play Store-labels zijn misleidend"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Mozilla.ai — Investing In Trustworthy AI"
+#~ msgstr "Mozilla.ai – Investeren in betrouwbare AI"

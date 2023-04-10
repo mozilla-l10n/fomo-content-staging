@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "introduction"
 msgid "Mo Mozuch is the former Senior Gaming Editor of the magazine Newsweek."
-msgstr ""
+msgstr "Mo Mozuch é ex-editor sênior de jogos da revista Newsweek."

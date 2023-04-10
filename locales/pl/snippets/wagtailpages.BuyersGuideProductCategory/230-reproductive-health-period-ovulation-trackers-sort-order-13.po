@@ -12,4 +12,4 @@ msgstr ""
 
 msgctxt "description"
 msgid "Period and fertility tracking apps"
-msgstr ""
+msgstr "Aplikacje do śledzenia okresu i płodności"

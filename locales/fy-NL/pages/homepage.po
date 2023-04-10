@@ -19,8 +19,8 @@ msgid "Homepage"
 msgstr "Startside"
 
 msgctxt "hero_headline"
-msgid "Mozilla.ai — Investing In Trustworthy AI"
-msgstr "Mozilla.ai – Ynvestearje yn betroubere AI"
+msgid "Exposing the Sexism in Generative AI"
+msgstr "Seksisme yn generative AI bleatlein"
 
 msgctxt "hero_button_text"
 msgid "Learn More"
@@ -309,3 +309,7 @@ msgstr "Consumers International-logo"
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Research"
 #~ msgstr "Lês it ûndersyk"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Mozilla.ai — Investing In Trustworthy AI"
+#~ msgstr "Mozilla.ai – Ynvestearje yn betroubere AI"

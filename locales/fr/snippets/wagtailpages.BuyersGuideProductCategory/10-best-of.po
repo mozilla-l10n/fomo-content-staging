@@ -12,16 +12,12 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: bdc9720f-db5e-46b6-9f3e-2ff897735062\n"
 
 msgctxt "name"
-msgid "Best of"
+msgid "Best Of"
 msgstr "Meilleurs produits"
 
 msgctxt "description"
 msgid "*Privacy Not Included Best Of Category"
 msgstr "Catégorie Meilleurs produits *Confidentialité non incluse"
-
-#~ msgctxt "name"
-#~ msgid "Best Of"
-#~ msgstr "Meilleurs produits"
 
 #~ msgctxt "description"
 #~ msgid "*Privacy Not Included Best Of Cateogry"

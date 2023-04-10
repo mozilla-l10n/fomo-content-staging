@@ -19,12 +19,12 @@ msgid "Homepage"
 msgstr "Strona główna"
 
 msgctxt "hero_headline"
-msgid "Mozilla.ai — Investing In Trustworthy AI"
-msgstr ""
+msgid "Exposing the Sexism in Generative AI"
+msgstr "Wyeksponowanie seksizmu w generatywnej sztucznej inteligencji"
 
 msgctxt "hero_button_text"
 msgid "Learn More"
-msgstr ""
+msgstr "Aktualizuj wszystko"
 
 msgctxt "spotlight_headline"
 msgid "All About Common Voice"

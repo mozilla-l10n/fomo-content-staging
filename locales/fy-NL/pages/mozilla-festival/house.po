@@ -1,0 +1,172 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-04-10 07:05:55.478811+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: a9c3ee64-bdbf-4c65-8f2e-0e7ec90ca751\n"
+
+msgctxt "seo_title"
+msgid "MozFest House: Amsterdam"
+msgstr "MozFest House: Amsterdam"
+
+msgctxt "title"
+msgid "House"
+msgstr "House"
+
+msgctxt "header"
+msgid "MozFest House: Amsterdam"
+msgstr "MozFest House: Amsterdam"
+
+msgctxt "intro"
+msgid "<b>MozFest House is a regional event with small in-person sessions, workshops, discussions</b>. Join us in Amsterdam, from 19-21 June, 2023."
+msgstr "<b>MozFest House is in regionaal evenemint mei lytse persoanlike sesjes, workshops en diskusjes</b>. Besykje ús yn Amsterdam, fan 19-21 juny 2023."
+
+msgctxt "body.83643880-75a4-4f89-8a5d-8ccf178dfa67.altText"
+msgid "MozFest House logo"
+msgstr "MozFest House-logo"
+
+msgctxt "body.9b361194-b7f0-4668-bf9f-3891527b99b6.button_label"
+msgid "Secure your ticket"
+msgstr "Stel jo ticket feilich"
+
+msgctxt "body.9b361194-b7f0-4668-bf9f-3891527b99b6.releases"
+msgid "mozfest-house-amsterdam,tuesday-20th-june-mozfest-house-amsterdam-copy,wednesday-21st-june-day-ticket-copy"
+msgstr "mozfest-house-amsterdam,tuesday-20th-june-mozfest-house-amsterdam-copy,wednesday-21st-june-day-ticket-copy"
+
+msgctxt "body.87fea275-fa19-4e3e-8139-f9d917ea1297"
+msgid "We’re excited to announce our next MozFest House will take place in Amsterdam, the Netherlands in June 2023!"
+msgstr "Wy binne bliid om oan te kundigjen dat ús folgjende MozFest House yn juny 2023 plakhat yn Amsterdam, Nederlân!"
+
+msgctxt "body.87fea275-fa19-4e3e-8139-f9d917ea1297"
+msgid ""
+"<b>MozFest House</b> is an extension of MozFest, the premiere gathering for activists in diverse global movements fighting for a more humane digital world. It’s a local event that manifests the "
+"essence of MozFest in a regional setting, through small in-person sessions, workshops, discussions."
+msgstr ""
+"<b>MozFest House</b> is in útwreiding fan MozFest, de wichtichste gearkomst foar aktivisten yn ferskate wrâldwide bewegingen dy’t stride foar in humane digitale wrâld. It is in lokaal evenemint dat "
+"de essinsje fan MozFest manifestearret yn in regionale omjouwing, troch lytse persoanlike sesjes, workshops en diskusjes."
+
+msgctxt "body.d7b29f70-f14b-4954-9fe9-3d69de608241.cards.44bed47c-68e7-4479-816e-737186e58ede.title"
+msgid "Where?"
+msgstr "Wêr?"
+
+msgctxt "body.d7b29f70-f14b-4954-9fe9-3d69de608241.cards.44bed47c-68e7-4479-816e-737186e58ede.body"
+msgid "MozFest House: Amsterdam will take place in Tolhuistuin, a cultural center in the North of the City, a few mins ferry ride from Amsterdam Central station with views over the Ij River."
+msgstr ""
+"MozFest House: Amsterdam sil plakhawwe yn de Tolhuistuin, in kultureel sintrum yn it noarden fan de stêd, op in pear minuten mei de fearboat fan Amsterdam Centraal stasjon mei útsjoch oer it IJ."
+
+msgctxt "body.d7b29f70-f14b-4954-9fe9-3d69de608241.cards.16e6d042-07aa-4d27-9049-05d191d612a7.title"
+msgid "When?"
+msgstr "Wannear?"
+
+msgctxt "body.d7b29f70-f14b-4954-9fe9-3d69de608241.cards.16e6d042-07aa-4d27-9049-05d191d612a7.body"
+msgid "MozFest House: Amsterdam takes place from Monday, June 19th - Wednesday, June 21st, 2023."
+msgstr "MozFest House: Amsterdam fynt plak fan moandei 19 juny o/m woansdei 21 juny 2023."
+
+msgctxt "body.00302213-3356-444a-89bc-d1626080197f.button_label"
+msgid "Secure your ticket"
+msgstr "Stel jo ticket feilich"
+
+msgctxt "body.00302213-3356-444a-89bc-d1626080197f.releases"
+msgid "mozfest-house-amsterdam,tuesday-20th-june-mozfest-house-amsterdam-copy,wednesday-21st-june-day-ticket-copy"
+msgstr "mozfest-house-amsterdam,tuesday-20th-june-mozfest-house-amsterdam-copy,wednesday-21st-june-day-ticket-copy"
+
+msgctxt "body.de43ac73-04c1-408a-a31f-63280dae85de"
+msgid ""
+"As we get closer to the event we will begin publishing a list of emerging MozFest House: Amsterdam sessions on <a id=\"a1\">our plaza</a>. <a id=\"a2\">Securing a ticket to MozFest House</a> will "
+"also grant you access to all On-Demand sessions, Art &amp; Media content, and Lighting Talks from MozFest 2023!"
+msgstr ""
+"As wy tichter by it evenemint komme, sille wy begjinne mei it publisearjen fan in list fan opkommende MozFest House: Amsterdam-sesjes op <a id=\"a1\">ús plein</a>. <a id=\"a2\">As jo in kaartsje "
+"foar MozFest House feilich stelle</a> krije jo ek tagong ta alle On-Demand-sesjes, Keunst &amp; Media-ynhâld, en Lightning Talks fan MozFest 2023!"
+
+msgctxt "body.e0b0377a-2df2-4cdf-ac80-97e32d2b3df1"
+msgid "Session Ideas"
+msgstr "Sesje-ideeën"
+
+msgctxt "body.e0b0377a-2df2-4cdf-ac80-97e32d2b3df1"
+msgid ""
+"In 2023, MozFest House is harnessing our collective power to better our digital landscape, build transformative systems, and sustain momentum within our community towards positive human and digital "
+"rights progress. It is through the collective power of the people that we can actualize Trustworthy AI."
+msgstr ""
+"Yn 2023 makket MozFest House gebrûk fan ús kollektive krêft om ús digitale lânskip te ferbetterjen, transfoarmative systemen te bouwen en it momentum yn ús mienskip te behâlden foar positive "
+"foarútgong op it mêd fan minske- en digitale rjochten. It is troch de kollektive krêft fan de minsken dat wy betroubere AI realisearje kinne."
+
+msgctxt "body.e0b0377a-2df2-4cdf-ac80-97e32d2b3df1"
+msgid ""
+"Are you a local individual or organization who is working towards making the internet a more digitally humane and open place for all? Do you have projects that are looking into bias, transparency, "
+"data stewardship, or movement building? MozFest House is now accepting session ideas."
+msgstr ""
+"Binne jo in pleatslik persoan of organisaasje dy’t wurket om fan ynternet in mear digitaal minskliker en iepen plak foar elkenien te meitsjen? Hawwe jo projekten dy’t ûndersyk dogge nei bias, "
+"transparânsje, gegevensbehear, of bewegingsopbou? MozFest House akseptearret no sesje-ideeën."
+
+msgctxt "body.e0b0377a-2df2-4cdf-ac80-97e32d2b3df1"
+msgid "We're accepting proposals for sessions in three different formats:"
+msgstr "Wy akseptearje foarstellen foar sesjes yn trije ferskillende foarmen:"
+
+msgctxt "body.653de988-5404-4744-b711-ce8cbc551d04.cards.c02d209d-2e76-437a-9c97-78c2c6f5e82e.title"
+msgid "Round Table"
+msgstr "Rûnetafel"
+
+msgctxt "body.653de988-5404-4744-b711-ce8cbc551d04.cards.c02d209d-2e76-437a-9c97-78c2c6f5e82e.body"
+msgid "Synchronous live sessions provide space for building shared understanding, comparing diverse experiences and divergent perspectives, sharing knowledge or surfacing collective vision."
+msgstr ""
+"Syngroane livesesjes jouwe romte foar it opbouwen fan dield begryp, it fergelykjen fan ferskate ûnderfiningen en útienrinnende perspektiven, it dielen fan kennis of it ferdúdliken fan in kollektive "
+"fyzje."
+
+msgctxt "body.653de988-5404-4744-b711-ce8cbc551d04.cards.c02d209d-2e76-437a-9c97-78c2c6f5e82e.link_url"
+msgid "https://pretalx.com/mozilla-festival-2023/cfp?access_code=house-ams-roundtables"
+msgstr "https://pretalx.com/mozilla-festival-2023/cfp?access_code=house-ams-roundtables"
+
+msgctxt "body.653de988-5404-4744-b711-ce8cbc551d04.cards.c02d209d-2e76-437a-9c97-78c2c6f5e82e.link_label"
+msgid "Submit a Round Table idea"
+msgstr "In Rûnetafel-idee yntsjinje"
+
+msgctxt "body.653de988-5404-4744-b711-ce8cbc551d04.cards.4797f175-8ac4-4ef2-bf48-c71e7d678ccb.title"
+msgid "Workshop"
+msgstr "Workshop"
+
+msgctxt "body.653de988-5404-4744-b711-ce8cbc551d04.cards.4797f175-8ac4-4ef2-bf48-c71e7d678ccb.body"
+msgid "Synchronous live sessions that allow for the group to collaboratively work on a project, learn a new skill together or co-develop ideas, collectively problem solve."
+msgstr "Syngroane livesesjes dy’t de groep mooglik meitsje om gear te wurkjen oan in projekt, tegearre in nije feardigens te learen of ideeën te ûntwikkeljen en tegearre in probleem op te lossen."
+
+msgctxt "body.653de988-5404-4744-b711-ce8cbc551d04.cards.4797f175-8ac4-4ef2-bf48-c71e7d678ccb.link_url"
+msgid "https://pretalx.com/mozilla-festival-2023/cfp?access_code=house-ams-workshops"
+msgstr "https://pretalx.com/mozilla-festival-2023/cfp?access_code=house-ams-workshops"
+
+msgctxt "body.653de988-5404-4744-b711-ce8cbc551d04.cards.4797f175-8ac4-4ef2-bf48-c71e7d678ccb.link_label"
+msgid "Submit a Workshop idea"
+msgstr "In workshopidee yntsjinje"
+
+msgctxt "body.653de988-5404-4744-b711-ce8cbc551d04.cards.d4a16fc8-8f67-4843-94b0-d4138eaba207.title"
+msgid "Installations"
+msgstr "Ynstallaasjes"
+
+msgctxt "body.653de988-5404-4744-b711-ce8cbc551d04.cards.d4a16fc8-8f67-4843-94b0-d4138eaba207.body"
+msgid "Includes art exhibit, interactive &amp; immersive media, film &amp; video, AR/VR experiences, games or podcasts. Available for asynchronous self-navigating experiences."
+msgstr "Omfettet keunstútstallingen, ynteraktive en meislepende media, film en fideo, AR/VR-ûnderfiningen, spultsjes of podcasts. Beskikber foar asyngroane selsnavigearjende ûnderfiningen."
+
+msgctxt "body.653de988-5404-4744-b711-ce8cbc551d04.cards.d4a16fc8-8f67-4843-94b0-d4138eaba207.link_url"
+msgid "https://pretalx.com/mozilla-festival-2023/cfp?access_code=house-ams-installations"
+msgstr "https://pretalx.com/mozilla-festival-2023/cfp?access_code=house-ams-installations"
+
+msgctxt "body.653de988-5404-4744-b711-ce8cbc551d04.cards.d4a16fc8-8f67-4843-94b0-d4138eaba207.link_label"
+msgid "Submit an Installation idea"
+msgstr "In ynstallaasje-idee yntsjinje"
+
+#~ msgctxt "body.13bc6bf2-3bd6-445a-89c3-bc7a4451556b.label"
+#~ msgid "Submit your session ideas"
+#~ msgstr "Jo sesje-ideeën yntsjinje"
+
+#~ msgctxt "body.13bc6bf2-3bd6-445a-89c3-bc7a4451556b.URL"
+#~ msgid "mailto:festival@mozilla.org?subject=MozFest%20House%3A%20Amsterdam%20-%20Session%20Idea"
+#~ msgstr "mailto:festival@mozilla.org?subject=MozFest%20House%3A%20Amsterdam%20-%20Session%20Idea"
+
+#~ msgctxt "body.396b6e83-9808-4fe4-8a43-abf056b97da2"
+#~ msgid "As space is limited, MozFest is eager to hear from folks who will be local to Amsterdam at the time of the event, and who are open to collaborating on their proposals with others."
+#~ msgstr ""
+#~ "Omdat romte beheind is, wol MozFest graach hearre fan minsken dy’t op it momint fan it evenemint yn de buert fan Amsterdam binne, en dy’t iepenstean om gear te wurkjen mei oaren oan harren "
+#~ "foarstellen te wurkjen."
+
+#~ msgctxt "body.396b6e83-9808-4fe4-8a43-abf056b97da2"
+#~ msgid "If you have any questions, please contact us at <a id=\"a1\">festival@mozilla.org</a>"
+#~ msgstr "As jo fragen hawwe, nim dan kontakt mei ús op fia <a id=\"a1\">festival@mozilla.org</a>"

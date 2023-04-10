@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "name"
 msgid "Kiswahili"
-msgstr ""
+msgstr "Suahili"
 
 msgctxt "title"
 msgid "Kiswahili Blog"
