@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Tech Policy &amp; Regulation"
-msgstr ""
+msgstr "Política y regulación"

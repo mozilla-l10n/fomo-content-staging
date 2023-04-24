@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Platform Accountability"
-msgstr ""
+msgstr "Uwajibikaji wa Jukwaa"

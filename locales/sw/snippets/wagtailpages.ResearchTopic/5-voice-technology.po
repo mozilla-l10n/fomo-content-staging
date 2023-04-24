@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Voice Technology"
-msgstr ""
+msgstr "Teknolojia ya Sauti"

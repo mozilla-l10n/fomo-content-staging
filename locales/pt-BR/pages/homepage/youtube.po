@@ -15,6 +15,8 @@ msgid ""
 "Since 2019, Mozilla has done research on YouTube's recommendation system and advocated for greater transparency. Our original research, investigations and campaigns have demonstrated some of the "
 "systemtic problems with YouTube's recommendation algorithm, and we suggest solutions."
 msgstr ""
+"Desde 2019, a Mozilla tem feito pesquisas sobre o sistema de recomendações do YouTube e defende maior transparência. Nossas pesquisas, investigações e campanhas originais têm demonstrado alguns dos "
+"problemas sistêmicos no algoritmo de recomendações do YouTube e sugerimos soluções."
 
 msgctxt "body.4388a4ad-110a-4295-a89c-3dd9192ec9ee"
 msgid "Current Work"

@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "seo_title"
 msgid "Get On-Demand Access to MozFest 2023"
-msgstr ""
+msgstr "Obtener acceso bajo demanda a MozFest 2023"
 
 msgctxt "search_description"
 msgid "MozFest is Mozilla's largest public event and the premiere gathering for activists in diverse global movements fighting for a more humane digital world. Secure your ticket today."
@@ -57,7 +57,7 @@ msgstr "Ver horas de sesiones y contenido bajo demanda cuando termine el festiva
 
 msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
 msgid "Discover talks by leading voices from across the internet health movement."
-msgstr ""
+msgstr "Descubra las charlas de las voces más destacadas del movimiento de la salud en Internet."
 
 msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
 msgid "Connect with our Slack community of over 4000 past, present and future MozFest participants"
@@ -65,11 +65,11 @@ msgstr "Conectarte con nuestra comunidad en Slack de más de 4000 participantes 
 
 msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
 msgid "There are two types of registrations available, Pay What You Can, which starts at €0, or you can <a id=\"a1\">become a MozFest Patron</a>, offering additional benefits, starting at €250."
-msgstr "Hay dos tipos de registros: Paga lo que puedas, a partir de 0 €, o puedes <a id=\"a1\">convertirte en un patrocinador del MozFest</a>, con beneficios adicionales, a partir de 250 €."
+msgstr "Hay dos tipos de registros: Paga lo que puedas, a partir de € 0, o puedes <a id=\"a1\">convertirte en un patrocinador del MozFest</a>, con beneficios adicionales, a partir de € 250."
 
 msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
 msgid "MozFest On-Demand Tickets"
-msgstr ""
+msgstr "Boletos MozFest bajo demanda"
 
 msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
 msgid "Pay What You Can"
@@ -77,11 +77,11 @@ msgstr "Paga lo que puedas"
 
 msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
 msgid "With the Pay What You Can contribution you’ll receive access to the MozFest Plaza allowing you to access the 150+ sessions available on-demand, plus much more."
-msgstr ""
+msgstr "Con la contribución Paga lo que puedas, recibirás acceso a MozFest Plaza, lo que te permitirá acceder a las más de 150 sesiones disponibles bajo demanda, además de mucho más."
 
 msgctxt "body.53228c31-3993-4c79-9816-11768d45bf0b.altText"
 msgid "separator"
-msgstr "separator"
+msgstr "separador"
 
 msgctxt "body.295bb8a3-f08f-44be-b2b4-47ae6f1a169b.button_label"
 msgid "Secure your ticket"
@@ -94,6 +94,62 @@ msgstr "mozfest-virtual-on-demand"
 msgctxt "body.0842c43f-8e22-425c-a4fe-9d4b53943d21"
 msgid "The cost of this ticket is subsidised by Mozilla."
 msgstr "El costo de este boleto está subsidiado por Mozilla."
+
+msgctxt "body.3fea9dd1-a2db-412d-bd7c-cbdc651b841a"
+msgid "MozFest House: Amsterdam"
+msgstr "MozFest House: Amsterdam"
+
+msgctxt "body.3fea9dd1-a2db-412d-bd7c-cbdc651b841a"
+msgid "We’re excited to announce our next MozFest House will take place in Amsterdam, the Netherlands from June 19-21, 2023!"
+msgstr "¡Estamos felices de anunciar que nuestro próximo MozFest House tendrá lugar en Amsterdam, Países Bajos, del 19 al 21 de junio de 2023!"
+
+msgctxt "body.3fea9dd1-a2db-412d-bd7c-cbdc651b841a"
+msgid ""
+"<b>MozFest House</b> is an extension of MozFest, the premiere gathering for activists in diverse global movements fighting for a more humane digital world. It’s a local event that manifests the "
+"essence of MozFest in a regional setting, through small in-person sessions, workshops, discussions."
+msgstr ""
+"El <b>MozFest House</b> es una extensión del MozFest, el principal punto de encuentro para activistas de diversos movimientos globales que luchan por un mundo digital más humano. Se trata de un "
+"evento local que comparte la esencia del MozFest pero en un entorno regional, a través de sesiones presenciales, talleres y debates en un formato reducido."
+
+msgctxt "body.0fe2b0b3-0200-44a5-999b-53354b680134.altText"
+msgid "separator"
+msgstr "separador"
+
+msgctxt "body.05b614f3-3426-4c6b-8e52-103b3dace4ef"
+msgid "Full Festival Pass - €55"
+msgstr ""
+
+msgctxt "body.05b614f3-3426-4c6b-8e52-103b3dace4ef"
+msgid "The Full Festival Pass gives you access to all sessions and social spaces for 2 days, plus access to the Monday welcome evening."
+msgstr ""
+
+msgctxt "body.ca645542-222c-462e-a6de-cd4f16fcb45b.button_label"
+msgid "Buy Full Festival Pass"
+msgstr ""
+
+msgctxt "body.ca645542-222c-462e-a6de-cd4f16fcb45b.releases"
+msgid "wednesday-21st-june-day-ticket-copy"
+msgstr "wednesday-21st-june-day-ticket-copy"
+
+msgctxt "body.e4d7d870-b528-44d3-a1b1-74eddeae0e47"
+msgid "Festival Day Passes - €25"
+msgstr ""
+
+msgctxt "body.e4d7d870-b528-44d3-a1b1-74eddeae0e47"
+msgid "Access all sessions and social spaces at MozFest House: Amsterdam on Tuesday, 20th June 2023 or Wednesday, 21st June 2023."
+msgstr ""
+
+msgctxt "body.f3f28cb0-1a1a-47b1-9c5c-d753d1f4b657.button_label"
+msgid "Buy Day Passes"
+msgstr ""
+
+msgctxt "body.f3f28cb0-1a1a-47b1-9c5c-d753d1f4b657.releases"
+msgid "mozfest-house-amsterdam,tuesday-20th-june-mozfest-house-amsterdam-copy"
+msgstr "mozfest-house-amsterdam,tuesday-20th-june-mozfest-house-amsterdam-copy"
+
+msgctxt "body.c47c8640-c490-43bc-ba4b-ea09f0c1110b"
+msgid "Prices include Netherlands VAT at 21%"
+msgstr ""
 
 msgctxt "body.6a028345-bdd0-4c72-9814-d477ca7119a8"
 msgid "MozFest Patrons"
@@ -109,7 +165,7 @@ msgstr ""
 
 msgctxt "body.8e8cbbc7-9e9c-4a92-8e02-6b93c4e910ea.altText"
 msgid "separator"
-msgstr "separator"
+msgstr "separador"
 
 msgctxt "body.53d57474-6cb1-4588-852a-2a18e1984b22"
 msgid "Mega Patrons - €250"
@@ -199,10 +255,6 @@ msgstr "mozfest-patron-tera"
 #~ msgid "Secure your Early Bird ticket to MozFest 2023"
 #~ msgstr "Asegura tu boleto de pronto pago al MozFest 2023"
 
-#~ msgctxt "seo_title"
-#~ msgid "Secure your ticket to MozFest 2023"
-#~ msgstr "Asegura tu boleto de entrada al MozFest 2023"
-
 #~ msgctxt "search_description"
 #~ msgid ""
 #~ "MozFest is Mozilla's largest public event and the premiere gathering for activists in diverse global movements fighting for a more humane digital world. Early Bird tickets are now available through "
@@ -214,14 +266,6 @@ msgstr "mozfest-patron-tera"
 #~ msgctxt "body.2ac52c22-d7a1-4b7c-a507-c095153216e9.releases"
 #~ msgid "mozfest-virtual-pay-what-you-can-contribution-early-bird,mozfest-patron-mega,mozfest-patron-giga"
 #~ msgstr "mozfest-virtual-pay-what-you-can-contribution-early-bird,mozfest-patron-mega,mozfest-patron-giga"
-
-#~ msgctxt "body.2ac52c22-d7a1-4b7c-a507-c095153216e9.releases"
-#~ msgid "mozfest-virtual-pay-what-you-can-contribution-early-bird,mozfest-patron-mega"
-#~ msgstr "mozfest-virtual-pay-what-you-can-contribution-early-bird,mozfest-patron-mega"
-
-#~ msgctxt "body.2ac52c22-d7a1-4b7c-a507-c095153216e9.releases"
-#~ msgid "mozfest-pay-what-you-can-contribution,mozfest-patron-mega"
-#~ msgstr "mozfest-pay-what-you-can-contribution,mozfest-patron-mega"
 
 #~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
 #~ msgid "If you have professional development funds left to spend in 2022, now is your chance to invest those funds towards an incredible virtual experience next year by securing an Early Bird ticket!"
@@ -256,6 +300,22 @@ msgstr "mozfest-patron-tera"
 #~ "Sé el primero en conseguir un boleto de pronto pago al MozFest y obtén acceso exclusivo a los eventos previos al festival en la MozFest Plaza, incluidos diálogos, sesiones de debates con algunos de "
 #~ "los líderes más influyentes de la industria tecnológica, experiencias virtuales inmersivas ¡y más! En enero anunciaremos más detalles sobre estos beneficios por pronto pago. ¡Mantente al tanto!"
 
+#~ msgctxt "body.295bb8a3-f08f-44be-b2b4-47ae6f1a169b.releases"
+#~ msgid "mozfest-virtual-pay-what-you-can-contribution-early-bird"
+#~ msgstr "mozfest-virtual-pay-what-you-can-contribution-early-bird"
+
+#~ msgctxt "body.2ac52c22-d7a1-4b7c-a507-c095153216e9.releases"
+#~ msgid "mozfest-virtual-pay-what-you-can-contribution-early-bird,mozfest-patron-mega"
+#~ msgstr "mozfest-virtual-pay-what-you-can-contribution-early-bird,mozfest-patron-mega"
+
+#~ msgctxt "body.2ac52c22-d7a1-4b7c-a507-c095153216e9.releases"
+#~ msgid "mozfest-pay-what-you-can-contribution,mozfest-patron-mega"
+#~ msgstr "mozfest-pay-what-you-can-contribution,mozfest-patron-mega"
+
+#~ msgctxt "body.295bb8a3-f08f-44be-b2b4-47ae6f1a169b.releases"
+#~ msgid "mozfest-pay-what-you-can-contribution"
+#~ msgstr "mozfest-pay-what-you-can-contribution"
+
 #~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
 #~ msgid "MozFest General Tickets"
 #~ msgstr "Boletos generales para el MozFest"
@@ -264,10 +324,6 @@ msgstr "mozfest-patron-tera"
 #~ msgid "With the Pay What You Can contribution you’ll receive access to the MozFest Plaza allowing you to browse, attend, and catch up with the hundreds of available sessions, plus much more."
 #~ msgstr "Con la contribución Paga lo que puedas, podrás ingresar al MozFest Plaza para que puedas mirar, asistir a sesiones y ponerte al corriente con cientos de temas disponibles, ¡y mucho más!"
 
-#~ msgctxt "body.295bb8a3-f08f-44be-b2b4-47ae6f1a169b.releases"
-#~ msgid "mozfest-virtual-pay-what-you-can-contribution-early-bird"
-#~ msgstr "mozfest-virtual-pay-what-you-can-contribution-early-bird"
-
-#~ msgctxt "body.295bb8a3-f08f-44be-b2b4-47ae6f1a169b.releases"
-#~ msgid "mozfest-pay-what-you-can-contribution"
-#~ msgstr "mozfest-pay-what-you-can-contribution"
+#~ msgctxt "seo_title"
+#~ msgid "Secure your ticket to MozFest 2023"
+#~ msgstr "Asegura tu boleto de entrada al MozFest 2023"

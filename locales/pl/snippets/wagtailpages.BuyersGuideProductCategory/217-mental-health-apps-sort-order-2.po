@@ -8,8 +8,8 @@ msgstr ""
 
 msgctxt "name"
 msgid "Mental Health Apps"
-msgstr "Zdrowie psychiczne"
+msgstr "Aplikacje wspierające zdrowie psychiczne"
 
 msgctxt "description"
 msgid "Review of mental health and prayer apps"
-msgstr "Przegląd aplikacji dotyczących zdrowia psychicznego i modlitwy"
+msgstr "Przegląd aplikacji wspierających zdrowie psychiczne oraz służących do modlitwy"

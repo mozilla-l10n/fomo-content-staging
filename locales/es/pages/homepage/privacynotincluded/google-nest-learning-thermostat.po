@@ -347,6 +347,18 @@ msgctxt "ai_what_can_it_do"
 msgid "Google uses natural language processing to understand you and to generate answers to your requests."
 msgstr "Google utiliza el procesamiento del lenguaje natural para entenderte y ser capaz de generar respuestas adecuadas a tus solicitudes."
 
+#~ msgctxt "privacy_policy_helptext"
+#~ msgid "All things Nest have been moved over to the Google Store. Google has a page detailing their privacy principles for Nest products."
+#~ msgstr "Todos los productos de Nest se han movido a Google Store. Google cuenta con una página en la que detalla sus principios de privacidad para estos productos."
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number"
+#~ msgstr "Nombre, dirección de correo electrónico, número de teléfono"
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "You can review and delete your data in the Nest app or via the Google Privacy Dashboard."
+#~ msgstr "Puedes revisar y borrar tus datos en la aplicación Nest o a través del Panel de Control de Privacidad de Google."
+
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "Learning is fun! Owning a thermostat that learns all about how warm and cool you like your house is maybe fun too? According to Google, use this thermostat for a week and it'll adapt to you. The app"
@@ -385,18 +397,6 @@ msgstr "Google utiliza el procesamiento del lenguaje natural para entenderte y s
 #~ msgstr ""
 #~ "Google tiene un programa de recompensas de seguridad (Security Rewards), con lo que todas las personas que detecten algún problema de seguridad y se lo notifique de forma responsable podrían "
 #~ "recirbir un pago por ello: https://www.google.com/about/appsecurity/programs-home/"
-
-#~ msgctxt "privacy_policy_helptext"
-#~ msgid "All things Nest have been moved over to the Google Store. Google has a page detailing their privacy principles for Nest products."
-#~ msgstr "Todos los productos de Nest se han movido a Google Store. Google cuenta con una página en la que detalla sus principios de privacidad para estos productos."
-
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number"
-#~ msgstr "Nombre, dirección de correo electrónico, número de teléfono"
-
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid "You can review and delete your data in the Nest app or via the Google Privacy Dashboard."
-#~ msgstr "Puedes revisar y borrar tus datos en la aplicación Nest o a través del Panel de Control de Privacidad de Google."
 
 #~ msgctxt "track_record_details"
 #~ msgid ""

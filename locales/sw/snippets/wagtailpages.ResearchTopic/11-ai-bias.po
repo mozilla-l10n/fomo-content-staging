@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "AI Bias"
-msgstr ""
+msgstr "Upendeleo wa AI (akili bandia)"

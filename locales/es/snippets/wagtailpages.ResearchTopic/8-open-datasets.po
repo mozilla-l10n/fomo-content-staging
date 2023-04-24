@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Open datasets"
-msgstr ""
+msgstr "Conjuntos de datos abiertos"

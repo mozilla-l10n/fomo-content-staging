@@ -12,7 +12,7 @@ msgstr "TikTok wprowadza w błąd użytkowników Androida"
 
 msgctxt "description"
 msgid "In Google’s app store, TikTok claimed it doesn’t share your data with third parties. Our research showed otherwise."
-msgstr "W sklepie z aplikacjami Google TikTok twierdzi, że nie udostępnia Twoich danych stronom trzecim. Nasze badania wykazały inaczej."
+msgstr "W sklepie z aplikacjami Google TikTok twierdzi, że nie udostępnia Twoich danych innym podmiotom. Nasze badania wykazały, że jest inaczej."
 
 msgctxt "link_label"
 msgid "Sign the petition"
@@ -20,4 +20,4 @@ msgstr "Podpisz petycję"
 
 msgctxt "footer"
 msgid "In Google’s app store, TikTok claimed it doesn’t share your data with third parties. Our research showed otherwise."
-msgstr "W sklepie z aplikacjami Google TikTok twierdzi, że nie udostępnia Twoich danych stronom trzecim. Nasze badania wykazały inaczej."
+msgstr "W sklepie z aplikacjami Google TikTok twierdzi, że nie udostępnia Twoich danych innym podmiotom. Nasze badania wykazały, że jest inaczej."

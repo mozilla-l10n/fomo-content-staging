@@ -8,16 +8,16 @@ msgstr ""
 
 msgctxt "title"
 msgid "Research Hub"
-msgstr ""
+msgstr "Central de pesquisas"
 
 msgctxt "intro"
 msgid "Analyzing and documenting internet health and trustworthy AI to help shape a human-centered internet."
-msgstr ""
+msgstr "Análise e documentação da integridade da internet e da inteligência artificial confiável para ajudar a moldar uma internet centrada no ser humano."
 
 msgctxt "seo_title"
 msgid "Research Hub"
-msgstr ""
+msgstr "Central de pesquisas"
 
 msgctxt "search_description"
 msgid "Analyzing and documenting internet health and trustworthy AI to help shape a human-centered internet."
-msgstr ""
+msgstr "Análise e documentação da integridade da internet e da inteligência artificial confiável para ajudar a moldar uma internet centrada no ser humano."

@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Ads Transparency"
-msgstr ""
+msgstr "Transparencia de los anuncios"

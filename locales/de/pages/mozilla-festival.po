@@ -1037,6 +1037,10 @@ msgstr "https://www.youtube-nocookie.com/embed/1msizDxhpdc?controls=0"
 #~ msgid "Add the dates for MozFest Virtual 2023 to your calendar, on <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> or <a id=\"a3\">download the invitation</a>."
 #~ msgstr "Fügen Sie die Termine für das MozFest Virtual 2023 zu Ihrem Kalender hinzu, (auf <a id=\"a1\">Google</a> oder <a id=\"a2\">Outlook</a>) oder <a id=\"a3\">laden Sie die Einladung herunter</a>."
 
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.buttons.c0a6a6fc-052c-42b7-a1a7-de0bb7dbf43e.label"
+#~ msgid "Learn more"
+#~ msgstr "Weitere Informationen"
+
 #~ msgctxt "cta_button_label"
 #~ msgid "Submit your proposal"
 #~ msgstr "Ihren Vorschlag einreichen"
@@ -1064,10 +1068,6 @@ msgstr "https://www.youtube-nocookie.com/embed/1msizDxhpdc?controls=0"
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.buttons.3288563e-0194-4fb8-9986-b72162f06753.label"
 #~ msgid "Submit your proposal"
 #~ msgstr "Ihren Vorschlag einreichen"
-
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.buttons.c0a6a6fc-052c-42b7-a1a7-de0bb7dbf43e.label"
-#~ msgid "Learn more"
-#~ msgstr "Weitere Informationen"
 
 #~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
 #~ msgid "MozFest Virtual will take place online from 20th - 24th March, 2023."

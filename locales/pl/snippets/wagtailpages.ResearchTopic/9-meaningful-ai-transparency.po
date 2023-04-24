@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Meaningful AI Transparency"
-msgstr "Znacząca przejrzystość sztucznej inteligencji"
+msgstr "Istotna przejrzystość sztucznej inteligencji"

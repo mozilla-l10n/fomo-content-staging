@@ -360,13 +360,13 @@ msgstr "Descubre más"
 #~ "Aceptamos sesiones sobre una amplia gama de temas que estén relacionados de forma relevante con la IA confiable y el movimiento salud de Internet, pero todas las sesiones deben ser interactivas e "
 #~ "inclusivas."
 
-#~ msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.a26cd4c5-f5a1-472e-86a5-59da3f578944.alt_text"
-#~ msgid "A crowd photo of participants at a prior MozFest event, centered on the Mozilla mascot"
-#~ msgstr "Una foto de una multitud de participantes en un evento previo del MozFest, enfocado en la mascota de Mozilla"
-
 #~ msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.f9a617de-1535-4bce-93c5-df467d6a649b.alt_text"
 #~ msgid "a person wearing glasses facing away from the camera, their blue tshirt has yellow writing on the back that reads 'this technology could fall into the right hands'"
 #~ msgstr "una persona con anteojos de espaldas a la cámara, su camiseta azul tiene una escritura amarilla en la parte posterior que dice \"esta tecnología podría caer en las manos adecuadas\""
+
+#~ msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.a26cd4c5-f5a1-472e-86a5-59da3f578944.alt_text"
+#~ msgid "A crowd photo of participants at a prior MozFest event, centered on the Mozilla mascot"
+#~ msgstr "Una foto de una multitud de participantes en un evento previo del MozFest, enfocado en la mascota de Mozilla"
 
 #~ msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.281d9442-89fd-4a81-83b7-fd390b0016f4.alt_text"
 #~ msgid "a paper jungle created to decorate a space at a previous in-person MozFest"

@@ -993,13 +993,13 @@ msgstr "https://www.youtube-nocookie.com/embed/1msizDxhpdc?controls=0"
 #~ msgid "nadya tolokonnikova"
 #~ msgstr "Nadya Tolokonnikova"
 
-#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
-#~ msgid "Add the dates for MozFest Virtual 2023 to your calendar, on <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> or <a id=\"a3\">download the invitation</a>."
-#~ msgstr "Foegje de datums foar MozFest Virtual 2023 ta oan jo aginda, yn <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> of <a id=\"a3\">download de útnûging </a>."
-
 #~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
 #~ msgid "MozFest Virtual will take place 20-24 March, 2023. MozFest House in Amsterdam will take place 8-10 June, 2023."
 #~ msgstr "MozFest Virtual sil plak fine fan 20-24 maart 2023. MozFest House yn Amsterdam sil plak fine fan 8-10 juny 2023."
+
+#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
+#~ msgid "Add the dates for MozFest Virtual 2023 to your calendar, on <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> or <a id=\"a3\">download the invitation</a>."
+#~ msgstr "Foegje de datums foar MozFest Virtual 2023 ta oan jo aginda, yn <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> of <a id=\"a3\">download de útnûging </a>."
 
 #~ msgctxt "cta_button_label"
 #~ msgid "Submit your proposal"

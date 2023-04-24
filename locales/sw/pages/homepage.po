@@ -19,7 +19,7 @@ msgid "Homepage"
 msgstr "Ukurasa wa Nyumbani"
 
 msgctxt "hero_headline"
-msgid "Exposing the Sexism in Generative AI"
+msgid "Challenging Algorithmic Bias Against Black Women"
 msgstr ""
 
 msgctxt "hero_button_text"
@@ -68,7 +68,7 @@ msgstr "Chukua hatua"
 
 msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
 msgid "Tell YouTube: Give users real control over their video recommendations!"
-msgstr "Waambie YouTube: Wape watumiaji udhibiti halisi juu ya mapendekezo yao ya video!"
+msgstr "Waambie YouTube: Wape watumizi udhibiti halisi juu ya mapendekezo yao ya video!"
 
 msgctxt "take_action_cards.a18d063b-b168-46c9-b24e-e955b8dcd16e.text"
 msgid "Let’s open the door for social media researchers."
@@ -129,3 +129,7 @@ msgstr "Nembo ya Consumers International"
 #~ msgctxt "hero_button_text"
 #~ msgid "Get Your MozFest 2023 Tickets"
 #~ msgstr "Pata Tiketi zako za MozFest 2023"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Exposing the Sexism in Generative AI"
+#~ msgstr "Kufichua ubaguzi wa kijinsia katika AI ya kuzalisha (inayotengeneza maumbo, picha, video na maandishi)"

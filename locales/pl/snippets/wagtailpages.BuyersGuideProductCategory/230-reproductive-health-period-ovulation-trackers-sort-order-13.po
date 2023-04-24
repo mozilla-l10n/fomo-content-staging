@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "name"
 msgid "Period &amp; Ovulation Trackers"
-msgstr ""
+msgstr "Monitory owulacji i okresu"
 
 msgctxt "description"
 msgid "Period and fertility tracking apps"

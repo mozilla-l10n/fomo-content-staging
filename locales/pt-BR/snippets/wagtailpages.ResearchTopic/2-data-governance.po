@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Data Governance"
-msgstr ""
+msgstr "Governança de dados"

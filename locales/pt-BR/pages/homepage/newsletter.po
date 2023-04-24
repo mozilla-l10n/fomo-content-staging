@@ -15,5 +15,9 @@ msgid "Join our email list to take action and stay updated!"
 msgstr "Participe da nossa lista de emails para tomar atitudes e se manter atualizado!"
 
 msgctxt "title"
-msgid "Newsletter Sign Up"
-msgstr "Inscrição no boletim informativo"
+msgid "Newsletter"
+msgstr "Boletim informativo"
+
+#~ msgctxt "title"
+#~ msgid "Newsletter Sign Up"
+#~ msgstr "Inscrição no boletim informativo"

@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Platform Accountability"
-msgstr ""
+msgstr "Responsabilização de plataformas"

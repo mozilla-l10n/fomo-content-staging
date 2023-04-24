@@ -8,16 +8,16 @@ msgstr ""
 
 msgctxt "title"
 msgid "Research Hub"
-msgstr ""
+msgstr "Kituo cha Utafiti"
 
 msgctxt "intro"
 msgid "Analyzing and documenting internet health and trustworthy AI to help shape a human-centered internet."
-msgstr ""
+msgstr "Kuchambua na kuweka kumbukumbu za mtandao huru, na uwezo wa akili bandia inayoaminika ili kusaidia kuunda mtandao unaozingatia binadamu."
 
 msgctxt "seo_title"
 msgid "Research Hub"
-msgstr ""
+msgstr "Kituo cha Utafiti"
 
 msgctxt "search_description"
 msgid "Analyzing and documenting internet health and trustworthy AI to help shape a human-centered internet."
-msgstr ""
+msgstr "Kuchambua na kuweka kumbukumbu za mtandao huru, na uwezo wa akili bandia inayoaminika ili kusaidia kuunda mtandao unaozingatia binadamu."

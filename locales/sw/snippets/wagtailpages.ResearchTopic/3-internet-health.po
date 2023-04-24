@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Internet Health"
-msgstr ""
+msgstr "Hali bora ya mtandao"

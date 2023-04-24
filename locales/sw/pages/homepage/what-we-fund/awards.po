@@ -238,13 +238,13 @@ msgctxt "title"
 msgid "Awards"
 msgstr "Tuzo"
 
-#~ msgctxt "body.1f1f23ae-ce17-443a-b9ab-42819cab7b66.altText"
-#~ msgid "Screen capture from Stealing Ur Feelings project"
-#~ msgstr "Picha ya mradi unaoitwa Stealing Ur Feelings"
-
 #~ msgctxt "body.1f1f23ae-ce17-443a-b9ab-42819cab7b66.text"
 #~ msgid "Creative Media Awards"
 #~ msgstr "Tuzo za Ubunifu za Vyombo vya Habari"
+
+#~ msgctxt "body.1f1f23ae-ce17-443a-b9ab-42819cab7b66.altText"
+#~ msgid "Screen capture from Stealing Ur Feelings project"
+#~ msgstr "Picha ya mradi unaoitwa Stealing Ur Feelings"
 
 #~ msgctxt "body.1f1f23ae-ce17-443a-b9ab-42819cab7b66.text"
 #~ msgid ""

@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Privacy and Security"
-msgstr ""
+msgstr "Privacidad y seguridad"

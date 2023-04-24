@@ -20,7 +20,7 @@ msgstr "El MozFest es posible gracias a contribuciones individuales, patrocinado
 
 msgctxt "body.07afad1e-c78a-4e4e-b3a8-a710f7dbe4f4"
 msgid "2023 MozFest Sponsor"
-msgstr ""
+msgstr "Patrocinador del MozFest 2023"
 
 msgctxt "body.2ea5a493-07de-4bf5-b2e3-85a48c8bce9b.grid_items.aa6799ac-0a55-44bb-ad64-6a65ccdbba24.url"
 msgid "https://interledger.org/"
@@ -56,7 +56,7 @@ msgstr "Patrocinadores nivel Tera 2023"
 
 msgctxt "body.fdbc0fc3-4ef5-4c26-853f-01d389ae1d28"
 msgid "ylsun hwang"
-msgstr "ylsun hwang"
+msgstr "Ylsun Hwang"
 
 msgctxt "body.4307afe2-f13a-4d4b-b9c8-75892c6a5517"
 msgid "2023 Giga Level Patrons"
@@ -100,7 +100,7 @@ msgstr "Tracy Pizzo Frey"
 
 msgctxt "body.1949dbcb-e81e-45ec-82a4-0f8bf7b6e455"
 msgid "&amp; other Anonymous Patrons"
-msgstr ""
+msgstr "& otros patrocinadores anónimos"
 
 #~ msgctxt "body.07afad1e-c78a-4e4e-b3a8-a710f7dbe4f4"
 #~ msgid "2022 Presenting Sponsor"

@@ -99,10 +99,6 @@ msgctxt "ai_helptext"
 msgid "BlueJeans integrates an automated transcription technology."
 msgstr "BlueJeans incorpora una tecnología de transcripción automatizada."
 
-#~ msgctxt "price"
-#~ msgid "Free trial, paid plans start at $9.99 per month"
-#~ msgstr "Prueba gratis, planes de pago a partir de 9,99 $ al mes"
-
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "BlueJeans is a video call app aimed at business users. It works on desktop and mobile apps and within most browsers. This video call app claims a list of features like high-quality video, screen "
@@ -112,6 +108,10 @@ msgstr "BlueJeans incorpora una tecnología de transcripción automatizada."
 #~ "BlueJeans es una plataforma de videoconferencias dirigida a empresas. Funciona en aplicaciones de escritorio y móviles, así como en la mayoría de navegadores. BlueJeans presume, entre otras, de "
 #~ "estas funciones: llamadas con alta calidad de vídeo, posibilidad de compartir pantalla, grabación e integración con otras aplicaciones empresariales como Trello y Slack. Incluso publicita que viene "
 #~ "con Dolby Voice, así que ahora puedes escuchar las broncas de tu jefe con toda claridad. En mayo de 2020, Verizon cerró la compra de BlueJeans. ¿Nos escuchas? Esperamos que sí."
+
+#~ msgctxt "price"
+#~ msgid "Free trial, paid plans start at $9.99 per month"
+#~ msgstr "Prueba gratis, planes de pago a partir de 9,99 $ al mes"
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""

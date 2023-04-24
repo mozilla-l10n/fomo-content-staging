@@ -19,12 +19,12 @@ msgid "Homepage"
 msgstr "Inicio"
 
 msgctxt "hero_headline"
-msgid "Exposing the Sexism in Generative AI"
+msgid "Challenging Algorithmic Bias Against Black Women"
 msgstr ""
 
 msgctxt "hero_button_text"
 msgid "Learn More"
-msgstr ""
+msgstr "Descubre más"
 
 msgctxt "spotlight_headline"
 msgid "All About Common Voice"
@@ -155,6 +155,10 @@ msgstr "Logo de Consumers International"
 #~ msgid "Activism, Whistleblowers &amp; the Collective Power of People"
 #~ msgstr "Activismo, denuncias y el poder colectivo de la gente"
 
+#~ msgctxt "hero_headline"
+#~ msgid "Exposing the Sexism in Generative AI"
+#~ msgstr "Exponiendo el Sexismo en la IA Generativa"
+
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Findings"
 #~ msgstr "Revisar los resultados"
@@ -184,24 +188,24 @@ msgstr "Logo de Consumers International"
 #~ msgstr "Descubre cuándo será"
 
 #~ msgctxt "hero_button_text"
-#~ msgid "Submit Your Session Idea"
-#~ msgstr "Envía tu idea para una sesión"
-
-#~ msgctxt "hero_button_text"
 #~ msgid "Secure Your Ticket Now"
 #~ msgstr "Asegura tu boleto"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Submit Your Session Idea"
+#~ msgstr "Envía tu idea para una sesión"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Here’s What We Found"
 #~ msgstr "He aquí lo que hemos descubierto"
 
 #~ msgctxt "hero_button_text"
-#~ msgid "Shop smart, and safe."
-#~ msgstr "Compra de forma segura e informada"
-
-#~ msgctxt "hero_button_text"
 #~ msgid "Read The Research"
 #~ msgstr "Para leer el estudio"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Shop smart, and safe."
+#~ msgstr "Compra de forma segura e informada"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Get Your MozFest 2023 Tickets"

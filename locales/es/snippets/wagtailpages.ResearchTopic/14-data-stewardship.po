@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Data Stewardship"
-msgstr ""
+msgstr "Custodia de datos"
