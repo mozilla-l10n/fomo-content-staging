@@ -344,10 +344,6 @@ msgstr "Escuchar ahora"
 #~ msgid "https://pretalx.com/mozilla-festival-2023/cfp"
 #~ msgstr "https://pretalx.com/mozilla-festival-2023/cfp"
 
-#~ msgctxt "body.c444ebd6-bf4c-4d6c-887d-86a2eeecec37.altText"
-#~ msgid "placeholder"
-#~ msgstr "marcador"
-
 #~ msgctxt "body.d21f5799-a7f9-4b48-9059-27f3145cb04a.session_items.c53e276a-8301-4ca6-9dd1-02eda56928fc.body"
 #~ msgid ""
 #~ "Are governments open to providing online complaints and reporting mechanisms? We discuss feminist research reports, then open the floor to a conversation on how to engage women's rights and "
@@ -355,6 +351,10 @@ msgstr "Escuchar ahora"
 #~ msgstr ""
 #~ "¿Los gobiernos están abiertos a proporcionar mecanismos de reclamación y presentación de informes en línea? Analizamos los informes feministas de investigación, luego cedemos la palabra para una "
 #~ "conversación sobre cómo incluir los derechos de las mujeres y los movimientos de base."
+
+#~ msgctxt "body.c444ebd6-bf4c-4d6c-887d-86a2eeecec37.altText"
+#~ msgid "placeholder"
+#~ msgstr "marcador"
 
 #~ msgctxt "body.39ac2317-162f-493e-83fa-c455f19caf82.url_label"
 #~ msgid "Submit your session idea"

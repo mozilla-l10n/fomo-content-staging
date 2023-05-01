@@ -78,16 +78,16 @@ msgstr "Assine nossa petição agora mesmo e nos ajude a pressionar o YouTube."
 #~ msgstr "Mesmo depois de usar os mecanismos de feedback, <b>o algoritmo do YouTube recomenda vídeos indesejados</b>"
 
 #~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
+#~ msgid "So have we - and we looked into it."
+#~ msgstr "Nós também, e fomos investigar."
+
+#~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
 #~ msgid ""
 #~ "From conspiracy theories to propaganda, YouTube’s algorithm promotes a minefield of controversial videos. <b>Have you ever wondered why it keeps recommending the same clickbait content</b> even "
 #~ "after you click “dislike” or “do not recommend”?"
 #~ msgstr ""
 #~ "De teorias da conspiração a propaganda ideológica, o algoritmo do YouTube promove um campo minado de vídeos controversos. <b>Você já se perguntou por que ele segue recomendando aquele "
 #~ "\"clickbait\",</b> mesmo depois de clicarmos em \"não gosto\" ou \"não recomendo\"?"
-
-#~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
-#~ msgid "So have we - and we looked into it."
-#~ msgstr "Nós também, e fomos investigar."
 
 #~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
 #~ msgid "With the help of 20,000 Mozilla supporters we studied YouTube’s feedback mechanisms – what we found out, published in the “Does This Button Work” report, is alarming:"

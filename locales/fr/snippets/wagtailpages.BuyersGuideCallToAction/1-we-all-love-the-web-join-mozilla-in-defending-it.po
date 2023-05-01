@@ -1,0 +1,23 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-05-01 07:06:26.775776+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 2dd1064e-b216-4bdc-823b-ae0e3730ca65\n"
+
+msgctxt "title"
+msgid "We all love the web. Join Mozilla in defending it."
+msgstr "Nous aimons tous le Web. Rejoignez Mozilla pour le défendre."
+
+msgctxt "content"
+msgid "We are proudly non-profit, non-corporate and non-compromised."
+msgstr "Nous sommes fiers d’être une organisation à but non lucratif, non constituée en société et sans compromis."
+
+msgctxt "link_label"
+msgid "Donate today"
+msgstr "Faites un don"
+
+msgctxt "link_target_url"
+msgid "https://foundation.mozilla.org/privacynotincluded/?form=donate"
+msgstr "https://foundation.mozilla.org/privacynotincluded/?form=donate"

@@ -90,6 +90,10 @@ msgid "<a id=\"a1\">The Plaza Post-MozFest</a>"
 msgstr "<a id=\"a1\">La Plaza Post-MozFest</a>"
 
 #~ msgctxt "body.e0d6c6c8-58a8-41d1-b665-3f8b2dccd0b1"
+#~ msgid "Thursday, March 16th, 2023"
+#~ msgstr "Jueves 16 de marzo de 2023"
+
+#~ msgctxt "body.e0d6c6c8-58a8-41d1-b665-3f8b2dccd0b1"
 #~ msgid "Tuesday, March 13th"
 #~ msgstr "Martes 13 de marzo"
 
@@ -112,10 +116,6 @@ msgstr "<a id=\"a1\">La Plaza Post-MozFest</a>"
 #~ msgctxt "body.e0d6c6c8-58a8-41d1-b665-3f8b2dccd0b1"
 #~ msgid "Facilitator All Hands - 16:00 UTC - <a id=\"a1\">Register Here</a>"
 #~ msgstr "Junta general de facilitadores - 16:00 UTC - <a id=\"a1\">Regístrate aquí</a>"
-
-#~ msgctxt "body.e0d6c6c8-58a8-41d1-b665-3f8b2dccd0b1"
-#~ msgid "Thursday, March 16th, 2023"
-#~ msgstr "Jueves 16 de marzo de 2023"
 
 #~ msgctxt "body.e0d6c6c8-58a8-41d1-b665-3f8b2dccd0b1"
 #~ msgid "Facilitator All Hands - 8:00 UTC - <a id=\"a1\">Register Here</a>"

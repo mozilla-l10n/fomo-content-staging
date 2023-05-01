@@ -307,6 +307,10 @@ msgctxt "body.739385ed-3beb-4e3d-98ec-7cfe5d2ad256.cards.c812c918-a143-440b-b681
 msgid "Read now"
 msgstr "Leer ahora"
 
+#~ msgctxt "body.af96ea9f-256d-46d8-8c14-bfa286acd33a.altText"
+#~ msgid "space placeholders"
+#~ msgstr "marcadores de posición"
+
 #~ msgctxt "body.0f1b5ef9-7218-448c-ae2f-0d0aeaeaab85.label"
 #~ msgid "Submit your session idea"
 #~ msgstr "Envía tu idea para una sesión"
@@ -334,10 +338,6 @@ msgstr "Leer ahora"
 #~ msgctxt "body.705b4f29-162d-4e1c-8f94-51b8cc98136b.URL"
 #~ msgid "https://pretalx.com/mozilla-festival-2023/cfp"
 #~ msgstr "https://pretalx.com/mozilla-festival-2023/cfp"
-
-#~ msgctxt "body.af96ea9f-256d-46d8-8c14-bfa286acd33a.altText"
-#~ msgid "space placeholders"
-#~ msgstr "marcadores de posición"
 
 #~ msgctxt "body.af96ea9f-256d-46d8-8c14-bfa286acd33a.text"
 #~ msgid "(This is an experience that is not accepting proposals.)"

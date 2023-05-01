@@ -914,14 +914,6 @@ msgstr "https://www.youtube-nocookie.com/embed/1msizDxhpdc?controls=0"
 #~ msgid "https://vote.webbyawards.com/PublicVoting#/2022/virtual-remote/features/best-festival-or-conference"
 #~ msgstr "https://vote.webbyawards.com/PublicVoting#/2022/virtual-remote/features/best-festival-or-conference"
 
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.457a0611-f56c-4cdf-b5fd-4a99107de728.title"
-#~ msgid "Join the MozFest Slack"
-#~ msgstr "Rejoignez le Slack du MozFest"
-
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.457a0611-f56c-4cdf-b5fd-4a99107de728.subheading_link.72771552-d318-4014-9995-15d80f98d5e3.label"
-#~ msgid "MozFest Community"
-#~ msgstr "Communauté du MozFest"
-
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.subheading_link.968ba3c3-9870-4c9e-becb-31aa775e4445.label"
 #~ msgid "May 17, 2022 at 20:00 CET"
 #~ msgstr "17 mai 2022 à 20h00 CET"
@@ -942,9 +934,9 @@ msgstr "https://www.youtube-nocookie.com/embed/1msizDxhpdc?controls=0"
 #~ msgid "Secure Your MozFest On-Demand Ticket Here"
 #~ msgstr "Réservez votre billet pour le MozFest à la demande ici"
 
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.b0f30d0a-316a-493b-978e-e52e6f83f937.body"
-#~ msgid "Access hundreds of recorded sessions, experiences and other content from MozFest 2022 until June 25th on the MozFest Plaza."
-#~ msgstr "Accédez à des centaines de sessions enregistrées, à des expériences et à d’autres contenus du MozFest 2022 jusqu’au 25 juin sur la MozFest Plaza."
+#~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
+#~ msgid "Passionate about creating and promoting solutions to the most urgent issues in AI? Connect with MozFest's Trustworthy AI Working Groups."
+#~ msgstr "La création et la promotion de solutions aux problèmes les plus urgents en matière d’IA vous passionne ? Prenez contact avec les groupes de travail sur l’IA digne de confiance du MozFest."
 
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.title"
 #~ msgid "Sustain the momentum of MozFest"
@@ -982,9 +974,17 @@ msgstr "https://www.youtube-nocookie.com/embed/1msizDxhpdc?controls=0"
 #~ msgid "MozFest On-Demand"
 #~ msgstr "MozFest à la demande"
 
-#~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
-#~ msgid "Passionate about creating and promoting solutions to the most urgent issues in AI? Connect with MozFest's Trustworthy AI Working Groups."
-#~ msgstr "La création et la promotion de solutions aux problèmes les plus urgents en matière d’IA vous passionne ? Prenez contact avec les groupes de travail sur l’IA digne de confiance du MozFest."
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.b0f30d0a-316a-493b-978e-e52e6f83f937.body"
+#~ msgid "Access hundreds of recorded sessions, experiences and other content from MozFest 2022 until June 25th on the MozFest Plaza."
+#~ msgstr "Accédez à des centaines de sessions enregistrées, à des expériences et à d’autres contenus du MozFest 2022 jusqu’au 25 juin sur la MozFest Plaza."
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.457a0611-f56c-4cdf-b5fd-4a99107de728.title"
+#~ msgid "Join the MozFest Slack"
+#~ msgstr "Rejoignez le Slack du MozFest"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.457a0611-f56c-4cdf-b5fd-4a99107de728.subheading_link.72771552-d318-4014-9995-15d80f98d5e3.label"
+#~ msgid "MozFest Community"
+#~ msgstr "Communauté du MozFest"
 
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.457a0611-f56c-4cdf-b5fd-4a99107de728.body"
 #~ msgid "A rich network that celebrates the impact a healthy open Internet can have. Share ideas before, after, and during the festival."

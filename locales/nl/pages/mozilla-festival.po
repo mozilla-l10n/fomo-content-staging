@@ -819,6 +819,10 @@ msgstr "https://www.youtube-nocookie.com/embed/1msizDxhpdc?controls=0"
 #~ msgid "https://vote.webbyawards.com/PublicVoting#/2022/virtual-remote/features/best-festival-or-conference"
 #~ msgstr "https://vote.webbyawards.com/PublicVoting#/2022/virtual-remote/features/best-festival-or-conference"
 
+#~ msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
+#~ msgid "Secure Your MozFest On-Demand Ticket Here"
+#~ msgstr "Stel hier uw MozFest On-Demand-ticket veilig"
+
 #~ msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
 #~ msgid "This panel is slated for June 2, 2022 at 16:00 UTC (18:00 CET / 12:00 ET / 21:30 IST)"
 #~ msgstr "Dit panel is gepland op 2 juni 2022 om 16:00 UTC (18:00 CET / 12:00 ET / 21:30 IST)"
@@ -859,10 +863,6 @@ msgstr "https://www.youtube-nocookie.com/embed/1msizDxhpdc?controls=0"
 #~ msgid "Join Toshi Reagon, in conversation with Adrienne Maree Brown, both stewards of “Parable of the Sower” by Octavia E. Butler, as they discuss its influence on their artistic practice."
 #~ msgstr ""
 #~ "Sluit aan bij Toshi Reagon, in gesprek met Adrienne Maree Brown, beide stewards van “Parable of the Sower” van Octavia E. Butler, terwijl ze de invloed ervan op hun artistieke praktijk bespreken."
-
-#~ msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
-#~ msgid "Secure Your MozFest On-Demand Ticket Here"
-#~ msgstr "Stel hier uw MozFest On-Demand-ticket veilig"
 
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.title"
 #~ msgid "Sustain the momentum of MozFest"
@@ -996,13 +996,13 @@ msgstr "https://www.youtube-nocookie.com/embed/1msizDxhpdc?controls=0"
 #~ msgid "Join us as we navigate the challenges and opportunities of facilitative leadership and online organizing 2 years into a remote-first world."
 #~ msgstr "Doe met ons mee terwijl we door de uitdagingen en kansen van faciliterend leiderschap en online organiseren, in een wereld die 2 jaar vooral van afstand meedeed, navigeren."
 
-#~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
-#~ msgid "MozFest 2023, taking place from March 20-24th. Join 1000s of activists in diverse global movements fighting for a more humane digital world."
-#~ msgstr "MozFest 2023, vindt plaats van 20 tot 24 maart. Sluit je aan bij duizenden activisten in diverse wereldwijde bewegingen die strijden voor een meer humane digitale wereld."
-
 #~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.heading"
 #~ msgid "Save The Date"
 #~ msgstr "Noteer de datum"
+
+#~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
+#~ msgid "MozFest 2023, taking place from March 20-24th. Join 1000s of activists in diverse global movements fighting for a more humane digital world."
+#~ msgstr "MozFest 2023, vindt plaats van 20 tot 24 maart. Sluit je aan bij duizenden activisten in diverse wereldwijde bewegingen die strijden voor een meer humane digitale wereld."
 
 #~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
 #~ msgid "Add the dates for MozFest 2023 to your calendar, on <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> or <a id=\"a3\">download the invitation</a>."

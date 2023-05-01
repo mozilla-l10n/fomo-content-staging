@@ -361,17 +361,6 @@ msgstr ""
 #~ "seu ID Apple. As amostras de áudio só são retidas se você tiver optado por participar."
 
 #~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Keep your app regularly updated"
-#~ msgstr "Mantenha seu aplicativo atualizado regularmente"
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid ""
-#~ "Limit ad tracking via your device (e.g. on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
-#~ msgstr ""
-#~ "Limite o rastreamento de anúncios através do seu dispositivo (por exemplo, no iPhone, vá para Privacidade - > Publicidade -> Limite o rastreamento de anúncios) e as maiores redes de anúncios (para o"
-#~ " Google, vá para a Conta do Google e desative a personalização de anúncios)"
-
-#~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Follow Apple's advice on how to secure Health data: <a id=\"a1\">https://support.apple.com/HT204351</a>"
 #~ msgstr "Siga as orientações da Apple sobre como proteger dados de saúde: <a id=\"a1\">https://support.apple.com/HT204351</a>"
 
@@ -382,6 +371,17 @@ msgstr ""
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images and videos)"
 #~ msgstr "Use os controles de privacidade do seu dispositivo para limitar o acesso às suas informações pessoais via aplicativo (não dê acesso à sua câmera, microfone, imagens e vídeos)"
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Keep your app regularly updated"
+#~ msgstr "Mantenha seu aplicativo atualizado regularmente"
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid ""
+#~ "Limit ad tracking via your device (e.g. on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
+#~ msgstr ""
+#~ "Limite o rastreamento de anúncios através do seu dispositivo (por exemplo, no iPhone, vá para Privacidade - > Publicidade -> Limite o rastreamento de anúncios) e as maiores redes de anúncios (para o"
+#~ " Google, vá para a Conta do Google e desative a personalização de anúncios)"
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

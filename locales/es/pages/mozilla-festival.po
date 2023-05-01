@@ -238,6 +238,14 @@ msgstr "https://www.youtube-nocookie.com/embed/1msizDxhpdc?controls=0"
 #~ msgid "Learn more about Working Groups"
 #~ msgstr "Saber más sobre los grupos de trabajo"
 
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.title"
+#~ msgid "Lead a Working Group Project"
+#~ msgstr "Lidera un proyecto de grupo de trabajo"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.subheading_link.968ba3c3-9870-4c9e-becb-31aa775e4445.label"
+#~ msgid "Working Groups"
+#~ msgstr "Grupos de trabajo"
+
 #~ msgctxt "cta_button_label"
 #~ msgid "Sign up for updates"
 #~ msgstr "Regístrate para recibir actualizaciones"
@@ -277,14 +285,6 @@ msgstr "https://www.youtube-nocookie.com/embed/1msizDxhpdc?controls=0"
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.title"
 #~ msgid "Sustain the momentum of MozFest"
 #~ msgstr "Sostén el impulso del MozFest"
-
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.title"
-#~ msgid "Lead a Working Group Project"
-#~ msgstr "Lidera un proyecto de grupo de trabajo"
-
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.subheading_link.968ba3c3-9870-4c9e-becb-31aa775e4445.label"
-#~ msgid "Working Groups"
-#~ msgstr "Grupos de trabajo"
 
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.body"
 #~ msgid "Join an engaged community whose aim is to help our technical community build more Trustworthy AI. The call for projects is now open!"
@@ -371,14 +371,6 @@ msgstr "https://www.youtube-nocookie.com/embed/1msizDxhpdc?controls=0"
 #~ msgid "Add the dates for MozFest 2023 to your calendar, on <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> or <a id=\"a3\">download the invitation</a>."
 #~ msgstr "Apunta las fechas del MozFest 2023 en tu calendario, en <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> o <a id=\"a3\">descarga la invitación</a>."
 
-#~ msgctxt "cta_button_label"
-#~ msgid "Submit your proposal"
-#~ msgstr "Envía tu propuesta"
-
-#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.altText"
-#~ msgid "MozFest Logo"
-#~ msgstr "Logo del MozFest"
-
 #~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
 #~ msgid "Add the dates for MozFest Virtual 2023 to your calendar, on <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> or <a id=\"a3\">download the invitation</a>."
 #~ msgstr "Apunta las fechas del MozFest virtual 2023 en tu calendario, en <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> o <a id=\"a3\">descarga la invitación</a>."
@@ -390,6 +382,14 @@ msgstr "https://www.youtube-nocookie.com/embed/1msizDxhpdc?controls=0"
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.subheading_link.a00f4042-4a44-49e4-bd30-43cbb22e62e5.label"
 #~ msgid "Call for Proposals"
 #~ msgstr "Convocatoria de propuestas"
+
+#~ msgctxt "cta_button_label"
+#~ msgid "Submit your proposal"
+#~ msgstr "Envía tu propuesta"
+
+#~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.altText"
+#~ msgid "MozFest Logo"
+#~ msgstr "Logo del MozFest"
 
 #~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
 #~ msgid "The MozFest 2023 Call for Proposals is now open, and closes on December 16th 2022. <a id=\"a1\">Submit your proposal now.</a>"
@@ -415,6 +415,10 @@ msgstr "https://www.youtube-nocookie.com/embed/1msizDxhpdc?controls=0"
 #~ msgid "nadya tolokonnikova"
 #~ msgstr "nadya tolokonnikova"
 
+#~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
+#~ msgid "Secure your Early Bird ticket to unlock exclusive access to fringe events in January and February!"
+#~ msgstr "¡Asegura tu boleto de pronto pago para obtener acceso exclusivo a los eventos previos en enero y febrero!"
+
 #~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
 #~ msgid "MozFest Virtual will take place online from 20th - 24th March, 2023."
 #~ msgstr "El MozFest virtual se llevará a cabo del 20 al 24 de marzo de 2023."
@@ -422,10 +426,6 @@ msgstr "https://www.youtube-nocookie.com/embed/1msizDxhpdc?controls=0"
 #~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.heading"
 #~ msgid "Early Bird Tickets"
 #~ msgstr "Boletos de entrada de pronto pago"
-
-#~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
-#~ msgid "Secure your Early Bird ticket to unlock exclusive access to fringe events in January and February!"
-#~ msgstr "¡Asegura tu boleto de pronto pago para obtener acceso exclusivo a los eventos previos en enero y febrero!"
 
 #~ msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
 #~ msgid ""

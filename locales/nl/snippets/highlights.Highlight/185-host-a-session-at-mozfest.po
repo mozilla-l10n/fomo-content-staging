@@ -23,12 +23,12 @@ msgid "<a id=\"a1\">Submit A Session</a>"
 msgstr "<a id=\"a1\">Een sessie indienen</a>"
 
 #~ msgctxt "title"
-#~ msgid "Get A MozFest 2023 Ticket"
-#~ msgstr "Koop een MozFest 2023-ticket"
-
-#~ msgctxt "title"
 #~ msgid "Host A Session At MozFest"
 #~ msgstr "Organiseer een sessie op MozFest"
+
+#~ msgctxt "title"
+#~ msgid "Get A MozFest 2023 Ticket"
+#~ msgstr "Koop een MozFest 2023-ticket"
 
 #~ msgctxt "description"
 #~ msgid "MozFest is looking for participatory, collaborative and interactive session ideas! The Call for Proposals is open now through 16 December."

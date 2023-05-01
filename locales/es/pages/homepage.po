@@ -19,7 +19,7 @@ msgid "Homepage"
 msgstr "Inicio"
 
 msgctxt "hero_headline"
-msgid "Challenging Algorithmic Bias Against Black Women"
+msgid "Empowering Gig Workers With Gigbox"
 msgstr ""
 
 msgctxt "hero_button_text"
@@ -168,16 +168,16 @@ msgstr "Logo de Consumers International"
 #~ msgstr "Descúbrelo"
 
 #~ msgctxt "hero_button_text"
-#~ msgid "Call For Projects Now Open"
-#~ msgstr "Estamos recibiendo proyectos"
-
-#~ msgctxt "hero_button_text"
 #~ msgid "Secure Yours"
 #~ msgstr "Obtén la tuya"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Guide"
 #~ msgstr "Lee la guía"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Call For Projects Now Open"
+#~ msgstr "Estamos recibiendo proyectos"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Learn More Here"
@@ -192,20 +192,20 @@ msgstr "Logo de Consumers International"
 #~ msgstr "Asegura tu boleto"
 
 #~ msgctxt "hero_button_text"
-#~ msgid "Submit Your Session Idea"
-#~ msgstr "Envía tu idea para una sesión"
-
-#~ msgctxt "hero_button_text"
 #~ msgid "Here’s What We Found"
 #~ msgstr "He aquí lo que hemos descubierto"
 
 #~ msgctxt "hero_button_text"
-#~ msgid "Read The Research"
-#~ msgstr "Para leer el estudio"
+#~ msgid "Submit Your Session Idea"
+#~ msgstr "Envía tu idea para una sesión"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Shop smart, and safe."
 #~ msgstr "Compra de forma segura e informada"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Read The Research"
+#~ msgstr "Para leer el estudio"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Get Your MozFest 2023 Tickets"

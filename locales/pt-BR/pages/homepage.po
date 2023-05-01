@@ -19,8 +19,8 @@ msgid "Homepage"
 msgstr "Página inicial"
 
 msgctxt "hero_headline"
-msgid "Challenging Algorithmic Bias Against Black Women"
-msgstr "Combate ao viés algorítmico contra mulheres negras"
+msgid "Empowering Gig Workers With Gigbox"
+msgstr ""
 
 msgctxt "hero_button_text"
 msgid "Learn More"
@@ -148,12 +148,12 @@ msgstr "Logotipo da Consumers International"
 #~ msgstr "Grupos de trabalho de inteligência artificial confiável"
 
 #~ msgctxt "hero_headline"
-#~ msgid "The Lessons We Carry from MozFest 2022"
-#~ msgstr "As lições que levamos do MozFest 2022"
-
-#~ msgctxt "hero_headline"
 #~ msgid "The Return of IRL Podcast"
 #~ msgstr "O retorno do podcast IRL"
+
+#~ msgctxt "hero_headline"
+#~ msgid "The Lessons We Carry from MozFest 2022"
+#~ msgstr "As lições que levamos do MozFest 2022"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Mozilla Festival 2023 Dates Announced!"
@@ -186,6 +186,10 @@ msgstr "Logotipo da Consumers International"
 #~ msgctxt "hero_headline"
 #~ msgid "Exposing the Sexism in Generative AI"
 #~ msgstr "Expondo o sexismo na inteligência artificial generativa"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Challenging Algorithmic Bias Against Black Women"
+#~ msgstr "Combate ao viés algorítmico contra mulheres negras"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Findings"

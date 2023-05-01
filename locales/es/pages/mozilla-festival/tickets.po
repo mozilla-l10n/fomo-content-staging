@@ -251,6 +251,10 @@ msgctxt "body.561e031c-39ce-4ca8-9354-6ddf9edf84a7.releases"
 msgid "mozfest-patron-tera"
 msgstr "mozfest-patron-tera"
 
+#~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
+#~ msgid "Engage with artists as they respond to outcomes from sessions."
+#~ msgstr "Interactuar con artistas cuando respondan al resultado de las sesiones."
+
 #~ msgctxt "seo_title"
 #~ msgid "Secure your Early Bird ticket to MozFest 2023"
 #~ msgstr "Asegura tu boleto de pronto pago al MozFest 2023"
@@ -283,10 +287,6 @@ msgstr "mozfest-patron-tera"
 #~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
 #~ msgid "Gather with the community through our virtual socials."
 #~ msgstr "Reunirte con la comunidad mediante nuestras reuniones sociales virtuales."
-
-#~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
-#~ msgid "Engage with artists as they respond to outcomes from sessions."
-#~ msgstr "Interactuar con artistas cuando respondan al resultado de las sesiones."
 
 #~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
 #~ msgid "MozFest Early Bird"
