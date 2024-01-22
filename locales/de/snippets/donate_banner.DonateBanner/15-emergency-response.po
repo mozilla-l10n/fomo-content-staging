@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-01-22 14:16:50.466752+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: fbd06626-c863-4822-8438-ced36deff9df\n"
+
+msgctxt "title"
+msgid "Donation forms are down"
+msgstr "Die Spendenformulare sind nicht erreichbar"
+
+msgctxt "subtitle"
+msgid "We'll be back soon! You can still make a donation via PayPal"
+msgstr "Wir sind bald wieder da! Sie können weiterhin über PayPal spenden"
+
+msgctxt "cta_button_text"
+msgid "Donate Via PayPal"
+msgstr "Per PayPal spenden"

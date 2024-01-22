@@ -8,15 +8,15 @@ msgstr ""
 
 msgctxt "title"
 msgid "Attend MozFest On-Demand"
-msgstr ""
+msgstr "Asiste a MozFest a la carta"
 
 msgctxt "description"
 msgid "MozFest may be over but you can still watch 150+ sessions with a pay-what-you-can on-demand ticket."
-msgstr ""
+msgstr "Puede que el MozFest haya terminado, pero aún puedes ver más de 150 sesiones con una entrada de pago a la carta."
 
 msgctxt "link_label"
 msgid "Secure your ticket"
-msgstr "Asegura tu boleto"
+msgstr "Consigue tu entrada"
 
 msgctxt "footer"
 msgid "<a id=\"a1\">Submit A Session</a>"

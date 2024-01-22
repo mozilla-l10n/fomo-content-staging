@@ -163,7 +163,7 @@ msgstr "<a id=\"a1\">Verifique</a> se o seu endereço está exposto por meio do 
 
 msgctxt "tips_to_protect_yourself"
 msgid "<a id=\"a1\">Don't shar</a>e your login-in information"
-msgstr "<a id=\"a1\">Não compartilhe suas</a>informações de login"
+msgstr "<a id=\"a1\">Não compartilhe suas</a> informações de login"
 
 msgctxt "tips_to_protect_yourself"
 msgid "Review sharing options for your data if you have multiple people in the neighborhood"

@@ -78,7 +78,7 @@ msgstr "Para a Blink, os pesquisadores de segurança podem relatar uma vulnerabi
 
 msgctxt "personal_data_collected"
 msgid "Name, email, phone number, address"
-msgstr "Nome, e-mail, número de telefone, endereço"
+msgstr "Nome, email, número de celular, endereço"
 
 msgctxt "biometric_data_collected"
 msgid "Video and voice recordings"

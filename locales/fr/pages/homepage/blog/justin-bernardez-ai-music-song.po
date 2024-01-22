@@ -1,0 +1,48 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-01-22 14:17:22.323590+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: e4881fd2-dfb6-4311-b8d0-4e0b8e8f9784\n"
+
+msgctxt "seo_title"
+msgid "Justin Bernardez &amp; Mozilla Interview: The Rise of AI-Made Music"
+msgstr "Interview de Justin Bernardez par Mozilla : l’essor de la musique créée par l’IA"
+
+msgctxt "search_description"
+msgid "Mozilla interviews Justin Bernardez about \"Heart On My Sleeve,\" the AI-generated Drake and The Weeknd song and other songs made by software."
+msgstr "Interrogé par Mozilla, Justin Bernardez parle de « Heart On My Socket », le titre de Drake et The Weeknd généré par une IA, ainsi que d’autres morceaux créés par logiciel."
+
+msgctxt "body.05200bda-ec53-4dc9-83ce-e3b501758fec.url"
+msgid "https://www.youtube.com/embed/NeG58GE5bEA"
+msgstr "https://www.youtube.com/embed/NeG58GE5bEA"
+
+msgctxt "body.930a5443-b41a-446e-8c38-42847605c28c"
+msgid "That Drake song you just heard may not have been by Drake."
+msgstr "La chanson de Drake que vous venez d’entendre n’est peut-être pas de Drake."
+
+msgctxt "body.930a5443-b41a-446e-8c38-42847605c28c"
+msgid ""
+"The field of AI is heating up. Tools like <a id=\"a1\">ChatGPT</a> have shown us how capable (and <a id=\"a2\">misguided</a>) artificial intelligence can be. <a id=\"a3\">Deepfake images and "
+"video</a> have shown us that seeing isn't always believing. Now the same is true for audio — just because a song like \"Heart On My Sleeve\" sounds like it features Drake and The Weeknd doesn't "
+"actually mean the two artists had anything to do with the song."
+msgstr ""
+"Le domaine de l’IA prend de l’ampleur. Des outils tels que <a id=\"a1\">ChatGPT</a> nous ont montré de quoi l’intelligence artificielle peut être capable (et comment son usage peut <a id=\"a2\">être"
+" détourné</a>). <a id=\"a3\">Les images et vidéos Deepfake</a> ont montré qu’on ne peut plus croire tout ce que l’on voit. Il en va de même pour l’audio. Ce n’est pas parce qu’une chanson comme "
+"« Heart On My manches » a l’air d’être une collaboration entre Drake et The Weeknd que les deux artistes ont forcément créé cette chanson."
+
+msgctxt "body.930a5443-b41a-446e-8c38-42847605c28c"
+msgid ""
+"We chat with Justin Bernardez about the emergence of AI-made music. Justin is a pro at replicating the styles and flows of popular rap artists — just ask the 2+ million TikTok users that follow him."
+msgstr ""
+"Nous discutons de l’émergence de la musique composée par l’IA avec Justin Bernardez. Justin parvient à reproduire fidèlement le style et le flow d’artistes rap populaires ; ses plus de 2 millions "
+"d’abonnés sur TikTok peuvent confirmer."
+
+msgctxt "body.930a5443-b41a-446e-8c38-42847605c28c"
+msgid "So how does Justin Bernardez feel about software that can do his job as well as he can? Watch the above interview to find out."
+msgstr "Alors, que pense Justin Bernardez des logiciels qui peuvent faire son travail aussi bien que lui ? Regardez l’interview ci-dessus pour le savoir."
+
+msgctxt "title"
+msgid "The Rise of AI-Made Music: Interview with Justin Bernardez"
+msgstr "L’essor de la musique produite par l’IA : entretien avec Justin Bernardez"

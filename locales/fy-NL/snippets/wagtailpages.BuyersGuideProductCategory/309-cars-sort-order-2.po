@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-01-22 14:17:29.984359+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 2a98203b-ff2f-4221-9eec-cf9e7e5c3bf1\n"
+
+msgctxt "name"
+msgid "Cars"
+msgstr "Auto’s"
+
+msgctxt "description"
+msgid "Cars and their privacy and security concerns"
+msgstr "Auto’s en de soargen oer harren privacy en befeiliging"
+
+#~ msgctxt "description"
+#~ msgid "Cars and their privacy and security concerns."
+#~ msgstr "Auto’s en de soargen oer harren privacy en befeiliging."

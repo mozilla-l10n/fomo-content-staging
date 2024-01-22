@@ -64,7 +64,7 @@ msgstr ""
 
 msgctxt "strong_password_helptext"
 msgid "You can lock your Signal app with a passcode"
-msgstr "Você pode bloquear seu aplicativo Signal com uma senha"
+msgstr "Você pode bloquear seu aplicativo Signal com um código de acesso"
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Anyone can report a vulnerability"

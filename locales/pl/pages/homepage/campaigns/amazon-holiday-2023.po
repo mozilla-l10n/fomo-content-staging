@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-01-22 14:17:33.956154+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 1454dad9-fecd-44e6-b6fc-c1b08a2e2a2e\n"
+
+msgctxt "seo_title"
+msgid "Add your name to tell Amazon's new executive to protect children's privacy."
+msgstr "Dopisz się i zażądaj od nowego dyrektora Amazona ochrony prywatności dzieci."
+
+msgctxt "search_description"
+msgid "Sign Mozilla’s petition now and tell Amazon's new executive to protect children’s privacy in Amazon devices."
+msgstr "Już teraz podpisz petycję Mozilli i zażądaj od nowego dyrektora Amazona ochrony prywatności dzieci na urządzeniach Amazon!"
+
+msgctxt "title"
+msgid "Add your name to tell Amazon's new executive to protect children's privacy."
+msgstr "Dopisz się i zażądaj od nowego dyrektora Amazona ochrony prywatności dzieci."
+
+msgctxt "header"
+msgid "Add your name to tell Amazon's new executive to protect children's privacy."
+msgstr "Dopisz się i zażądaj od nowego dyrektora Amazona ochrony prywatności dzieci."
+
+msgctxt "body.3638b813-dd67-4e44-afcc-44781c8cd514"
+msgid ""
+"A new executive is coming in to lead Amazon's Devices &amp; Services division, which includes <b>Alexa, Echo, Ring Video Doorbells, Fire TV, Fire tablets, Kindles</b>, and other devices and "
+"\"smart\" home products. And we think he needs to make protecting people’s privacy a top priority."
+msgstr ""
+"Dział Urządzeń i Usług Amazon, który zajmuje się między innymi <b>funkcjami Alexa i Echo, dzwonkami Ring Video, Fire TV, tabletami Fire, czytnikami Kindle</b> i innymi „inteligentnymi” produktami do"
+" domu, będzie miał nowego dyrektora. Naszym zdaniem jego głównym priorytetem powinna być ochrona prywatności użytkowników."
+
+msgctxt "body.3638b813-dd67-4e44-afcc-44781c8cd514"
+msgid ""
+"That has to start with children’s privacy. <b>Amazon has agreed to pay a $25 million USD fine to U.S. regulators for keeping Alexa recordings of children's voices and geolocation data "
+"indefinitely</b> - in some cases even after parents had asked for them to be deleted. With smart home devices, e-readers, and tablets geared towards kids, Amazon's ability to mine children’s "
+"personal data is a big problem."
+msgstr ""
+"Przede wszystkim trzeba zacząć od prywatności dzieci. <b>Amazon zgodził się zapłacić organom regulacyjnym grzywnę w wysokości 25 mln dolarów za to, że usługa Alexa przechowywała nagrania dziecięcych"
+" głosów oraz dane geolokalizacyjne dzieci bezterminowo.</b> W niektórych przypadkach nawet wtedy, gdy rodzice poprosili o ich usunięcie. Inteligentne urządzenia do domu, czytniki e-booków i tablety "
+"są przeznaczone również dla dzieci, zatem Amazon może gromadzić dane osobowe najmłodszych. To naprawdę duży problem."
+
+msgctxt "body.3638b813-dd67-4e44-afcc-44781c8cd514"
+msgid "This is not acceptable, and we need to make sure we send a strong message to the new Amazon leadership: Children’s privacy needs to be protected in all Amazon devices."
+msgstr "Nie będziemy tego tolerować i trzeba powiedzieć to jasno nowemu kierownictwu Amazona: prywatność dzieci należy chronić na wszystkich urządzeniach Amazon!"
+
+msgctxt "body.3638b813-dd67-4e44-afcc-44781c8cd514"
+msgid "Sign Mozilla’s petition now and tell Amazon's new executive to protect children’s privacy in Amazon devices."
+msgstr "Już teraz podpisz petycję Mozilli i zażądaj od nowego dyrektora Amazona ochrony prywatności dzieci na urządzeniach Amazon!"

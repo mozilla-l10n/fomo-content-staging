@@ -19,16 +19,16 @@ msgid "Homepage"
 msgstr "Página inicial"
 
 msgctxt "hero_headline"
-msgid "Empowering Gig Workers With Gigbox"
+msgid "Examining AI On The Continent Of Africa"
 msgstr ""
 
 msgctxt "hero_button_text"
-msgid "Learn More"
-msgstr "Saiba mais"
+msgid "See The 7 Winning Projects"
+msgstr "Veja os 7 projetos vencedores"
 
 msgctxt "spotlight_headline"
-msgid "All About Common Voice"
-msgstr "Tudo sobre o Common Voice"
+msgid "Spotlight: The Data Futures Lab"
+msgstr "Em destaque: o Data Futures Lab"
 
 msgctxt "cause_statement"
 msgid "The Mozilla Foundation works to ensure the internet remains a public resource that is open and accessible to us all."
@@ -67,21 +67,21 @@ msgctxt "take_action_title"
 msgid "Take action"
 msgstr "Tome uma atitude"
 
-msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
-msgid "Tell YouTube: Give users real control over their video recommendations!"
-msgstr "Diga ao YouTube: Dê aos usuários controle real sobre suas recomendações de vídeo!"
+msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
+msgid "Microsoft: Are You Using Customer Data To Train AI?"
+msgstr "Microsoft: você está usando dados de clientes para treinar inteligência artificial?"
 
 msgctxt "take_action_cards.a18d063b-b168-46c9-b24e-e955b8dcd16e.text"
-msgid "Let’s open the door for social media researchers."
-msgstr "Vamos abrir a porta para pesquisadores de mídias sociais."
+msgid "TikTok: Stop Misleading Android Users"
+msgstr "TikTok: Pare de enganar os usuários do Android"
 
-msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
-msgid "Tell Tinder: It’s time for meaningful transparency into your pricing algorithms!"
-msgstr "Diga ao Tinder: É hora de ter transparência significativa em seus algoritmos de preços!"
+msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
+msgid "Amazon: Fix This Security Flaw in Ring Doorbells"
+msgstr "Amazon: Corrija esta falha de segurança em campainhas Ring"
 
 msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
-msgid "Invest in our Planet – The Intersectionality of Climate &amp; Tech"
-msgstr "Invista no nosso planeta – A Interseccionalidade de Clima e Tecnologia"
+msgid "Car Companies: Stop Your Data Collection Programs"
+msgstr "Fabricantes de automóveis: Ponham um fim a seus programas de coleta de dados"
 
 msgctxt "partner_logos.27a519d5-cbc2-4e21-af63-5e80a198ecf6.name"
 msgid "Ford Foundation logo"
@@ -148,12 +148,12 @@ msgstr "Logotipo da Consumers International"
 #~ msgstr "Grupos de trabalho de inteligência artificial confiável"
 
 #~ msgctxt "hero_headline"
-#~ msgid "The Return of IRL Podcast"
-#~ msgstr "O retorno do podcast IRL"
-
-#~ msgctxt "hero_headline"
 #~ msgid "The Lessons We Carry from MozFest 2022"
 #~ msgstr "As lições que levamos do MozFest 2022"
+
+#~ msgctxt "hero_headline"
+#~ msgid "The Return of IRL Podcast"
+#~ msgstr "O retorno do podcast IRL"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Mozilla Festival 2023 Dates Announced!"
@@ -190,6 +190,50 @@ msgstr "Logotipo da Consumers International"
 #~ msgctxt "hero_headline"
 #~ msgid "Challenging Algorithmic Bias Against Black Women"
 #~ msgstr "Combate ao viés algorítmico contra mulheres negras"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Mental Health Apps!* (*Privacy Not Included)"
+#~ msgstr "Aplicativos de saúde mental!* (*Privacidade não incluída)"
+
+#~ msgctxt "hero_headline"
+#~ msgid "MozFest House: June 19-21"
+#~ msgstr "MozFest House: 19 a 21 de junho"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Help Us Build An App To Study TikTok's Algorithm"
+#~ msgstr "Ajude-nos a criar um aplicativo para estudar o algoritmo do TikTok"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Slack Takes An Important Step To Block Abuse"
+#~ msgstr "O Slack dá um passo importante para bloquear abuso"
+
+#~ msgctxt "hero_headline"
+#~ msgid "MozFest House Kenya: Sept 21 - 22 2023"
+#~ msgstr "MozFest House Quênia: 21 e 22 de setembro de 2023"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Amazon Still Hasn't Improved Ring's Security"
+#~ msgstr "A Amazon ainda não melhorou a segurança do Ring"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Help Prevent France Website Censorship Bill"
+#~ msgstr "Ajude a impedir o projeto de lei de censura de sites na França"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Cars Are A Privacy Nightmare"
+#~ msgstr "Carros são um pesadelo de privacidade"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Cars!* (*Privacy Not Included)"
+#~ msgstr "Carros!* (*Privacidade não incluída)"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Season 7 of our award winning podcast: IRL"
+#~ msgstr "7ª temporada do nosso podcast premiado: IRL"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Which Gadgets Protect Your Privacy This Holiday Season?"
+#~ msgstr "Quais dispositivos protegem sua privacidade nesta temporada de festas?"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Findings"
@@ -232,6 +276,10 @@ msgstr "Logotipo da Consumers International"
 #~ msgstr "A inscrição de projetos está aberta"
 
 #~ msgctxt "hero_button_text"
+#~ msgid "Learn More"
+#~ msgstr "Saiba mais"
+
+#~ msgctxt "hero_button_text"
 #~ msgid "Learn More Here"
 #~ msgstr "Saiba mais"
 
@@ -255,9 +303,45 @@ msgstr "Logotipo da Consumers International"
 #~ msgid "Get Your MozFest 2023 Tickets"
 #~ msgstr "Compre seu ingresso para o MozFest 2023"
 
+#~ msgctxt "hero_button_text"
+#~ msgid "Secure Your Ticket"
+#~ msgstr "Garanta seu ingresso"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Donate Now"
+#~ msgstr "Faça uma doação"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Learn more about our debut in Nairobi"
+#~ msgstr "Saiba mais sobre nossa estreia em Nairóbi"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Here's What You Can Do"
+#~ msgstr "Veja o que você pode fazer"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Sign the Petition"
+#~ msgstr "Assine a petição"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Read The Latest *Privacy Not Included Guide"
+#~ msgstr "Leia o mais recente guia *Privacidade não incluída"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Listen Now"
+#~ msgstr "Ouvir agora"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Read The Buyers' Guide"
+#~ msgstr "Leia o Guia do Comprador"
+
 #~ msgctxt "spotlight_headline"
 #~ msgid "What To Know About Venmo"
 #~ msgstr "O que saber sobre o Venmo"
+
+#~ msgctxt "spotlight_headline"
+#~ msgid "All About Common Voice"
+#~ msgstr "Tudo sobre o Common Voice"
 
 #~ msgctxt "take_action_cards.1e303e2d-ade9-48e9-9f84-00a6e018e345.text"
 #~ msgid "Open letter to Venmo: Make Privacy the Default"
@@ -266,6 +350,10 @@ msgstr "Logotipo da Consumers International"
 #~ msgctxt "take_action_cards.86d49254-53ec-460e-a27a-60fb74df0b92.text"
 #~ msgid "Let’s Unfck The Internet"
 #~ msgstr "Vamos desentortar a internet"
+
+#~ msgctxt "take_action_cards.86d49254-53ec-460e-a27a-60fb74df0b92.text"
+#~ msgid "Invest in our Planet – The Intersectionality of Climate &amp; Tech"
+#~ msgstr "Invista no nosso planeta – A Interseccionalidade de Clima e Tecnologia"
 
 #~ msgctxt "take_action_cards.36e213a7-6199-4ebc-b1fc-633d6bc11965.text"
 #~ msgid "Supporting Black Artists Examining AI"
@@ -278,3 +366,39 @@ msgstr "Logotipo da Consumers International"
 #~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
 #~ msgid "Become an Advisor for the Cities’ Digital Rights Helpdesk!"
 #~ msgstr "Torne-se um assessor do balcão de informações de direitos digitais das cidades!"
+
+#~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
+#~ msgid "Tell Tinder: It’s time for meaningful transparency into your pricing algorithms!"
+#~ msgstr "Diga ao Tinder: É hora de ter transparência significativa em seus algoritmos de preços!"
+
+#~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
+#~ msgid "Tell Tinder: It’s time for pricing algorithm transparency"
+#~ msgstr "Diga ao Tinder que já está na hora de ter transparência no algoritmo de preços"
+
+#~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
+#~ msgid "Stop France From Forcing Browsers To Censor Websites"
+#~ msgstr "Impeça que a França obrigue navegadores a censurar sites"
+
+#~ msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
+#~ msgid "Tell YouTube: Give users real control over their video recommendations!"
+#~ msgstr "Diga ao YouTube: Dê aos usuários controle real sobre suas recomendações de vídeo!"
+
+#~ msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
+#~ msgid "Tell TikTok: Stop misleading Android users"
+#~ msgstr "Diga ao TikTok para parar de enganar os usuários do Android"
+
+#~ msgctxt "take_action_cards.a18d063b-b168-46c9-b24e-e955b8dcd16e.text"
+#~ msgid "Let’s open the door for social media researchers."
+#~ msgstr "Vamos abrir a porta para pesquisadores de mídias sociais."
+
+#~ msgctxt "take_action_cards.a18d063b-b168-46c9-b24e-e955b8dcd16e.text"
+#~ msgid "Tell Slack: Make DMs Safe"
+#~ msgstr "Diga ao Slack para tornar seguras as mensagens diretas"
+
+#~ msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
+#~ msgid "Invest in our Planet – The Intersectionality of Climate &amp; Tech"
+#~ msgstr "Invista no nosso planeta – A Interseccionalidade de Clima e Tecnologia"
+
+#~ msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
+#~ msgid "Tell YouTube: Give users real control over recommendations!"
+#~ msgstr "Diga ao YouTube para dar aos usuários controle real sobre as recomendações!"

@@ -1,0 +1,27 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-01-22 14:17:34.859810+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: d47c863e-aa79-4da0-b5a1-139d5d5dd312\n"
+
+msgctxt "title"
+msgid "Net Neutrality"
+msgstr "Neutralność sieci"
+
+msgctxt "description"
+msgid ""
+"US regulators are considering reinstating net neutrality rules, which keep internet service providers from blocking or throttling internet access. Can you say you support net neutrality and help "
+"reclaim the internet?"
+msgstr ""
+"Amerykańskie organy regulacyjne rozważają przywrócenie zasad neutralności sieci, zgodnie z którymi firmy świadczące usługi internetowe nie będą mogły blokować ani ograniczać dostępu do internetu. "
+"Czy chcesz opowiedzieć się po stronie neutralności sieci i pomóc nam odzyskać internet?"
+
+msgctxt "link_label"
+msgid "Add your name if you agree"
+msgstr "Dopisz się, jeśli się zgadzasz"
+
+msgctxt "footer"
+msgid "/"
+msgstr "/"

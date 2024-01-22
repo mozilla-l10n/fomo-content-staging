@@ -1,0 +1,25 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-01-22 14:17:41.138751+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 78289d32-622a-4c9f-9dd7-97342fceb62c\n"
+
+msgctxt "header"
+msgid "Can you add a donation in support of Mozilla’s campaigns to protect your privacy?"
+msgstr "Que tal ajudar a Mozilla a proteger sua privacidade? Faça uma doação e contribua para essa missão!"
+
+msgctxt "body"
+msgid "Thanks so much for signing our petition demanding car companies stop their huge data collection programs. Can you add a donation to support Mozilla’s non-profit work for Internet privacy?"
+msgstr ""
+"Agradecemos por assinar nossa petição exigindo que as fabricantes de automóveis parem com seus programas de grande coleta de dados. Já pensou em fazer parte de um movimento que defende a privacidade"
+" na internet? Sua doação para a Mozilla, uma organização sem fins lucrativos, pode ajudar nessa missão!"
+
+msgctxt "donate_text"
+msgid "Yes, I’ll chip in"
+msgstr "Sim, vou fazer uma doação"
+
+msgctxt "dismiss_text"
+msgid "No thanks, but I’ll share instead"
+msgstr "Não, em vez disso vou compartilhar"

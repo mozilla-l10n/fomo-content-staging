@@ -64,6 +64,26 @@ msgctxt "body.f483b696-baa3-4b6e-86cd-9bddf1377b2c.url"
 msgid "https://foundation.mozilla.org/youtube/user-controls/"
 msgstr "https://foundation.mozilla.org/youtube/user-controls/"
 
+msgctxt "body.e0770a03-0189-4dc5-9d2f-38a7a820a1b4.altText"
+msgid "Illustration of a magnifying glass, people, charts and graphs"
+msgstr "Illustratie van een vergrootglas, mensen, kaarten en grafieken"
+
+msgctxt "body.e0770a03-0189-4dc5-9d2f-38a7a820a1b4.text"
+msgid "RegretsReporter Dataset"
+msgstr "RegretsReporter-gegevensset"
+
+msgctxt "body.e0770a03-0189-4dc5-9d2f-38a7a820a1b4.text"
+msgid "The RegretsReporter dataset can be used for research and investigations into the impact of YouTube's recommendation engine on communities around the world."
+msgstr "De gegevensset van RegretsReporter kan worden gebruikt voor onderzoek naar de impact van de aanbevelingsengine van YouTube op gemeenschappen over de hele wereld."
+
+msgctxt "body.e0770a03-0189-4dc5-9d2f-38a7a820a1b4.text"
+msgid "<a id=\"a1\">Learn more</a>"
+msgstr "<a id=\"a1\">Meer info</a>"
+
+msgctxt "body.e0770a03-0189-4dc5-9d2f-38a7a820a1b4.text"
+msgid "<a id=\"a1\">Download the dataset</a>"
+msgstr "<a id=\"a1\">De gegevensset downloaden</a>"
+
 msgctxt "body.f460122b-a061-430a-adf7-2ac25d9470e9"
 msgid "Past Work"
 msgstr "Eerder werk"
@@ -107,8 +127,8 @@ msgid "<a id=\"a1\">Read more</a>"
 msgstr "<a id=\"a1\">Meer info</a>"
 
 msgctxt "body.62bb913e-1f01-408f-9d6b-25471c635622.url"
-msgid "https://foundation.mozilla.org/campaigns/youtube-regrets/"
-msgstr "https://foundation.mozilla.org/campaigns/youtube-regrets/"
+msgid "https://foundation.mozilla.org/youtube/regrets/"
+msgstr "https://foundation.mozilla.org/youtube/regrets/"
 
 msgctxt "body.a97caefe-33bd-4e49-97ec-4c0719a8a305.title"
 msgid "Blog Posts"
@@ -186,6 +206,10 @@ msgstr "YouTube"
 #~ msgstr ""
 #~ "Sinds 2019 pleit Mozilla ervoor dat YouTube meer open en transparant is over hun aanbevelingensysteem. Ons oorspronkelijke onderzoek, onze onderzoeken en campagnes hebben aangetoond hoe de "
 #~ "aanbevelingen van YouTube mensen kunnen schaden, en onze beleidsaanbevelingen stellen oplossingen voor."
+
+#~ msgctxt "body.62bb913e-1f01-408f-9d6b-25471c635622.url"
+#~ msgid "https://foundation.mozilla.org/campaigns/youtube-regrets/"
+#~ msgstr "https://foundation.mozilla.org/campaigns/youtube-regrets/"
 
 #~ msgctxt "title"
 #~ msgid "YouTube Regrets"

@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-01-22 14:17:20.861549+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: a1e094c7-4910-4195-916c-8c99d3e9fa93\n"
+
+msgctxt "title"
+msgid "Donate to Mozilla. Reclaim the internet."
+msgstr "Faites un don à Mozilla. Reprenez le contrôle d’Internet."
+
+msgctxt "subtitle"
+msgid "Our deadline to raise $3.3 million USD is midnight on December 31. Will you donate to reach our goal?"
+msgstr "Nous devons collecter 3,3 millions de dollars avant le 31 décembre à minuit. Accepterez-vous de faire un don pour atteindre notre objectif ?"
+
+msgctxt "cta_button_text"
+msgid "Donate →"
+msgstr "Faire un don →"

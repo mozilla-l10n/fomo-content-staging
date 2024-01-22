@@ -73,7 +73,7 @@ msgstr "O serviço fornece atualizações regularmente."
 
 msgctxt "strong_password_helptext"
 msgid "An authorisation per SMS is used instead. For chats, a passcode can be added as an extra security layer."
-msgstr "Em vez disso, é usada uma autorização por SMS. Para chats, uma senha pode ser adicionada como uma camada de segurança extra."
+msgstr "Em vez disso, é usada uma autorização por SMS. Para chats, um código de acesso pode ser adicionado como camada extra de segurança."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Telegram has a dedicated team that have fixed some of known security vulnerabilities in the app, often promptly."

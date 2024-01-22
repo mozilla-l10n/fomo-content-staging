@@ -51,7 +51,7 @@ msgctxt "body.febf55d7-48d7-44d8-a686-84f3bf984e36.quote"
 msgid "\"I was incredibly inspired by the global, massively cross-disciplinary community of builders, advocates, organizers, researchers, (...list...does...not...end), at MozFest.\""
 msgstr ""
 "« J’ai été incroyablement inspiré par la communauté mondiale et massivement interdisciplinaire de créateurs et créatrices, défenseurs et défenseuses, d’organisateurs et d’organisatrices, de "
-"chercheurs et de chercheuses, (... la liste... n’en... finit… pas), au MozFest. »"
+"chercheurs et de chercheuses, (… la liste… n’en… finit… pas), au MozFest. »"
 
 msgctxt "body.febf55d7-48d7-44d8-a686-84f3bf984e36.attribution"
 msgid "Borhane Blili-Hamelin, PhD"

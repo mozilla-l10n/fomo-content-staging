@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "header"
 msgid "Join today!"
-msgstr ""
+msgstr "Dołącz już dziś!"

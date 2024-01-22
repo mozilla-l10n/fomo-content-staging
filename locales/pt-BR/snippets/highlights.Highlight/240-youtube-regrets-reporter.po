@@ -12,7 +12,7 @@ msgstr "YouTube Regrets Reporter"
 
 msgctxt "description"
 msgid "Mozilla and 37,380 YouTube users conducted a study to better understand harmful YouTube recommendations. Read our findings and contribute to the research."
-msgstr ""
+msgstr "A Mozilla e 37.380 usuários do YouTube conduziram um estudo para entender melhor as recomendações prejudiciais do YouTube. Leia nossas descobertas e contribua com a pesquisa."
 
 msgctxt "link_label"
 msgid "Learn more"

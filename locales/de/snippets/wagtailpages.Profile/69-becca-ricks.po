@@ -5,11 +5,3 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "X-WagtailLocalize-TranslationID: 1cfe075f-fed6-447e-addc-525e2a69d33e\n"
-
-msgctxt "tagline"
-msgid "EN - Tagline"
-msgstr ""
-
-msgctxt "introduction"
-msgid "English test!"
-msgstr ""

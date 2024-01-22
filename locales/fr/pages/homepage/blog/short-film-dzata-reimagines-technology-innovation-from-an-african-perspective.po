@@ -44,7 +44,7 @@ msgid ""
 "African artists Russel Hlongwane, Francois Knoetze and Amy Wilson and is a Mozilla Creative Media Awardee. <a id=\"a1\">Creative Media Awards</a> fuel the people and projects on the front lines of "
 "the internet health movement, from activists to documentary filmmakers to researchers."
 msgstr ""
-"« Dzata : l’institut de la conscience technologique », un nouveau projet de recherche créative de Lo-Def Film Factory en Afrique du Sud et Russel Hlongwane, fait exactement cela. Le projet a été "
+"« Dzata : l’institut de la conscience technologique », un nouveau projet de recherche créative de Lo-Def Film Factory en Afrique du Sud et Russel Hlongwane, fait exactement cela. Le projet a été "
 "créé par les artistes sud-africains Russel Hlongwane, François Knoetze et Amy Wilson et est lauréat d’un Creative Media Award de Mozilla. <a id=\"a1\">Les Creative Media Awards</a> soutiennent les "
 "personnes et les projets en première ligne du mouvement pour la bonne santé d’Internet, des militant·e·s aux réalisateur·trice·s de documentaires en passant par des chercheur·euse·s."
 

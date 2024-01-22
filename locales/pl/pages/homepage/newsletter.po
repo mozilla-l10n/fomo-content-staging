@@ -8,12 +8,12 @@ msgstr ""
 
 msgctxt "body.9113257d-e98f-4a28-a49c-07f2c3dbbb65"
 msgid "Protect the internet as a global public resource."
-msgstr ""
+msgstr "Chroń Internet jako globalny zasób publiczny."
 
 msgctxt "body.9113257d-e98f-4a28-a49c-07f2c3dbbb65"
 msgid "Join our email list to take action and stay updated!"
-msgstr ""
+msgstr "Dołącz do naszej listy, aby podjąć działania i być na bieżąco!"
 
 msgctxt "title"
 msgid "Newsletter"
-msgstr ""
+msgstr "Biuletyn"

@@ -8,11 +8,11 @@ msgstr ""
 
 msgctxt "title"
 msgid "Attend MozFest On-Demand"
-msgstr ""
+msgstr "Weź udział w MozFest na żądanie"
 
 msgctxt "description"
 msgid "MozFest may be over but you can still watch 150+ sessions with a pay-what-you-can on-demand ticket."
-msgstr ""
+msgstr "MozFest dobiegło końca, ale nadal możesz oglądać na życzenie ponad 150 sesji z biletem „zapłać, ile możesz”."
 
 msgctxt "link_label"
 msgid "Secure your ticket"

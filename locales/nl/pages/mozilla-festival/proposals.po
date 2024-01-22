@@ -318,6 +318,10 @@ msgstr ""
 #~ msgid "MozFest Call For Proposals"
 #~ msgstr "MozFest-oproep voor voorstellen"
 
+#~ msgctxt "body.c20347d7-e199-49f5-8338-98f34f9ea69d"
+#~ msgid "Discussions"
+#~ msgstr "Discussies"
+
 #~ msgctxt "body.1ae48f1e-9712-4f00-bf0f-7f52e0e62d12.label"
 #~ msgid "Submit your proposal"
 #~ msgstr "Uw voorstel indienen"
@@ -382,10 +386,6 @@ msgstr ""
 #~ msgctxt "body.c20347d7-e199-49f5-8338-98f34f9ea69d"
 #~ msgid "Sessions focused on bringing the MozFest community together in a social format. This could include a meetup, yoga session, baking classes or a games evening.<br/>No time limit."
 #~ msgstr "Sessies gericht op het samenbrengen van de MozFest-gemeenschap in een sociale vorm. Denk aan een ontmoeting, yogasessie, baklessen of een spelletjesavond.<br/>Geen tijdslimiet."
-
-#~ msgctxt "body.c20347d7-e199-49f5-8338-98f34f9ea69d"
-#~ msgid "Discussions"
-#~ msgstr "Discussies"
 
 #~ msgctxt "body.c20347d7-e199-49f5-8338-98f34f9ea69d"
 #~ msgid ""

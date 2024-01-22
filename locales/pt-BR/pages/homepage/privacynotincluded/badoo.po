@@ -106,7 +106,7 @@ msgstr ""
 
 msgctxt "how_can_you_control_your_data"
 msgid "Users can request to access and delete their data by emailing DPO@corp.badoo.com"
-msgstr "Os usuários podem solicitar acesso e exclusão de seus dados enviando um e-mail para DPO@corp.badoo.com."
+msgstr "Os usuários podem solicitar acesso e exclusão de seus dados enviando um email para DPO@corp.badoo.com."
 
 msgctxt "track_record_details"
 msgid "There are no known data breaches in the past two years. Badoo allegedly had a massive data breach in 2013."

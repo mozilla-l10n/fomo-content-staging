@@ -169,7 +169,7 @@ msgstr ""
 
 msgctxt "tips_to_protect_yourself"
 msgid "When starting a sign-up, do not agree to tracking of your data if possible."
-msgstr "Au début de l’inscription, refusez le suivi de vos données si possible."
+msgstr "Lorsque vous vous inscrivez, n’acceptez pas le suivi de vos données, dans la mesure du possible."
 
 msgctxt "personal_data_collected"
 msgid "Name, email address"

@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-01-22 14:17:28.718318+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 4352dec0-0885-4c9b-a8fd-456b50801df8\n"
+
+msgctxt "name"
+msgid "Smart Lights"
+msgstr "Ampoules connectées"
+
+msgctxt "description"
+msgid "Smart lighting"
+msgstr "Éclairage connecté"

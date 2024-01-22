@@ -88,7 +88,7 @@ msgstr "Facebook, Apple, Spotify e Google podem ser usados para uma inscrição"
 
 msgctxt "how_does_it_use_data_collected"
 msgid "We ding this product for sharing personal data with third parties, including Facebook, for targeted advertisement purposes."
-msgstr "Nós usamos este produto para compartilhar dados pessoais com terceiros, incluindo o Facebook, para fins de publicidade direcionada."
+msgstr "Nós gongamos este produto por compartilhar dados pessoais com terceiros, incluindo o Facebook, para fins de publicidade direcionada."
 
 msgctxt "how_does_it_use_data_collected"
 msgid ""
@@ -333,10 +333,6 @@ msgstr "Ofertas personalizadas"
 #~ msgstr "Informações de perfil do Facebook, como nome, endereço de email e ID do Facebook, se você optar por fazer login nos Produtos por meio do Facebook."
 
 #~ msgctxt "how_can_you_control_your_data"
-#~ msgid "When cookies or other trackers are placed on your terminal, they are kept for a period of 12 months."
-#~ msgstr "Quando cookies ou outros rastreadores são colocados em seu terminal, eles são mantidos por um período de 12 meses."
-
-#~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""
 #~ "For data relating to your account: such data will be permanently and irrevocably anonymized in the event that your account is inactive for a period of two years; and not subscribed to “Headspace "
 #~ "Plus.”"
@@ -347,6 +343,10 @@ msgstr "Ofertas personalizadas"
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid "Moreover, Headspace will permanently and irrevocably anonymize your account data within 30 days of your written request to do so via email to help@headspace.com."
 #~ msgstr "Além disso, a Headspace anonimizará de forma permanente e irrevogável os dados da sua conta no prazo de 30 dias após a sua solicitação por escrito por email para help@headspace.com."
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "When cookies or other trackers are placed on your terminal, they are kept for a period of 12 months."
+#~ msgstr "Quando cookies ou outros rastreadores são colocados em seu terminal, eles são mantidos por um período de 12 meses."
 
 #~ msgctxt "child_safety_blurb"
 #~ msgid "The app has no age limit, and it <a id=\"a1\">promotes</a> meditation for kids."

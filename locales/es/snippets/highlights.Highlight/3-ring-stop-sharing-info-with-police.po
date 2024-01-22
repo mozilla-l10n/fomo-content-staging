@@ -8,15 +8,16 @@ msgstr ""
 
 msgctxt "title"
 msgid "Ring: stop sharing info with police"
-msgstr ""
+msgstr "Ring: deja de compartir información con la policía"
 
 msgctxt "description"
 msgid "Amazon and others are halting their facial recognition programs. If Amazon is really serious about its new police policies, it must extend the moratorium to include Ring."
 msgstr ""
+"Amazon y otras empresas están deteniendo sus programas de reconocimiento facial. Si Amazon realmente se toma en serio sus nuevas políticas policiales, debe extender la moratoria para incluir a Ring."
 
 msgctxt "link_label"
 msgid "Tell Amazon to sever its law enforcement ties"
-msgstr ""
+msgstr "Dile a Amazon que rompa sus vínculos con las fuerzas de seguridad"
 
 msgctxt "footer"
 msgid "Thanks"

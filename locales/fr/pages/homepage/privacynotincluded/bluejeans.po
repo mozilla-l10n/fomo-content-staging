@@ -99,6 +99,10 @@ msgctxt "ai_helptext"
 msgid "BlueJeans integrates an automated transcription technology."
 msgstr "BlueJeans intègre une technologie de transcription automatique."
 
+#~ msgctxt "price"
+#~ msgid "Free trial, paid plans start at $9.99 per month"
+#~ msgstr "Essai gratuit, formule payante à partir de 9,99 $ par mois"
+
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "BlueJeans is a video call app aimed at business users. It works on desktop and mobile apps and within most browsers. This video call app claims a list of features like high-quality video, screen "
@@ -109,10 +113,6 @@ msgstr "BlueJeans intègre une technologie de transcription automatique."
 #~ " dispose de fonctionnalités comme la vidéo haute qualité, le partage d’écran, l’enregistrement et l’intégration avec plusieurs autres applications professionnelles, comme Trello et Slack. BlueJeans "
 #~ "se vante même de prendre en charge « Dolby Voice » pour vous permettre de profiter d’un son ultra clair pendant que votre responsable vous crie dessus. En mai 2020, Verizon a fait l’acquisition de "
 #~ "BlueJeans."
-
-#~ msgctxt "price"
-#~ msgid "Free trial, paid plans start at $9.99 per month"
-#~ msgstr "Essai gratuit, formule payante à partir de 9,99 $ par mois"
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""

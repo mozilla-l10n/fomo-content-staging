@@ -64,6 +64,28 @@ msgctxt "body.f483b696-baa3-4b6e-86cd-9bddf1377b2c.url"
 msgid "https://foundation.mozilla.org/youtube/user-controls/"
 msgstr "https://foundation.mozilla.org/youtube/user-controls/"
 
+msgctxt "body.e0770a03-0189-4dc5-9d2f-38a7a820a1b4.altText"
+msgid "Illustration of a magnifying glass, people, charts and graphs"
+msgstr "Illustration d’une loupe, de personnes, de tableaux et de graphiques"
+
+msgctxt "body.e0770a03-0189-4dc5-9d2f-38a7a820a1b4.text"
+msgid "RegretsReporter Dataset"
+msgstr "Jeu de données de RegretsReporter"
+
+msgctxt "body.e0770a03-0189-4dc5-9d2f-38a7a820a1b4.text"
+msgid "The RegretsReporter dataset can be used for research and investigations into the impact of YouTube's recommendation engine on communities around the world."
+msgstr ""
+"Le jeu de données de RegretsReporter peut être utilisé pour effectuer des recherches et mener des enquêtes sur l’impact que peut avoir le moteur de recommandation de YouTube sur les communautés du "
+"monde entier."
+
+msgctxt "body.e0770a03-0189-4dc5-9d2f-38a7a820a1b4.text"
+msgid "<a id=\"a1\">Learn more</a>"
+msgstr "<a id=\"a1\">En savoir plus</a>"
+
+msgctxt "body.e0770a03-0189-4dc5-9d2f-38a7a820a1b4.text"
+msgid "<a id=\"a1\">Download the dataset</a>"
+msgstr "<a id=\"a1\">Télécharger le jeu de données</a>"
+
 msgctxt "body.f460122b-a061-430a-adf7-2ac25d9470e9"
 msgid "Past Work"
 msgstr "Travaux antérieurs"
@@ -106,8 +128,8 @@ msgid "<a id=\"a1\">Read more</a>"
 msgstr "<a id=\"a1\">En savoir plus</a>"
 
 msgctxt "body.62bb913e-1f01-408f-9d6b-25471c635622.url"
-msgid "https://foundation.mozilla.org/campaigns/youtube-regrets/"
-msgstr "https://foundation.mozilla.org/campaigns/youtube-regrets/"
+msgid "https://foundation.mozilla.org/youtube/regrets/"
+msgstr "https://foundation.mozilla.org/youtube/regrets/"
 
 msgctxt "body.a97caefe-33bd-4e49-97ec-4c0719a8a305.title"
 msgid "Blog Posts"
@@ -185,10 +207,6 @@ msgstr "YouTube"
 #~ "Depuis 2019, Mozilla a plaidé pour que YouTube soit plus ouvert et transparent sur son système de recommandation. Nos recherches, enquêtes et campagnes originales ont démontré comment les "
 #~ "recommandations de YouTube peuvent nuire aux internautes, et nos recommandations en matière de politiques proposent des solutions."
 
-#~ msgctxt "title"
-#~ msgid "YouTube Regrets"
-#~ msgstr "Vos regrets sur YouTube"
-
 #~ msgctxt "intro"
 #~ msgid ""
 #~ "Since 2019, Mozilla has done research on YouTube's recommendation system and advocated for greater transparency. Our original research, investigations and campaigns have demonstrated some of the "
@@ -196,3 +214,11 @@ msgstr "YouTube"
 #~ msgstr ""
 #~ "Depuis 2019, Mozilla conduit des recherches sur le système de recommandation de YouTube et a plaidé pour une plus grande transparence. Nos recherches, enquêtes et campagnes originales ont démontré "
 #~ "certains des problèmes systémiques de l’algorithme de recommandation de YouTube, et nous suggérons des solutions."
+
+#~ msgctxt "body.62bb913e-1f01-408f-9d6b-25471c635622.url"
+#~ msgid "https://foundation.mozilla.org/campaigns/youtube-regrets/"
+#~ msgstr "https://foundation.mozilla.org/campaigns/youtube-regrets/"
+
+#~ msgctxt "title"
+#~ msgid "YouTube Regrets"
+#~ msgstr "Vos regrets sur YouTube"

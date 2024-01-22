@@ -93,7 +93,7 @@ msgstr "Atualizações automáticas são ativadas por padrão."
 
 msgctxt "strong_password_helptext"
 msgid "The Portal requires you to log in with a Facebook account and strong password. You may also set a passcode for the device."
-msgstr "O Portal exige que você faça login com uma conta do Facebook e uma senha forte. Você também pode definir uma senha para o dispositivo."
+msgstr "O Portal exige que você entre com uma conta do Facebook e uma senha forte. Você também pode definir um código de acesso no dispositivo."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Facebook has a bug bounty program."

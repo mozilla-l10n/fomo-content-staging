@@ -1,0 +1,28 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-01-22 14:17:12.382545+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: e5e580db-d2c4-4104-a970-e7d7e5d38044\n"
+
+msgctxt "header"
+msgid "Thanks for signing! While you're here, we need you to do two things."
+msgstr "¡Gracias por firmar! Ya que sigues por aquí, queremos decirte que necesitamos tu ayuda."
+
+msgctxt "body"
+msgid ""
+"Thank you for adding your name to tell Amazon's new executive to protect children's privacy from Amazon devices. If you haven't received emails from Mozilla before, check your inbox – you MUST click"
+" a link to get campaign updates from us. If you're already a part of our campaigning, can you please make a donation to support our work to hold Amazon and big tech accountable?"
+msgstr ""
+"Gracias por agregar tu nombre para decirle al nuevo ejecutivo de Amazon que proteja la privacidad infantil en los dispositivos de Amazon. Si no has recibido correos electrónicos de Mozilla "
+"anteriormente, revisa tu bandeja de entrada: DEBES hacer clic en un enlace para recibir actualizaciones de nuestras campañas. Si ya formas parte de nuestras campañas, ¿podrías hacer una donación "
+"para apoyar nuestra labor de responsabilizar a Amazon y a las grandes tecnológicas?"
+
+msgctxt "donate_text"
+msgid "Yes, I'll chip in!"
+msgstr "¡Sí, quiero donar!"
+
+msgctxt "dismiss_text"
+msgid "I can't donate, but I'll share instead"
+msgstr "No, pero voy a compartir"

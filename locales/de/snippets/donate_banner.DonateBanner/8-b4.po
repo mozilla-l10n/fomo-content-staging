@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-01-22 14:16:55.523575+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 11e74bb8-dddb-4c4b-80a4-8bb59f5fd8a9\n"
+
+msgctxt "title"
+msgid "Can you donate to Mozilla?"
+msgstr "Können Sie an Mozilla spenden?"
+
+msgctxt "subtitle"
+msgid "Mozilla always puts people over profits. Donate to Mozilla and help keep the internet healthy."
+msgstr "Mozilla arbeitet dafür, dass Menschen wichtiger sind als Profite. Spenden Sie an Mozilla und unterstützen Sie ein gesundes Internet für alle."
+
+msgctxt "cta_button_text"
+msgid "Donate →"
+msgstr "Spenden →"

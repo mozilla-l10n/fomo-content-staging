@@ -94,7 +94,7 @@ msgstr ""
 
 msgctxt "body.7afc2dd5-19ca-40d6-afd3-f072f2deadb8"
 msgid "What if however, we had a different kind of future, where these virtual assistants truly did work for us? And were answerable only to us?"
-msgstr "Et si nous avions un avenir différent, où ces assistants virtuels travailleraient vraiment pour nous ? Et n’avaient de comptes à rendre qu’à nous ?"
+msgstr "Et si nous avions un avenir différent, où ces assistants virtuels travailleraient vraiment pour nous ? Et n’avaient de comptes à rendre qu’à nous ?"
 
 msgctxt "body.f2180f24-93e1-4429-9dab-95ded00bb73b"
 msgid "How Personal AIs can enhance our digital lives"
@@ -173,4 +173,4 @@ msgstr ""
 
 msgctxt "title"
 msgid "Alexa doesn’t work for you – it works for Amazon. Mozilla Explains: The Future of Personal AIs (Part One)"
-msgstr "Alexa ne travaille pas pour vous – elle travaille pour Amazon. Mozilla explique : L’avenir des IA personnelles (première partie)"
+msgstr "Alexa ne travaille pas pour vous – elle travaille pour Amazon. Mozilla explique : L’avenir des IA personnelles (première partie)"

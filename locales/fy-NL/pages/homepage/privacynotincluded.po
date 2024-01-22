@@ -14,6 +14,10 @@ msgctxt "hero_supporting_pages_heading"
 msgid "What to read next"
 msgstr "Noch mear lêze"
 
+msgctxt "seo_title"
+msgid "*Privacy Not Included"
+msgstr "*Privacy net ynbegrepen"
+
 msgctxt "search_description"
 msgid ""
 "Be Smart. Shop Safe.\r"

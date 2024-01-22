@@ -385,10 +385,6 @@ msgstr ""
 #~ msgid "https://www.pretalx.com/mozfest-2022/cfp"
 #~ msgstr "https://www.pretalx.com/mozfest-2022/cfp"
 
-#~ msgctxt "body.c20347d7-e199-49f5-8338-98f34f9ea69d"
-#~ msgid "Sessions focused on bringing the MozFest community together in a social format. This could include a meetup, yoga session, baking classes or a games evening.<br/>No time limit."
-#~ msgstr "Sesjes rjochte op it byinoar bringen fan de MozFest-mienskip yn in sosjaal formaat. Dit kin in gearkomste, yoga-sesje, baklessen of in spultsjesjûn wêze.<br/>Gjin tiidlimyt."
-
 #~ msgctxt "body.444065a0-82dd-40cf-93c9-9793e7c87c64"
 #~ msgid "Welcome! We are so excited you’re considering proposing a session for MozFest 2022! Below you’ll find all the info you need to propose a session."
 #~ msgstr "Wolkom! Wy binne sa entûsjast dat jo der oe tinke in sesje foar MozFest 2022 foar te stellen! Hjirûnder fine jo alle ynfo dy't jo nedich hawwe om in sesje foar te stellen."
@@ -450,6 +446,10 @@ msgstr ""
 #~ msgctxt "body.c20347d7-e199-49f5-8338-98f34f9ea69d"
 #~ msgid "Includes art exhibits, interactive &amp; immersive media, film &amp; video, game or podcasts.<br/>No time limit."
 #~ msgstr "Omfettet keunsteksposysjes, ynteraktive &amp; meisleepjende media, film &amp; fideo, spultsje of podcasts.<br/>Gjin tiidlimyt."
+
+#~ msgctxt "body.c20347d7-e199-49f5-8338-98f34f9ea69d"
+#~ msgid "Sessions focused on bringing the MozFest community together in a social format. This could include a meetup, yoga session, baking classes or a games evening.<br/>No time limit."
+#~ msgstr "Sesjes rjochte op it byinoar bringen fan de MozFest-mienskip yn in sosjaal formaat. Dit kin in gearkomste, yoga-sesje, baklessen of in spultsjesjûn wêze.<br/>Gjin tiidlimyt."
 
 #~ msgctxt "body.c20347d7-e199-49f5-8338-98f34f9ea69d"
 #~ msgid ""

@@ -30,10 +30,6 @@ msgstr ""
 "En 2023, MozFest exploite notre pouvoir collectif pour améliorer notre paysage numérique, construire des systèmes transformateurs et maintenir l’élan au sein de notre communauté vers des progrès "
 "positifs en matière de droits humains et numériques. C’est grâce au pouvoir collectif des personnes que nous pouvons concrétiser l’IA digne de confiance."
 
-msgctxt "body.7470525e-bfe9-46ef-a46b-92bc8a2dd187.button_label"
-msgid "Secure your MozFest ticket"
-msgstr "Réserver votre billet pour le MozFest"
-
 msgctxt "body.0162cb52-20c8-4239-97f6-93463585c0b9.altText"
 msgid "placeholder"
 msgstr "espace réservé"
@@ -283,24 +279,6 @@ msgctxt "body.8d70f02e-b70f-4c30-954f-b15f8ff437a6"
 msgid "There are many ways to participate in MozFest, from working groups to facilitating a session, to watching our speaker series online."
 msgstr "Il existe de nombreuses façons de participer au MozFest, des groupes de travail à l’animation d’une session, en passant par le visionnage de notre série de conférences en ligne."
 
-msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.f86946c0-c423-46e8-bd73-653a6b284d77.title"
-msgid "MozFest 2023 Tickets"
-msgstr "Billets pour le MozFest 2023"
-
-msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.f86946c0-c423-46e8-bd73-653a6b284d77.body"
-msgid "There are two types of registrations available, Pay What You Can, which starts at €0, or you can become a MozFest Patron, offering additional benefits, starting at €250."
-msgstr ""
-"Il existe deux types d’inscriptions disponibles, « Payez ce que vous pouvez », à partir de 0 €, ou vous pouvez devenir mécène du MozFest, vous procurant des avantages supplémentaires, à partir de "
-"250 €."
-
-msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.f86946c0-c423-46e8-bd73-653a6b284d77.link_url"
-msgid "https://www.mozillafestival.org/tickets"
-msgstr "https://www.mozillafestival.org/tickets"
-
-msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.f86946c0-c423-46e8-bd73-653a6b284d77.link_label"
-msgid "Secure your ticket"
-msgstr "Réservez votre ticket"
-
 msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.41818e75-0f4b-4d7d-afb6-ae69440ed1b0.title"
 msgid "Working Groups"
 msgstr "Groupes de travail"
@@ -312,8 +290,8 @@ msgstr ""
 "MozFest à créer une IA plus digne de confiance."
 
 msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.41818e75-0f4b-4d7d-afb6-ae69440ed1b0.link_url"
-msgid "https://www.mozillafestival.org/community/working-groups"
-msgstr "https://www.mozillafestival.org/fr/community/working-groups"
+msgid "https://www.mozillafestival.org/working-groups/join-a-working-group/"
+msgstr "https://www.mozillafestival.org/working-groups/join-a-working-group/"
 
 msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.41818e75-0f4b-4d7d-afb6-ae69440ed1b0.link_label"
 msgid "Join a working group"
@@ -335,6 +313,10 @@ msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.5beb5a2f-1d6e-4986-86a9
 msgid "Learn more"
 msgstr "En savoir plus"
 
+#~ msgctxt "body.7470525e-bfe9-46ef-a46b-92bc8a2dd187.button_label"
+#~ msgid "Secure your MozFest ticket"
+#~ msgstr "Réserver votre billet pour le MozFest"
+
 #~ msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.2e57a937-5b94-433f-8973-c36d15780c07.alt_text"
 #~ msgid "Blockchain Fairy Tales: What if Happily Ever After is not Guaranteed?"
 #~ msgstr "Blockchain Fairy Tales: What if Happily Ever After is not Guaranteed?"
@@ -346,6 +328,10 @@ msgstr "En savoir plus"
 #~ msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.738d41c1-0c8f-4823-8fdc-3505068e8b4b.alt_text"
 #~ msgid "A Transparent Cube with blue LED lights inside it"
 #~ msgstr "Un cube transparent avec des lumières LED bleues à l’intérieur"
+
+#~ msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.f86946c0-c423-46e8-bd73-653a6b284d77.title"
+#~ msgid "MozFest 2023 Tickets"
+#~ msgstr "Billets pour le MozFest 2023"
 
 #~ msgctxt "body.137a0ebf-5af2-4ea5-91cf-eb75d6073863.url"
 #~ msgid "https://www.youtube-nocookie.com/embed/P-iiN0c2uic?modestbranding=1&amp;rel=0&amp;iv_load_policy=3&amp;color=white"
@@ -362,6 +348,10 @@ msgstr "En savoir plus"
 #~ msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.f86946c0-c423-46e8-bd73-653a6b284d77.link_label"
 #~ msgid "Submit your session idea"
 #~ msgstr "Proposer votre idée de session"
+
+#~ msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.41818e75-0f4b-4d7d-afb6-ae69440ed1b0.link_url"
+#~ msgid "https://www.mozillafestival.org/community/working-groups"
+#~ msgstr "https://www.mozillafestival.org/fr/community/working-groups"
 
 #~ msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.f86946c0-c423-46e8-bd73-653a6b284d77.body"
 #~ msgid "We welcome sessions on a wide range of topics relevant to Trustworthy AI, and the internet health movement, but all sessions must be interactive and inclusive."
@@ -392,6 +382,20 @@ msgstr "En savoir plus"
 #~ msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.1c05118c-a43f-4a77-a8bb-ff5400ed854f.alt_text"
 #~ msgid "mozilla logo - a white m in the middle of a black square"
 #~ msgstr "logo mozilla - un m blanc au milieu d’un carré noir"
+
+#~ msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.f86946c0-c423-46e8-bd73-653a6b284d77.body"
+#~ msgid "There are two types of registrations available, Pay What You Can, which starts at €0, or you can become a MozFest Patron, offering additional benefits, starting at €250."
+#~ msgstr ""
+#~ "Il existe deux types d’inscriptions disponibles, « Payez ce que vous pouvez », à partir de 0 €, ou vous pouvez devenir mécène du MozFest, vous procurant des avantages supplémentaires, à partir de "
+#~ "250 €."
+
+#~ msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.f86946c0-c423-46e8-bd73-653a6b284d77.link_url"
+#~ msgid "https://www.mozillafestival.org/tickets"
+#~ msgstr "https://www.mozillafestival.org/tickets"
+
+#~ msgctxt "body.47d67c4f-4d32-4a60-b97a-3e4475f6a0f1.cards.f86946c0-c423-46e8-bd73-653a6b284d77.link_label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Réservez votre ticket"
 
 #~ msgctxt "body.7bf736bf-97bc-4021-acdb-6c70c33699ea.grid_items.17077bdb-b94a-4760-8d64-b9edcb30f8d1.url"
 #~ msgid "https://www.mozillafestival.org/issues-and-spaces/bias/youth-zone"

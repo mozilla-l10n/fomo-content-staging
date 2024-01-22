@@ -73,7 +73,7 @@ msgstr "O Slack detalha suas atualizações de segurança em seu blog."
 
 msgctxt "strong_password_helptext"
 msgid "A strong password is required to login into Slack. You can also turn on a feature for a mobile passcode in the enterprise version."
-msgstr "É necessária uma senha forte para fazer login no Slack. Você também pode ativar um recurso para uma senha móvel na versão corporativa."
+msgstr "É necessária uma senha forte para entrar no Slack. Você também pode ativar um recurso de código de acesso de dispositivo móvel na versão enterprise."
 
 msgctxt "manage_vulnerabilities_helptext"
 msgid "Slack operates a security bug bounty program."

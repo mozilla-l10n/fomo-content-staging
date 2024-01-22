@@ -4,11 +4,3 @@ msgstr ""
 "POT-Creation-Date: 2022-09-26 07:04:44.367329+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-
-msgctxt "tagline"
-msgid "EN - Tagline"
-msgstr ""
-
-msgctxt "introduction"
-msgid "English test!"
-msgstr ""

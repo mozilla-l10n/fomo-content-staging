@@ -12,7 +12,11 @@ msgstr "*Prywatność do nabycia osobno"
 
 msgctxt "hero_supporting_pages_heading"
 msgid "What to read next"
-msgstr ""
+msgstr "Co przeczytać jako następne"
+
+msgctxt "seo_title"
+msgid "*Privacy Not Included"
+msgstr "*Prywatność do nabycia osobno"
 
 msgctxt "search_description"
 msgid ""

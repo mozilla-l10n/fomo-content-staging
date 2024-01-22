@@ -1,0 +1,26 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-01-22 14:17:23.340251+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "header"
+msgid ""
+"If you haven’t previously confirmed your opt-in to a Mozilla-related email subscription you may have to do so now. Please check your inbox or spam filter for an email from us to click and confirm "
+"your subscription."
+msgstr ""
+
+msgctxt "body"
+msgid ""
+"Our campaign to stop the French government from turning browsers into tools of censorship has made significant progress, but the next few weeks are critical. Can you make a donation to Mozilla today"
+" to help us win this campaign?"
+msgstr ""
+
+msgctxt "donate_text"
+msgid "Yes, I'll Donate"
+msgstr ""
+
+msgctxt "dismiss_text"
+msgid "No, I'll Share Instead"
+msgstr ""

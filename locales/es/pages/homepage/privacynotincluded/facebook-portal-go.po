@@ -120,7 +120,7 @@ msgstr "Facebook cuenta con un programa de recompensa de errores."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Check Facebook Portal <a id=\"a1\">privacy settings</a>."
-msgstr "Verifica la configuración de privacidad del Portal de Facebook <a id=\"a1\"></a>."
+msgstr "Verifica <a id=\"a1\">la configuración de privacidad</a> del Portal de Facebook."
 
 msgctxt "tips_to_protect_yourself"
 msgid "Keep your location data private."

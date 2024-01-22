@@ -1,0 +1,36 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-01-22 14:17:33.273492+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: c6fa144f-ecfe-4f87-9923-7d7cd3f20143\n"
+
+msgctxt "header"
+msgid "Thank you for adding your name. Can you add a donation to Mozilla's work to reclaim the internet?"
+msgstr "Dziękujemy za podpisanie petycji. Czy przekażesz datek na działania organizacji Mozilla na rzecz odzyskania Internetu?"
+
+msgctxt "body"
+msgid "Mozilla is a non-profit organisation fighting to reclaim the internet. Tens of thousands of people make small donations to support our work. Can you join them and add your own donation?"
+msgstr ""
+"Mozilla jest organizacją non profit walczącą o odzyskanie Internetu. Dziesiątki tysięcy osób przekazuje niewielkie datki, aby wesprzeć naszą pracę. Czy zechcesz do nich dołączyć i przekażesz datek?"
+
+msgctxt "donate_text"
+msgid "Yes, I'll chip in"
+msgstr "Tak, chętnie Was wesprę"
+
+msgctxt "dismiss_text"
+msgid "No thanks, but I'll share instead"
+msgstr "Nie, zamiast tego udostępnię"
+
+#~ msgctxt "header"
+#~ msgid "Thanks for signing! Can you make a donation to support this campaign against Microsoft?"
+#~ msgstr "Dziękujemy za podpisanie! Czy możesz przekazać darowiznę, aby wesprzeć tę kampanię przeciwko Microsoftowi?"
+
+#~ msgctxt "body"
+#~ msgid ""
+#~ "Mozilla is a nonprofit organization fighting for a healthy internet, where privacy is included by design and you have more control over your personal information. We depend on contributions from "
+#~ "people like you to win campaigns like this. Can you donate today?"
+#~ msgstr ""
+#~ "Mozilla jest organizacją non-profit walczącą o zdrowy Internet, w którym prywatność jest domyślnie chroniona, a Ty masz więcej kontroli nad swoimi prywatnymi danymi. Walcząc o takie kampanie, "
+#~ "polegamy na datkach od osób takich jak Ty. Czy dołożysz się dzisiaj?"

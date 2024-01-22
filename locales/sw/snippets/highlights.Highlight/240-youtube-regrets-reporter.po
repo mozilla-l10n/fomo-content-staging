@@ -16,8 +16,8 @@ msgstr ""
 
 msgctxt "link_label"
 msgid "Learn more"
-msgstr ""
+msgstr "Jifunze zaidi"
 
 msgctxt "footer"
 msgid "<a id=\"a1\">Learn More</a>"
-msgstr ""
+msgstr "<a id=\"a1\">Jifunze zaidi</a>"

@@ -30,75 +30,29 @@ msgstr ""
 "<b>Vous êtes invité·e au Mozilla Festival 2023</b>, le premier rassemblement de militant·e·s, d’enseignant·e·s, d’expert·e·s en technologie, d’étudiant·e·s, d’artistes et de journalistes qui veulent"
 " un monde numérique plus humain."
 
-msgctxt "body.ea519fa2-6ebe-4f52-bd77-b1daeb70bf23"
-msgid "For the third year in a row, festival tickets are pay-what-you-can in order to offer access to everyone, regardless of financial means."
-msgstr "Pour la troisième année consécutive, les billets du festival sont au tarif « Payez ce que vous pouvez » afin d’offrir un accès à tout le monde, quels que soient ses moyens financiers."
+msgctxt "body.83558922-13b9-4561-8285-a50881990342"
+msgid "We rely on your donations and ticket purchases to carry out our mission to help keep the Web open and free – your support goes a long way."
+msgstr "Nous comptons sur vos dons et achats de billets pour mener à bien notre mission de conserver le Web ouvert et libre ; votre soutien est crucial."
 
-msgctxt "body.2ac52c22-d7a1-4b7c-a507-c095153216e9.button_label"
-msgid "Secure your MozFest Ticket"
-msgstr "Réserver votre billet pour le MozFest"
-
-msgctxt "body.2ac52c22-d7a1-4b7c-a507-c095153216e9.releases"
-msgid "mozfest-virtual-on-demand,mozfest-patron-mega"
-msgstr "mozfest-virtual-on-demand,mozfest-patron-mega"
-
-msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
-msgid "We rely on your donations to carry out our mission to help keep the Web open and free – your support goes a long way."
-msgstr "Nous comptons sur vos dons pour mener à bien notre mission de conserver le Web ouvert et libre ; votre soutien est crucial."
-
-msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
+msgctxt "body.83558922-13b9-4561-8285-a50881990342"
 msgid "<i>All information provided during ticket purchases will be handled in accordance with the</i> <a id=\"a1\">MozFest Event Privacy Policy</a><i>.</i>"
 msgstr "<i>Toutes les informations fournies lors de l’achat de billets seront traitées conformément à la</i> <a id=\"a1\">Politique de confidentialité de l’évènement MozFest</a><i>.</i>"
 
-msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
-msgid "By registering for MozFest, you can:"
-msgstr "En vous inscrivant au MozFest, vous pouvez :"
+msgctxt "body.83558922-13b9-4561-8285-a50881990342"
+msgid "There are different types of registrations available depending on the event you wish to attend."
+msgstr "Il existe différents types d’inscriptions selon l’évènement auquel vous souhaitez assister."
 
-msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
-msgid "Watch hours of on-demand sessions and content after the festival ends."
-msgstr "Regarder des heures de sessions et de contenu à la demande après la fin du festival."
+msgctxt "body.83558922-13b9-4561-8285-a50881990342"
+msgid "<a id=\"a1\">MozFest House: Amsterdam</a>"
+msgstr "<a id=\"a1\">MozFest House: Amsterdam</a>"
 
-msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
-msgid "Discover talks by leading voices from across the internet health movement."
-msgstr "Découvrez des conférences animées par des personnalités éminentes du mouvement pour la bonne santé d’Internet."
+msgctxt "body.83558922-13b9-4561-8285-a50881990342"
+msgid "<a id=\"a1\">MozFest Virtual: On-Demand</a>"
+msgstr "<a id=\"a1\">MozFest virtuel : à la demande</a>"
 
-msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
-msgid "Connect with our Slack community of over 4000 past, present and future MozFest participants"
-msgstr "Rejoindre notre communauté Slack de plus de 4 000 participant·e·s des éditions passées, présente et futures de MozFest."
-
-msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
-msgid "There are two types of registrations available, Pay What You Can, which starts at €0, or you can <a id=\"a1\">become a MozFest Patron</a>, offering additional benefits, starting at €250."
-msgstr ""
-"Il existe deux types d’inscriptions disponibles, « Payez ce que vous pouvez », à partir de 0 €, ou vous pouvez <a id=\"a1\">devenir mécène du MozFest</a>, vous procurant des avantages "
-"supplémentaires, à partir de 250 €."
-
-msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
-msgid "MozFest On-Demand Tickets"
-msgstr "Billets pour le MozFest à la demande"
-
-msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
-msgid "Pay What You Can"
-msgstr "Payez ce que vous pouvez"
-
-msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
-msgid "With the Pay What You Can contribution you’ll receive access to the MozFest Plaza allowing you to access the 150+ sessions available on-demand, plus much more."
-msgstr "Avec un prix libre (« Payez ce que vous pouvez »), vous aurez accès à la MozFest Plaza, vous permettant d’accéder à plus de 150 sessions disponibles à la demande, et bien plus encore."
-
-msgctxt "body.53228c31-3993-4c79-9816-11768d45bf0b.altText"
-msgid "separator"
-msgstr "séparateur"
-
-msgctxt "body.295bb8a3-f08f-44be-b2b4-47ae6f1a169b.button_label"
-msgid "Secure your ticket"
-msgstr "Réserver votre ticket"
-
-msgctxt "body.295bb8a3-f08f-44be-b2b4-47ae6f1a169b.releases"
-msgid "mozfest-virtual-on-demand"
-msgstr "mozfest-virtual-on-demand"
-
-msgctxt "body.0842c43f-8e22-425c-a4fe-9d4b53943d21"
-msgid "The cost of this ticket is subsidised by Mozilla."
-msgstr "Le coût de ce billet est subventionné par Mozilla."
+msgctxt "body.83558922-13b9-4561-8285-a50881990342"
+msgid "<a id=\"a1\">MozFest Patrons</a>"
+msgstr "<a id=\"a1\">Mécènes du MozFest</a>"
 
 msgctxt "body.3fea9dd1-a2db-412d-bd7c-cbdc651b841a"
 msgid "MozFest House: Amsterdam"
@@ -128,13 +82,9 @@ msgctxt "body.05b614f3-3426-4c6b-8e52-103b3dace4ef"
 msgid "The Full Festival Pass gives you access to all sessions and social spaces for 2 days, plus access to the Monday welcome evening."
 msgstr "Le pass festival complet vous donne accès à toutes les sessions et aux espaces sociaux pendant 2 jours, ainsi que l’accès à la soirée de bienvenue du lundi."
 
-msgctxt "body.ca645542-222c-462e-a6de-cd4f16fcb45b.button_label"
-msgid "Buy Full Festival Pass"
-msgstr "Acheter le pass festival complet"
-
-msgctxt "body.ca645542-222c-462e-a6de-cd4f16fcb45b.releases"
-msgid "wednesday-21st-june-day-ticket-copy"
-msgstr "wednesday-21st-june-day-ticket-copy"
+msgctxt "body.6cd83c7a-2c2b-48f7-bc68-91ee9ff7e1d4.button_label"
+msgid "Buy Festival Pass"
+msgstr "Acheter un pass pour le festival"
 
 msgctxt "body.e4d7d870-b528-44d3-a1b1-74eddeae0e47"
 msgid "Festival Day Passes - €25"
@@ -155,6 +105,42 @@ msgstr "mozfest-house-amsterdam,tuesday-20th-june-mozfest-house-amsterdam-copy"
 msgctxt "body.c47c8640-c490-43bc-ba4b-ea09f0c1110b"
 msgid "Prices include Netherlands VAT at 21%"
 msgstr "Les prix incluent la TVA néerlandaise de 21 %"
+
+msgctxt "body.5b0e8478-556f-4a40-b535-48eceb9da378"
+msgid "To attend MozFest House Virtual Fringe Events, secure a Virtual On-Demand Ticket."
+msgstr "Pour assister aux évènements virtuels de MozFest House, procurez-vous un billet virtuel à la demande."
+
+msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
+msgid "MozFest Virtual On-Demand Tickets"
+msgstr "Billets pour le MozFest virtuel à la demande"
+
+msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
+msgid "Pay What You Can"
+msgstr "Payez ce que vous pouvez (prix libre)"
+
+msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
+msgid ""
+"With the Pay What You Can contribution you’ll receive access to the MozFest Plaza<b>, including virtual MozFest House Fringe Events,</b> allowing you to access the 150+ sessions available on-demand,"
+" plus much more."
+msgstr ""
+"Avec le billet à prix libre, vous aurez accès à la MozFest Plaza, <b>y compris aux évènements virtuels en marge du MozFest House,</b> vous permettant d’accéder à plus de 150 sessions disponibles à "
+"la demande, et bien plus encore."
+
+msgctxt "body.53228c31-3993-4c79-9816-11768d45bf0b.altText"
+msgid "separator"
+msgstr "séparateur"
+
+msgctxt "body.0842c43f-8e22-425c-a4fe-9d4b53943d21"
+msgid "The cost of this ticket is subsidised by Mozilla."
+msgstr "Le coût de ce billet est subventionné par Mozilla."
+
+msgctxt "body.295bb8a3-f08f-44be-b2b4-47ae6f1a169b.button_label"
+msgid "Secure your ticket"
+msgstr "Réserver votre ticket"
+
+msgctxt "body.295bb8a3-f08f-44be-b2b4-47ae6f1a169b.releases"
+msgid "mozfest-virtual-on-demand"
+msgstr "mozfest-virtual-on-demand"
 
 msgctxt "body.6a028345-bdd0-4c72-9814-d477ca7119a8"
 msgid "MozFest Patrons"
@@ -178,11 +164,11 @@ msgstr "Méga mécènes - 250 €"
 
 msgctxt "body.53d57474-6cb1-4588-852a-2a18e1984b22"
 msgid "A Mega contribution of €250 will give you access to:"
-msgstr "Une méga contribution de 250 € vous donnera accès à :"
+msgstr "Une contribution de niveau Méga de 250 € vous donnera accès à :"
 
 msgctxt "body.53d57474-6cb1-4588-852a-2a18e1984b22"
-msgid "Everything that is included in the standard Pay What You Can ticket."
-msgstr "Tout ce qui est inclus dans le billet standard Payez ce que vous pouvez."
+msgid "Everything that is included in the standard MozFest Virtual: Pay What You Can ticket."
+msgstr "Tout ce qui est inclus dans le billet standard à prix libre pour le MozFest virtuel."
 
 msgctxt "body.53d57474-6cb1-4588-852a-2a18e1984b22"
 msgid "Recognition of your contribution on the MozFest website (if desired)"
@@ -190,7 +176,7 @@ msgstr "La reconnaissance de votre contribution sur le site web du MozFest (si v
 
 msgctxt "body.2f444f79-6246-4d66-b2f3-d972f83e5417.button_label"
 msgid "Become a Mega level Patron"
-msgstr "Devenir mécène de niveau méga"
+msgstr "Devenir mécène de niveau Méga"
 
 msgctxt "body.2f444f79-6246-4d66-b2f3-d972f83e5417.releases"
 msgid "mozfest-patron-mega"
@@ -205,8 +191,8 @@ msgid "A Giga contribution of €500 will give you access to:"
 msgstr "Une giga contribution de 500 € vous donnera accès à :"
 
 msgctxt "body.9d97d557-c683-4fde-b9a5-51dfee21d625"
-msgid "Everything that is included in the standard Pay What You Can ticket."
-msgstr "Tout ce qui est inclus dans le billet standard Payez ce que vous pouvez."
+msgid "Everything that is included in the MozFest Virtual: Pay What You Can."
+msgstr "Tout ce qui est inclus dans le billet à prix libre pour le MozFest virtuel."
 
 msgctxt "body.9d97d557-c683-4fde-b9a5-51dfee21d625"
 msgid "All the benefits of the Mega contribution level."
@@ -222,7 +208,7 @@ msgstr "Une liste de sessions personnellement organisée auxquelles assister tou
 
 msgctxt "body.3d02c9c8-5f5d-4c34-9836-f41d306e171e.button_label"
 msgid "Become a Giga level Patron"
-msgstr "Devenir mécène de niveau giga"
+msgstr "Devenir mécène de niveau Giga"
 
 msgctxt "body.3d02c9c8-5f5d-4c34-9836-f41d306e171e.releases"
 msgid "mozfest-patron-giga"
@@ -234,23 +220,23 @@ msgstr "Tera mécènes - 1 000 €"
 
 msgctxt "body.2d7792cb-8a59-46a4-862e-1711bf4d5e71"
 msgid "A Tera contribution of €1,000 will give you access to:"
-msgstr "Une tera contribution de 1 000 € vous donnera accès à :"
+msgstr "Une contribution de niveau Téra de 1 000 € vous donnera accès à :"
 
 msgctxt "body.2d7792cb-8a59-46a4-862e-1711bf4d5e71"
-msgid "Everything that is included in the Pay What You Can."
-msgstr "Tout ce qui est inclus dans le billet Payez ce que vous pouvez."
-
-msgctxt "body.2d7792cb-8a59-46a4-862e-1711bf4d5e71"
-msgid "All the benefits of the Mega and Giga contribution levels"
-msgstr "Tous les avantages des niveaux de contribution Méga et Giga."
+msgid "Everything that is included in the MozFest Virtual: Pay What You Can, Mega and Giga contribution levels"
+msgstr "Tout ce qui est inclus dans les billets à prix libre, et pour les niveaux de contribution Méga et Giga pour le MozFest virtuel."
 
 msgctxt "body.2d7792cb-8a59-46a4-862e-1711bf4d5e71"
 msgid "Invitations to join sessions part of this year's Funders Track"
 msgstr "Des invitations à participer à des sessions dans le cadre du thème Funders de cette année"
 
+msgctxt "body.2d7792cb-8a59-46a4-862e-1711bf4d5e71"
+msgid "A Full Festival Pass for MozFest House: Amsterdam"
+msgstr "Un pass complet pour le MozFest House : Amsterdam"
+
 msgctxt "body.561e031c-39ce-4ca8-9354-6ddf9edf84a7.button_label"
 msgid "Become a Tera level Patron"
-msgstr "Devenir mécène de niveau tera"
+msgstr "Devenir mécène de niveau Téra"
 
 msgctxt "body.561e031c-39ce-4ca8-9354-6ddf9edf84a7.releases"
 msgid "mozfest-patron-tera"
@@ -268,9 +254,25 @@ msgstr "mozfest-patron-tera"
 #~ msgid "Secure your ticket to MozFest 2023"
 #~ msgstr "Réservez votre billet pour le MozFest 2023"
 
+#~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
+#~ msgid "Engage with artists as they respond to outcomes from sessions."
+#~ msgstr "Interagir avec les artistes lorsqu’ils réagissent aux résultats des sessions."
+
+#~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
+#~ msgid "Connect with our Slack community of over 4000 past, present and future MozFest participants"
+#~ msgstr "Rejoindre notre communauté Slack de plus de 4 000 participant·e·s des éditions passées, présente et futures de MozFest."
+
+#~ msgctxt "body.2ac52c22-d7a1-4b7c-a507-c095153216e9.button_label"
+#~ msgid "Secure your MozFest Ticket"
+#~ msgstr "Réserver votre billet pour le MozFest"
+
 #~ msgctxt "body.2ac52c22-d7a1-4b7c-a507-c095153216e9.releases"
 #~ msgid "mozfest-virtual-pay-what-you-can-contribution-early-bird,mozfest-patron-mega,mozfest-patron-giga"
 #~ msgstr "mozfest-virtual-pay-what-you-can-contribution-early-bird,mozfest-patron-mega,mozfest-patron-giga"
+
+#~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
+#~ msgid "By registering for MozFest, you can:"
+#~ msgstr "En vous inscrivant au MozFest, vous pouvez :"
 
 #~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
 #~ msgid "MozFest Early Bird"
@@ -279,6 +281,14 @@ msgstr "mozfest-patron-tera"
 #~ msgctxt "body.295bb8a3-f08f-44be-b2b4-47ae6f1a169b.releases"
 #~ msgid "mozfest-virtual-pay-what-you-can-contribution-early-bird"
 #~ msgstr "mozfest-virtual-pay-what-you-can-contribution-early-bird"
+
+#~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
+#~ msgid "Watch hours of on-demand sessions and content after the festival ends."
+#~ msgstr "Regarder des heures de sessions et de contenu à la demande après la fin du festival."
+
+#~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
+#~ msgid "Attend talks by leading voices from across the internet health movement."
+#~ msgstr "Assister à des conférences animées par des personnalités éminentes du mouvement pour la bonne santé d’Internet."
 
 #~ msgctxt "search_description"
 #~ msgid ""
@@ -289,20 +299,34 @@ msgstr "mozfest-patron-tera"
 #~ "Early Bird sont maintenant disponibles jusqu’au 7 février"
 
 #~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
-#~ msgid "Access to hundreds of sessions across the four days of the festival."
-#~ msgstr "Accéder à des centaines de sessions sur les quatre jours du festival."
+#~ msgid "We rely on your donations to carry out our mission to help keep the Web open and free – your support goes a long way."
+#~ msgstr "Nous comptons sur vos dons pour mener à bien notre mission de conserver le Web ouvert et libre ; votre soutien est crucial."
 
 #~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
-#~ msgid "Attend talks by leading voices from across the internet health movement."
-#~ msgstr "Assister à des conférences animées par des personnalités éminentes du mouvement pour la bonne santé d’Internet."
+#~ msgid "Access to hundreds of sessions across the four days of the festival."
+#~ msgstr "Accéder à des centaines de sessions sur les quatre jours du festival."
 
 #~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
 #~ msgid "Gather with the community through our virtual socials."
 #~ msgstr "Rejoindre une communauté grâce à nos réseaux sociaux virtuels."
 
 #~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
-#~ msgid "Engage with artists as they respond to outcomes from sessions."
-#~ msgstr "Interagir avec les artistes lorsqu’ils réagissent aux résultats des sessions."
+#~ msgid "There are two types of registrations available, Pay What You Can, which starts at €0, or you can <a id=\"a1\">become a MozFest Patron</a>, offering additional benefits, starting at €250."
+#~ msgstr ""
+#~ "Il existe deux types d’inscriptions disponibles, « Payez ce que vous pouvez », à partir de 0 €, ou vous pouvez <a id=\"a1\">devenir mécène du MozFest</a>, vous procurant des avantages "
+#~ "supplémentaires, à partir de 250 €."
+
+#~ msgctxt "body.53d57474-6cb1-4588-852a-2a18e1984b22"
+#~ msgid "Everything that is included in the standard Pay What You Can ticket."
+#~ msgstr "Tout ce qui est inclus dans le billet standard Payez ce que vous pouvez."
+
+#~ msgctxt "body.9d97d557-c683-4fde-b9a5-51dfee21d625"
+#~ msgid "Everything that is included in the standard Pay What You Can ticket."
+#~ msgstr "Tout ce qui est inclus dans le billet standard Payez ce que vous pouvez."
+
+#~ msgctxt "body.ea519fa2-6ebe-4f52-bd77-b1daeb70bf23"
+#~ msgid "For the third year in a row, festival tickets are pay-what-you-can in order to offer access to everyone, regardless of financial means."
+#~ msgstr "Pour la troisième année consécutive, les billets du festival sont au tarif « Payez ce que vous pouvez » afin d’offrir un accès à tout le monde, quels que soient ses moyens financiers."
 
 #~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
 #~ msgid "If you have professional development funds left to spend in 2022, now is your chance to invest those funds towards an incredible virtual experience next year by securing an Early Bird ticket!"
@@ -318,6 +342,14 @@ msgstr "mozfest-patron-tera"
 #~ "Soyez parmi les premiers à réserver un billet Early Bird pour le MozFest et obtenez un accès exclusif aux évènements précédant le festival sur la MozFest Plaza, y compris une séance de Débats et "
 #~ "discussions avec certains des leaders les plus influents de l’industrie de la tech, des expériences virtuelles immersives et plus encore ! En janvier, nous annoncerons plus de détails sur ces "
 #~ "avantages intéressants pour les billets Early Bird, alors restez à l’écoute !"
+
+#~ msgctxt "body.2d7792cb-8a59-46a4-862e-1711bf4d5e71"
+#~ msgid "Everything that is included in the Pay What You Can."
+#~ msgstr "Tout ce qui est inclus dans le billet Payez ce que vous pouvez."
+
+#~ msgctxt "body.2d7792cb-8a59-46a4-862e-1711bf4d5e71"
+#~ msgid "All the benefits of the Mega and Giga contribution levels"
+#~ msgstr "Tous les avantages des niveaux de contribution Méga et Giga."
 
 #~ msgctxt "body.2ac52c22-d7a1-4b7c-a507-c095153216e9.releases"
 #~ msgid "mozfest-virtual-pay-what-you-can-contribution-early-bird,mozfest-patron-mega"
@@ -336,3 +368,47 @@ msgstr "mozfest-patron-tera"
 #~ msgstr ""
 #~ "Avec la contribution « Payez ce que vous pouvez », vous aurez accès à la MozFest Plaza, vous permettant de parcourir les centaines de sessions disponibles, d’y assister et de les rattraper, et bien "
 #~ "plus encore."
+
+#~ msgctxt "body.2ac52c22-d7a1-4b7c-a507-c095153216e9.releases"
+#~ msgid "mozfest-virtual-on-demand,mozfest-patron-mega"
+#~ msgstr "mozfest-virtual-on-demand,mozfest-patron-mega"
+
+#~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
+#~ msgid "Discover talks by leading voices from across the internet health movement."
+#~ msgstr "Découvrez des conférences animées par des personnalités éminentes du mouvement pour la bonne santé d’Internet."
+
+#~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
+#~ msgid "MozFest On-Demand Tickets"
+#~ msgstr "Billets pour le MozFest à la demande"
+
+#~ msgctxt "body.ca645542-222c-462e-a6de-cd4f16fcb45b.releases"
+#~ msgid "wednesday-21st-june-day-ticket-copy"
+#~ msgstr "wednesday-21st-june-day-ticket-copy"
+
+#~ msgctxt "body.ca645542-222c-462e-a6de-cd4f16fcb45b.button_label"
+#~ msgid "Buy Full Festival Pass"
+#~ msgstr "Acheter le pass festival complet"
+
+#~ msgctxt "body.83558922-13b9-4561-8285-a50881990342"
+#~ msgid "By registering for MozFest, you can:"
+#~ msgstr "En vous inscrivant au MozFest, vous pouvez :"
+
+#~ msgctxt "body.83558922-13b9-4561-8285-a50881990342"
+#~ msgid "Watch hours of on-demand sessions and content after the festival ends."
+#~ msgstr "Regarder des heures de sessions et de contenu à la demande après la fin du festival."
+
+#~ msgctxt "body.83558922-13b9-4561-8285-a50881990342"
+#~ msgid "Discover talks by leading voices from across the internet health movement."
+#~ msgstr "Découvrir des conférences animées par des personnalités éminentes du mouvement pour la bonne santé d’Internet."
+
+#~ msgctxt "body.83558922-13b9-4561-8285-a50881990342"
+#~ msgid "Connect with our Slack community of over 4000 past, present and future MozFest participants"
+#~ msgstr "Rejoindre notre communauté Slack de plus de 4 000 participant·e·s des éditions passées, présente et futures de MozFest."
+
+#~ msgctxt "body.6cd83c7a-2c2b-48f7-bc68-91ee9ff7e1d4.releases"
+#~ msgid "wednesday-21st-june-day-ticket-copy"
+#~ msgstr "wednesday-21st-june-day-ticket-copy"
+
+#~ msgctxt "body.3ccabeaa-e3f8-453f-9642-4e0d356f55ec"
+#~ msgid "With the Pay What You Can contribution you’ll receive access to the MozFest Plaza allowing you to access the 150+ sessions available on-demand, plus much more."
+#~ msgstr "Avec le billet à prix libre, vous aurez accès à la MozFest Plaza, vous permettant d’accéder à plus de 150 sessions disponibles à la demande, et bien plus encore."

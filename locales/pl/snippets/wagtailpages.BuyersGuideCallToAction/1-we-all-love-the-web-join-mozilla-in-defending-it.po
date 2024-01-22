@@ -8,16 +8,16 @@ msgstr ""
 
 msgctxt "title"
 msgid "We all love the web. Join Mozilla in defending it."
-msgstr ""
+msgstr "Wszyscy kochamy internet. Dołącz do Mozilli w jego obronie."
 
 msgctxt "content"
 msgid "We are proudly non-profit, non-corporate and non-compromised."
-msgstr ""
+msgstr "Z dumą jesteśmy organizacją nonprofit, bez korporacji i bez kompromisów."
 
 msgctxt "link_label"
 msgid "Donate today"
-msgstr ""
+msgstr "Przekaż darowiznę"
 
 msgctxt "link_target_url"
-msgid "https://foundation.mozilla.org/privacynotincluded/?form=donate"
-msgstr ""
+msgid "https://foundation.mozilla.org/privacynotincluded/?form=donate&amp;utm_medium=FMO&amp;utm_source=PNI&amp;utm_campaign=23-PNI&amp;utm_content=banner&amp;c_id=7014x000000eQOD"
+msgstr "https://foundation.mozilla.org/privacynotincluded/?form=donate&utm_medium=FMO&utm_source=PNI&utm_campaign=23-PNI&utm_content=banner&c_id=7014x000000eQOD"

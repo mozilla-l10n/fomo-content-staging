@@ -12,7 +12,11 @@ msgstr "*Privacidade não incluída"
 
 msgctxt "hero_supporting_pages_heading"
 msgid "What to read next"
-msgstr ""
+msgstr "O que ler a seguir"
+
+msgctxt "seo_title"
+msgid "*Privacy Not Included"
+msgstr "*Privacidade não incluída"
 
 msgctxt "search_description"
 msgid ""

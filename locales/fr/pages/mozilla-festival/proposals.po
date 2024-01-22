@@ -319,6 +319,10 @@ msgstr ""
 #~ msgid "To help potential facilitators submit their best possible session proposals we provide <a id=\"a1\">support opportunities</a> for everyone submitting a proposal."
 #~ msgstr "Pour aider les animateurs potentiels à soumettre leurs meilleures propositions de session, nous offrons <a id=\"a1\">de l’assistance</a> à toute celles et ceux qui soumettent une proposition."
 
+#~ msgctxt "body.6f34d936-9f20-426c-8963-6059a9109dd1.URL"
+#~ msgid "https://www.pretalx.com/mozfest-2022/cfp"
+#~ msgstr "https://www.pretalx.com/mozfest-2022/cfp"
+
 #~ msgctxt "slug"
 #~ msgid "proposals"
 #~ msgstr "proposals"
@@ -354,10 +358,6 @@ msgstr ""
 #~ msgctxt "body.6f34d936-9f20-426c-8963-6059a9109dd1.label"
 #~ msgid "Submit your proposal"
 #~ msgstr "Soumettre une proposition"
-
-#~ msgctxt "body.6f34d936-9f20-426c-8963-6059a9109dd1.URL"
-#~ msgid "https://www.pretalx.com/mozfest-2022/cfp"
-#~ msgstr "https://www.pretalx.com/mozfest-2022/cfp"
 
 #~ msgctxt "body.83be6b4a-1279-4518-9f2d-d30b6bd32f11.text"
 #~ msgid ""

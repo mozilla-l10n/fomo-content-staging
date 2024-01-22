@@ -9,3 +9,7 @@ msgstr ""
 msgctxt "name"
 msgid "Wearables"
 msgstr "Wearables"
+
+msgctxt "description"
+msgid "A review of the privacy of connected wearables"
+msgstr "Les objets connectés passés au crible pour leur respect de la vie privée"

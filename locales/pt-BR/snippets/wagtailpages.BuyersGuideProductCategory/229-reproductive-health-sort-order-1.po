@@ -12,4 +12,4 @@ msgstr "Saúde reprodutiva"
 
 msgctxt "description"
 msgid "Period, ovulation, and pregnancy tracking apps and wearable devices"
-msgstr "Aplicativos e dispositivos de vestir de monitoração de ciclo menstrual, ovulação e gravidez"
+msgstr "Aplicativos e dispositivos corporais de monitoração de ciclo menstrual, ovulação e gravidez"
