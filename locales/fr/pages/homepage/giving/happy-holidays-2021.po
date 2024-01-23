@@ -1,0 +1,93 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-01-23 15:03:16.956968+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 83fbfaf6-b712-4d01-8b05-40181ba18566\n"
+
+msgctxt "seo_title"
+msgid "Happy Holidays from Mozilla"
+msgstr ""
+
+msgctxt "header"
+msgid "Happy Holidays from all of us at Mozilla!"
+msgstr ""
+
+msgctxt "body.bf4ec590-7472-4f5c-adc8-b2e76130773d"
+msgid "Happy Holidays from Mozilla!"
+msgstr ""
+
+msgctxt "body.64999978-8ed2-43f9-a5b2-81292894155f.altText"
+msgid "Abstract happy holidays image"
+msgstr ""
+
+msgctxt "body.f9cda228-d4bc-4fa8-8e99-3acc37103951"
+msgid ""
+"Another year has almost come and gone and we're so grateful to have you as part of the Mozilla Family. Together, we are building a better internet and creating a better tech future. Happy holidays "
+"from the bottom of our hearts!"
+msgstr ""
+
+msgctxt "body.3d0190c2-41f7-4c4c-a323-17420d516dbd.altText"
+msgid "2021 *Privacy Not Included buyer’s guide to keep you safe and secure PrivacyNotIncluded.org"
+msgstr ""
+
+msgctxt "body.3d0190c2-41f7-4c4c-a323-17420d516dbd.text"
+msgid "2021 *Privacy Not Included buyer’s guide to keep you safe and secure"
+msgstr ""
+
+msgctxt "body.3d0190c2-41f7-4c4c-a323-17420d516dbd.text"
+msgid "<a id=\"a1\">PrivacyNotIncluded.org</a>"
+msgstr ""
+
+msgctxt "body.3d0190c2-41f7-4c4c-a323-17420d516dbd.url"
+msgid "https://foundation.mozilla.org/privacynotincluded/"
+msgstr ""
+
+msgctxt "body.f67a0e17-a344-4bff-8178-d97fd0a159f1.altText"
+msgid "The new Regrets Reporter browser extension investigating YouTube’s recommendation engine (and why it sends us down rabbit holes)"
+msgstr ""
+
+msgctxt "body.f67a0e17-a344-4bff-8178-d97fd0a159f1.text"
+msgid "The new Regrets Reporter browser extension giving you more control over what YouTube recommends"
+msgstr ""
+
+msgctxt "body.f67a0e17-a344-4bff-8178-d97fd0a159f1.text"
+msgid "<a id=\"a1\">Check out the Regrets Reporter</a>"
+msgstr ""
+
+msgctxt "body.f67a0e17-a344-4bff-8178-d97fd0a159f1.url"
+msgid "https://foundation.mozilla.org/youtube/regretsreporter/"
+msgstr ""
+
+msgctxt "body.ab3c43fa-c65d-4ff7-bb62-49c3fd6e7d77.altText"
+msgid "Image of the Mozilla favicon logo."
+msgstr ""
+
+msgctxt "body.ab3c43fa-c65d-4ff7-bb62-49c3fd6e7d77.text"
+msgid "And much more to explore at<br/><a id=\"a1\">foundation.mozilla.org</a>"
+msgstr ""
+
+msgctxt "body.ab3c43fa-c65d-4ff7-bb62-49c3fd6e7d77.url"
+msgid "https://foundation.mozilla.org/"
+msgstr ""
+
+msgctxt "body.9154fa0b-f6fa-406b-a473-dc8269c18beb"
+msgid "Thank you for being part of the movement for a healthier internet and more trustworthy AI!"
+msgstr ""
+
+msgctxt "body.9154fa0b-f6fa-406b-a473-dc8269c18beb"
+msgid "Please consider making a year end donation (if you haven’t already)."
+msgstr ""
+
+msgctxt "body.f1ee9e55-231e-4a38-a764-1d406f7ad942.label"
+msgid "Donate"
+msgstr ""
+
+msgctxt "body.f1ee9e55-231e-4a38-a764-1d406f7ad942.URL"
+msgid "https://donate.mozilla.org/guardiangiving/"
+msgstr ""
+
+msgctxt "title"
+msgid "Tis The Season"
+msgstr ""
