@@ -330,10 +330,6 @@ msgstr ""
 "beeinträchtigen würden.\" Apple verwendet maschinelles Lernen auf viele verschiedene Arten, von der Verwendung zur Verbesserung von Siri bis hin zur Verwendung zum Schärfen der von Ihnen "
 "aufgenommenen Fotos."
 
-#~ msgctxt "title"
-#~ msgid "Apple Airtag"
-#~ msgstr "Apple Airtag"
-
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "Losing your stuff stinks. Finding your stuff is amazing. Apple entered the tiny Bluetooth tracker game with their new Airtags. These little, round trackers can slip into or be attached to almost "
@@ -346,6 +342,10 @@ msgstr ""
 #~ "ist Teddy?\" Ein Lautsprecher am Tracker teilt Ihnen mit, wo er sich befindet, wenn Sie sich in Bluetooth-Reichweite befinden. Sie können auch die Find-My-App verwenden, um die Gemeinschaft von "
 #~ "Millionen iPhone-, iPad- und Mac-Benutzern auf der ganzen Welt anzusprechen, um auch Ihren winzigen Tracker zu verfolgen. Ja, es gibt Datenschutzbedenken. Ja, Apple hat Schritte unternommen, um "
 #~ "diese Datenschutzbedenken auszuräumen. Wir hoffen, dass das reicht."
+
+#~ msgctxt "title"
+#~ msgid "Apple Airtag"
+#~ msgstr "Apple Airtag"
 
 #~ msgctxt "worst_case"
 #~ msgid ""

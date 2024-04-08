@@ -294,10 +294,6 @@ msgstr ""
 #~ msgid "<a id=\"a1\">Audit</a> which includes Brian Behlendorf, Mohamed Nanabhay &amp; Wambui Kinya;"
 #~ msgstr "<a id=\"a1\">Audits</a>, avec Brian Behlendorf, Mohamed Nanabhay et Wambui Kinya ;"
 
-#~ msgctxt "body.1b264435-d865-4ef8-ad55-8b4e59ff02a8"
-#~ msgid "<a id=\"a1\">Diversity and inclusion</a> which includes Helen Turvey, Nicole Wong &amp; Wambui Kinya;"
-#~ msgstr "<a id=\"a1\">Diversité et inclusion</a>, avec Helen Turvey, Nicole Wong et Wambui Kinya ;"
-
 #~ msgctxt "body.ba752a60-6e84-4305-a239-5daac6f02336.grid_items.311d7bea-eb83-4e3e-913c-522fa5199686.caption"
 #~ msgid "Mark Surman, Executive Director"
 #~ msgstr "Mark Surman, directeur général"
@@ -329,6 +325,10 @@ msgstr ""
 #~ msgctxt "body.ba752a60-6e84-4305-a239-5daac6f02336.grid_items.347b8a25-31db-410f-b0a4-abb510d5e728.alt_text"
 #~ msgid "D'Andre Walker"
 #~ msgstr "D'Andre Walker"
+
+#~ msgctxt "body.1b264435-d865-4ef8-ad55-8b4e59ff02a8"
+#~ msgid "<a id=\"a1\">Diversity and inclusion</a> which includes Helen Turvey, Nicole Wong &amp; Wambui Kinya;"
+#~ msgstr "<a id=\"a1\">Diversité et inclusion</a>, avec Helen Turvey, Nicole Wong et Wambui Kinya ;"
 
 #~ msgctxt "body.1b264435-d865-4ef8-ad55-8b4e59ff02a8"
 #~ msgid "<a id=\"a1\">Programs</a> which includes Mitchell Baker, Mohamed Nanabhay, Navrina Singh &amp; Nicole Wong."

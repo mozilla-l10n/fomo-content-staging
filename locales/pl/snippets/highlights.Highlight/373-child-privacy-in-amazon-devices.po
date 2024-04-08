@@ -8,16 +8,18 @@ msgstr ""
 
 msgctxt "title"
 msgid "Child Privacy In Amazon Devices"
-msgstr ""
+msgstr "Prywatność dzieci na urządzeniach Amazon"
 
 msgctxt "description"
 msgid "Amazon: Children’s privacy needs to be protected in all Amazon devices. Sign Mozilla’s petition now and tell Amazon's new executive to protect children’s privacy in Amazon devices."
 msgstr ""
+"Amazon: prywatność dzieci musi być chroniona na wszystkich urządzeniach Amazon. Podpisz teraz petycję Mozilli i powiedz nowemu dyrektorowi Amazon, aby chronił prywatność dzieci na urządzeniach "
+"Amazon."
 
 msgctxt "link_label"
 msgid "Learn more"
-msgstr ""
+msgstr "Dowiedz się więcej"
 
 msgctxt "footer"
 msgid "Learn more"
-msgstr ""
+msgstr "Dowiedz się więcej"

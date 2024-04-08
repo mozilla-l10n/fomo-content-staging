@@ -715,12 +715,6 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ "den Kindle, Kindle Paperwhite, Kindle Oasis und Kindle Kids an – könnte genau das Richtige sein, um Ihr Gehirn wieder in Form zu bringen, um Bücher zu lesen. Denn das ist wirklich alles, was der "
 #~ "Kindle tut – Bücher. Keine Videos oder Apps oder Surfen im Internet. Nur Bücher. Was für eine neuartige Idee!"
 
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
-#~ msgstr ""
-#~ "Nutzen Sie Ihre Datenschutzeinstellungen, um den Zugriff auf Ihre personenbezogenen Daten per App zu beschränken (d. h., geben Sie Kamera, Mikrofon, Bildern und Standort keinen Zugriff, es sei denn "
-#~ "es ist notwendig)"
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "Amazon proudly states they are not in the business of selling your personal information to others. True. But, Amazon doesn’t need to sell your data to others when they have their own advertising and"
@@ -786,6 +780,12 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid "\"Information about our customers is an important part of our business, and we are not in the business of selling our customers' personal information to others.\""
 #~ msgstr "„Daten über unsere Kund*innen sind ein wichtiger Bestandteil unseres Unternehmens, und wir verkaufen die Daten unserer Kund*innen nicht an andere.“"
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
+#~ msgstr ""
+#~ "Nutzen Sie Ihre Datenschutzeinstellungen, um den Zugriff auf Ihre personenbezogenen Daten per App zu beschränken (d. h., geben Sie Kamera, Mikrofon, Bildern und Standort keinen Zugriff, es sei denn "
+#~ "es ist notwendig)"
 
 #~ msgctxt "child_safety_blurb"
 #~ msgid ""

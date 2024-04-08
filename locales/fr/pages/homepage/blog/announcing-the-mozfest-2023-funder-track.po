@@ -48,7 +48,7 @@ msgctxt "body.f78d8e77-07ba-42af-bfd2-910ecc186ec8.label"
 msgid "Secure Your MozFest Ticket Today"
 msgstr "Réserver votre billet pour le MozFest"
 
-msgctxt "body.f78d8e77-07ba-42af-bfd2-910ecc186ec8.URL"
+msgctxt "body.f78d8e77-07ba-42af-bfd2-910ecc186ec8.external_url"
 msgid "https://www.mozillafestival.org/tickets"
 msgstr "https://www.mozillafestival.org/tickets"
 
@@ -308,7 +308,7 @@ msgctxt "body.b058b7c2-fe24-4b6c-9da7-7b68bf42e3b6.label"
 msgid "Browse all Funder Track Sessions"
 msgstr "Parcourir toutes les sessions Funder Track"
 
-msgctxt "body.b058b7c2-fe24-4b6c-9da7-7b68bf42e3b6.URL"
+msgctxt "body.b058b7c2-fe24-4b6c-9da7-7b68bf42e3b6.external_url"
 msgid "http://mzl.la/fundertrack"
 msgstr "http://mzl.la/fundertrack"
 
@@ -316,7 +316,7 @@ msgctxt "body.453c485c-675e-4a33-a34c-a866e94231ad.label"
 msgid "Secure your ticket"
 msgstr "Réserver votre billet"
 
-msgctxt "body.453c485c-675e-4a33-a34c-a866e94231ad.URL"
+msgctxt "body.453c485c-675e-4a33-a34c-a866e94231ad.external_url"
 msgid "https://www.mozillafestival.org/tickets"
 msgstr "https://www.mozillafestival.org/tickets"
 
@@ -358,10 +358,10 @@ msgctxt "title"
 msgid "Announcing the MozFest 2023 Funder Track"
 msgstr "Annonce de la Funder Track du MozFest 2023"
 
-#~ msgctxt "body.e56687e8-ea4f-460d-b93c-01adce9a7999.text"
-#~ msgid "<i>Moderated by</i>: Silke Muelherr, Co-CEO | <a id=\"a1\">Alfred Landecker Foundation</a>"
-#~ msgstr "<i>Animé par</i> : Silke Muelherr, co-PDG | <a id=\"a1\">Fondation Alfred Landecker</a>"
-
 #~ msgctxt "body.73716e39-e7e1-450a-80bd-421e9428a36d"
 #~ msgid "Wednesday, March 22 @ 12pm ET / 5pm CET"
 #~ msgstr "Mercredi 22 mars à 12h ET / 17h CET"
+
+#~ msgctxt "body.e56687e8-ea4f-460d-b93c-01adce9a7999.text"
+#~ msgid "<i>Moderated by</i>: Silke Muelherr, Co-CEO | <a id=\"a1\">Alfred Landecker Foundation</a>"
+#~ msgstr "<i>Animé par</i> : Silke Muelherr, co-PDG | <a id=\"a1\">Fondation Alfred Landecker</a>"

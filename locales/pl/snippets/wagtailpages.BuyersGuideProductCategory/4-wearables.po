@@ -12,4 +12,4 @@ msgstr "Do noszenia"
 
 msgctxt "description"
 msgid "A review of the privacy of connected wearables"
-msgstr ""
+msgstr "Przegląd prywatności podłączonych urządzeń do noszenia"

@@ -18,15 +18,15 @@ msgid "Mozilla Festival"
 msgstr ""
 
 msgctxt "cta_button_label"
-msgid "Connect on Discord"
+msgid "Get Your Ticket"
 msgstr ""
 
 msgctxt "banner_heading"
-msgid "Mozilla Festival"
+msgid "Announcing MozFest House Amsterdam"
 msgstr ""
 
 msgctxt "banner_meta"
-msgid "Announcing 2024 Dates Soon"
+msgid "11-13 June 2024 | Amsterdam, NL"
 msgstr ""
 
 msgctxt "banner_text"
@@ -34,67 +34,61 @@ msgid "The premier gathering for people working to build a better digital world.
 msgstr ""
 
 msgctxt "banner_link_text"
-msgid "Connect on Discord"
+msgid "Get Your Ticket"
 msgstr ""
 
-msgctxt "body.1778ee04-ad90-4f57-b61c-d01e9967d276"
+msgctxt "body.09d96613-d46f-42a8-8e16-2a075dfaeba6"
 msgid "What's Coming Up"
 msgstr ""
 
-msgctxt "body.b1cec180-716a-42bb-8994-1c038f0534f7.cards.9f9797a3-eced-4113-be11-bbcffbf76fce.title"
-msgid "Speculative F(r)iction in GenAI"
+msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.c1c6a511-801f-40cc-87bb-9674796b1fee.title"
+msgid "Faces behind MozFest: A meet and greet with Wranglers"
 msgstr ""
 
-msgctxt "body.b1cec180-716a-42bb-8994-1c038f0534f7.cards.9f9797a3-eced-4113-be11-bbcffbf76fce.highlighted_metadata"
+msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.c1c6a511-801f-40cc-87bb-9674796b1fee.highlighted_metadata"
 msgid "Virtual Gathering"
 msgstr ""
 
-msgctxt "body.b1cec180-716a-42bb-8994-1c038f0534f7.cards.9f9797a3-eced-4113-be11-bbcffbf76fce.metadata"
-msgid "Jan 19, 2024 - 17:00 UTC"
+msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.c1c6a511-801f-40cc-87bb-9674796b1fee.metadata"
+msgid "16th April, 3pm UTC"
 msgstr ""
 
-msgctxt "body.b1cec180-716a-42bb-8994-1c038f0534f7.cards.9f9797a3-eced-4113-be11-bbcffbf76fce.body"
+msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.c1c6a511-801f-40cc-87bb-9674796b1fee.body"
+msgid "Our Faces Behind MozFest series aims to showcase the incredible work members of the MozFest community accomplish year-round. Join us for a conversation with some of this year’s Wranglers."
+msgstr ""
+
+msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.c1c6a511-801f-40cc-87bb-9674796b1fee.link_url"
+msgid "https://discord.gg/mozfest?event=1204808402165829705"
+msgstr ""
+
+msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.60acfad0-4131-47ee-a01b-114f49db5ba0.title"
+msgid "Faces Behind MozFest: Volunteer Spotlight"
+msgstr ""
+
+msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.60acfad0-4131-47ee-a01b-114f49db5ba0.highlighted_metadata"
+msgid "Virtual Gathering"
+msgstr ""
+
+msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.60acfad0-4131-47ee-a01b-114f49db5ba0.metadata"
+msgid "30th April, 3pm UTC"
+msgstr ""
+
+msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.60acfad0-4131-47ee-a01b-114f49db5ba0.body"
 msgid ""
-"What kinds of design fictions and constructive frictions could contribute towards improved transparency, evaluation, and human agency in the context of generative AI systems and the data and labor "
-"pipelines they depend on?"
+"Our Faces Behind MozFest series aims to showcase the incredible work members of the MozFest community accomplish year-round. Join us for a conversation with some of MozFest's fantastic past and "
+"present Volunteers!"
 msgstr ""
 
-msgctxt "body.b1cec180-716a-42bb-8994-1c038f0534f7.cards.9f9797a3-eced-4113-be11-bbcffbf76fce.link_url"
-msgid "https://mozilla.zoom.us/meeting/register/tJUpduGrqjwiE9edRb_0Nd8BH0_68YkuyoiY#/registration"
-msgstr ""
-
-msgctxt "body.b1cec180-716a-42bb-8994-1c038f0534f7.cards.1c746a6c-2f7d-43b4-bfc1-200ac5c4d6af.alt_text"
-msgid "Trustworthy AI Funding Principles Event Poster"
-msgstr ""
-
-msgctxt "body.b1cec180-716a-42bb-8994-1c038f0534f7.cards.1c746a6c-2f7d-43b4-bfc1-200ac5c4d6af.title"
-msgid "Trustworthy AI Funding Principles"
-msgstr ""
-
-msgctxt "body.b1cec180-716a-42bb-8994-1c038f0534f7.cards.1c746a6c-2f7d-43b4-bfc1-200ac5c4d6af.highlighted_metadata"
-msgid "Dialogues and Debates"
-msgstr ""
-
-msgctxt "body.b1cec180-716a-42bb-8994-1c038f0534f7.cards.1c746a6c-2f7d-43b4-bfc1-200ac5c4d6af.metadata"
-msgid "Jan 24, 2024 - 16:00 UTC"
-msgstr ""
-
-msgctxt "body.b1cec180-716a-42bb-8994-1c038f0534f7.cards.1c746a6c-2f7d-43b4-bfc1-200ac5c4d6af.body"
-msgid ""
-"A discussion with J. Bob Alotta on shaping the future of AI through philanthropic funding. Part of our \"Funder Track\" series at MozFest; the premiere gathering for activists in diverse global "
-"movements fighting for a more humane digital world."
-msgstr ""
-
-msgctxt "body.b1cec180-716a-42bb-8994-1c038f0534f7.cards.1c746a6c-2f7d-43b4-bfc1-200ac5c4d6af.link_url"
-msgid "https://www.linkedin.com/events/7142546116528537603/"
+msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.60acfad0-4131-47ee-a01b-114f49db5ba0.link_url"
+msgid "https://discord.gg/mozfest?event=1220725928242450523"
 msgstr ""
 
 msgctxt "body.295db423-1585-459e-8c3d-696198327752.heading"
-msgid "15 years of MozFest, and we’re just getting started."
+msgid "15 years of Mozilla Festival, and we’re just getting started."
 msgstr ""
 
 msgctxt "body.295db423-1585-459e-8c3d-696198327752.text"
-msgid "MozFest is where passionate individuals unite to build a better internet."
+msgid "Mozilla Festival is where passionate individuals unite to build a better internet."
 msgstr ""
 
 msgctxt "body.295db423-1585-459e-8c3d-696198327752.text"
@@ -104,11 +98,11 @@ msgid ""
 msgstr ""
 
 msgctxt "body.295db423-1585-459e-8c3d-696198327752.text"
-msgid "Reclaiming the internet starts with us, and at MozFest, your ideas have power to create real impact. Join the movement to shape the future of the internet for the better."
+msgid "Reclaiming the internet starts with us, and at Mozilla Festival, your ideas have the power to create real impact. Join the movement to shape the future of the internet for the better."
 msgstr ""
 
 msgctxt "body.295db423-1585-459e-8c3d-696198327752.link_label"
-msgid "Learn more about MozFest"
+msgid "Learn more about Mozilla Festival"
 msgstr ""
 
 msgctxt "body.295db423-1585-459e-8c3d-696198327752.carousel_images.8cee907f-f809-47d6-9649-0df1a6ce8d18.altText"
@@ -167,16 +161,90 @@ msgctxt "body.49371a51-0a63-4930-964b-50125c6b59e3.attribution"
 msgid "THE MOZILLA MANIFESTO"
 msgstr ""
 
+msgctxt "body.bee67c95-c3af-4db2-ae51-fe4a5414bb43.label"
+msgid "Connect on Discord"
+msgstr ""
+
 msgctxt "body.bee67c95-c3af-4db2-ae51-fe4a5414bb43.heading"
-msgid "Your Chance To Shape MozFest 2024"
+msgid "Join Mozilla Festival on Discord"
 msgstr ""
 
 msgctxt "body.bee67c95-c3af-4db2-ae51-fe4a5414bb43.text"
-msgid "We are looking for passionate individuals to help co-design the next MozFest House in the Netherlands. Applications close January 31, 2024."
+msgid "Engage year-round with diverse global movements, collaborate on Trustworthy AI, and join exclusive events."
 msgstr ""
 
-msgctxt "body.bee67c95-c3af-4db2-ae51-fe4a5414bb43.link_text"
-msgid "Apply here"
+msgctxt "body.a715166c-6a94-4913-aa6b-cac514a995d1"
+msgid "Mozilla Festival 2024: On Togetherness &amp; Solidarity"
+msgstr ""
+
+msgctxt "body.a715166c-6a94-4913-aa6b-cac514a995d1"
+msgid ""
+"In 2024, Mozilla Festival is focused on Solidarity. This year, we are hosting MozFest House in The Netherlands &amp; Zambia. We are also hosting monthly Virtual Gatherings, uniting our global "
+"community."
+msgstr ""
+
+msgctxt "body.5f7b7339-f1fe-483a-b0d4-b6e53d992dc0.title"
+msgid "2024 Themes"
+msgstr ""
+
+msgctxt "body.5f7b7339-f1fe-483a-b0d4-b6e53d992dc0.session_items.1d34b2b8-9560-4ff3-bb72-4488d427f25f.title"
+msgid "Togetherness"
+msgstr ""
+
+msgctxt "body.5f7b7339-f1fe-483a-b0d4-b6e53d992dc0.session_items.1d34b2b8-9560-4ff3-bb72-4488d427f25f.body"
+msgid "Together, we’ll stand in solidarity, leveraging our global efforts to drive change at a local level."
+msgstr ""
+
+msgctxt "body.5f7b7339-f1fe-483a-b0d4-b6e53d992dc0.session_items.9934c2a9-4726-41e2-8c23-a0297960a5a3.title"
+msgid "Opportunity and Abundance"
+msgstr ""
+
+msgctxt "body.5f7b7339-f1fe-483a-b0d4-b6e53d992dc0.session_items.9934c2a9-4726-41e2-8c23-a0297960a5a3.body"
+msgid "Together, we stand against unfair treatment in our communities and around the world."
+msgstr ""
+
+msgctxt "body.5f7b7339-f1fe-483a-b0d4-b6e53d992dc0.session_items.031b054a-eb0c-4fea-b133-1ef9851fc98b.title"
+msgid "Collective Wellbeing"
+msgstr ""
+
+msgctxt "body.5f7b7339-f1fe-483a-b0d4-b6e53d992dc0.session_items.031b054a-eb0c-4fea-b133-1ef9851fc98b.body"
+msgid "Together, we reform policy, tools, and economic infrastructure, rewriting the rules for AI."
+msgstr ""
+
+msgctxt "body.f88eb143-861d-400a-aa1e-e04ec507c6e3.heading"
+msgid "Get Your Early Bird Tickets"
+msgstr ""
+
+msgctxt "body.ff64d04c-5c25-4814-94cb-2619bb3347e4"
+msgid "Help Make MozFest Happen"
+msgstr ""
+
+msgctxt "body.ff64d04c-5c25-4814-94cb-2619bb3347e4"
+msgid "MozFest is not just an annual date on the calendar. It's a collaborative community taking action on the issues that matter most all year long."
+msgstr ""
+
+msgctxt "body.53bad728-8838-4a6a-beca-d0c98fe9878b.cards.c4f5ccaf-9be1-4467-b927-045b4c86325a.title"
+msgid "Volunteer at Mozilla Festival"
+msgstr ""
+
+msgctxt "body.53bad728-8838-4a6a-beca-d0c98fe9878b.cards.c4f5ccaf-9be1-4467-b927-045b4c86325a.body"
+msgid "Access MozFest House Amsterdam for free by volunteering some of your time."
+msgstr ""
+
+msgctxt "body.53bad728-8838-4a6a-beca-d0c98fe9878b.cards.079e1c4d-4a6d-4f8e-9dcc-85f327e2a89d.title"
+msgid "Facilitate Virtually"
+msgstr ""
+
+msgctxt "body.53bad728-8838-4a6a-beca-d0c98fe9878b.cards.079e1c4d-4a6d-4f8e-9dcc-85f327e2a89d.body"
+msgid "Grow your work and community through MozFest's Virtual Gatherings."
+msgstr ""
+
+msgctxt "body.53bad728-8838-4a6a-beca-d0c98fe9878b.cards.df711f37-aa0d-44be-847b-9c9053aaba00.title"
+msgid "Become a Wrangler"
+msgstr ""
+
+msgctxt "body.53bad728-8838-4a6a-beca-d0c98fe9878b.cards.df711f37-aa0d-44be-847b-9c9053aaba00.body"
+msgid "We are looking for passionate individuals to help co-design future MozFest Houses."
 msgstr ""
 
 msgctxt "body.6f34e914-10cc-46a0-a107-356cb0f46eb0"

@@ -753,6 +753,10 @@ msgstr ""
 #~ msgid "Name, email, phone number"
 #~ msgstr "Nom, adresse e-mail, numéro de téléphone"
 
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number, address."
+#~ msgstr "Nom, adresse e-mail, numéro de téléphone, adresse postale"
+
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "Learning is fun! Owning a thermostat that learns all about how warm and cool you like your house is maybe fun too? According to Google, use this thermostat for a week and it'll adapt to you. The app"
@@ -784,10 +788,6 @@ msgstr ""
 #~ msgctxt "ai_what_can_it_do"
 #~ msgid "With Auto-Schedule, your Nest thermostat learns what temperatures you like at different times of the day."
 #~ msgstr "Avec la programmation automatique, votre thermostat Nest mémorise les températures que vous aimez à différents moments de la journée."
-
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number, address."
-#~ msgstr "Nom, adresse e-mail, numéro de téléphone, adresse postale"
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

@@ -604,10 +604,6 @@ msgstr "A Alexa da Amazon utiliza o processamento de linguagem natural para ente
 #~ " dados das interações que essas gravações geraram. Assim, se você comprar um teste de gravidez usando Alexa, a Amazon não esquecerá que você comprou esse teste de gravidez só porque você pediu a "
 #~ "eles que excluíssem a gravação de voz dessa compra. O registro dessa compra é um dado que ela tem sobre você e que pode usar para direcionar anúncios com mais coisas."
 
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Voice recordings, images and videos collected or stored in connection with Amazon Services"
-#~ msgstr "Gravações de voz, imagens e vídeos coletados ou armazenados em conexão com os Amazon Services"
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "Oh, let’s not forget Amazon’s track record at protecting and respecting their customers' data. That raises some red flags too. Here are a few of the problems we’ve seen over the last few years. "
@@ -625,6 +621,10 @@ msgstr "A Alexa da Amazon utiliza o processamento de linguagem natural para ente
 #~ "privacidade e segurança conhecidos que a Amazon teve (pode haver outros que sejam desconhecidos). E nós entendemos: a Amazon é uma grande empresa com muitos produtos e funcionários e é impossível "
 #~ "proteger tudo 100% do tempo. Mas essa é a questão. Quando você coleta uma quantidade tão grande de informações pessoais, você tem que ser supermegaextracuidadoso para mantê-las seguras em todos os "
 #~ "lugares, o tempo todo. A Amazon demonstrou que nem sempre consegue fazer isso."
+
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Voice recordings, images and videos collected or stored in connection with Amazon Services"
+#~ msgstr "Gravações de voz, imagens e vídeos coletados ou armazenados em conexão com os Amazon Services"
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid "We ding this product for using personal data for targeted advertising purposes, and combining data about you with data it receives from third parties for targeted advertising purposes."

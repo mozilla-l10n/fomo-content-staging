@@ -575,18 +575,6 @@ msgctxt "ai_what_can_it_do"
 msgid "Amazon Alexa uses natural language processing to understand you and to generate answers to your requests."
 msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprendre et générer des réponses à vos demandes."
 
-#~ msgctxt "track_record_details"
-#~ msgid "In <a id=\"a1\">October 2019</a>, Forbes reported that Amazon employees were listening to Amazon Cloud Cam recording, to train its AI algorithm."
-#~ msgstr "En <a id=\"a1\">octobre 2019</a>, Forbes a révélé que des employés d’Amazon écoutaient des enregistrements d’Amazon Cloud Cam, pour entraîner son algorithme d’IA."
-
-#~ msgctxt "track_record_details"
-#~ msgid ""
-#~ "In <a id=\"a1\">August 2020</a>, security researchers from Check Point pointed out a flaw in Amazon's Alexa smart home devices that could have allowed hackers access to personal information and "
-#~ "conversation history. Amazon promptly fixed the bug."
-#~ msgstr ""
-#~ "<a id=\"a1\">En août 2020</a>, des chercheurs en sécurité de Check Point ont signalé une faille dans les appareils connectés Alexa d’Amazon qui aurait pu permettre à des pirates d’accéder à des "
-#~ "informations personnelles et à l’historique des conversations. Amazon a rapidement corrigé le bug."
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "Amazon proudly states they are not in the business of selling your personal information to others, which is good. However, a good question to ask is, why would Amazon need to sell your data when "
@@ -693,6 +681,18 @@ msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprend
 #~ "La déclaration de confidentialité d’Amazon n’est pas tout à fait claire concernant les droits de suppression : « Dans la mesure requise par la loi applicable, vous pouvez avoir le droit de demander "
 #~ "l’accès à vos informations personnelles ou de les supprimer. Si vous souhaitez effectuer l’une de ces opérations, veuillez contacter le service client. Selon vos choix de données, certains services "
 #~ "peuvent être limités ou indisponibles. »"
+
+#~ msgctxt "track_record_details"
+#~ msgid ""
+#~ "In <a id=\"a1\">August 2020</a>, security researchers from Check Point pointed out a flaw in Amazon's Alexa smart home devices that could have allowed hackers access to personal information and "
+#~ "conversation history. Amazon promptly fixed the bug."
+#~ msgstr ""
+#~ "<a id=\"a1\">En août 2020</a>, des chercheurs en sécurité de Check Point ont signalé une faille dans les appareils connectés Alexa d’Amazon qui aurait pu permettre à des pirates d’accéder à des "
+#~ "informations personnelles et à l’historique des conversations. Amazon a rapidement corrigé le bug."
+
+#~ msgctxt "track_record_details"
+#~ msgid "In <a id=\"a1\">October 2019</a>, Forbes reported that Amazon employees were listening to Amazon Cloud Cam recording, to train its AI algorithm."
+#~ msgstr "En <a id=\"a1\">octobre 2019</a>, Forbes a révélé que des employés d’Amazon écoutaient des enregistrements d’Amazon Cloud Cam, pour entraîner son algorithme d’IA."
 
 #~ msgctxt "track_record_details"
 #~ msgid ""

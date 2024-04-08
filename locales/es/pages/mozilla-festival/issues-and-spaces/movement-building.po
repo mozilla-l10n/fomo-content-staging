@@ -296,7 +296,7 @@ msgstr "Escuchar ahora"
 #~ msgid "Submit your session idea"
 #~ msgstr "Envía tu idea para una sesión"
 
-#~ msgctxt "body.705b4f29-162d-4e1c-8f94-51b8cc98136b.URL"
+#~ msgctxt "body.705b4f29-162d-4e1c-8f94-51b8cc98136b.external_url"
 #~ msgid "https://pretalx.com/mozilla-festival-2023/cfp"
 #~ msgstr "https://pretalx.com/mozilla-festival-2023/cfp"
 
@@ -304,17 +304,9 @@ msgstr "Escuchar ahora"
 #~ msgid "Submit your session idea"
 #~ msgstr "Envía tu idea para una sesión"
 
-#~ msgctxt "body.0f19c526-1c8e-4c3f-9d26-ba3b158f3a2a.URL"
+#~ msgctxt "body.0f19c526-1c8e-4c3f-9d26-ba3b158f3a2a.external_url"
 #~ msgid "https://pretalx.com/mozilla-festival-2023/cfp"
 #~ msgstr "https://pretalx.com/mozilla-festival-2023/cfp"
-
-#~ msgctxt "body.df3c7b2f-caee-454c-8f3e-268c52a36bad.url"
-#~ msgid "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
-#~ msgstr "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fes%2Fregistrations%2Fnew"
-
-#~ msgctxt "body.51d014e0-2762-4ea4-97b7-fa3339474d0a.url"
-#~ msgid "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
-#~ msgstr "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fes%2Fregistrations%2Fnew"
 
 #~ msgctxt "body.e6c2a4ba-aa77-451a-b765-31bb5d8b7d17.button_label"
 #~ msgid "Secure your ticket"
@@ -331,6 +323,14 @@ msgstr "Escuchar ahora"
 #~ msgctxt "body.51d014e0-2762-4ea4-97b7-fa3339474d0a.url_label"
 #~ msgid "Secure your ticket"
 #~ msgstr "Asegura tu boleto"
+
+#~ msgctxt "body.df3c7b2f-caee-454c-8f3e-268c52a36bad.url"
+#~ msgid "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
+#~ msgstr "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fes%2Fregistrations%2Fnew"
+
+#~ msgctxt "body.51d014e0-2762-4ea4-97b7-fa3339474d0a.url"
+#~ msgid "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fen%2Fregistrations%2Fnew"
+#~ msgstr "?tito=%2FMozilla%2Fmozilla-festival-2023%2Fes%2Fregistrations%2Fnew"
 
 #~ msgctxt "body.d21f5799-a7f9-4b48-9059-27f3145cb04a.session_items.c53e276a-8301-4ca6-9dd1-02eda56928fc.body"
 #~ msgid ""

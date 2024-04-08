@@ -421,7 +421,7 @@ msgstr ""
 
 msgctxt "child_safety_blurb"
 msgid "Please note that content like emails, contacts, and chats are accessible through in-product experiences. ..."
-msgstr "Veuillez noter que les contenus tels que les courriels, les contacts et les chats sont accessibles par le biais de services au sein du produit."
+msgstr "Veuillez noter que les contenus tels que les e-mails, les contacts et les chats sont accessibles par le biais de services au sein du produit."
 
 msgctxt "child_safety_blurb"
 msgid ""

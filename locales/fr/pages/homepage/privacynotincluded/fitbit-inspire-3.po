@@ -876,6 +876,14 @@ msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> s
 #~ msgid "To create a Fitbit account, users are required to provide strong, complex, passwords during onboarding."
 #~ msgstr "Pour créer un compte Fitbit, les utilisateurs et utilisatrices doivent fournir des mots de passe compliqués lors de la configuration initiale."
 
+#~ msgctxt "track_record_details"
+#~ msgid "In 2020, it was <a id=\"a1\">reported</a> the emails and passwords of nearly 2 million Fitbit users was leaked online."
+#~ msgstr "En 2020, il a été <a id=\"a1\">signalé</a> que les adresses e-mail et les mots de passe de près de 2 millions d’utilisateurs de Fitbit ont été divulgués en ligne."
+
+#~ msgctxt "child_safety_blurb"
+#~ msgid "\"We appreciate the importance of taking additional measures to protect children’s privacy."
+#~ msgstr "« Nous sommes conscients de l’importance de prendre des mesures supplémentaires pour protéger la vie privée des enfants."
+
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "If you want a little tracking--activity, heart rate, sleep--without the extra bells and whistles, this little bracelet could be for you. Just think, in the year 1820, the word tracker meant someone "
@@ -991,6 +999,19 @@ msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> s
 #~ "confidentialité et de sécurité appropriée. Ces partenaires nous fournissent des services dans le monde entier, notamment pour l’assistance client, les technologies de l’information, les paiements, "
 #~ "les ventes, le marketing, l’analyse des données, la recherche et les enquêtes. »"
 
+#~ msgctxt "track_record_details"
+#~ msgid ""
+#~ "In 2021 Fitbit's security measures <a id=\"a1\">did not prevent</a> the major data leak of 61 million fitness tracker data records, including Fitbit user data, by the third-party company GetHealth. "
+#~ "In September 2021, a group of security researchers discovered GetHealth had an unsecured database containing over 61 million records related to wearable technology and fitness services. GetHealth "
+#~ "accessed health data belonging to wearable device users around the world and leaked it in an non-password protected, unencrypted database. The list contained names, birthdates, weight, height, "
+#~ "gender, and geographical location, as well as other medical data, such as blood pressure."
+#~ msgstr ""
+#~ "En 2021, les mesures de sécurité de Fitbit n’ont pas empêché la <a id=\"a1\">fuite de données majeure</a> de 61 millions d’enregistrements de données de traqueur d’activité, parmi lesquelles les "
+#~ "données utilisateur Fitbit, par le biais de la société tierce GetHealth. En septembre 2021, un groupe de chercheurs en sécurité a découvert que GetHealth disposait d’une base de données non "
+#~ "sécurisée contenant plus de 61 millions d’enregistrements liés à des traqueurs d’activité et des services de fitness. GetHealth a accédé aux données de santé appartenant aux utilisateurs de "
+#~ "traqueurs d’activité du monde entier et les a divulguées dans une base de données non chiffrée et non protégée par mot de passe. La liste contenait les noms, les dates de naissance, le poids, la "
+#~ "taille, le genre et l’emplacement géographique, ainsi que d’autres données médicales, telles que la pression artérielle."
+
 #~ msgctxt "personal_data_collected"
 #~ msgid "Name, date of birth, gender, photo (optional)"
 #~ msgstr "Nom, date de naissance, genre, photo (facultatif)"
@@ -1035,27 +1056,6 @@ msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> s
 #~ " votre compte, veuillez noter que si la plupart de vos informations seront supprimées dans les 30 jours, la suppression de toutes vos informations, comme les données enregistrées par votre appareil "
 #~ "Fitbit et d’autres données stockées dans nos systèmes de sauvegarde, peut prendre jusqu’à 90 jours. Cela est dû à la taille et à la complexité des systèmes que nous utilisons pour stocker les "
 #~ "données. Nous pouvons également conserver des données pour des raisons juridiques ou pour prévenir tout préjudice, notamment comme décrit dans la section Comment les informations sont partagées. »"
-
-#~ msgctxt "track_record_details"
-#~ msgid ""
-#~ "In 2021 Fitbit's security measures <a id=\"a1\">did not prevent</a> the major data leak of 61 million fitness tracker data records, including Fitbit user data, by the third-party company GetHealth. "
-#~ "In September 2021, a group of security researchers discovered GetHealth had an unsecured database containing over 61 million records related to wearable technology and fitness services. GetHealth "
-#~ "accessed health data belonging to wearable device users around the world and leaked it in an non-password protected, unencrypted database. The list contained names, birthdates, weight, height, "
-#~ "gender, and geographical location, as well as other medical data, such as blood pressure."
-#~ msgstr ""
-#~ "En 2021, les mesures de sécurité de Fitbit n’ont pas empêché la <a id=\"a1\">fuite de données majeure</a> de 61 millions d’enregistrements de données de traqueur d’activité, parmi lesquelles les "
-#~ "données utilisateur Fitbit, par le biais de la société tierce GetHealth. En septembre 2021, un groupe de chercheurs en sécurité a découvert que GetHealth disposait d’une base de données non "
-#~ "sécurisée contenant plus de 61 millions d’enregistrements liés à des traqueurs d’activité et des services de fitness. GetHealth a accédé aux données de santé appartenant aux utilisateurs de "
-#~ "traqueurs d’activité du monde entier et les a divulguées dans une base de données non chiffrée et non protégée par mot de passe. La liste contenait les noms, les dates de naissance, le poids, la "
-#~ "taille, le genre et l’emplacement géographique, ainsi que d’autres données médicales, telles que la pression artérielle."
-
-#~ msgctxt "track_record_details"
-#~ msgid "In 2020, it was <a id=\"a1\">reported</a> the emails and passwords of nearly 2 million Fitbit users was leaked online."
-#~ msgstr "En 2020, il a été <a id=\"a1\">signalé</a> que les adresses e-mail et les mots de passe de près de 2 millions d’utilisateurs de Fitbit ont été divulgués en ligne."
-
-#~ msgctxt "child_safety_blurb"
-#~ msgid "\"We appreciate the importance of taking additional measures to protect children’s privacy."
-#~ msgstr "« Nous sommes conscients de l’importance de prendre des mesures supplémentaires pour protéger la vie privée des enfants."
 
 #~ msgctxt "ai_helptext"
 #~ msgid "FitBit Coach and FitBit Care services are <a id=\"a1\">said</a> to be based on Machine Learning"

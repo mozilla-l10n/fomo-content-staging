@@ -870,14 +870,6 @@ msgctxt "ai_helptext"
 msgid "FitBit Coach and FitBit Care services are <a id=\"a1\">said</a> to be based on Machine Learning."
 msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> sur l’apprentissage automatique."
 
-#~ msgctxt "social_data_collected"
-#~ msgid "Fitbit connections"
-#~ msgstr "Connexions Fitbit"
-
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Heart rate, movement, sleep data, menstrual cycle, and more"
-#~ msgstr "Fréquence cardiaque, mouvements, données sur le sommeil, cycle menstruel, etc."
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "As of January 14, 2021, Google officially <a id=\"a1\">became the owner</a> of Fitbit. That worried many privacy conscious users. However, Google promised that “Fitbit users’ health and wellness "
@@ -938,6 +930,14 @@ msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> s
 #~ msgid "Name, date of birth, gender, photo (optional)"
 #~ msgstr "Nom, date de naissance, genre, photo (facultatif)"
 
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Heart rate, movement, sleep data, menstrual cycle, and more"
+#~ msgstr "Fréquence cardiaque, mouvements, données sur le sommeil, cycle menstruel, etc."
+
+#~ msgctxt "social_data_collected"
+#~ msgid "Fitbit connections"
+#~ msgstr "Connexions Fitbit"
+
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""
 #~ "You can choose not to sync the device with the app. Fitbit keeps your account information, like your name, email address, and password, for as long as your account is in existence. Fitbit keeps your"
@@ -984,15 +984,6 @@ msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> s
 #~ "de mesurer les performances de ces publicités. Ces sociétés peuvent utiliser des cookies et des technologies similaires pour recueillir des informations sur vos interactions avec les services et "
 #~ "d’autres sites web et applications. Pour en savoir plus et sur vos choix en matière de confidentialité, veuillez lire notre déclaration sur l’utilisation des cookies. »"
 
-#~ msgctxt "how_does_it_use_data_collected"
-#~ msgid ""
-#~ "\"We never sell the personal information of our users. We do work with partners who provide us with advertising services as described in the Analytics and Advertising Services Provided By Others "
-#~ "section. To learn more about how these partners collect data and your options for controlling the use of your information for interest-based advertising, please read our Cookie Use statement\""
-#~ msgstr ""
-#~ "« Nous ne vendons jamais les informations personnelles de nos utilisateurs. Nous travaillons avec des partenaires qui nous fournissent des services publicitaires comme décrit dans la section "
-#~ "Services d’analyse et de publicité fournis par des tiers. Pour en savoir plus sur la façon dont ces partenaires collectent des données et vos options pour contrôler l’utilisation de vos informations"
-#~ " pour la publicité ciblée par centres d’intérêt, veuillez lire notre déclaration d’utilisation des cookies »"
-
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "Fitbit calls this a \"fashion forward\" fitness and wellness wristband that will help boost your mind, body, and health. That's a lot of responsibilities to put on one little gadget. If you want a "
@@ -1002,6 +993,15 @@ msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> s
 #~ "Fitbit appelle ça un « bracelet de fitness et de bien-être avant-gardiste » qui vous aidera à stimuler votre esprit, votre corps et votre santé. C’est beaucoup de responsabilités pour un si petit "
 #~ "gadget. Si vous cherchez un traqueur d’activité qui fait tout ce que les traqueurs d’activité font (nombre de pas, fréquence cardiaque, stress, sommeil, et bien plus) mais qui ne ressemble pas à un "
 #~ "gadget bling-bling sur votre poignet, c’est parti ! Personnalisez le vôtre avec un large choix de bracelets et de matières. Comme on dit : Belle⋅au et bien dans sa peau."
+
+#~ msgctxt "how_does_it_use_data_collected"
+#~ msgid ""
+#~ "\"We never sell the personal information of our users. We do work with partners who provide us with advertising services as described in the Analytics and Advertising Services Provided By Others "
+#~ "section. To learn more about how these partners collect data and your options for controlling the use of your information for interest-based advertising, please read our Cookie Use statement\""
+#~ msgstr ""
+#~ "« Nous ne vendons jamais les informations personnelles de nos utilisateurs. Nous travaillons avec des partenaires qui nous fournissent des services publicitaires comme décrit dans la section "
+#~ "Services d’analyse et de publicité fournis par des tiers. Pour en savoir plus sur la façon dont ces partenaires collectent des données et vos options pour contrôler l’utilisation de vos informations"
+#~ " pour la publicité ciblée par centres d’intérêt, veuillez lire notre déclaration d’utilisation des cookies »"
 
 #~ msgctxt "worst_case"
 #~ msgid ""

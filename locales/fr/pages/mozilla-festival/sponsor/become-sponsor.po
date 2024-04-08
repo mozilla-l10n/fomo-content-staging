@@ -51,7 +51,7 @@ msgctxt "body.086b3aa0-b15d-4694-a62d-6192cdd927de.label"
 msgid "Become a Sponsor"
 msgstr "Devenir sponsor"
 
-msgctxt "body.086b3aa0-b15d-4694-a62d-6192cdd927de.URL"
+msgctxt "body.086b3aa0-b15d-4694-a62d-6192cdd927de.external_url"
 msgid "mailto:festival@mozilla.org?subject=I'm%20interested%20in%20becoming%20a%20MozFest%20House%20Sponsor"
 msgstr "mailto:festival@mozilla.org?subject=I’m%20interested%20in%20becoming%20a%20MozFest%20House%20Sponsor"
 
@@ -157,7 +157,7 @@ msgctxt "body.21e7d4e2-9dd0-446a-8d43-15ded4cdbdca.label"
 msgid "Become a Sponsor"
 msgstr "Devenir sponsor"
 
-msgctxt "body.21e7d4e2-9dd0-446a-8d43-15ded4cdbdca.URL"
+msgctxt "body.21e7d4e2-9dd0-446a-8d43-15ded4cdbdca.external_url"
 msgid "mailto:festival@mozilla.org?subject=I'm%20interested%20in%20becoming%20a%20Champion%20House%20Sponsor"
 msgstr "mailto:festival@mozilla.org?subject=I’m%20interested%20in%20becoming%20a%20Champion%20House%20Sponsor"
 
@@ -193,7 +193,7 @@ msgctxt "body.e66d213c-1732-4509-b7f2-7807c47f06a1.label"
 msgid "Become a Sponsor"
 msgstr "Devenir sponsor"
 
-msgctxt "body.e66d213c-1732-4509-b7f2-7807c47f06a1.URL"
+msgctxt "body.e66d213c-1732-4509-b7f2-7807c47f06a1.external_url"
 msgid "mailto:festival@mozilla.org?subject=I'm%20interested%20in%20becoming%20a%20Guardian%20House%20Sponsor"
 msgstr "mailto:festival@mozilla.org?subject=I’m%20interested%20in%20becoming%20a%20Guardian%20House%20Sponsor"
 
@@ -237,7 +237,7 @@ msgctxt "body.41faf095-a1a4-4401-a220-01a77babab44.label"
 msgid "Become a Sponsor"
 msgstr "Devenir sponsor"
 
-msgctxt "body.41faf095-a1a4-4401-a220-01a77babab44.URL"
+msgctxt "body.41faf095-a1a4-4401-a220-01a77babab44.external_url"
 msgid "mailto:festival@mozilla.org?subject=I'm%20interested%20in%20becoming%20a%20Presenting%20House%20Sponsor"
 msgstr "mailto:festival@mozilla.org?subject=I’m%20interested%20in%20becoming%20a%20Presenting%20House%20Sponsor"
 
@@ -343,10 +343,6 @@ msgstr "Une session de formation au MozFest"
 #~ msgstr "Sponsor présentateur (50 000 €)"
 
 #~ msgctxt "body.b540ae23-aa3d-4352-ab1e-5e6732619ced"
-#~ msgid "Interested to learning more about the festival, our community and who joins us at our events, please review our sponsor deck."
-#~ msgstr "Vous souhaitez en savoir plus sur le festival, notre communauté et qui se joint à nous lors de nos évènements, veuillez consulter notre présentation pour les sponsors."
-
-#~ msgctxt "body.b540ae23-aa3d-4352-ab1e-5e6732619ced"
 #~ msgid "Local Sponsor  ( €15,000)"
 #~ msgstr "Sponsor local ( 15 000 €)"
 
@@ -361,3 +357,7 @@ msgstr "Une session de formation au MozFest"
 #~ msgctxt "body.b540ae23-aa3d-4352-ab1e-5e6732619ced"
 #~ msgid "Room available to host a social at MozFest House as part of the festival social program"
 #~ msgstr "Une salle mise à disposition pour accueillir un évènement social au MozFest House dans le cadre du programme social du festival"
+
+#~ msgctxt "body.b540ae23-aa3d-4352-ab1e-5e6732619ced"
+#~ msgid "Interested to learning more about the festival, our community and who joins us at our events, please review our sponsor deck."
+#~ msgstr "Vous souhaitez en savoir plus sur le festival, notre communauté et qui se joint à nous lors de nos évènements, veuillez consulter notre présentation pour les sponsors."

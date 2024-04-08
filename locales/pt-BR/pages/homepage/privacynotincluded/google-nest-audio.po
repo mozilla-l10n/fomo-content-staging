@@ -658,10 +658,6 @@ msgstr ""
 "O Google está <a id=\"a1\">planejando</a> adicionar o produto de IA generativa Bard aos seus produtos Home. O Google também usa o processamento de linguagem natural para entender você e gerar "
 "respostas às suas solicitações."
 
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Turn off personalised advertisement"
-#~ msgstr "Desative a publicidade personalizada"
-
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
 #~ "At the same time, Google uses collected data on its own services. \"We use the information we collect to customize our services for you, including providing recommendations, personalized content, "
@@ -782,6 +778,10 @@ msgstr ""
 #~ msgctxt "user_friendly_privacy_policy_helptext"
 #~ msgid "Google provides a page with privacy information about Nest."
 #~ msgstr "O Google disponibiliza uma página com informações de privacidade sobre o Nest."
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Turn off personalised advertisement"
+#~ msgstr "Desative a publicidade personalizada"
 
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid ""

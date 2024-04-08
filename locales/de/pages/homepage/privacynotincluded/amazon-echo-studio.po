@@ -576,13 +576,9 @@ msgctxt "ai_what_can_it_do"
 msgid "Amazon Alexa uses natural language processing to understand you and to generate answers to your requests."
 msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu verstehen und Antworten auf Ihre Anfragen zu generieren."
 
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Voice recordings"
-#~ msgstr "Sprachaufnahmen"
-
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number, address"
-#~ msgstr "Name, E-Mail, Telefonnummer, Adresse"
+#~ msgctxt "track_record_details"
+#~ msgid "In <a id=\"a1\">October 2019</a>, Forbes reported that Amazon employees were listening to Amazon Cloud Cam recording, to train its AI algorythm."
+#~ msgstr "Im <a id=\"a1\">Oktober 2019</a> berichtete Forbes, dass Amazon-Mitarbeiter die Aufzeichnungen der Amazon Cloud Cam abhören, um ihren KI-Algorithmus zu trainieren."
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
@@ -595,6 +591,14 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ msgctxt "uses_encryption_helptext"
 #~ msgid "Encryption in transit and at rest."
 #~ msgstr "Verschlüsselung wird bei der Übertragung und bei Speicherung verwendet."
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number, address"
+#~ msgstr "Name, E-Mail, Telefonnummer, Adresse"
+
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Voice recordings"
+#~ msgstr "Sprachaufnahmen"
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""
@@ -613,10 +617,6 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ msgstr ""
 #~ "Im <a id=\"a1\">August 2020</a>wiesen Sicherheitsforscher von Check Point auf einen Fehler in den Alexa-Smart-Home-Geräten von Amazon hin, der Hackern den Zugriff auf persönliche Informationen und "
 #~ "den Gesprächsverlauf ermöglicht haben könnte. Amazon hat den Fehler umgehend behoben."
-
-#~ msgctxt "track_record_details"
-#~ msgid "In <a id=\"a1\">October 2019</a>, Forbes reported that Amazon employees were listening to Amazon Cloud Cam recording, to train its AI algorythm."
-#~ msgstr "Im <a id=\"a1\">Oktober 2019</a> berichtete Forbes, dass Amazon-Mitarbeiter die Aufzeichnungen der Amazon Cloud Cam abhören, um ihren KI-Algorithmus zu trainieren."
 
 #~ msgctxt "track_record_details"
 #~ msgid ""

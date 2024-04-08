@@ -8,8 +8,8 @@ msgstr ""
 
 msgctxt "name"
 msgid "Cars"
-msgstr ""
+msgstr "Samochody"
 
 msgctxt "description"
 msgid "Cars and their privacy and security concerns"
-msgstr ""
+msgstr "Samochody i ich obawy dotyczące prywatności i bezpieczeństwa"

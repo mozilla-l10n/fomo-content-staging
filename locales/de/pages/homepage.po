@@ -19,12 +19,12 @@ msgid "Homepage"
 msgstr "Startseite"
 
 msgctxt "hero_headline"
-msgid "Examining AI On The Continent Of Africa"
-msgstr "Untersuchung von KI auf dem afrikanischen Kontinent"
+msgid "WhatsApp: Update Your Product to Protect Global Elections"
+msgstr "WhatsApp: Aktualisieren Sie Ihr Produkt, um globale Wahlen zu schützen"
 
 msgctxt "hero_button_text"
-msgid "See The 7 Winning Projects"
-msgstr "Die sieben Gewinner-Projekte ansehen"
+msgid "Add Your Name"
+msgstr "Petition unterschreiben"
 
 msgctxt "spotlight_headline"
 msgid "Spotlight: The Data Futures Lab"
@@ -72,17 +72,17 @@ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
 msgid "Microsoft: Are You Using Customer Data To Train AI?"
 msgstr "Microsoft: Verwenden Sie Kundendaten, um KI zu trainieren?"
 
-msgctxt "take_action_cards.a18d063b-b168-46c9-b24e-e955b8dcd16e.text"
-msgid "TikTok: Stop Misleading Android Users"
-msgstr "TikTok: Schluss mit der Irreführung von Android-Nutzern"
-
-msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
-msgid "Amazon: Fix This Security Flaw in Ring Doorbells"
-msgstr "Fordern Sie Amazon auf, die ernste Sicherheitslücke bei Ring-Türklingeln zu schließen"
+msgctxt "take_action_cards.046f1c00-6873-4bdb-a623-32c6cc18e068.text"
+msgid "Join our global movement for privacy rights."
+msgstr "Schließen Sie sich unserer globalen Bewegung für Datenschutzrechte an."
 
 msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
 msgid "Car Companies: Stop Your Data Collection Programs"
 msgstr "Automobilkonzerne: Stoppen Sie das Sammeln unserer persönlichen Daten"
+
+msgctxt "take_action_cards.5ae600cc-b1a4-43b2-852f-d2ce8396cbe1.text"
+msgid "Tell OpenAI, Google, and Microsoft: Provide transparency about the data used to train your AI tools!"
+msgstr "Fordern Sie OpenAI, Google und Microsoft auf: Schafft Transparenz über die Daten, die ihr zum Trainieren eurer KI-Tools verwendet!"
 
 msgctxt "partner_logos.27a519d5-cbc2-4e21-af63-5e80a198ecf6.name"
 msgid "Ford Foundation logo"
@@ -181,8 +181,16 @@ msgstr "Logo von Consumers International"
 #~ msgstr "Aufruf für Vorschläge zum MozFest 2023"
 
 #~ msgctxt "hero_headline"
+#~ msgid "“AI soulmates” are giving us the ick."
+#~ msgstr "„KI-Freunde“ finden wir eklig."
+
+#~ msgctxt "hero_headline"
 #~ msgid "MozFest 2023 Tickets Are Now Available"
 #~ msgstr "Tickets für das MozFest 2023 sind jetzt erhältlich"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Google Play Store Labels Are Misleading"
+#~ msgstr "Beschriftungen im Google Play Store sind irreführend"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Read expert reviews on this season's hottest connected gifts."
@@ -195,10 +203,6 @@ msgstr "Logo von Consumers International"
 #~ msgctxt "hero_headline"
 #~ msgid "Nadya Tolokonnikova, Pussy Riot Founder keynote speaker at MozFest!"
 #~ msgstr "Nadya Tolokonnikova, Pussy-Riot-Gründerin, Hauptrednerin beim MozFest!"
-
-#~ msgctxt "hero_headline"
-#~ msgid "Google Play Store Labels Are Misleading"
-#~ msgstr "Beschriftungen im Google Play Store sind irreführend"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Activism, Whistleblowers &amp; the Collective Power of People"
@@ -229,6 +233,10 @@ msgstr "Logo von Consumers International"
 #~ msgstr "MozFest House: 19.-21. Juni"
 
 #~ msgctxt "hero_headline"
+#~ msgid "Help Us Build An App To Study TikTok's Algorithm"
+#~ msgstr "Helfen Sie uns, eine App zur Erforschung des TikTok-Algorithmus zu entwickeln"
+
+#~ msgctxt "hero_headline"
 #~ msgid "Mozilla Discovers Ring Vulnerability"
 #~ msgstr "Mozilla entdeckt Ring-Schwachstelle"
 
@@ -241,16 +249,16 @@ msgstr "Logo von Consumers International"
 #~ msgstr "Eine Open-Source-App zur Erforschung des TikTok-Algorithmus"
 
 #~ msgctxt "hero_headline"
-#~ msgid "Help Us Build An App To Study TikTok's Algorithm"
-#~ msgstr "Helfen Sie uns, eine App zur Erforschung des TikTok-Algorithmus zu entwickeln"
-
-#~ msgctxt "hero_headline"
 #~ msgid "As AI Companies Scale Datasets, They Scale Hate Too"
 #~ msgstr "Wenn KI-Unternehmen Datensätze skalieren, skalieren sie auch Hass"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Slack Takes An Important Step To Block Abuse"
 #~ msgstr "Slack unternimmt einen wichtigen Schritt, um Missbrauch zu blockieren"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Help Prevent France Website Censorship Bill"
+#~ msgstr "Helfen Sie dabei, ein französisches Gesetz zur Zensur von Websites zu verhindern"
 
 #~ msgctxt "hero_headline"
 #~ msgid "MozFest House Kenya: Sept 2023"
@@ -265,10 +273,6 @@ msgstr "Logo von Consumers International"
 #~ msgstr "Amazon hat die Sicherheit von Ring immer noch nicht verbessert"
 
 #~ msgctxt "hero_headline"
-#~ msgid "Help Prevent France Website Censorship Bill"
-#~ msgstr "Helfen Sie dabei, ein französisches Gesetz zur Zensur von Websites zu verhindern"
-
-#~ msgctxt "hero_headline"
 #~ msgid "Introducing The Mozilla Consumer Creep-O-Meter"
 #~ msgstr "Wir stellen vor: das Mozilla Consumer Creep-O-Meter"
 
@@ -281,12 +285,12 @@ msgstr "Logo von Consumers International"
 #~ msgstr "Die siebte Saison des IRL-Podcasts ist da"
 
 #~ msgctxt "hero_headline"
-#~ msgid "Cars!* (*Privacy Not Included)"
-#~ msgstr "Autos! (*Datenschutz nicht inbegriffen)"
-
-#~ msgctxt "hero_headline"
 #~ msgid "Tell Car Companies: Stop Data Collection"
 #~ msgstr "Fordern Sie die Autoindustrie auf: Stoppen Sie die Datenerfassung"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Cars!* (*Privacy Not Included)"
+#~ msgstr "Autos! (*Datenschutz nicht inbegriffen)"
 
 #~ msgctxt "hero_headline"
 #~ msgid "MozFest House Kenya: See The Lineup"
@@ -301,8 +305,24 @@ msgstr "Logo von Consumers International"
 #~ msgstr "Mozilla unterstützt gemeinsam mit Vizepräsident Harris KI für das öffentliche Interesse"
 
 #~ msgctxt "hero_headline"
+#~ msgid "Accelerating Progress Toward Trustworthy AI"
+#~ msgstr "Beschleunigter Fortschritt auf dem Weg zu vertrauenswürdiger KI"
+
+#~ msgctxt "hero_headline"
 #~ msgid "Which Gadgets Protect Your Privacy This Holiday Season?"
 #~ msgstr "Welche Geräte schützen Ihre Privatsphäre in der Weihnachtszeit?"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Examining AI On The Continent Of Africa"
+#~ msgstr "Untersuchung von KI auf dem afrikanischen Kontinent"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Research: Platforms’ Failing Global Election Initiatives"
+#~ msgstr "Forschung: Plattformen scheitern bei globalen Wahlinitiativen"
+
+#~ msgctxt "hero_headline"
+#~ msgid "MozFest House Amsterdam: Early Bird Tickets Now Available"
+#~ msgstr "MozFest House Amsterdam: Frühbucher-Tickets jetzt erhältlich"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Findings"
@@ -373,6 +393,10 @@ msgstr "Logo von Consumers International"
 #~ msgstr "Reichen Sie Ihre Sitzungs-Idee ein"
 
 #~ msgctxt "hero_button_text"
+#~ msgid "Read our reviews of relationship chatbots"
+#~ msgstr "Lesen Sie unsere Bewertungen von Beziehungs-Chatbots"
+
+#~ msgctxt "hero_button_text"
 #~ msgid "Secure Yours"
 #~ msgstr "Sichern Sie sich Ihre"
 
@@ -381,12 +405,12 @@ msgstr "Logo von Consumers International"
 #~ msgstr "Kaufen Sie intelligent und sicher ein."
 
 #~ msgctxt "hero_button_text"
-#~ msgid "Secure Your Tickets Now"
-#~ msgstr "Sichern Sie sich jetzt Ihre Tickets"
-
-#~ msgctxt "hero_button_text"
 #~ msgid "Read The Research"
 #~ msgstr "Forschungsarbeit lesen"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Secure Your Tickets Now"
+#~ msgstr "Sichern Sie sich jetzt Ihre Tickets"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Get Your MozFest 2023 Tickets"
@@ -401,6 +425,10 @@ msgstr "Logo von Consumers International"
 #~ msgstr "Jetzt spenden"
 
 #~ msgctxt "hero_button_text"
+#~ msgid "Sign the Petition"
+#~ msgstr "Unterzeichnen Sie die Petition"
+
+#~ msgctxt "hero_button_text"
 #~ msgid "Secure Your Free Ticket"
 #~ msgstr "Sicheren Sie sich Ihr kostenloses Ticket"
 
@@ -411,10 +439,6 @@ msgstr "Logo von Consumers International"
 #~ msgctxt "hero_button_text"
 #~ msgid "Here's What You Can Do"
 #~ msgstr "Das können Sie tun"
-
-#~ msgctxt "hero_button_text"
-#~ msgid "Sign the Petition"
-#~ msgstr "Unterzeichnen Sie die Petition"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Year In Review"
@@ -429,12 +453,32 @@ msgstr "Logo von Consumers International"
 #~ msgstr "Petition unterzeichnen"
 
 #~ msgctxt "hero_button_text"
+#~ msgid "Learn how to demand better"
+#~ msgstr "Erfahren Sie, wie Sie Verbesserungen fordern können"
+
+#~ msgctxt "hero_button_text"
 #~ msgid "Listen Now"
 #~ msgstr "Jetzt anhören"
 
 #~ msgctxt "hero_button_text"
+#~ msgid "Learn about Mozilla's work on AI"
+#~ msgstr "Erfahren Sie mehr über Mozillas Arbeit zum Thema KI"
+
+#~ msgctxt "hero_button_text"
 #~ msgid "Read The Buyers' Guide"
 #~ msgstr "Lesen Sie den Einkaufsleitfaden"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "See The 7 Winning Projects"
+#~ msgstr "Die sieben Gewinner-Projekte ansehen"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Read the research"
+#~ msgstr "Forschungsarbeit lesen"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Get Your Ticket"
+#~ msgstr "Holen Sie sich Ihr Ticket"
 
 #~ msgctxt "spotlight_headline"
 #~ msgid "What To Know About Venmo"
@@ -492,6 +536,10 @@ msgstr "Logo von Consumers International"
 #~ msgid "Tell TikTok: Stop misleading Android users"
 #~ msgstr "Fordern Sie TikTok auf: Schluss mit der Irreführung von Android-Nutzern"
 
+#~ msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
+#~ msgid "Amazon: Fix This Security Flaw in Ring Doorbells"
+#~ msgstr "Fordern Sie Amazon auf, die ernste Sicherheitslücke bei Ring-Türklingeln zu schließen"
+
 #~ msgctxt "take_action_cards.a18d063b-b168-46c9-b24e-e955b8dcd16e.text"
 #~ msgid "Let’s open the door for social media researchers."
 #~ msgstr "Öffnen wir die Tür für Social-Media-Forscher."
@@ -500,6 +548,10 @@ msgstr "Logo von Consumers International"
 #~ msgid "Tell Slack: Make DMs Safe"
 #~ msgstr "Fordern Sie Slack dazu auf, DMs zu sichern"
 
+#~ msgctxt "take_action_cards.a18d063b-b168-46c9-b24e-e955b8dcd16e.text"
+#~ msgid "TikTok: Stop Misleading Android Users"
+#~ msgstr "TikTok: Schluss mit der Irreführung von Android-Nutzern"
+
 #~ msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
 #~ msgid "Invest in our Planet – The Intersectionality of Climate &amp; Tech"
 #~ msgstr "Investieren Sie in unseren Planeten – Die Intersektionalität von Klima &amp; Technik"
@@ -507,3 +559,7 @@ msgstr "Logo von Consumers International"
 #~ msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
 #~ msgid "Tell YouTube: Give users real control over recommendations!"
 #~ msgstr "Sagen Sie YouTube: Geben Sie den Nutzern echte Kontrolle über die Empfehlungen!"
+
+#~ msgctxt "take_action_cards.9081a0e2-ecd6-4faf-bf73-97151ff38a67.text"
+#~ msgid "Tell Microsoft &amp; Google: Only train AI models on users’ data if they opt in!"
+#~ msgstr "Fordern Sie Microsoft &amp; Google auf: Training von KI-Modellen mit Nutzerdaten nur mit deren Zustimmung!"

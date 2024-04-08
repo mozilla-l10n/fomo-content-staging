@@ -8,16 +8,16 @@ msgstr ""
 
 msgctxt "title"
 msgid "Tell Amazon to Fix this Big Security Flaw in Ring Doorbells"
-msgstr ""
+msgstr "Powiedz Amazonowi, aby naprawił poważną lukę w zabezpieczeniach dzwonków Ring"
 
 msgctxt "description"
 msgid "Research commissioned by Mozilla exposed that attackers can easily take Ring devices."
-msgstr ""
+msgstr "Badania zlecone przez Mozillę ujawniły, że atakujący mogą z łatwością przejąć urządzenia Ring."
 
 msgctxt "link_label"
 msgid "Join The Campaign"
-msgstr ""
+msgstr "Dołącz do kampanii"
 
 msgctxt "footer"
 msgid "Amazon is still ignoring a major security issue with its Ring Doorbell."
-msgstr ""
+msgstr "Amazon nadal ignoruje poważny problem dotyczący bezpieczeństwa dzwonków Ring."

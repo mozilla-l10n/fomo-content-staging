@@ -348,10 +348,6 @@ msgstr "A Garmin diz em sua política de privacidade: \"A Garmin não toma qualq
 #~ msgstr "Você pode adicionar amigos para ver dados das atividades deles"
 
 #~ msgctxt "how_can_you_control_your_data"
-#~ msgid "It is unclear if all users regardless of location can get their data be deleted."
-#~ msgstr "Não está claro se todos os usuários, independentemente de onde vivem, podem excluir seus dados."
-
-#~ msgctxt "how_can_you_control_your_data"
 #~ msgid "Garmin will retain your personal data as long as your Garmin account is considered to be active or in accordance with applicable law and regulatory obligations."
 #~ msgstr "A Garmin manterá seus dados pessoais enquanto sua conta Garmin for considerada ativa ou conforme as leis e obrigações regulamentares aplicáveis."
 
@@ -362,6 +358,10 @@ msgstr "A Garmin diz em sua política de privacidade: \"A Garmin não toma qualq
 #~ msgstr ""
 #~ "Se você reside no EEE, Reino Unido ou Suíça, você tem o direito, sujeito às condições estabelecidas no Regulamento Geral de Proteção de Dados (\"GDPR\") ou outra lei aplicável, de solicitar à Garmin"
 #~ " acesso e retificação ou exclusão de seus dados pessoais."
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "It is unclear if all users regardless of location can get their data be deleted."
+#~ msgstr "Não está claro se todos os usuários, independentemente de onde vivem, podem excluir seus dados."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

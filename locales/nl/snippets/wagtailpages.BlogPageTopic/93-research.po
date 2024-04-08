@@ -1,0 +1,24 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-04-08 07:03:45.050672+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 7654c3ef-2d79-41ea-a390-02c98dfcd6d1\n"
+
+msgctxt "name"
+msgid "Research"
+msgstr "Research"
+
+msgctxt "title"
+msgid "Research Blog"
+msgstr "Research-blog"
+
+msgctxt "intro"
+msgid "Blog posts about Mozilla's <a id=\"a1\">research reports</a> analyzing and documenting internet health and trustworthy AI to help shape a human-centered internet."
+msgstr ""
+"Blogposts over de <a id=\"a1\">onderzoeksrapporten</a> van Mozilla met betrekking tot analyseren en documenteren van internetgezondheid en betrouwbare AI om een mensgericht internet vorm te geven."
+
+msgctxt "share_description"
+msgid "Blog posts about Mozilla's research reports analyzing and documenting internet health and trustworthy AI to help shape a human-centered internet."
+msgstr "Blogposts over de onderzoeksrapporten van Mozilla met betrekking tot analyseren en documenteren van internetgezondheid en betrouwbare AI om een mensgericht internet vorm te geven."

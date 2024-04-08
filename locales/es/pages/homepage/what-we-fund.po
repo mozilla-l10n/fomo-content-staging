@@ -7,8 +7,8 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 96d0acbb-9c5b-446c-8a2e-07ce73c1ee04\n"
 
 msgctxt "search_description"
-msgid "Funding and resources for bright people and bold ideas working to shape a more human-centered internet."
-msgstr "Financiación y recursos para mentes brillantes e ideas atrevidas que persigan una Internet más centrada en las personas."
+msgid "Funding and resources for a more human-centered internet."
+msgstr "Financiación y recursos para un Internet más centrado en las personas."
 
 msgctxt "intro"
 msgid "Funding and resources for a more human-centered internet."
@@ -46,8 +46,8 @@ msgid "globe in heart icon"
 msgstr "globo en un icono de corazón"
 
 msgctxt "body.af065a47-80b2-4402-a2d5-81c380f51dff.text"
-msgid "Apply by 22 January to be a <a id=\"a1\">Tech + Society Fellow!</a>"
-msgstr ""
+msgid "<a id=\"a1\">Apply to join the next cohort of Mozilla Senior Fellows!</a>"
+msgstr "<a id=\"a1\">¡Inscríbete para ser parte de la próxima cohorte de Mozilla Senior Fellows!</a>"
 
 msgctxt "body.10eb1636-1692-47e9-8df9-2dd2796c54b3"
 msgid "What we fund"
@@ -92,12 +92,12 @@ msgid "<b>Rebalance</b> power online, shifting it back to individuals and commun
 msgstr "<b>Reequilibrar</b> el poder en línea, devolviéndolo a los individuos y las comunidades."
 
 msgctxt "body.c683d939-d24e-4a5a-a35a-13f9be92885a.url"
-msgid "https://www.youtube.com/embed/oV4yQ3PWN0s"
-msgstr "https://www.youtube.com/embed/oV4yQ3PWN0s"
+msgid "https://www.youtube.com/embed/rjXJG8hJwM4?si=4xNmXmebQ9yhTz3B"
+msgstr "https://www.youtube.com/embed/rjXJG8hJwM4?si=4xNmXmebQ9yhTz3B"
 
 msgctxt "body.c683d939-d24e-4a5a-a35a-13f9be92885a.caption"
-msgid "Mozilla Fellows make an impact"
-msgstr "Los colaboradores Mozilla Fellows marcan la diferencia"
+msgid "What We Fund: Mozilla's Fellowships and Awards Programs"
+msgstr "Qué financiamos: Programas de becas y premios de Mozilla"
 
 msgctxt "body.e718ced0-43af-45ff-bcc8-cb5ebf563eb2"
 msgid "How we fund"
@@ -176,10 +176,6 @@ msgctxt "body.a5371229-2099-4a05-9acd-cc78de8eea7b.label"
 msgid "See more Fellows"
 msgstr "Ver más Fellows"
 
-msgctxt "body.a5371229-2099-4a05-9acd-cc78de8eea7b.URL"
-msgid "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#fellows-by-year"
-msgstr "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#fellows-by-year"
-
 msgctxt "body.9d8d9614-d6ea-4546-9b25-fca3d774cf85.altText"
 msgid "Screen capture from the game"
 msgstr "Captura de pantalla del juego"
@@ -203,10 +199,6 @@ msgstr "https://www.survivalofthebestfit.com/"
 msgctxt "body.d54c1c3f-2224-49bf-849b-99988e722418.label"
 msgid "See more Awards"
 msgstr "Ver más Premios"
-
-msgctxt "body.d54c1c3f-2224-49bf-849b-99988e722418.URL"
-msgid "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#mozilla-awards-directory"
-msgstr "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#mozilla-awards-directory"
 
 msgctxt "body.46bb645e-e8be-4069-bb13-2e5e8e3dbd86"
 msgid "Where we’ve funded"
@@ -321,6 +313,22 @@ msgctxt "title"
 msgid "What we fund"
 msgstr "Qué financiamos"
 
+#~ msgctxt "body.c683d939-d24e-4a5a-a35a-13f9be92885a.url"
+#~ msgid "https://www.youtube.com/embed/oV4yQ3PWN0s"
+#~ msgstr "https://www.youtube.com/embed/oV4yQ3PWN0s"
+
+#~ msgctxt "body.c683d939-d24e-4a5a-a35a-13f9be92885a.caption"
+#~ msgid "Mozilla Fellows make an impact"
+#~ msgstr "Los colaboradores Mozilla Fellows marcan la diferencia"
+
+#~ msgctxt "body.a5371229-2099-4a05-9acd-cc78de8eea7b.external_url"
+#~ msgid "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#fellows-by-year"
+#~ msgstr "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#fellows-by-year"
+
+#~ msgctxt "body.d54c1c3f-2224-49bf-849b-99988e722418.external_url"
+#~ msgid "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#mozilla-awards-directory"
+#~ msgstr "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#mozilla-awards-directory"
+
 #~ msgctxt "body.46bb645e-e8be-4069-bb13-2e5e8e3dbd86"
 #~ msgid ""
 #~ "The challenges facing the internet are complex, and we know that there are few one-size-fits-all solutions. Mozilla is committed to supporting diverse innovators around the world to imagine "
@@ -328,6 +336,10 @@ msgstr "Qué financiamos"
 #~ msgstr ""
 #~ "Los desafíos a los que se enfrenta Internet son complejos y somos conscientes de que no existe una solución única para todos ellos. Mozilla se compromete a ayudar a innovadores de todo tipo y de "
 #~ "todo el mundo a imaginar soluciones válidas para sus comunidades. En 2020, apoyamos a Fellows y premiados en 18 países de seis continentes."
+
+#~ msgctxt "search_description"
+#~ msgid "Funding and resources for bright people and bold ideas working to shape a more human-centered internet."
+#~ msgstr "Financiación y recursos para mentes brillantes e ideas atrevidas que persigan una Internet más centrada en las personas."
 
 #~ msgctxt "body.e718ced0-43af-45ff-bcc8-cb5ebf563eb2"
 #~ msgid ""

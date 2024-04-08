@@ -7,8 +7,8 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 8ee8c321-89cb-4c38-99c1-fa11a6ce4b8b\n"
 
 msgctxt "search_description"
-msgid "Funding and resources for bright people and bold ideas working to shape a more human-centered internet."
-msgstr "Ufadhili na rasilimali kwa ajili ya watu mahiri na wenye mawazo shupavu wanaojitahidi kuunda mtandao unaozingatia binadamu zaidi."
+msgid "Funding and resources for a more human-centered internet."
+msgstr "Ufadhili na rasilimali kwa ajili ya mtandao unaozingatia binadamu zaidi."
 
 msgctxt "intro"
 msgid "Funding and resources for a more human-centered internet."
@@ -43,7 +43,7 @@ msgid "globe in heart icon"
 msgstr "ikoni ya ulimwengu katika moyo"
 
 msgctxt "body.af065a47-80b2-4402-a2d5-81c380f51dff.text"
-msgid "Apply by 22 January to be a <a id=\"a1\">Tech + Society Fellow!</a>"
+msgid "<a id=\"a1\">Apply to join the next cohort of Mozilla Senior Fellows!</a>"
 msgstr ""
 
 msgctxt "body.10eb1636-1692-47e9-8df9-2dd2796c54b3"
@@ -87,12 +87,12 @@ msgid "<b>Rebalance</b> power online, shifting it back to individuals and commun
 msgstr "<b>Panga upya</b> nguvu mtandaoni, na uwarejeshe watu binafsi na jamii nguvu hiyo."
 
 msgctxt "body.c683d939-d24e-4a5a-a35a-13f9be92885a.url"
-msgid "https://www.youtube.com/embed/oV4yQ3PWN0s"
-msgstr "https://www.youtube.com/embed/oV4yQ3PWN0s"
+msgid "https://www.youtube.com/embed/rjXJG8hJwM4?si=4xNmXmebQ9yhTz3B"
+msgstr "https://www.youtube.com/embed/rjXJG8hJwM4?si=4xNmXmebQ9yhTz3B"
 
 msgctxt "body.c683d939-d24e-4a5a-a35a-13f9be92885a.caption"
-msgid "Mozilla Fellows make an impact"
-msgstr "Washirika wa Mozilla huleta mabadiliko"
+msgid "What We Fund: Mozilla's Fellowships and Awards Programs"
+msgstr ""
 
 msgctxt "body.e718ced0-43af-45ff-bcc8-cb5ebf563eb2"
 msgid "How we fund"
@@ -167,10 +167,6 @@ msgctxt "body.a5371229-2099-4a05-9acd-cc78de8eea7b.label"
 msgid "See more Fellows"
 msgstr "Angalia Washirika zaidi"
 
-msgctxt "body.a5371229-2099-4a05-9acd-cc78de8eea7b.URL"
-msgid "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#fellows-by-year"
-msgstr "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#fellows-by-year"
-
 msgctxt "body.9d8d9614-d6ea-4546-9b25-fca3d774cf85.altText"
 msgid "Screen capture from the game"
 msgstr "Picha ya skrini kutoka kwa mchezo"
@@ -195,10 +191,6 @@ msgctxt "body.d54c1c3f-2224-49bf-849b-99988e722418.label"
 msgid "See more Awards"
 msgstr "Angalia Tuzo zaidi"
 
-msgctxt "body.d54c1c3f-2224-49bf-849b-99988e722418.URL"
-msgid "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#mozilla-awards-directory"
-msgstr "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#mozilla-awards-directory"
-
 msgctxt "body.46bb645e-e8be-4069-bb13-2e5e8e3dbd86"
 msgid "Where we’ve funded"
 msgstr "Kazi ambazo tumefadhili"
@@ -215,6 +207,8 @@ msgctxt "body.46bb645e-e8be-4069-bb13-2e5e8e3dbd86"
 msgid ""
 "Mozilla has distributed $22 million in award funds since 2015 and supported more than 200 fellows. This funding has supported organizations and individuals in 46 countries across six continents."
 msgstr ""
+"Mozilla imetoa ya dola milioni 22 za Marekani kama fedha za tuzo tangu mwaka wa 2015 na kusaidia zaidi ya washirika 200. Ufadhili huu umesaidia mashirika na watu binafsi katika nchi 46 katika mabara"
+" sita."
 
 msgctxt "body.70d80248-776e-42d9-afe1-c905a170f0d5.altText"
 msgid "Map of all the places in the world where people Mozilla has funded have come from"
@@ -308,6 +302,18 @@ msgctxt "title"
 msgid "What we fund"
 msgstr "Kile tunachofadhili"
 
+#~ msgctxt "search_description"
+#~ msgid "Funding and resources for bright people and bold ideas working to shape a more human-centered internet."
+#~ msgstr "Ufadhili na rasilimali kwa ajili ya watu mahiri na wenye mawazo shupavu wanaojitahidi kuunda mtandao unaozingatia binadamu zaidi."
+
+#~ msgctxt "body.c683d939-d24e-4a5a-a35a-13f9be92885a.url"
+#~ msgid "https://www.youtube.com/embed/oV4yQ3PWN0s"
+#~ msgstr "https://www.youtube.com/embed/oV4yQ3PWN0s"
+
+#~ msgctxt "body.c683d939-d24e-4a5a-a35a-13f9be92885a.caption"
+#~ msgid "Mozilla Fellows make an impact"
+#~ msgstr "Washirika wa Mozilla huleta mabadiliko"
+
 #~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.altText"
 #~ msgid "Current Opportunities"
 #~ msgstr "Fursa za Sasa"
@@ -315,6 +321,14 @@ msgstr "Kile tunachofadhili"
 #~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
 #~ msgid "We do not currently have any open funding opportunities."
 #~ msgstr "Kwa sasa hatuna fursa zozote za ufadhili zinazopatikana."
+
+#~ msgctxt "body.a5371229-2099-4a05-9acd-cc78de8eea7b.external_url"
+#~ msgid "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#fellows-by-year"
+#~ msgstr "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#fellows-by-year"
+
+#~ msgctxt "body.d54c1c3f-2224-49bf-849b-99988e722418.external_url"
+#~ msgid "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#mozilla-awards-directory"
+#~ msgstr "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#mozilla-awards-directory"
 
 #~ msgctxt "body.46bb645e-e8be-4069-bb13-2e5e8e3dbd86"
 #~ msgid ""

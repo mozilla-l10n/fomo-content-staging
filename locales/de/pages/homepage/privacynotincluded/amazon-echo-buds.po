@@ -618,10 +618,6 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ "verbinden. Sie erhalten auch einen anständigen Klang, Geräuschunterdrückung und sie sind schweißresistent, wenn Sie sie beim Training tragen möchten. Amazon möchte, dass Sie wissen, dass diese „zum "
 #~ "Schutz Ihrer Privatsphäre entwickelt wurden“. Das bedeutet, dass Sie die Mikrofone stummschalten können, aber Sie müssen dies über die Alexa-App tun, die Sie natürlich verfolgt."
 
-#~ msgctxt "how_does_it_use_data_collected"
-#~ msgid "We ding this product for using personal data for targeted advertising purposes, and combining data about you with data it receives from third parties for targeted advertising purposes."
-#~ msgstr "Wir beanstanden, dass dieses Produkt personenbezogene Daten für gezielte Werbezwecke verwendet und Daten über Sie mit Daten kombiniert, die es von Dritten für gezielte Werbezwecke erhält."
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "Amazon proudly states they are not in the business of selling your personal information to others. True. But, Amazon doesn’t need to sell your data to others when they have their own advertising and"
@@ -678,6 +674,14 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ "natürlich noch weitere geben, die nicht aufgedeckt oder bekannt geworden sind.). Und klar, Amazon ist ein riesiges Unternehmen mit vielen Produkten und Mitarbeiter*innen, und es ist unmöglich, alles"
 #~ " durchgängig zu 100 % zu sichern. Aber darum geht’s ja. Wer so viele personenbezogene Daten sammelt, muss extra vorsichtig damit umgehen und die Daten immer und überall schützen. Amazon hat "
 #~ "bewiesen, dass es das nicht immer kann."
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "When starting a sign-up, do not agree to tracking of your data."
+#~ msgstr "Stimmen Sie bei der Registrierung für ein Konto nicht der Nachverfolgung Ihrer Daten zu."
+
+#~ msgctxt "how_does_it_use_data_collected"
+#~ msgid "We ding this product for using personal data for targeted advertising purposes, and combining data about you with data it receives from third parties for targeted advertising purposes."
+#~ msgstr "Wir beanstanden, dass dieses Produkt personenbezogene Daten für gezielte Werbezwecke verwendet und Daten über Sie mit Daten kombiniert, die es von Dritten für gezielte Werbezwecke erhält."
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
@@ -753,10 +757,6 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ msgctxt "uses_encryption_helptext"
 #~ msgid "Uses encryption in transit and at rest."
 #~ msgstr "Verschlüsselung wird bei der Übertragung und bei Speicherung verwendet."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "When starting a sign-up, do not agree to tracking of your data."
-#~ msgstr "Stimmen Sie bei der Registrierung für ein Konto nicht der Nachverfolgung Ihrer Daten zu."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

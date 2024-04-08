@@ -693,10 +693,6 @@ msgstr ""
 #~ "se as gravações de voz e áudio são armazenadas em sua Conta Google quando você usa sua voz para interagir com o Assistente. Esta opção está desligada por padrão ao criar uma conta Google, e não é "
 #~ "necessária para usar o Assistente."
 
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Voice recordings"
-#~ msgstr "Gravações de voz"
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "Of course, Google uses your personal information to sell those targeted, personalized ads you see all over the place like in your Gmail, in your favorite Solitaire app, on partner websites, and on "
@@ -823,6 +819,10 @@ msgstr ""
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Turn off personalised advertisement"
 #~ msgstr "Desative a publicidade personalizada"
+
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Voice recordings"
+#~ msgstr "Gravações de voz"
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

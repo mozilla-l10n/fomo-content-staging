@@ -875,6 +875,10 @@ msgstr ""
 #~ msgid "Visit <a id=\"a1\">privacy &amp; security controls</a> to adjust the amount of data collected"
 #~ msgstr "Acesse os <a id=\"a1\">controles de privacidade e segurança</a> para ajustar a quantidade de dados coletados"
 
+#~ msgctxt "child_safety_blurb"
+#~ msgid "You can check <a id=\"a1\">Google Family Link</a> privacy guide for teens &amp; children for details for different countries and age groups."
+#~ msgstr "Você pode consultar o guia de privacidade do <a id=\"a1\">Google Family Link</a> para adolescentes & crianças para obter informações para diferentes países e faixas etárias."
+
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "“OK, Google.” That’s pretty much exactly how we think Google does when it comes to privacy. They are OK, if you consider the fact that they are a ginormous data collecting advertising company that "
@@ -912,7 +916,3 @@ msgstr ""
 #~ msgctxt "biometric_data_collected"
 #~ msgid "Voice recordings, face (Nest Cam IQ only)"
 #~ msgstr "Gravações de voz, face (apenas Nest Cam IQ)"
-
-#~ msgctxt "child_safety_blurb"
-#~ msgid "You can check <a id=\"a1\">Google Family Link</a> privacy guide for teens &amp; children for details for different countries and age groups."
-#~ msgstr "Você pode consultar o guia de privacidade do <a id=\"a1\">Google Family Link</a> para adolescentes & crianças para obter informações para diferentes países e faixas etárias."

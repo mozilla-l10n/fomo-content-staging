@@ -576,6 +576,36 @@ msgctxt "ai_what_can_it_do"
 msgid "Camera functionality uses AI to recognize objects"
 msgstr "Les appareils photo utilisent l’intelligence artificielle pour reconnaître les objets"
 
+#~ msgctxt "uses_encryption_helptext"
+#~ msgid "Uses encryption in transit and at rest."
+#~ msgstr "Utilisation du chiffrement en transit et au repos."
+
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Voice recordings if you use voice commands"
+#~ msgstr "Enregistrements vocaux si vous utilisez des commandes vocales"
+
+#~ msgctxt "manage_vulnerabilities_helptext"
+#~ msgid "Samsung has a <a id=\"a1\">bug bounty program</a>, which means that anyone who finds a security issue and discloses it responsibly may get paid."
+#~ msgstr ""
+#~ "Samsung dispose d’un <a id=\"a1\">programme de prime aux bugs</a> (« bug bounty »), ce qui signifie que toute personne qui découvre une faille de sécurité et la signale de façon responsable peut "
+#~ "être payée."
+
+#~ msgctxt "privacy_policy_helptext"
+#~ msgid "Samsung has a page highlighting it's privacy principles"
+#~ msgstr "Samsung a une page soulignant ses principes de confidentialité"
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "In the browser of your Samsung Galaxy Tab, you can determine for yourself which information you share while surfing the Internet."
+#~ msgstr "Dans le navigateur de votre Samsung Galaxy Tab, vous pouvez déterminer vous-même les informations que vous partagez en surfant sur Internet."
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Check Samsung Galaxy <a id=\"a1\">privacy controls</a>."
+#~ msgstr "Vérifiez les <a id=\"a1\">contrôles de confidentialité</a> du Samsung Galaxy."
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Chose your <a id=\"a1\">Android privacy settings</a>."
+#~ msgstr "Choisissez vos <a id=\"a1\">paramètres de confidentialité Android</a>."
+
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "You want a tablet but you don't want an iPad. Samsung's Galaxy Android tablets—of which it feels like there are a million versions—are a good option. Use them like an iPad. Use them like a laptop. "
@@ -613,36 +643,6 @@ msgstr "Les appareils photo utilisent l’intelligence artificielle pour reconna
 #~ "faire. Samsung sait peut-être que vous aimez griffonner sur votre tablette avec son stylet S Pen, supposer que vous êtes un·e artiste et vous pourrez commencer à voir des publicités pour une école "
 #~ "d’art. Vous abandonnez la fac de droit, entrez en école d’art, et êtes comblé·e jusqu’à la fin de votre vie. D’accord, c’est vraiment une éventualité réjouissante. C’est également peu probable… ou "
 #~ "peut-être pas, dans notre économie publicitaire numérique un peu flippante ?"
-
-#~ msgctxt "uses_encryption_helptext"
-#~ msgid "Uses encryption in transit and at rest."
-#~ msgstr "Utilisation du chiffrement en transit et au repos."
-
-#~ msgctxt "manage_vulnerabilities_helptext"
-#~ msgid "Samsung has a <a id=\"a1\">bug bounty program</a>, which means that anyone who finds a security issue and discloses it responsibly may get paid."
-#~ msgstr ""
-#~ "Samsung dispose d’un <a id=\"a1\">programme de prime aux bugs</a> (« bug bounty »), ce qui signifie que toute personne qui découvre une faille de sécurité et la signale de façon responsable peut "
-#~ "être payée."
-
-#~ msgctxt "privacy_policy_helptext"
-#~ msgid "Samsung has a page highlighting it's privacy principles"
-#~ msgstr "Samsung a une page soulignant ses principes de confidentialité"
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "In the browser of your Samsung Galaxy Tab, you can determine for yourself which information you share while surfing the Internet."
-#~ msgstr "Dans le navigateur de votre Samsung Galaxy Tab, vous pouvez déterminer vous-même les informations que vous partagez en surfant sur Internet."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Check Samsung Galaxy <a id=\"a1\">privacy controls</a>."
-#~ msgstr "Vérifiez les <a id=\"a1\">contrôles de confidentialité</a> du Samsung Galaxy."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Chose your <a id=\"a1\">Android privacy settings</a>."
-#~ msgstr "Choisissez vos <a id=\"a1\">paramètres de confidentialité Android</a>."
-
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Voice recordings if you use voice commands"
-#~ msgstr "Enregistrements vocaux si vous utilisez des commandes vocales"
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid "If you do not have a Samsung Account or an email on file, your deletion request will not be processed. Users with a Samsung Account can go <a id=\"a1\">here</a> to delete your data."

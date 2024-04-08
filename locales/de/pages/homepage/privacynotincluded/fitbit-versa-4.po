@@ -880,14 +880,6 @@ msgstr "FitBit Coach und FitBit Care basieren <a id=\"a1\">angeblich</a> auf mas
 #~ msgid "Fitbit connections"
 #~ msgstr "Fitbit Verbindungen"
 
-#~ msgctxt "track_record_details"
-#~ msgid "In 2020, it was <a id=\"a1\">reported</a> the emails and passwords of nearly 2 million Fitbit users was leaked online."
-#~ msgstr "Im Jahr 2020 <a id=\"a1\">wurde berichtet</a>, dass die E-Mails und Passwörter von fast 2 Millionen Fitbit-Nutzern online durchgesickert sind."
-
-#~ msgctxt "child_safety_blurb"
-#~ msgid "\"We appreciate the importance of taking additional measures to protect children’s privacy."
-#~ msgstr "„Wir wissen wie wichtig es ist, zusätzliche Maßnahmen zum Schutz der Privatsphäre von Kindern zu ergreifen."
-
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
 #~ "\"We never sell the personal information of our users. We do not share your personal information except in the limited circumstances described below: [...] FOR EXTERNAL PROCESSING, [...] FOR LEGAL "
@@ -1047,6 +1039,14 @@ msgstr "FitBit Coach und FitBit Care basieren <a id=\"a1\">angeblich</a> auf mas
 #~ "Drittunternehmen GetHealth nicht verhindern. Im September 2021 entdeckte eine Gruppe von Sicherheitsforschern, dass GetHealth über eine ungesicherte Datenbank mit über 61 Millionen Datensätzen zu "
 #~ "tragbaren Technologien und Fitnessdiensten verfügt. GetHealth griff auf Gesundheitsdaten von Benutzern von tragbaren Geräten auf der ganzen Welt zu und gab sie in einer nicht passwortgeschützten, "
 #~ "unverschlüsselten Datenbank weiter. Die Liste enthielt Namen, Geburtsdaten, Gewicht, Größe, Geschlecht und geografische Lage sowie andere medizinische Daten wie den Blutdruck."
+
+#~ msgctxt "track_record_details"
+#~ msgid "In 2020, it was <a id=\"a1\">reported</a> the emails and passwords of nearly 2 million Fitbit users was leaked online."
+#~ msgstr "Im Jahr 2020 <a id=\"a1\">wurde berichtet</a>, dass die E-Mails und Passwörter von fast 2 Millionen Fitbit-Nutzern online durchgesickert sind."
+
+#~ msgctxt "child_safety_blurb"
+#~ msgid "\"We appreciate the importance of taking additional measures to protect children’s privacy."
+#~ msgstr "„Wir wissen wie wichtig es ist, zusätzliche Maßnahmen zum Schutz der Privatsphäre von Kindern zu ergreifen."
 
 #~ msgctxt "blurb"
 #~ msgid ""

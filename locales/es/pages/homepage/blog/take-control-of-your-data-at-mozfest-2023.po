@@ -114,7 +114,7 @@ msgctxt "body.66edb2da-6819-40ee-984f-df057d38a587.label"
 msgid "Submit a Session Idea"
 msgstr "Manda tu propuesta de sesión"
 
-msgctxt "body.66edb2da-6819-40ee-984f-df057d38a587.URL"
+msgctxt "body.66edb2da-6819-40ee-984f-df057d38a587.external_url"
 msgid "https://www.mozillafestival.org/proposals/"
 msgstr "https://www.mozillafestival.org/es/proposals/"
 
@@ -162,7 +162,7 @@ msgctxt "body.85891c5a-19af-4c58-bce1-0fb31d712445.label"
 msgid "Submit a Session Idea"
 msgstr "Manda tu propuesta de sesión"
 
-msgctxt "body.85891c5a-19af-4c58-bce1-0fb31d712445.URL"
+msgctxt "body.85891c5a-19af-4c58-bce1-0fb31d712445.external_url"
 msgid "https://www.mozillafestival.org/proposals/"
 msgstr "https://www.mozillafestival.org/es/proposals/"
 

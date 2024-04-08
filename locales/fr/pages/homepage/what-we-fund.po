@@ -7,8 +7,8 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 5fa0c4f3-9f32-4ee7-b3dc-428f43a73832\n"
 
 msgctxt "search_description"
-msgid "Funding and resources for bright people and bold ideas working to shape a more human-centered internet."
-msgstr "Financement et ressources pour des personnes exceptionnelles et des idées audacieuses qui participent au développement d’un Internet davantage centré sur l’humain."
+msgid "Funding and resources for a more human-centered internet."
+msgstr "Financement et ressources pour un Internet davantage centré sur l’humain."
 
 msgctxt "intro"
 msgid "Funding and resources for a more human-centered internet."
@@ -46,8 +46,8 @@ msgid "globe in heart icon"
 msgstr "Icône de globe en cœur"
 
 msgctxt "body.af065a47-80b2-4402-a2d5-81c380f51dff.text"
-msgid "Apply by 22 January to be a <a id=\"a1\">Tech + Society Fellow!</a>"
-msgstr "Postulez d’ici au 22 janvier pour devenir <a id=\"a1\">Tech + Society Fellow</a> !"
+msgid "<a id=\"a1\">Apply to join the next cohort of Mozilla Senior Fellows!</a>"
+msgstr "<a id=\"a1\">Postulez pour rejoindre la prochaine cohorte de Mozilla Senior Fellows !</a>"
 
 msgctxt "body.10eb1636-1692-47e9-8df9-2dd2796c54b3"
 msgid "What we fund"
@@ -92,12 +92,12 @@ msgid "<b>Rebalance</b> power online, shifting it back to individuals and commun
 msgstr "<b>Rééquilibrer</b> la balance du pouvoir en ligne, pour la refaire pencher du côté des individus et des communautés."
 
 msgctxt "body.c683d939-d24e-4a5a-a35a-13f9be92885a.url"
-msgid "https://www.youtube.com/embed/oV4yQ3PWN0s"
-msgstr "https://www.youtube.com/embed/oV4yQ3PWN0s"
+msgid "https://www.youtube.com/embed/rjXJG8hJwM4?si=4xNmXmebQ9yhTz3B"
+msgstr "https://www.youtube.com/embed/rjXJG8hJwM4?si=4xNmXmebQ9yhTz3B"
 
 msgctxt "body.c683d939-d24e-4a5a-a35a-13f9be92885a.caption"
-msgid "Mozilla Fellows make an impact"
-msgstr "Les bénéficiaires de bourses Mozilla font la différence"
+msgid "What We Fund: Mozilla's Fellowships and Awards Programs"
+msgstr "Ce que nous finançons : les programmes de bourses et de subventions de Mozilla"
 
 msgctxt "body.e718ced0-43af-45ff-bcc8-cb5ebf563eb2"
 msgid "How we fund"
@@ -177,10 +177,6 @@ msgctxt "body.a5371229-2099-4a05-9acd-cc78de8eea7b.label"
 msgid "See more Fellows"
 msgstr "Découvrir plus de bénéficiaires de bourses Mozilla"
 
-msgctxt "body.a5371229-2099-4a05-9acd-cc78de8eea7b.URL"
-msgid "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#fellows-by-year"
-msgstr "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#fellows-by-year"
-
 msgctxt "body.9d8d9614-d6ea-4546-9b25-fca3d774cf85.altText"
 msgid "Screen capture from the game"
 msgstr "Capture d’écran du jeu"
@@ -204,10 +200,6 @@ msgstr "https://www.survivalofthebestfit.com/"
 msgctxt "body.d54c1c3f-2224-49bf-849b-99988e722418.label"
 msgid "See more Awards"
 msgstr "Découvrir plus de projets subventionnés"
-
-msgctxt "body.d54c1c3f-2224-49bf-849b-99988e722418.URL"
-msgid "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#mozilla-awards-directory"
-msgstr "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#mozilla-awards-directory"
 
 msgctxt "body.46bb645e-e8be-4069-bb13-2e5e8e3dbd86"
 msgid "Where we’ve funded"
@@ -323,10 +315,6 @@ msgctxt "title"
 msgid "What we fund"
 msgstr "Nos financements"
 
-#~ msgctxt "body.f21ef906-5d99-4035-991a-f9ec09ae892a.altText"
-#~ msgid "Mradi"
-#~ msgstr "Mradi"
-
 #~ msgctxt "body.c41dc03a-6c07-4658-9632-90699d898789.altText"
 #~ msgid "globe heart"
 #~ msgstr "globe avec un cœur"
@@ -347,6 +335,18 @@ msgstr "Nos financements"
 #~ msgid "<a id=\"a1\">Senior Fellows - Responsible Computing →</a>"
 #~ msgstr "<a id=\"a1\">Senior Fellows - Informatique responsable →</a>"
 
+#~ msgctxt "search_description"
+#~ msgid "Funding and resources for bright people and bold ideas working to shape a more human-centered internet."
+#~ msgstr "Financement et ressources pour des personnes exceptionnelles et des idées audacieuses qui participent au développement d’un Internet davantage centré sur l’humain."
+
+#~ msgctxt "body.c683d939-d24e-4a5a-a35a-13f9be92885a.url"
+#~ msgid "https://www.youtube.com/embed/oV4yQ3PWN0s"
+#~ msgstr "https://www.youtube.com/embed/oV4yQ3PWN0s"
+
+#~ msgctxt "body.c683d939-d24e-4a5a-a35a-13f9be92885a.caption"
+#~ msgid "Mozilla Fellows make an impact"
+#~ msgstr "Les bénéficiaires de bourses Mozilla font la différence"
+
 #~ msgctxt "body.e718ced0-43af-45ff-bcc8-cb5ebf563eb2"
 #~ msgid ""
 #~ "Mozilla works with partners and allies to fuel a movement of internet users, academics, artists, technologists, thought-leaders, and activists fighting for a healthy internet. The individual and "
@@ -357,6 +357,14 @@ msgstr "Nos financements"
 #~ " qui luttent pour un Internet plus sain. Les actions individuelles et collectives que nous soutenons permettent de développer une communauté intersectionnelle, de créer des technologies et des "
 #~ "modèles émergents et de construire l’infrastructure nécessaire pour un Internet plus ouvert, plus sûr et plus sain à long terme. Apprenez-en plus sur nos <a id=\"a1\">bourses</a> et nos <a "
 #~ "id=\"a2\">subventions</a>."
+
+#~ msgctxt "body.a5371229-2099-4a05-9acd-cc78de8eea7b.external_url"
+#~ msgid "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#fellows-by-year"
+#~ msgstr "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#fellows-by-year"
+
+#~ msgctxt "body.d54c1c3f-2224-49bf-849b-99988e722418.external_url"
+#~ msgid "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#mozilla-awards-directory"
+#~ msgstr "https://foundation.mozilla.org/what-we-fund/fellowships-and-awards-directory/#mozilla-awards-directory"
 
 #~ msgctxt "body.46bb645e-e8be-4069-bb13-2e5e8e3dbd86"
 #~ msgid ""
@@ -413,13 +421,17 @@ msgstr "Nos financements"
 #~ msgid "2023 Data Futures Lab Cohort Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
 #~ msgstr "L’appel à propositions 2023 de la cohorte Data Futures Lab est ouvert ! <a id=\"a1\">En savoir plus et candidater →</a>"
 
-#~ msgctxt "body.f21ef906-5d99-4035-991a-f9ec09ae892a.text"
-#~ msgid "2023 Africa Mradi IRL Fund Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
-#~ msgstr "L’appel à propositions 2023 pour l’Africa Mradi IRL Fund est ouvert ! <a id=\"a1\">En savoir plus et candidater →</a>"
-
 #~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
 #~ msgid "<b>Africa Mradi IRL Fund</b> Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
 #~ msgstr "L’appel à propositions pour l’<b>Africa Mradi IRL Fund</b> est ouvert ! <a id=\"a1\">En savoir plus et candidater →</a>"
+
+#~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
+#~ msgid "<b>Creative Media Awards</b> Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
+#~ msgstr "L’appel à proposition pour les <b>Creative Media Awards</b> est ouvert ! <a id=\"a1\">En savoir plus et candidater →</a>"
+
+#~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
+#~ msgid "<b>Responsible Computer Science Challenge</b> in Kenya is accepting applications <a id=\"a1\">Learn more and apply →</a>"
+#~ msgstr "Le <b>Responsible Computer Science Challenge</b> au Kenya accepte les candidatures ! <a id=\"a1\">En savoir plus et postuler →</a>"
 
 #~ msgctxt "body.5b46d6fb-82af-444b-8be0-63b18ea4c406.text"
 #~ msgid "2023 Data Futures Lab Cohort Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
@@ -433,17 +445,17 @@ msgstr "Nos financements"
 #~ msgid "2023 Creative Media Awards Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
 #~ msgstr "L’appel à propositions 2023 pour les Creative Media Awards est ouvert ! <a id=\"a1\">En savoir plus et candidater →</a>"
 
+#~ msgctxt "body.f21ef906-5d99-4035-991a-f9ec09ae892a.altText"
+#~ msgid "Mradi"
+#~ msgstr "Mradi"
+
+#~ msgctxt "body.f21ef906-5d99-4035-991a-f9ec09ae892a.text"
+#~ msgid "2023 Africa Mradi IRL Fund Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
+#~ msgstr "L’appel à propositions 2023 pour l’Africa Mradi IRL Fund est ouvert ! <a id=\"a1\">En savoir plus et candidater →</a>"
+
 #~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
 #~ msgid "<b>Data Futures Lab</b> Cohort Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
 #~ msgstr "L’appel à propositions de la cohorte <b>Data Futures Lab</b> est ouvert ! <a id=\"a1\">En savoir plus et candidater →</a>"
-
-#~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
-#~ msgid "<b>Creative Media Awards</b> Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
-#~ msgstr "L’appel à proposition pour les <b>Creative Media Awards</b> est ouvert ! <a id=\"a1\">En savoir plus et candidater →</a>"
-
-#~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
-#~ msgid "<b>Responsible Computer Science Challenge</b> in Kenya is accepting applications <a id=\"a1\">Learn more and apply →</a>"
-#~ msgstr "Le <b>Responsible Computer Science Challenge</b> au Kenya accepte les candidatures ! <a id=\"a1\">En savoir plus et postuler →</a>"
 
 #~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
 #~ msgid "<b>Africa Innovation Mradi IRL Fund</b> Call for Proposals is open! <a id=\"a1\">Learn more and apply →</a>"
@@ -496,3 +508,11 @@ msgstr "Nos financements"
 #~ msgctxt "body.af065a47-80b2-4402-a2d5-81c380f51dff.text"
 #~ msgid "Apply to The Green Screen Coalition's <a id=\"a1\">Catalyst Fund</a> by 15 November!"
 #~ msgstr "Envoyez votre demande de subvention pour le <a id=\"a1\">fonds Catalyst</a> de la coalition The Green Screen d’ici au 15 novembre !"
+
+#~ msgctxt "body.af065a47-80b2-4402-a2d5-81c380f51dff.text"
+#~ msgid "Apply by 22 January to be a <a id=\"a1\">Tech + Society Fellow!</a>"
+#~ msgstr "Postulez d’ici au 22 janvier pour devenir <a id=\"a1\">Tech + Society Fellow</a> !"
+
+#~ msgctxt "body.af065a47-80b2-4402-a2d5-81c380f51dff.text"
+#~ msgid "Stay tuned! We don't have any calls open right now, but more opportunities will be coming soon."
+#~ msgstr "Restez à l’écoute ! Nous n’avons aucun appel ouvert pour l’instant, mais d’autres opportunités seront bientôt disponibles."

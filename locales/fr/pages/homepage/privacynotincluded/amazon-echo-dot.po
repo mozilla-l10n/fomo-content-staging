@@ -602,6 +602,18 @@ msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprend
 #~ msgid "<a id=\"a1\">https://www.amazon.science/tag/alexa</a>"
 #~ msgstr "<a id=\"a1\">https://www.amazon.science/tag/alexa</a>"
 
+#~ msgctxt "how_does_it_use_data_collected"
+#~ msgid ""
+#~ "Amazon says they <a id=\"a1\">do not sell your personal information</a>. They combine <a id=\"a2\">your voice data</a> with third-party data to answer your requests as well as to train Alexa's "
+#~ "speech recognition. You can choose to not save any voice recordings, but it will cost you some features."
+#~ msgstr ""
+#~ "Amazon dit <a id=\"a1\">ne pas vendre vos informations personnelles</a>. L’entreprise combine <a id=\"a2\">vos données vocales</a> avec des données tierces pour répondre à vos demandes ainsi que "
+#~ "pour entraîner la reconnaissance vocale d’Alexa. Vous pouvez choisir de ne pas conserver les enregistrements vocaux, mais cela entraînera la désactivation de certaines fonctionnalités."
+
+#~ msgctxt "user_friendly_privacy_policy_helptext"
+#~ msgid "In addition to general privacy notice, Amazon provides a privacy FAQ with answers to key questions about Alexa."
+#~ msgstr "En plus de son avis général de confidentialité, Amazon fournit une FAQ sur la confidentialité avec des réponses aux questions clés sur Alexa."
+
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "The hockey puck has become a globe. Amazon's Alexa-powered Echo Dot smart speaker is now round and there's even a version that can show you the time. Alexa has become the most bossed around bot on "
@@ -634,18 +646,6 @@ msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprend
 #~ "De nos jours, Alexa est intégrée partout, des enceintes connectées Echo Dot aux jouets de vos enfants en passant par vos lunettes, écouteurs et thermostats. Et bien qu’Amazon ne vende pas vos "
 #~ "informations personnelles, ils en utilisent certainement pour vous cibler et vous faire acheter toujours plus de choses. Est-ce flippant ? Eh bien, avec autant de données qui circulent dans autant "
 #~ "d’endroits (pas juste au sein d’Amazon, mais aussi avec des tiers), oui, l’enceinte connectée Echo Dot d’Amazon avec Alexa est plutôt flippante."
-
-#~ msgctxt "how_does_it_use_data_collected"
-#~ msgid ""
-#~ "Amazon says they <a id=\"a1\">do not sell your personal information</a>. They combine <a id=\"a2\">your voice data</a> with third-party data to answer your requests as well as to train Alexa's "
-#~ "speech recognition. You can choose to not save any voice recordings, but it will cost you some features."
-#~ msgstr ""
-#~ "Amazon dit <a id=\"a1\">ne pas vendre vos informations personnelles</a>. L’entreprise combine <a id=\"a2\">vos données vocales</a> avec des données tierces pour répondre à vos demandes ainsi que "
-#~ "pour entraîner la reconnaissance vocale d’Alexa. Vous pouvez choisir de ne pas conserver les enregistrements vocaux, mais cela entraînera la désactivation de certaines fonctionnalités."
-
-#~ msgctxt "user_friendly_privacy_policy_helptext"
-#~ msgid "In addition to general privacy notice, Amazon provides a privacy FAQ with answers to key questions about Alexa."
-#~ msgstr "En plus de son avis général de confidentialité, Amazon fournit une FAQ sur la confidentialité avec des réponses aux questions clés sur Alexa."
 
 #~ msgctxt "personal_data_collected"
 #~ msgid "Name, email, phone number, address"

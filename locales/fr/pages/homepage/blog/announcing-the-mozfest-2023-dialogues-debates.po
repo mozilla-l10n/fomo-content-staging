@@ -42,7 +42,7 @@ msgctxt "body.4897d51b-927b-4629-bf21-8f7d68dcbf2f.label"
 msgid "Secure your MozFest ticket"
 msgstr "Réserver votre billet pour le MozFest"
 
-msgctxt "body.4897d51b-927b-4629-bf21-8f7d68dcbf2f.URL"
+msgctxt "body.4897d51b-927b-4629-bf21-8f7d68dcbf2f.external_url"
 msgid "https://www.mozillafestival.org/tickets/#/"
 msgstr "https://www.mozillafestival.org/tickets/#/"
 
@@ -287,13 +287,13 @@ msgctxt "title"
 msgid "Announcing the MozFest 2023 Dialogues &amp; Debates"
 msgstr "Annonce des discussions et débats du MozFest 2023"
 
-#~ msgctxt "body.066e55b2-a5f0-4d44-a7b5-abbb5852e459"
-#~ msgid "Mozilla 25 | Tuesday, March 21 @ 11am ET / 4pm CET"
-#~ msgstr "Mozilla 25 | Mardi 21 mars à 11h ET / 16h CET"
-
 #~ msgctxt "body.12fbfbab-01cb-45fb-9988-423ce92105d3.text"
 #~ msgid "<a id=\"a1\"><b>Anouk Ruhaak</b></a>, Head of Governance, apiary"
 #~ msgstr "<a id=\"a1\"><b>Anouk Ruhaak</b></a>, responsable de la gouvernance, apiary"
+
+#~ msgctxt "body.066e55b2-a5f0-4d44-a7b5-abbb5852e459"
+#~ msgid "Mozilla 25 | Tuesday, March 21 @ 11am ET / 4pm CET"
+#~ msgstr "Mozilla 25 | Mardi 21 mars à 11h ET / 16h CET"
 
 #~ msgctxt "body.0ee7fb50-b204-43aa-940f-4a3e48604939"
 #~ msgid ""

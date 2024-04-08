@@ -107,7 +107,7 @@ msgctxt "body.0a9d2396-d9b3-45d9-883b-a254be6527da.label"
 msgid "Watch more on the MozFest Plaza"
 msgstr ""
 
-msgctxt "body.0a9d2396-d9b3-45d9-883b-a254be6527da.URL"
+msgctxt "body.0a9d2396-d9b3-45d9-883b-a254be6527da.external_url"
 msgid "https://schedule.mozillafestival.org/schedule"
 msgstr ""
 
@@ -123,8 +123,4 @@ msgstr ""
 
 msgctxt "body.31c2b692-c5c6-4469-9e59-0c932169b6a0"
 msgid "Here are a few of our favorites."
-msgstr ""
-
-msgctxt "body.9e630c7d-8b7f-4c86-a7f7-020956d9b70d.search_terms"
-msgid "5yearsdand"
 msgstr ""

@@ -19,12 +19,12 @@ msgid "Homepage"
 msgstr "Startpagina"
 
 msgctxt "hero_headline"
-msgid "Examining AI On The Continent Of Africa"
-msgstr "AI op het Afrikaans continent onderzoeken"
+msgid "WhatsApp: Update Your Product to Protect Global Elections"
+msgstr "WhatsApp: werk jullie product bij om wereldwijd verkiezingen te beschermen"
 
 msgctxt "hero_button_text"
-msgid "See The 7 Winning Projects"
-msgstr "Bekijk de 7 winnende projecten"
+msgid "Add Your Name"
+msgstr "Voeg uw naam toe"
 
 msgctxt "spotlight_headline"
 msgid "Spotlight: The Data Futures Lab"
@@ -72,17 +72,17 @@ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
 msgid "Microsoft: Are You Using Customer Data To Train AI?"
 msgstr "Microsoft: gebruiken jullie klantgegevens om AI te trainen?"
 
-msgctxt "take_action_cards.a18d063b-b168-46c9-b24e-e955b8dcd16e.text"
-msgid "TikTok: Stop Misleading Android Users"
-msgstr "TikTok: stop Android-gebruikers te misleiden"
-
-msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
-msgid "Amazon: Fix This Security Flaw in Ring Doorbells"
-msgstr "Amazon: verhelp dit beveiligingslek in Ring-deurbellen"
+msgctxt "take_action_cards.046f1c00-6873-4bdb-a623-32c6cc18e068.text"
+msgid "Join our global movement for privacy rights."
+msgstr "Sluit u aan bij onze wereldwijde beweging voor privacyrechten."
 
 msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
 msgid "Car Companies: Stop Your Data Collection Programs"
 msgstr "Autobedrijven: stop uw gegevensverzamelingsprogramma’s"
+
+msgctxt "take_action_cards.5ae600cc-b1a4-43b2-852f-d2ce8396cbe1.text"
+msgid "Tell OpenAI, Google, and Microsoft: Provide transparency about the data used to train your AI tools!"
+msgstr "Zeg tegen OpenAI, Google en Microsoft: zorg voor transparantie over de gegevens die worden gebruikt om jullie AI-hulpmiddelen te trainen!"
 
 msgctxt "partner_logos.27a519d5-cbc2-4e21-af63-5e80a198ecf6.name"
 msgid "Ford Foundation logo"
@@ -265,6 +265,14 @@ msgstr "Consumers International-logo"
 #~ msgstr "Werkt de Vind-ik-niet-leuk-knop van YouTube eigenlijk wel?"
 
 #~ msgctxt "hero_headline"
+#~ msgid "MozFest House Amsterdam: Early Bird Tickets Now Available"
+#~ msgstr "MozFest House Amsterdam: Early Bird-tickets nu verkrijgbaar"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Get Your Ticket"
+#~ msgstr "Koop uw ticket"
+
+#~ msgctxt "hero_headline"
 #~ msgid "Activism, Whistleblowers &amp; the Collective Power of People"
 #~ msgstr "Activisme, klokkenluiders en de collectieve kracht van mensen"
 
@@ -287,6 +295,14 @@ msgstr "Consumers International-logo"
 #~ msgctxt "hero_button_text"
 #~ msgid "Submit Your Session Idea"
 #~ msgstr "Uw sessie-idee indienen"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Research: Platforms’ Failing Global Election Initiatives"
+#~ msgstr "Onderzoek: de mislukte wereldwijde verkiezingsinitiatieven van platforms"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Read the research"
+#~ msgstr "Lees het onderzoek"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Shop smart, and safe."
@@ -341,6 +357,14 @@ msgstr "Consumers International-logo"
 #~ msgstr "Sexisme in generatieve AI blootgelegd"
 
 #~ msgctxt "hero_headline"
+#~ msgid "“AI soulmates” are giving us the ick."
+#~ msgstr "‘AI-soulmates’ geven ons de kriebels."
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Read our reviews of relationship chatbots"
+#~ msgstr "Lees onze beoordelingen van relatiechatbots"
+
+#~ msgctxt "hero_headline"
 #~ msgid "Challenging Algorithmic Bias Against Black Women"
 #~ msgstr "De algoritmische vooroordelen tegen zwarte vrouwen aan de kaak gesteld"
 
@@ -351,10 +375,6 @@ msgstr "Consumers International-logo"
 #~ msgctxt "hero_headline"
 #~ msgid "Mental Health Apps!* (*Privacy Not Included)"
 #~ msgstr "Apps voor geestelijke gezondheid!* (*Privacy niet inbegrepen)"
-
-#~ msgctxt "take_action_cards.a18d063b-b168-46c9-b24e-e955b8dcd16e.text"
-#~ msgid "Tell Slack: Make DMs Safe"
-#~ msgstr "Zeg tegen Slack: maak DM’s veilig"
 
 #~ msgctxt "hero_headline"
 #~ msgid "MozFest House: June 19-21"
@@ -368,13 +388,21 @@ msgstr "Consumers International-logo"
 #~ msgid "Mozilla Discovers Ring Vulnerability"
 #~ msgstr "Mozilla ontdekt Ring-kwetsbaarheid"
 
-#~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
-#~ msgid "Tell Tinder: It’s time for pricing algorithm transparency"
-#~ msgstr "Zeg tegen Tinder: het is tijd voor transparantie van prijsalgoritmen"
+#~ msgctxt "hero_headline"
+#~ msgid "Help Us Build An App To Study TikTok's Algorithm"
+#~ msgstr "Help ons een app te bouwen om het algoritme van TikTok te bestuderen"
 
 #~ msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
 #~ msgid "Tell TikTok: Stop misleading Android users"
 #~ msgstr "Zeg tegen TikTok: stop met het misleiden van Android-gebruikers"
+
+#~ msgctxt "take_action_cards.a18d063b-b168-46c9-b24e-e955b8dcd16e.text"
+#~ msgid "Tell Slack: Make DMs Safe"
+#~ msgstr "Zeg tegen Slack: maak DM’s veilig"
+
+#~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
+#~ msgid "Tell Tinder: It’s time for pricing algorithm transparency"
+#~ msgstr "Zeg tegen Tinder: het is tijd voor transparantie van prijsalgoritmen"
 
 #~ msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
 #~ msgid "Tell YouTube: Give users real control over recommendations!"
@@ -391,10 +419,6 @@ msgstr "Consumers International-logo"
 #~ msgctxt "hero_button_text"
 #~ msgid "Donate Now"
 #~ msgstr "Nu doneren"
-
-#~ msgctxt "hero_headline"
-#~ msgid "Help Us Build An App To Study TikTok's Algorithm"
-#~ msgstr "Help ons een app te bouwen om het algoritme van TikTok te bestuderen"
 
 #~ msgctxt "hero_headline"
 #~ msgid "As AI Companies Scale Datasets, They Scale Hate Too"
@@ -437,14 +461,6 @@ msgstr "Consumers International-logo"
 #~ msgstr "Mozilla trekt met vice-president Harris op ter ondersteuning van AI van algemeen belang"
 
 #~ msgctxt "hero_headline"
-#~ msgid "Tell Car Companies: Stop Data Collection"
-#~ msgstr "Vertel autobedrijven: stop gegevensverzameling"
-
-#~ msgctxt "hero_button_text"
-#~ msgid "Sign The Petition"
-#~ msgstr "Teken de petitie"
-
-#~ msgctxt "hero_headline"
 #~ msgid "IRL Podcast Season 7 Is Here"
 #~ msgstr "IRL-podcast seizoen 7 is er"
 
@@ -453,8 +469,24 @@ msgstr "Consumers International-logo"
 #~ msgstr "Auto’s (*Privacy niet inbegrepen)"
 
 #~ msgctxt "hero_headline"
+#~ msgid "Tell Car Companies: Stop Data Collection"
+#~ msgstr "Vertel autobedrijven: stop gegevensverzameling"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Sign The Petition"
+#~ msgstr "Teken de petitie"
+
+#~ msgctxt "hero_headline"
 #~ msgid "MozFest House Kenya: See The Lineup"
 #~ msgstr "MozFest House Kenia: de line-up bekijken"
+
+#~ msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
+#~ msgid "Amazon: Fix This Security Flaw in Ring Doorbells"
+#~ msgstr "Amazon: verhelp dit beveiligingslek in Ring-deurbellen"
+
+#~ msgctxt "take_action_cards.a18d063b-b168-46c9-b24e-e955b8dcd16e.text"
+#~ msgid "TikTok: Stop Misleading Android Users"
+#~ msgstr "TikTok: stop Android-gebruikers te misleiden"
 
 #~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
 #~ msgid "Stop France From Forcing Browsers To Censor Websites"
@@ -468,6 +500,10 @@ msgstr "Consumers International-logo"
 #~ msgid "Listen Now"
 #~ msgstr "Nu luisteren"
 
+#~ msgctxt "hero_button_text"
+#~ msgid "Learn how to demand better"
+#~ msgstr "Lees hoe u beter kunt eisen"
+
 #~ msgctxt "hero_headline"
 #~ msgid "Which Gadgets Protect Your Privacy This Holiday Season?"
 #~ msgstr "Welke gadgets beschermen deze feestdagen uw privacy?"
@@ -475,3 +511,23 @@ msgstr "Consumers International-logo"
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Buyers' Guide"
 #~ msgstr "Lees de koopgids"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Accelerating Progress Toward Trustworthy AI"
+#~ msgstr "Voortgangsversnelling naar betrouwbare AI"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Learn about Mozilla's work on AI"
+#~ msgstr "Meer info over Mozilla’s werk aan AI"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Examining AI On The Continent Of Africa"
+#~ msgstr "AI op het Afrikaans continent onderzoeken"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "See The 7 Winning Projects"
+#~ msgstr "Bekijk de 7 winnende projecten"
+
+#~ msgctxt "take_action_cards.9081a0e2-ecd6-4faf-bf73-97151ff38a67.text"
+#~ msgid "Tell Microsoft &amp; Google: Only train AI models on users’ data if they opt in!"
+#~ msgstr "Vertel Microsoft &amp; Google: train alleen AI-modellen op gebruikersgegevens als deze zich hiervoor aanmelden!"

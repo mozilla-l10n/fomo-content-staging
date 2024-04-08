@@ -501,6 +501,10 @@ msgstr "Sonos propose son propre assistant vocal."
 #~ msgstr "Sonos ne dispose pas d’un programme de prime aux bugs, mais encourage le signalement responsable des bugs en matière de sécurité."
 
 #~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Use Sonos own voice assistant instead of Alexa or Google Assistant"
+#~ msgstr "Utilisez l’assistant vocal de Sonos au lieu d’Alexa ou de Google Assistant"
+
+#~ msgctxt "tips_to_protect_yourself"
 #~ msgid "If you are using Amazon Alexa or Google Assistant, adjust the respective privacy settings of the service."
 #~ msgstr "Si vous utilisez Amazon Alexa ou Google Assistant, ajustez les paramètres de confidentialité respectifs du service."
 
@@ -508,17 +512,9 @@ msgstr "Sonos propose son propre assistant vocal."
 #~ msgid "<a id=\"a1\">Opt out</a> of additional usage data collection"
 #~ msgstr "<a id=\"a1\">Désactivez</a> la collecte de données d’utilisation supplémentaires"
 
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Use Sonos own voice assistant instead of Alexa or Google Assistant"
-#~ msgstr "Utilisez l’assistant vocal de Sonos au lieu d’Alexa ou de Google Assistant"
-
 #~ msgctxt "personal_data_collected"
 #~ msgid "Name, email, phone number, password"
 #~ msgstr "Nom, adresse e-mail, numéro de téléphone, mot de passe"
-
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid "\"Sonos will retain your personal information:"
-#~ msgstr "« Sonos conservera vos données personnelles :"
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""
@@ -528,6 +524,10 @@ msgstr "Sonos propose son propre assistant vocal."
 #~ "Vous pouvez faire supprimer vos données.<br/> « Lorsque nous utilisons vos données personnelles sur la base de votre consentement, vous avez le droit de retirer ce consentement à tout moment. De "
 #~ "plus, lorsque nous traitons vos données personnelles sur la base d’un intérêt légitime ou l’intérêt public, vous avez le droit de vous opposer à tout moment à cette utilisation de vos données "
 #~ "personnelles."
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "\"Sonos will retain your personal information:"
+#~ msgstr "« Sonos conservera vos données personnelles :"
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

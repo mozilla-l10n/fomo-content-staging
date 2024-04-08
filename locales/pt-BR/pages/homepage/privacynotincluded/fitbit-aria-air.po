@@ -820,6 +820,10 @@ msgctxt "ai_helptext"
 msgid "FitBit Coach and FitBit Care services are <a id=\"a1\">said</a> to be based on Machine Learning"
 msgstr "<a id=\"a1\">Diz-se</a> que os serviços FitBit Coach e FitBit Care se baseiam no aprendizado de máquina"
 
+#~ msgctxt "strong_password_helptext"
+#~ msgid "To create a Fitbit account, users are required to provide strong, complex, passwords during onboarding."
+#~ msgstr "Para criar uma conta Fitbit, os usuários são obrigados a fornecer senhas fortes e complexas durante a integração."
+
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "As of January 14, 2021, Google officially <a id=\"a1\">became the owner</a> of Fitbit. That worried many privacy conscious users. However, Google promised that “Fitbit users’ health and wellness "
@@ -911,10 +915,6 @@ msgstr "<a id=\"a1\">Diz-se</a> que os serviços FitBit Coach e FitBit Care se b
 #~ msgctxt "user_friendly_privacy_policy_helptext"
 #~ msgid "Despite being acquired by Google, Fitbit keeps its own privacy policy, written in relatively simple language."
 #~ msgstr "Apesar de ter sido adquirida pelo Google, o Fitbit mantém sua própria política de privacidade, escrita em uma linguagem relativamente simples."
-
-#~ msgctxt "strong_password_helptext"
-#~ msgid "To create a Fitbit account, users are required to provide strong, complex, passwords during onboarding."
-#~ msgstr "Para criar uma conta Fitbit, os usuários são obrigados a fornecer senhas fortes e complexas durante a integração."
 
 #~ msgctxt "personal_data_collected"
 #~ msgid "Name, date of birth, gender, photo (optional)"

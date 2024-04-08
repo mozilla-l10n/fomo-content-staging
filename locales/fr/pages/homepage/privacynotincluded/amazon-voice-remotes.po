@@ -579,21 +579,9 @@ msgctxt "ai_what_can_it_do"
 msgid "Amazon Alexa uses natural language processing to understand you and to generate answers to your requests."
 msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprendre et générer des réponses à vos demandes."
 
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "When starting a sign-up, do not agree to tracking of your data."
-#~ msgstr "Lorsque vous vous inscrivez, n’acceptez pas le suivi de vos données."
-
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number, address"
-#~ msgstr "Nom, adresse e-mail, numéro de téléphone, adresse postale"
-
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Voice recordings"
-#~ msgstr "Enregistrements vocaux"
-
-#~ msgctxt "track_record_details"
-#~ msgid "In <a id=\"a1\">October 2019</a>, Forbes reported that Amazon employees were listening to Amazon Cloud Cam recording, to train its AI algorythm."
-#~ msgstr "En <a id=\"a1\">octobre 2019</a>, Forbes a révélé que des employés d’Amazon écoutaient des enregistrements d’Amazon Cloud Cam, pour entraîner son algorithme d’IA."
+#~ msgctxt "uses_encryption_helptext"
+#~ msgid "Encryption in transit and at rest."
+#~ msgstr "Utilisation du chiffrement en transit et au repos."
 
 #~ msgctxt "worst_case"
 #~ msgid ""
@@ -662,9 +650,17 @@ msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprend
 #~ "Amazon dit <a id=\"a1\">ne pas vendre vos informations personnelles</a>. L’entreprise combine <a id=\"a2\">vos données vocales</a> avec des données tierces pour répondre à vos demandes ainsi que "
 #~ "pour entraîner la reconnaissance vocale d’Alexa. Vous pouvez choisir de ne pas conserver les enregistrements vocaux, mais cela entraînera la désactivation de certaines fonctionnalités."
 
-#~ msgctxt "uses_encryption_helptext"
-#~ msgid "Encryption in transit and at rest."
-#~ msgstr "Utilisation du chiffrement en transit et au repos."
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "When starting a sign-up, do not agree to tracking of your data."
+#~ msgstr "Lorsque vous vous inscrivez, n’acceptez pas le suivi de vos données."
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number, address"
+#~ msgstr "Nom, adresse e-mail, numéro de téléphone, adresse postale"
+
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Voice recordings"
+#~ msgstr "Enregistrements vocaux"
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""
@@ -743,6 +739,10 @@ msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprend
 #~ msgstr ""
 #~ "<a id=\"a1\">En août 2020</a>, des chercheurs en sécurité de Check Point ont signalé une faille dans les appareils connectés Alexa d’Amazon qui aurait pu permettre à des pirates d’accéder à des "
 #~ "informations personnelles et à l’historique des conversations. Amazon a rapidement corrigé le bug."
+
+#~ msgctxt "track_record_details"
+#~ msgid "In <a id=\"a1\">October 2019</a>, Forbes reported that Amazon employees were listening to Amazon Cloud Cam recording, to train its AI algorythm."
+#~ msgstr "En <a id=\"a1\">octobre 2019</a>, Forbes a révélé que des employés d’Amazon écoutaient des enregistrements d’Amazon Cloud Cam, pour entraîner son algorithme d’IA."
 
 #~ msgctxt "track_record_details"
 #~ msgid ""

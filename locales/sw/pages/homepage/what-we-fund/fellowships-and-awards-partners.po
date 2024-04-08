@@ -7,8 +7,8 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: f4f01cb6-9918-49de-b098-efcf335127a2\n"
 
 msgctxt "search_description"
-msgid "Funding and resources for bright people and bold ideas working to shape a more human-centered internet."
-msgstr "Ufadhili na rasilimali kwa ajili ya watu mahiri na wenye mawazo shupavu wanaojitahidi kuunda mtandao unaozingatia binadamu zaidi."
+msgid "Funding and resources for a more human-centered internet."
+msgstr "Ufadhili na rasilimali kwa ajili ya mtandao unaozingatia binadamu zaidi."
 
 msgctxt "intro"
 msgid "Funding and resources for a more human-centered internet."
@@ -185,6 +185,14 @@ msgctxt "title"
 msgid "Partners"
 msgstr "Washirika"
 
+#~ msgctxt "body.b95ae85d-6567-44f3-8706-fe6c91cd8bbb.grid_items.bf825f92-c541-4a24-9270-14d40a933403.alt_text"
+#~ msgid "blank square"
+#~ msgstr "blank square"
+
+#~ msgctxt "search_description"
+#~ msgid "Funding and resources for bright people and bold ideas working to shape a more human-centered internet."
+#~ msgstr "Ufadhili na rasilimali kwa ajili ya watu mahiri na wenye mawazo shupavu wanaojitahidi kuunda mtandao unaozingatia binadamu zaidi."
+
 #~ msgctxt "body.f3c7749d-6d7f-405c-9be9-5d21c35251e6"
 #~ msgid ""
 #~ "Mozilla partners with foundations, investors, and other organizations to collaboratively design, build, and launch our philanthropic initiatives. Together, we have funded over $20 million in award "
@@ -192,10 +200,6 @@ msgstr "Washirika"
 #~ msgstr ""
 #~ "Mozilla inashirikiana na taasisi, wawekezaji na mashirika mengine ili kubuni, kujenga na kuzindua mipango yetu ya uhisani kwa ushirikiano. Pamoja, tumetoa zaidi ya dola milioni 20 za Marekani kwa "
 #~ "ajili ya fedha za tuzo na tumesaidia takriban Washirika 200 binafsi tangu mwaka wa 2015."
-
-#~ msgctxt "body.b95ae85d-6567-44f3-8706-fe6c91cd8bbb.grid_items.bf825f92-c541-4a24-9270-14d40a933403.alt_text"
-#~ msgid "blank square"
-#~ msgstr "blank square"
 
 #~ msgctxt "body.9570e0c0-0e51-44a5-af09-7c31fd69d0c9"
 #~ msgid ""

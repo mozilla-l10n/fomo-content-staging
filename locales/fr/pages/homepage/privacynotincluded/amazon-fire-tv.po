@@ -645,10 +645,6 @@ msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprend
 #~ "pouvez utiliser les Services Amazon qu’avec la participation d’un adulte ou d’un tuteur. Pour des informations supplémentaires relatives à comment nous traitons les informations personnelles dans le"
 #~ " cadre des Services Amazon destinés aux enfants de moins de 13 ans, veuillez lire notre <a id=\"a1\">Notice Protection des Informations Personnelles des Enfants</a>. »"
 
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number, address"
-#~ msgstr "Nom, adresse e-mail, numéro de téléphone, adresse postale"
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "So, what’s the worst that could happen? Well, Amazon could learn all the shows you like to watch and start targeting you with ads for all the other streaming services out there. You can't resist and"
@@ -659,10 +655,6 @@ msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprend
 #~ "services de streaming. Vous ne pouvez pas résister et vous vous abonnez à tous les services, mettant ainsi vos comptes dans le rouge, car il y a tellement de services de streaming de nos jours ! Si "
 #~ "vous voulez qu’Amazon arrête d’essayer de vous vendre toujours plus de produits, vous pouvez (et devriez !) <a id=\"a1\">désactiver la collecte et le traitement des données</a>. Alors oui, bien "
 #~ "qu’Amazon ne vende pas vos données personnelles, Amazon les utilise certainement pour vous cibler pour vous faire acheter toujours plus de produits."
-
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Voice recordings"
-#~ msgstr "Enregistrements vocaux"
 
 #~ msgctxt "worst_case"
 #~ msgid ""
@@ -727,6 +719,14 @@ msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprend
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "When starting a sign-up, do not agree to tracking of your data."
 #~ msgstr "Lorsque vous vous inscrivez, n’acceptez pas le suivi de vos données."
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number, address"
+#~ msgstr "Nom, adresse e-mail, numéro de téléphone, adresse postale"
+
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Voice recordings"
+#~ msgstr "Enregistrements vocaux"
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

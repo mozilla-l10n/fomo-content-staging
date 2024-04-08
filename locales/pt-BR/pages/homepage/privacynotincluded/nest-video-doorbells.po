@@ -691,11 +691,6 @@ msgstr ""
 #~ msgstr "Gravações de voz"
 
 #~ msgctxt "how_does_it_use_data_collected"
-#~ msgid "Google says they keep video footage, audio recordings, and home environment sensor readings separate from advertising, and they won’t use this data for ad personalization."
-#~ msgstr ""
-#~ "O Google diz que mantém imagens de vídeo, gravações de áudio e leituras de sensores de ambiente doméstico separados da publicidade, e que não usará esses dados para personalização de anúncios."
-
-#~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
 #~ "Google may combine information about you from their other services or devices. \"We may combine the information we collect among our services and across your devices for the purposes described "
 #~ "above. For example, if you watch videos of guitar players on YouTube, you might see an ad for guitar lessons on a site that uses our ad products.\""
@@ -703,6 +698,11 @@ msgstr ""
 #~ "O Google pode combinar informações sobre você a partir de seus outros serviços ou dispositivos. \"Podemos combinar as informações que coletamos entre nossos serviços e em todos os seus dispositivos "
 #~ "para os propósitos descritos acima. Por exemplo, se você assistir a vídeos de guitarristas no YouTube, você poderá ver um anúncio de aulas de guitarra em um site que utiliza nossos produtos "
 #~ "publicitários\"."
+
+#~ msgctxt "how_does_it_use_data_collected"
+#~ msgid "Google says they keep video footage, audio recordings, and home environment sensor readings separate from advertising, and they won’t use this data for ad personalization."
+#~ msgstr ""
+#~ "O Google diz que mantém imagens de vídeo, gravações de áudio e leituras de sensores de ambiente doméstico separados da publicidade, e que não usará esses dados para personalização de anúncios."
 
 #~ msgctxt "user_friendly_privacy_policy_helptext"
 #~ msgid "Google provides a page with privacy information about Nest."

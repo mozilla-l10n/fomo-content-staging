@@ -19,12 +19,12 @@ msgid "Homepage"
 msgstr "Inicio"
 
 msgctxt "hero_headline"
-msgid "Examining AI On The Continent Of Africa"
-msgstr ""
+msgid "WhatsApp: Update Your Product to Protect Global Elections"
+msgstr "WhatsApp: Actualiza su producto para proteger las elecciones mundiales"
 
 msgctxt "hero_button_text"
-msgid "See The 7 Winning Projects"
-msgstr ""
+msgid "Add Your Name"
+msgstr "Añade tu nombre"
 
 msgctxt "spotlight_headline"
 msgid "Spotlight: The Data Futures Lab"
@@ -71,17 +71,17 @@ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
 msgid "Microsoft: Are You Using Customer Data To Train AI?"
 msgstr "Microsoft: ¿Estás utilizando los datos de tus clientes para entrenar tu IA?"
 
-msgctxt "take_action_cards.a18d063b-b168-46c9-b24e-e955b8dcd16e.text"
-msgid "TikTok: Stop Misleading Android Users"
-msgstr "TikTok: Deja de engañar a los usuarios de Android"
-
-msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
-msgid "Amazon: Fix This Security Flaw in Ring Doorbells"
-msgstr "Amazon: Arregla la falla de seguridad en los vídeotimbres Ring"
+msgctxt "take_action_cards.046f1c00-6873-4bdb-a623-32c6cc18e068.text"
+msgid "Join our global movement for privacy rights."
+msgstr "Únete a nuestro movimiento global por los derechos de privacidad."
 
 msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
 msgid "Car Companies: Stop Your Data Collection Programs"
 msgstr "Empresas automotrices: detengan sus programas para recopilación de datos"
+
+msgctxt "take_action_cards.5ae600cc-b1a4-43b2-852f-d2ce8396cbe1.text"
+msgid "Tell OpenAI, Google, and Microsoft: Provide transparency about the data used to train your AI tools!"
+msgstr "Pide a OpenAI, Google y Microsoft transparencia sobre los datos que utilizaron para entrenar tus herramientas de IA."
 
 msgctxt "partner_logos.27a519d5-cbc2-4e21-af63-5e80a198ecf6.name"
 msgid "Ford Foundation logo"
@@ -167,6 +167,10 @@ msgstr "Logo de Consumers International"
 #~ msgid "Which Gadgets Protect Your Privacy This Holiday Season?"
 #~ msgstr "¿Cuáles son los gadgets que protegen tu privacidad en estas fiestas?"
 
+#~ msgctxt "hero_headline"
+#~ msgid "MozFest House Amsterdam: Early Bird Tickets Now Available"
+#~ msgstr "MozFest House Amsterdam: entradas anticipadas ya disponibles"
+
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Findings"
 #~ msgstr "Revisar los resultados"
@@ -180,16 +184,16 @@ msgstr "Logo de Consumers International"
 #~ msgstr "Descúbrelo"
 
 #~ msgctxt "hero_button_text"
-#~ msgid "Call For Projects Now Open"
-#~ msgstr "Estamos recibiendo proyectos"
-
-#~ msgctxt "hero_button_text"
 #~ msgid "Secure Yours"
 #~ msgstr "Obtén la tuya"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Guide"
 #~ msgstr "Lee la guía"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Call For Projects Now Open"
+#~ msgstr "Estamos recibiendo proyectos"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Learn More Here"
@@ -243,6 +247,10 @@ msgstr "Logo de Consumers International"
 #~ msgid "Read More"
 #~ msgstr "Leer más"
 
+#~ msgctxt "hero_button_text"
+#~ msgid "Get Your Ticket"
+#~ msgstr "Consigue tu boleto"
+
 #~ msgctxt "spotlight_headline"
 #~ msgid "What To Know About Venmo"
 #~ msgstr "Qué debemos saber acerca de Venmo"
@@ -291,6 +299,10 @@ msgstr "Logo de Consumers International"
 #~ msgid "Tell TikTok: Stop misleading Android users"
 #~ msgstr "Pedirle a TikTok que deje de engañar a los usuarios de Android"
 
+#~ msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
+#~ msgid "Amazon: Fix This Security Flaw in Ring Doorbells"
+#~ msgstr "Amazon: Arregla la falla de seguridad en los vídeotimbres Ring"
+
 #~ msgctxt "take_action_cards.a18d063b-b168-46c9-b24e-e955b8dcd16e.text"
 #~ msgid "Let’s open the door for social media researchers."
 #~ msgstr "Abramos la puerta a los investigadores de las redes sociales."
@@ -298,6 +310,10 @@ msgstr "Logo de Consumers International"
 #~ msgctxt "take_action_cards.a18d063b-b168-46c9-b24e-e955b8dcd16e.text"
 #~ msgid "Tell Slack: Make DMs Safe"
 #~ msgstr "Pedir a Slack que vuelva seguros los mensajes directos"
+
+#~ msgctxt "take_action_cards.a18d063b-b168-46c9-b24e-e955b8dcd16e.text"
+#~ msgid "TikTok: Stop Misleading Android Users"
+#~ msgstr "TikTok: Deja de engañar a los usuarios de Android"
 
 #~ msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
 #~ msgid "Invest in our Planet – The Intersectionality of Climate &amp; Tech"

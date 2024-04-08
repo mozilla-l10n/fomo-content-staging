@@ -1,0 +1,39 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-04-08 07:03:47.114102+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 1e2a6200-1fb0-418d-9685-5f7d15092082\n"
+
+msgctxt "seo_title"
+msgid "Tell Microsoft and Google: Only train their AI models on users’ personal data if they have actively opted in to it!"
+msgstr "Zaapeluj do firm Microsoft i Google, aby trenowały swoje modele AI wyłącznie przy użyciu danych osobowych użytkowników, którzy wyrazili na to zgodę!"
+
+msgctxt "search_description"
+msgid ""
+"Mozilla is calling on big tech companies Microsoft and Google to stop using their users’ personal data to train their AI models without explicit consent. Sign the petition now to join the campaign."
+msgstr ""
+"Mozilla wzywa technologicznych gigantów, Microsoft i Google, aby przestali używać danych osobowych użytkowników do trenowania modeli sztucznej inteligencji bez wyraźnej zgody. Podpisz petycję teraz "
+"i dołącz do kampanii."
+
+msgctxt "title"
+msgid "Tell Microsoft and Google: Only train their AI models on users’ personal data if they have actively opted in to it!"
+msgstr "Zaapeluj do firm Microsoft i Google, aby trenowały swoje modele AI wyłącznie przy użyciu danych osobowych użytkowników, którzy wyrazili na to zgodę!"
+
+msgctxt "body.6e9c5fb8-8af5-4d6a-b444-12849a5e28de"
+msgid ""
+"Google’s updated privacy policy allows user data to be used as AI training fodder, unless you have actively opted out of it. Microsoft is refusing to even disclose whether they already do the same, "
+"hiding behind a convoluted Services Agreement that even Mozilla’s top experts could not decode."
+msgstr ""
+"Zgodnie ze zaktualizowaną wersją Polityki prywatności Google dane użytkowników mogą być wykorzystywane do trenowania sztucznej inteligencji, chyba że użytkownik sam zrezygnuje z tej opcji. Microsoft"
+" nie chce nawet przyznać, czy postępuje tak samo. Zawiła Umowa o świadczenie usług firmy Microsoft to jedna wielka zagadka nawet dla najlepszych ekspertów Mozilli!"
+
+msgctxt "body.6e9c5fb8-8af5-4d6a-b444-12849a5e28de"
+msgid "In order for AI products to be trustworthy, we need to be able to trust the companies that build them - and know that they will respect our privacy and personal data."
+msgstr ""
+"Zanim uznamy produkty oparte na sztucznej inteligencji za godne zaufania, najpierw musimy zaufać firmom, które je tworzą, oraz mieć pewność, że firmy te szanują nasze dane osobowe i prywatność."
+
+msgctxt "body.6e9c5fb8-8af5-4d6a-b444-12849a5e28de"
+msgid "Sign the petition and tell Microsoft and Google to only train their AI models on users’ data if they have actively opted in to it!"
+msgstr "Podpisz petycję i zaapeluj do firm Microsoft i Google, aby trenowały swoje modele AI wyłącznie przy użyciu danych użytkowników, którzy wyrazili na to zgodę!"

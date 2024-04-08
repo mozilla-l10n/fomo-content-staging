@@ -578,6 +578,18 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ msgid "Uses encryption in transit and at rest."
 #~ msgstr "Verschlüsselung wird bei der Übertragung und bei Speicherung verwendet."
 
+#~ msgctxt "track_record_details"
+#~ msgid "<a id=\"a1\">In 2018</a>, Amazon's Echo Dot device recorded private conversation and sent it to random contact. The recording consisted of 1,700 audio files."
+#~ msgstr "<a id=\"a1\">Im Jahr 2018</a> zeichnete das Echo Dot-Gerät von Amazon private Gespräche auf und sendete sie an einen zufälligen Kontakt. Die Aufnahme bestand aus 1.700 Audiodateien."
+
+#~ msgctxt "ai_helptext"
+#~ msgid "Alexa provides some information about its AI at the Alexa FAQ and the Amazon Science webpages: <a id=\"a1\">https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230</a>"
+#~ msgstr "Alexa stellt einige Informationen zu seiner KI in den Alexa FAQ und auf den Amazon Science-Webseiten bereit: <a id=\"a1\">https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230</a>"
+
+#~ msgctxt "ai_helptext"
+#~ msgid "<a id=\"a1\">https://www.amazon.science/tag/alexa</a>"
+#~ msgstr "<a id=\"a1\">https://www.amazon.science/tag/alexa</a>"
+
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "The hockey puck has become a globe. Amazon's Alexa-powered Echo Dot smart speaker is now round and there's even a version that can show you the time. Alexa has become the most bossed around bot on "
@@ -588,17 +600,6 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ "sich zum meistgenutzten Bot im Internet entwickelt. Sie spielt Musik, schaltet das Licht ein, verwaltet Anrufe, erzählt Witze, informiert über das Wetter, liest die Nachrichten vor, bestellt "
 #~ "Toilettenpapier und hilft Ihnen, sich weniger allein zu fühlen. Alexa ist immer für Sie da, hört zu, befolgt Ihre Befehle oder bietet Ihnen eine neue Jeans an, weil Sie sie einmal gefragt haben, wie"
 #~ " Sie abnehmen könnten."
-
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid ""
-#~ "Note that even when audio or text records are deleted, Amazon <a id=\"a1\">may still retain</a> other data concerning your interactions, such as all records of actions Alexa took in response to your"
-#~ " request. They say this allows them to do things like continue to provide your reminders, timers, and alarms, process your orders, remember the things you've taught Alexa, and show your shopping and"
-#~ " to-do lists and messages sent through Alexa Communications."
-#~ msgstr ""
-#~ "Beachten Sie, dass Amazon auch nach dem Löschen von Audio- oder Textaufzeichnungen andere Daten zu Ihren Interaktionen <a id=\"a1\">möglicherweise speichert</a> , wie beispielsweise alle "
-#~ "Aufzeichnungen von Aktionen, die Alexa als Reaktion auf Ihre Anfrage durchgeführt hat. So können z. B. weiterhin Ihre Erinnerungen, Timer und Alarme bereitgestellt werden, Ihre Bestellungen können "
-#~ "bearbeitet werden, Sie können an die Dinge erinnert werden, die Sie Alexa beigebracht haben, und Ihre Einkaufs- und Aufgabenlisten sowie über Alexa Communications gesendete Nachrichten können "
-#~ "angezeigt werden."
 
 #~ msgctxt "worst_case"
 #~ msgid ""
@@ -700,6 +701,17 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""
+#~ "Note that even when audio or text records are deleted, Amazon <a id=\"a1\">may still retain</a> other data concerning your interactions, such as all records of actions Alexa took in response to your"
+#~ " request. They say this allows them to do things like continue to provide your reminders, timers, and alarms, process your orders, remember the things you've taught Alexa, and show your shopping and"
+#~ " to-do lists and messages sent through Alexa Communications."
+#~ msgstr ""
+#~ "Beachten Sie, dass Amazon auch nach dem Löschen von Audio- oder Textaufzeichnungen andere Daten zu Ihren Interaktionen <a id=\"a1\">möglicherweise speichert</a> , wie beispielsweise alle "
+#~ "Aufzeichnungen von Aktionen, die Alexa als Reaktion auf Ihre Anfrage durchgeführt hat. So können z. B. weiterhin Ihre Erinnerungen, Timer und Alarme bereitgestellt werden, Ihre Bestellungen können "
+#~ "bearbeitet werden, Sie können an die Dinge erinnert werden, die Sie Alexa beigebracht haben, und Ihre Einkaufs- und Aufgabenlisten sowie über Alexa Communications gesendete Nachrichten können "
+#~ "angezeigt werden."
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid ""
 #~ "If your request was processed by an Alexa skill, deleting your voice recordings does not delete any information that was authorized to be given to and retained by the developer of that skill. Skill "
 #~ "developers do not receive voice recordings, but they may be receiving recordings' transcripts or records of actions Alexa took in response to your requests. This is problematic, because a big share "
 #~ "of <a id=\"a1\">more than 100,000 skills</a> are developed by third parties that are not necessarily bound by Amazon’s privacy policies. The <a id=\"a2\">research</a> by North Carolina State "
@@ -749,17 +761,9 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ "Im <a id=\"a1\">April 2019</a> wurde aufgedeckt, dass Tausende von Mitarbeitern, von denen viele Leiharbeiter sind und einige nicht einmal direkt bei Amazon angestellt sind, Zugang zu Sprach- und "
 #~ "Texttranskripten von Alexa-<a id=\"a2\">Interaktionen</a> hatten."
 
-#~ msgctxt "track_record_details"
-#~ msgid "<a id=\"a1\">In 2018</a>, Amazon's Echo Dot device recorded private conversation and sent it to random contact. The recording consisted of 1,700 audio files."
-#~ msgstr "<a id=\"a1\">Im Jahr 2018</a> zeichnete das Echo Dot-Gerät von Amazon private Gespräche auf und sendete sie an einen zufälligen Kontakt. Die Aufnahme bestand aus 1.700 Audiodateien."
-
-#~ msgctxt "ai_helptext"
-#~ msgid "Alexa provides some information about its AI at the Alexa FAQ and the Amazon Science webpages: <a id=\"a1\">https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230</a>"
-#~ msgstr "Alexa stellt einige Informationen zu seiner KI in den Alexa FAQ und auf den Amazon Science-Webseiten bereit: <a id=\"a1\">https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230</a>"
-
-#~ msgctxt "ai_helptext"
-#~ msgid "<a id=\"a1\">https://www.amazon.science/tag/alexa</a>"
-#~ msgstr "<a id=\"a1\">https://www.amazon.science/tag/alexa</a>"
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number, address, age, location information"
+#~ msgstr "Name, E-Mail-Adresse, Telefonnummer, Adresse, Alter, Standortinformationen"
 
 #~ msgctxt "worst_case"
 #~ msgid ""
@@ -784,10 +788,6 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ "anhand derer Sie identifizierbar sind, um Ihnen interessenbasierte Werbung zu zeigen (da müssen wir uns drauf verlassen). Außerdem verwendet Amazon Ihre personenbezogenen Daten, um Ihre Präferenzen "
 #~ "zu identifizieren und Produkte und Services auf Sie zuzuschneiden, damit Sie diese Produkte und Services so viel wie möglich nutzen. Es gibt auch an, dass persönliche Informationen mit einer Anzahl "
 #~ "an Drittparteien geteilt werden kann."
-
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number, address, age, location information"
-#~ msgstr "Name, E-Mail-Adresse, Telefonnummer, Adresse, Alter, Standortinformationen"
 
 #~ msgctxt "biometric_data_collected"
 #~ msgid "Voice recordings, images and videos collected or stored in connection with Amazon Services"

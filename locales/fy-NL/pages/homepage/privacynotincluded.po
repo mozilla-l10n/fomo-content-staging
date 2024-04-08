@@ -15,8 +15,8 @@ msgid "What to read next"
 msgstr "Noch mear lêze"
 
 msgctxt "seo_title"
-msgid "*Privacy Not Included"
-msgstr "*Privacy net ynbegrepen"
+msgid "*Privacy Not Included | Shop smart and safe | Mozilla Foundation"
+msgstr "*Privacy net ynbegrepen | Winkelje tûk en feilich | Mozilla Foundation"
 
 msgctxt "search_description"
 msgid ""

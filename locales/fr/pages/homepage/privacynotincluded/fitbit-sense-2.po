@@ -886,10 +886,6 @@ msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> s
 #~ msgid "Everyone can get their data deleted by deleting their account and waiting for 90 days,"
 #~ msgstr "N’importe qui peut faire supprimer ses données en supprimant son compte et en attendant 90 jours."
 
-#~ msgctxt "child_safety_blurb"
-#~ msgid "\"We appreciate the importance of taking additional measures to protect children’s privacy."
-#~ msgstr "« Nous sommes conscients de l’importance de prendre des mesures supplémentaires pour protéger la vie privée des enfants."
-
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "Always wanted an Apple Watch for all the cool health tracking and smart watch features but don't have an iPhone? Fitbit made their new Sense health and fitness tracker for you. This busy little "
@@ -1060,6 +1056,10 @@ msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> s
 #~ msgctxt "track_record_details"
 #~ msgid "In 2020, it was <a id=\"a1\">reported</a> the emails and passwords of nearly 2 million Fitbit users was leaked online."
 #~ msgstr "En 2020, il a été <a id=\"a1\">signalé</a> que les adresses e-mail et les mots de passe de près de 2 millions d’utilisateurs de Fitbit ont été divulgués en ligne."
+
+#~ msgctxt "child_safety_blurb"
+#~ msgid "\"We appreciate the importance of taking additional measures to protect children’s privacy."
+#~ msgstr "« Nous sommes conscients de l’importance de prendre des mesures supplémentaires pour protéger la vie privée des enfants."
 
 #~ msgctxt "worst_case"
 #~ msgid ""
