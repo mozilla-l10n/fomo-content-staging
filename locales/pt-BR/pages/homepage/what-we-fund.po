@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "search_description"
 msgid "Funding and resources for a more human-centered internet."
-msgstr ""
+msgstr "Financiamento e recursos para uma internet mais centrada no ser humano."
 
 msgctxt "intro"
 msgid "Funding and resources for a more human-centered internet."
@@ -45,8 +45,8 @@ msgid "globe in heart icon"
 msgstr "ícone de globo em coração"
 
 msgctxt "body.af065a47-80b2-4402-a2d5-81c380f51dff.text"
-msgid "<a id=\"a1\">Apply to join the next cohort of Mozilla Senior Fellows!</a>"
-msgstr ""
+msgid "We do not currently have any open funding opportunities."
+msgstr "No momento, não temos nenhuma oportunidade de financiamento aberta."
 
 msgctxt "body.10eb1636-1692-47e9-8df9-2dd2796c54b3"
 msgid "What we fund"
@@ -90,11 +90,11 @@ msgstr "<b>Reequilibrar</b> o poder on-line, devolvendo-o às pessoas e comunida
 
 msgctxt "body.c683d939-d24e-4a5a-a35a-13f9be92885a.url"
 msgid "https://www.youtube.com/embed/rjXJG8hJwM4?si=4xNmXmebQ9yhTz3B"
-msgstr ""
+msgstr "https://www.youtube.com/embed/rjXJG8hJwM4?si=4xNmXmebQ9yhTz3B"
 
 msgctxt "body.c683d939-d24e-4a5a-a35a-13f9be92885a.caption"
 msgid "What We Fund: Mozilla's Fellowships and Awards Programs"
-msgstr ""
+msgstr "O que financiamos: Programas de bolsas e prêmios da Mozilla"
 
 msgctxt "body.e718ced0-43af-45ff-bcc8-cb5ebf563eb2"
 msgid "How we fund"
@@ -365,10 +365,6 @@ msgstr "O que financiamos"
 #~ "Os desafios enfrentados pela internet são complexos e sabemos que existem poucas soluções únicas que atendam a todos. A Mozilla tem compromisso de apoiar diversos inovadores no mundo todo para "
 #~ "imaginar soluções que funcionem em suas comunidades. Em 2020, apoiamos bolsistas e premiados em 18 países em seis continentes."
 
-#~ msgctxt "body.c41dc03a-6c07-4658-9632-90699d898789.text"
-#~ msgid "<a id=\"a1\">Common Voice Kiswahili Awards →</a>"
-#~ msgstr "<a id=\"a1\">Common Voice Kiswahili Awards →</a>"
-
 #~ msgctxt "body.46bb645e-e8be-4069-bb13-2e5e8e3dbd86"
 #~ msgid ""
 #~ "The challenges facing the internet are complex, and we know that there are few one-size-fits-all solutions. Mozilla is committed to supporting diverse innovators around the world to imagine "
@@ -378,6 +374,10 @@ msgstr "O que financiamos"
 #~ "Os desafios enfrentados pela internet são complexos, e sabemos que existem poucas soluções universais. A Mozilla está empenhada em incentivar vários inovadores no mundo todo a idealizar soluções que"
 #~ " funcionem para suas comunidades. Desde 2015, a Mozilla já distribuiu mais de US$ 20 milhões em fundos de prêmios e financiou quase 200 bolsistas. Esse financiamento apoia organizações e indivíduos "
 #~ "em 38 países, em seis continentes."
+
+#~ msgctxt "body.c41dc03a-6c07-4658-9632-90699d898789.text"
+#~ msgid "<a id=\"a1\">Common Voice Kiswahili Awards →</a>"
+#~ msgstr "<a id=\"a1\">Common Voice Kiswahili Awards →</a>"
 
 #~ msgctxt "body.c41dc03a-6c07-4658-9632-90699d898789.text"
 #~ msgid "No funding opportunities are open at this time."
@@ -391,13 +391,13 @@ msgstr "O que financiamos"
 #~ msgid "We are not currently accepting applications."
 #~ msgstr "Não estamos aceitando candidaturas atualmente."
 
-#~ msgctxt "body.37e2a6d6-1e06-4c55-91f3-645951b071c6.altText"
-#~ msgid "connect icon"
-#~ msgstr "ícone de conexão"
-
 #~ msgctxt "body.37e2a6d6-1e06-4c55-91f3-645951b071c6.text"
 #~ msgid "<a id=\"a1\">Mozilla Technology Fund: Auditing Tools for AI Systems</a> · <i>Apply by 4 October </i>"
 #~ msgstr "<a id=\"a1\">Mozilla Technology Fund: Ferramentas de auditoria para sistemas de inteligência artificial</a> · <i>Inscreva-se até 4 de outubro </i>"
+
+#~ msgctxt "body.37e2a6d6-1e06-4c55-91f3-645951b071c6.altText"
+#~ msgid "connect icon"
+#~ msgstr "ícone de conexão"
 
 #~ msgctxt "body.37e2a6d6-1e06-4c55-91f3-645951b071c6.text"
 #~ msgid "There are currently no open calls for proposals. Keep an eye out for updates!"
@@ -426,10 +426,6 @@ msgstr "O que financiamos"
 #~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
 #~ msgid "<b>Responsible Computer Science Challenge</b> in Kenya is accepting applications <a id=\"a1\">Learn more and apply →</a>"
 #~ msgstr "O <b>Responsible Computer Science Challenge</b> no Quênia está aceitando inscrições <a id=\"a1\">Saiba mais e inscreva-se →</a>"
-
-#~ msgctxt "body.c80ded32-e4bc-475f-9fc9-c5fa0a9d9783.text"
-#~ msgid "We do not currently have any open funding opportunities."
-#~ msgstr "No momento, não temos nenhuma oportunidade de financiamento aberta."
 
 #~ msgctxt "body.46bb645e-e8be-4069-bb13-2e5e8e3dbd86"
 #~ msgid ""

@@ -216,6 +216,14 @@ msgid "Mozilla Foundation<br/>PO Box 25704<br/>Pasadena CA 91185-5704"
 msgstr "Mozilla Foundation<br/>PO Box 25704<br/>Pasadena CA 91185-5704"
 
 msgctxt "body.b8894468-ec8f-4612-87fa-46078e8abde3.accordion_items.d30d3047-0280-4067-b40a-d96cbbce80f7.content.886b03e9-2249-4804-9534-5571912f1fc7"
+msgid "Remittances sent via overnight delivery (i.e. FedEx, Messenger, etc.) should be addressed as follows:"
+msgstr "Oermakkingen dy’t nachts ferstjoerd wurde (d.w.s. FedEx, Messenger, ensfh.) moatte sa adressearre wurde:"
+
+msgctxt "body.b8894468-ec8f-4612-87fa-46078e8abde3.accordion_items.d30d3047-0280-4067-b40a-d96cbbce80f7.content.886b03e9-2249-4804-9534-5571912f1fc7"
+msgid "<i>Mozilla Foundation</i><br/><i>25704</i><br/><i>14005 Live Oak Ave</i><br/><i>Irwindale CA 91706-1300</i>"
+msgstr "<i>Mozilla Foundation</i><br/><i>25704</i><br/><i>14005 Live Oak Ave</i><br/><i>Irwindale CA 91706-1300</i>"
+
+msgctxt "body.b8894468-ec8f-4612-87fa-46078e8abde3.accordion_items.d30d3047-0280-4067-b40a-d96cbbce80f7.content.886b03e9-2249-4804-9534-5571912f1fc7"
 msgid "Designate your check with the following information:"
 msgstr "Jou jo sjek oan mei de folgjende ynformaasje:"
 
@@ -395,6 +403,14 @@ msgctxt "body.710d48f1-b173-496e-b328-32ede70cddd1.text"
 msgid "Ready to donate? <a id=\"a1\">Donate now.</a>"
 msgstr "Klear om te donearjen? <a id=\"a1\">Donearje no.</a>"
 
+#~ msgctxt "body.f618cfb8-0c3b-4ed9-9fe2-e37770506f3a.cards.79dffa86-c263-4b34-9ea4-c8d500a7b34d.link_url"
+#~ msgid "https://blog.thunderbird.net/2022/10/need-help-with-thunderbird-heres-how-to-get-support/"
+#~ msgstr "https://blog.thunderbird.net/2022/10/need-help-with-thunderbird-heres-how-to-get-support/"
+
+#~ msgctxt "body.f618cfb8-0c3b-4ed9-9fe2-e37770506f3a.cards.3273e2a1-07a3-4aaa-bea1-1471824e42f7.link_url"
+#~ msgid "https://foundation.mozilla.org/what-we-do/"
+#~ msgstr "https://foundation.mozilla.org/what-we-do/"
+
 #~ msgctxt "notice.c7731ccb-73d9-48b2-980b-acd8db6486ee.text"
 #~ msgid "Our team is experiencing a backlog in donor inquiries. Please expect a delay of up to 5 business days to respond to your inquiry."
 #~ msgstr "Us team ûnderfynt in efterstân yn donateurfragen. Ferwachtsje asjebleaft in fertraging fan maksimaal 5 wurkdagen om te reagearjen op jo fraach."
@@ -406,14 +422,6 @@ msgstr "Klear om te donearjen? <a id=\"a1\">Donearje no.</a>"
 #~ msgstr ""
 #~ "As jo al donor binne, kinne jo de selsbetsjinningsopsje brûke om oan te melden by jo donorportaal. Jo kinne ûntfangsten ynsjen en wizigingen oanbringe oan jo moanlikse donaasje. Om tagong te krijen "
 #~ "ta jo oanmeldside, ferwize wy jo nei de keppeling yn in resinte donaasjeberjocht."
-
-#~ msgctxt "body.f618cfb8-0c3b-4ed9-9fe2-e37770506f3a.cards.79dffa86-c263-4b34-9ea4-c8d500a7b34d.link_url"
-#~ msgid "https://blog.thunderbird.net/2022/10/need-help-with-thunderbird-heres-how-to-get-support/"
-#~ msgstr "https://blog.thunderbird.net/2022/10/need-help-with-thunderbird-heres-how-to-get-support/"
-
-#~ msgctxt "body.f618cfb8-0c3b-4ed9-9fe2-e37770506f3a.cards.3273e2a1-07a3-4aaa-bea1-1471824e42f7.link_url"
-#~ msgid "https://foundation.mozilla.org/what-we-do/"
-#~ msgstr "https://foundation.mozilla.org/what-we-do/"
 
 #~ msgctxt "body.b8894468-ec8f-4612-87fa-46078e8abde3.accordion_items.d30d3047-0280-4067-b40a-d96cbbce80f7.content.886b03e9-2249-4804-9534-5571912f1fc7"
 #~ msgid "Mozilla Foundation<br/>attn: Donor Care<br/>149 New Montgomery St, 4th Floor<br/>San Francisco, CA. 94105"

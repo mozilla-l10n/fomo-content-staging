@@ -20,7 +20,7 @@ msgstr "Early Bird-festivalpas"
 
 msgctxt "description"
 msgid "Festival Passes grant you full access to MozFest House Amsterdam from 11-13 June. Save €50 by purchasing the Early Bird ticket."
-msgstr ""
+msgstr "Festivalpassen jouwe jo folsleine tagong ta MozFest House Amsterdam fan 11-13 juny. Besparje € 50 troch it Early Bird-kaartsje te keapjen."
 
 msgctxt "description"
 msgid "The price includes Dutch VAT at 21%."

@@ -583,18 +583,6 @@ msgstr "A Alexa da Amazon utiliza o processamento de linguagem natural para ente
 #~ "Em <a id=\"a1\">abril de 2019</a>, foi revelado que milhares de funcionários, muitos dos quais eram prestadores de serviços e alguns nem mesmo eram contratados diretamente pela Amazon, tinham acesso"
 #~ " a transcrições de voz e texto das interações da Alexa."
 
-#~ msgctxt "how_does_it_use_data_collected"
-#~ msgid "\"Information about our customers is an important part of our business, and we are not in the business of selling our customers' personal information to others.\""
-#~ msgstr "\"A informação sobre nossos clientes é uma parte importante do nosso negócio, e não estamos no negócio de vender as informações pessoais de nossos clientes para terceiros.\""
-
-#~ msgctxt "how_does_it_use_data_collected"
-#~ msgid ""
-#~ "\"In the twelve months prior to the effective date of this Disclosure, Amazon has not sold any personal information of consumers, as those terms are defined under the California Consumer Privacy "
-#~ "Act. \""
-#~ msgstr ""
-#~ "\"Nos doze meses anteriores à data efetiva desta Divulgação, a Amazon não vendeu nenhuma informação pessoal dos consumidores, conforme esses termos são definidos sob a Lei de Privacidade do "
-#~ "Consumidor da Califórnia.\""
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "Amazon proudly states they are not in the business of selling your personal information to others. True. But, Amazon doesn’t need to sell your data to others when they have their own advertising and"
@@ -658,6 +646,18 @@ msgstr "A Alexa da Amazon utiliza o processamento de linguagem natural para ente
 #~ msgstr ""
 #~ "A Amazon combina dados sobre seus usuários com dados de terceiros, para fins publicitários: \"Alguns terceiros podem fornecer à Amazon informações anônimas sobre você (como informações demográficas "
 #~ "ou sites onde foram mostrados anúncios) a partir de fontes offline e online que podemos usar para lhe oferecer publicidade mais relevante e útil\"."
+
+#~ msgctxt "how_does_it_use_data_collected"
+#~ msgid ""
+#~ "\"In the twelve months prior to the effective date of this Disclosure, Amazon has not sold any personal information of consumers, as those terms are defined under the California Consumer Privacy "
+#~ "Act. \""
+#~ msgstr ""
+#~ "\"Nos doze meses anteriores à data efetiva desta Divulgação, a Amazon não vendeu nenhuma informação pessoal dos consumidores, conforme esses termos são definidos sob a Lei de Privacidade do "
+#~ "Consumidor da Califórnia.\""
+
+#~ msgctxt "how_does_it_use_data_collected"
+#~ msgid "\"Information about our customers is an important part of our business, and we are not in the business of selling our customers' personal information to others.\""
+#~ msgstr "\"A informação sobre nossos clientes é uma parte importante do nosso negócio, e não estamos no negócio de vender as informações pessoais de nossos clientes para terceiros.\""
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""

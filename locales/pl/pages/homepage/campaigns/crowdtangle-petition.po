@@ -1,0 +1,52 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-06-03 07:04:21.113167+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 1ffcf799-cda8-4aa9-ac66-24c9e13ed603\n"
+
+msgctxt "seo_title"
+msgid "TELL META: Don't Kill Your Crucial Transparency Tool, CrowdTangle!"
+msgstr "APEL DO FIRMY META: Nie wyłączajcie kluczowego narzędzia do monitorowania przejrzystości – CrowdTangle!"
+
+msgctxt "search_description"
+msgid "Meta has announced it will be abandoning CrowdTangle, its industry leading transparency tool, this August - in the middle of the biggest election year on record."
+msgstr ""
+"Firma Meta ogłosiła, że zamierza wyłączyć CrowdTangle – najlepsze w branży narzędzie do monitorowania przejrzystości. Ma to nastąpić w sierpniu – a więc w środku najważniejszego roku wyborczego we "
+"współczesnej historii."
+
+msgctxt "title"
+msgid "TELL META: Don't Kill Your Crucial Transparency Tool, CrowdTangle!"
+msgstr "APEL DO FIRMY META: Nie wyłączajcie kluczowego narzędzia do monitorowania przejrzystości – CrowdTangle!"
+
+msgctxt "body.abefb2de-598e-4e2b-bc3e-dfb3ef7df877"
+msgid "Meta has announced it will be abandoning CrowdTangle, its industry leading transparency tool, this August - in the middle of the biggest election year on record."
+msgstr ""
+"Firma Meta ogłosiła, że zamierza wyłączyć CrowdTangle – najlepsze w branży narzędzie do monitorowania przejrzystości. Ma to nastąpić w sierpniu – a więc w środku najważniejszego roku wyborczego we "
+"współczesnej historii."
+
+msgctxt "body.abefb2de-598e-4e2b-bc3e-dfb3ef7df877"
+msgid "CrowdTangle is used by thousands of researchers, journalists and advocates to monitor political disinformation and hate speech on Facebook and Instagram."
+msgstr "Dzięki CrowdTangle tysiące badaczy, dziennikarzy i aktywistów może monitorować dezinformację w komunikacji politycznej i przejawy mowy nienawiści na Facebooku i Instagramie."
+
+msgctxt "body.abefb2de-598e-4e2b-bc3e-dfb3ef7df877"
+msgid ""
+"The decision to <b>kill this crucial tool without an equivalent replacement couldn’t come at a worse time: Elections affecting approximately half of the world’s population are taking place this "
+"year.</b> Meta’s irresponsible decision poses a direct threat to our ability to safeguard the integrity of these elections - but we can still stop it."
+msgstr ""
+"Decyzja o <b>wyłączeniu tego ważnego narzędzia, które nie ma odpowiednika oferującego porównywalną funkcjonalność, zapadła w najgorszym możliwym momencie: w tym roku odbędą się wybory mające wpływ "
+"na około połowę światowej populacji</b>. Nieodpowiedzialna decyzja firmy Meta stanowi bezpośrednie zagrożenie dla skuteczności naszych działań na rzecz ochrony uczciwości tych wyborów – ale wciąż "
+"możemy ją powstrzymać."
+
+msgctxt "body.abefb2de-598e-4e2b-bc3e-dfb3ef7df877"
+msgid "Sign the petition now to call on Meta to maintain CrowdTangle during this critical period of elections worldwide to protect election integrity in 2024 and beyond!"
+msgstr "Podpisz petycję wzywającą firmę Meta do niewyłączania narzędzia CrowdTangle w kluczowym okresie wyborczym na całym świecie, aby pomóc w ochronie uczciwości wyborów w roku 2024 i nie tylko!"
+
+#~ msgctxt "seo_title"
+#~ msgid "Demand Privacy for All: Support a U.S. Data Privacy Law"
+#~ msgstr "Wsparcie inicjatywy Privacy for All: domagamy się przyjęcia w USA przepisów o ochronie prywatności danych"
+
+#~ msgctxt "search_description"
+#~ msgid "Privacy for All is a global movement to secure privacy as a right for everyone, regardless of where they live."
+#~ msgstr "Privacy for All to globalna inicjatywa mająca na celu ochronę prawa do prywatności wszystkich obywateli, niezależnie od miejsca zamieszkania."

@@ -12,7 +12,7 @@ msgstr "Exija da OpenAI, Google e Microsoft: sejam transparentes sobre os dados 
 
 msgctxt "description"
 msgid "We don’t even know if big AI companies like Microsoft, Google or Meta are using Common Crawl to train their AI products, let alone how they filtered out harmful content."
-msgstr ""
+msgstr "Nem sabemos se grandes empresas de IA como Microsoft, Google ou Meta estão usando o Common Crawl para treinar seus produtos de IA, muito menos como eles filtram conteúdo prejudicial."
 
 msgctxt "link_label"
 msgid "Sign the petition"

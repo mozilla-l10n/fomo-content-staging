@@ -36,10 +36,6 @@ msgstr ""
 "za teknolojia ambao wanafanya kazi kwenye mstari wa mbele wa harakati hiyo. Washirika hubuni mawazo mapya kuhusu jinsi ya kukabiliana na vitisho vinavyojitokeza na changamoto zinazokabili mtandao "
 "wenye maadili mema."
 
-msgctxt "body.d3df47b4-0395-4c95-bb18-7b06f498261d.label"
-msgid "Apply to be a Senior Fellow!"
-msgstr ""
-
 msgctxt "body.b1935268-20f2-4177-ab19-1b8f1f7013af.url"
 msgid "https://www.youtube.com/embed/EI56RTne-TY?rel=0"
 msgstr "https://www.youtube.com/embed/EI56RTne-TY?rel=0"
@@ -123,12 +119,12 @@ msgid ""
 msgstr ""
 
 msgctxt "body.3a8b9f3b-70a9-47cd-ba39-cd36a2b38659.text"
-msgid "Applications for this fellowship are open. Submit yours by 17 April!"
+msgid "Registrations are now closed."
 msgstr ""
 
 msgctxt "body.3a8b9f3b-70a9-47cd-ba39-cd36a2b38659.text"
-msgid "<a id=\"a1\">Learn more and apply →</a>"
-msgstr ""
+msgid "<a id=\"a1\">Learn more →</a>"
+msgstr "<a id=\"a1\">Jifunze zaidi →</a>"
 
 msgctxt "body.df597a17-f684-4287-a207-4eaf8440175b.altText"
 msgid "Kathy Pham"
@@ -296,18 +292,6 @@ msgctxt "title"
 msgid "Fellowships"
 msgstr "Ushirika"
 
-#~ msgctxt "body.4e28cf6e-2a42-4b77-b43d-8e317d40927a.text"
-#~ msgid "Senior Fellows: Tech policy"
-#~ msgstr "Washirika Wakuu: Sera ya teknolojia"
-
-#~ msgctxt "body.3a8b9f3b-70a9-47cd-ba39-cd36a2b38659.altText"
-#~ msgid "Deborah Raji"
-#~ msgstr "Deborah Raji"
-
-#~ msgctxt "body.3a8b9f3b-70a9-47cd-ba39-cd36a2b38659.text"
-#~ msgid "Senior Fellows: Trustworthy AI"
-#~ msgstr "Washirika Wakuu: AI Inayoaminika"
-
 #~ msgctxt "search_description"
 #~ msgid "Funding and resources for bright people and bold ideas working to shape a more human-centered internet."
 #~ msgstr "Ufadhili na rasilimali kwa ajili ya watu mahiri na wenye mawazo shupavu wanaojitahidi kuunda mtandao unaozingatia binadamu zaidi."
@@ -331,6 +315,18 @@ msgstr "Ushirika"
 #~ msgctxt "body.4e28cf6e-2a42-4b77-b43d-8e317d40927a.altText"
 #~ msgid "tech policy fellows"
 #~ msgstr "washirika wa sera za teknolojia"
+
+#~ msgctxt "body.4e28cf6e-2a42-4b77-b43d-8e317d40927a.text"
+#~ msgid "Senior Fellows: Tech policy"
+#~ msgstr "Washirika Wakuu: Sera ya teknolojia"
+
+#~ msgctxt "body.3a8b9f3b-70a9-47cd-ba39-cd36a2b38659.altText"
+#~ msgid "Deborah Raji"
+#~ msgstr "Deborah Raji"
+
+#~ msgctxt "body.3a8b9f3b-70a9-47cd-ba39-cd36a2b38659.text"
+#~ msgid "Senior Fellows: Trustworthy AI"
+#~ msgstr "Washirika Wakuu: AI Inayoaminika"
 
 #~ msgctxt "body.10c72fbe-427e-474a-adef-2b3dad1a6c90.text"
 #~ msgid ""

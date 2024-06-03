@@ -6,6 +6,12 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "X-WagtailLocalize-TranslationID: 759053a3-4c3f-4250-be1c-f1be52c97276\n"
 
+msgctxt "search_description"
+msgid ""
+"A healthy internet requires an active, global community. Mozilla’s advocacy work brings people together from around the world to educate and fight for privacy, inclusion, literacy, and all "
+"principles of a healthy internet."
+msgstr "La labor de activismo de Mozilla congrega a personas de todo el mundo para informar y luchar por la privacidad, inclusión, alfabetización y todos los principios de una red saludable."
+
 msgctxt "title"
 msgid "Campaigns"
 msgstr "Campañas"

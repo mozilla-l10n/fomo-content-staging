@@ -19,12 +19,12 @@ msgid "Homepage"
 msgstr "Página inicial"
 
 msgctxt "hero_headline"
-msgid "WhatsApp: Update Your Product to Protect Global Elections"
-msgstr ""
+msgid "Last Chance: Earlybird tickets for MozFest House Amsterdam"
+msgstr "Última chance: Compra antecipada de entradas para o MozFest House Amsterdam"
 
 msgctxt "hero_button_text"
-msgid "Add Your Name"
-msgstr "Adicione seu nome"
+msgid "Sales end 22nd May"
+msgstr "As vendas terminam em 22 de maio"
 
 msgctxt "spotlight_headline"
 msgid "Spotlight: The Data Futures Lab"
@@ -68,12 +68,12 @@ msgid "Take action"
 msgstr "Tome uma atitude"
 
 msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
-msgid "Microsoft: Are You Using Customer Data To Train AI?"
-msgstr "Microsoft: você está usando dados de clientes para treinar inteligência artificial?"
+msgid "Tell WhatsApp: Act to Protect Elections"
+msgstr "Diga ao WhatsApp: aja para proteger eleições"
 
 msgctxt "take_action_cards.046f1c00-6873-4bdb-a623-32c6cc18e068.text"
 msgid "Join our global movement for privacy rights."
-msgstr ""
+msgstr "Junte-se ao nosso movimento global pelos direitos de privacidade."
 
 msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
 msgid "Car Companies: Stop Your Data Collection Programs"
@@ -224,16 +224,32 @@ msgstr "Logotipo da Consumers International"
 #~ msgstr "Carros são um pesadelo de privacidade"
 
 #~ msgctxt "hero_headline"
-#~ msgid "Cars!* (*Privacy Not Included)"
-#~ msgstr "Carros!* (*Privacidade não incluída)"
-
-#~ msgctxt "hero_headline"
 #~ msgid "Season 7 of our award winning podcast: IRL"
 #~ msgstr "7ª temporada do nosso podcast premiado: IRL"
 
 #~ msgctxt "hero_headline"
+#~ msgid "Cars!* (*Privacy Not Included)"
+#~ msgstr "Carros!* (*Privacidade não incluída)"
+
+#~ msgctxt "hero_headline"
 #~ msgid "Which Gadgets Protect Your Privacy This Holiday Season?"
 #~ msgstr "Quais dispositivos protegem sua privacidade nesta temporada de festas?"
+
+#~ msgctxt "hero_headline"
+#~ msgid "WhatsApp: Update Your Product to Protect Global Elections"
+#~ msgstr "WhatsApp: Atualize seu produto para proteger eleições mundiais"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Tech Giants Not Ready for Historic Election Year"
+#~ msgstr "Gigantes de tecnologia não estão prontas para este ano histórico de eleições"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Data-Hungry Dating Apps Are a Privacy Nightmare"
+#~ msgstr "Aplicativos de namoro famintos por dados são um pesadelo de privacidade"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Mona Chalabi Live at MozFest House Amsterdam: We Are Data"
+#~ msgstr "Mona Chalabi ao vivo no MozFest House Amsterdã: Nós somos dados"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Findings"
@@ -339,6 +355,22 @@ msgstr "Logotipo da Consumers International"
 #~ msgid "See The 7 Winning Projects"
 #~ msgstr "Veja os 7 projetos vencedores"
 
+#~ msgctxt "hero_button_text"
+#~ msgid "Read the research"
+#~ msgstr "Leia a pesquisa"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Learn Why"
+#~ msgstr "Saiba por quê"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "RSVP on LinkedIn"
+#~ msgstr "Confirme sua participação no LinkedIn"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Add Your Name"
+#~ msgstr "Adicione seu nome"
+
 #~ msgctxt "spotlight_headline"
 #~ msgid "What To Know About Venmo"
 #~ msgstr "O que saber sobre o Venmo"
@@ -382,6 +414,10 @@ msgstr "Logotipo da Consumers International"
 #~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
 #~ msgid "Stop France From Forcing Browsers To Censor Websites"
 #~ msgstr "Impeça que a França obrigue navegadores a censurar sites"
+
+#~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
+#~ msgid "Microsoft: Are You Using Customer Data To Train AI?"
+#~ msgstr "Microsoft: você está usando dados de clientes para treinar inteligência artificial?"
 
 #~ msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
 #~ msgid "Tell YouTube: Give users real control over their video recommendations!"

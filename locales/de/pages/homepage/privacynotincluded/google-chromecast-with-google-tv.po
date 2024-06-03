@@ -691,10 +691,6 @@ msgstr ""
 "Google <a id=\"a1\">plant</a> , das generative KI-Produkt Bard zu seinen Home-Produkten hinzuzufügen. Google verwendet auch natürliche Sprachverarbeitung, um Sie zu verstehen und Antworten auf Ihre "
 "Anfragen zu generieren."
 
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number"
-#~ msgstr "Name, E-Mail, Telefonnummer"
-
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "\"Hey Google!\" That will become your new favorite saying if you go the route of Chromecast, now with Google TV. This little dongle lets you stream what you're watching or listening to on your phone"
@@ -730,6 +726,10 @@ msgstr ""
 #~ "Google hat ein Security Rewards Programm, was bedeutet, das jeder, der eine Sicherheitslücke entdeckt und diese verantwortungsvoll meldet, bezahlt werden kann. "
 #~ "https://www.google.com/about/appsecurity/programs-home/"
 
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number"
+#~ msgstr "Name, E-Mail, Telefonnummer"
+
 #~ msgctxt "biometric_data_collected"
 #~ msgid "Voice recordings"
 #~ msgstr "Sprachaufnahmen"
@@ -753,6 +753,10 @@ msgstr ""
 #~ msgctxt "price"
 #~ msgid "49.99"
 #~ msgstr "49,99"
+
+#~ msgctxt "track_record_details"
+#~ msgid "In December 2018, <a id=\"a1\">a bug exposed</a> the data of 52.5 million Google+ users"
+#~ msgstr "Im Dezember 2018 hat <a id=\"a1\">ein Fehler</a> die Offenlegung von Daten von 52,5 Millionen Google+-Nutzern verursacht."
 
 #~ msgctxt "blurb"
 #~ msgid ""
@@ -837,10 +841,6 @@ msgstr ""
 #~ "Im August 2019 <a id=\"a1\">gab das Unternehmen zu</a>, dass Partner, die an der Analyse von Assistant-Sprachausschnitten arbeiten, die Sprachausschnitte einiger niederländischer Benutzer "
 #~ "weitergegeben haben. Mehr als 1.000 private Gespräche wurden an eine belgische Nachrichtenagentur gesendet, wobei einige der Nachrichten, Berichten zufolge, sensible Informationen wie "
 #~ "Gesundheitszustand und Kundenadressen enthielten."
-
-#~ msgctxt "track_record_details"
-#~ msgid "In December 2018, <a id=\"a1\">a bug exposed</a> the data of 52.5 million Google+ users"
-#~ msgstr "Im Dezember 2018 hat <a id=\"a1\">ein Fehler</a> die Offenlegung von Daten von 52,5 Millionen Google+-Nutzern verursacht."
 
 #~ msgctxt "ai_helptext"
 #~ msgid "Google publishes academic papers about its <a id=\"a1\">AI research</a> and makes several <a id=\"a2\">tools</a> available via open source."

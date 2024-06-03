@@ -614,16 +614,16 @@ msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprend
 #~ " pas capable."
 
 #~ msgctxt "how_does_it_use_data_collected"
-#~ msgid "We ding this product for using personal data for targeted advertising purposes, and combining data about you with data it receives from third parties for targeted advertising purposes."
-#~ msgstr ""
-#~ "Nous signalons ce produit pour son utilisation de données personnelles à des fins de ciblage publicitaire, et pour le fait qu’il combine les données dont il dispose sur vous avec des données de "
-#~ "tiers, toujours à des fins de ciblage publicitaire."
-
-#~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
 #~ "\"In the twelve months prior to the effective date of this Disclosure, Amazon has not sold any personal information of consumers, as those terms are defined under the California Consumer Privacy "
 #~ "Act. \""
 #~ msgstr "« Au cours des douze mois précédant la date de cet Avis, Amazon n’a vendu aucune information personnelle relative à ses clients, comme exigé par le California Consumer Privacy Act. »"
+
+#~ msgctxt "how_does_it_use_data_collected"
+#~ msgid "We ding this product for using personal data for targeted advertising purposes, and combining data about you with data it receives from third parties for targeted advertising purposes."
+#~ msgstr ""
+#~ "Nous signalons ce produit pour son utilisation de données personnelles à des fins de ciblage publicitaire, et pour le fait qu’il combine les données dont il dispose sur vous avec des données de "
+#~ "tiers, toujours à des fins de ciblage publicitaire."
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid "\"Information about our customers is an important part of our business, and we are not in the business of selling our customers' personal information to others.\""

@@ -308,12 +308,12 @@ msgstr "Le chatbot d’IA, Noni, peut vous aider à naviguer sur le site web ou 
 #~ "les renseigner."
 
 #~ msgctxt "how_does_it_use_data_collected"
-#~ msgid "7 Cups shares Personal Information with certain third-party service providers that assist them in providing the services and which are bound by duties of confidentiality."
-#~ msgstr "7 Cups partage des informations personnelles avec certains prestataires tiers qui les aident à fournir les services et qui sont tenus à des obligations de confidentialité."
-
-#~ msgctxt "how_does_it_use_data_collected"
 #~ msgid "It is unclear if 7 Cups shares personal information with third parties for marketing or advertising purposes"
 #~ msgstr "Il est difficile d’affirmer que 7 Cups partage des informations personnelles avec des tiers à des fins de marketing ou de publicité"
+
+#~ msgctxt "how_does_it_use_data_collected"
+#~ msgid "7 Cups shares Personal Information with certain third-party service providers that assist them in providing the services and which are bound by duties of confidentiality."
+#~ msgstr "7 Cups partage des informations personnelles avec certains prestataires tiers qui les aident à fournir les services et qui sont tenus à des obligations de confidentialité."
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid "It is unclear if 7 Cups sells users personal information"

@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "name"
 msgid "(Main MoFo) Reclaim the Internet"
-msgstr ""
+msgstr "(Main MoFo) Recupere a internet"
 
 msgctxt "description"
 msgid "<b>Reclaim the Internet</b> // Mozilla is fighting for a free and open web for everyone. But there’s only one way we can do it — together. Sign up now to join the Mozilla community."

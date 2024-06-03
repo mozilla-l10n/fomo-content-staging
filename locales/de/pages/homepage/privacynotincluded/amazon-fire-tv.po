@@ -568,14 +568,6 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ msgid "When starting a sign-up, do not agree to tracking of your data."
 #~ msgstr "Stimmen Sie bei der Registrierung für ein Konto nicht der Nachverfolgung Ihrer Daten zu."
 
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number, address"
-#~ msgstr "Name, E-Mail, Telefonnummer, Adresse"
-
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Voice recordings"
-#~ msgstr "Sprachaufnahmen"
-
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
 #~ "Amazon says they <a id=\"a1\">do not sell your personal information</a>. They combine <a id=\"a2\">your voice data</a> with third-party data to answer your requests as well as to train Alexa's "
@@ -583,6 +575,14 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ msgstr ""
 #~ "Amazon sagt, dass <a id=\"a1\">Ihre personenbezogenen Daten nicht weiterverkauft werden</a>. Das unternehmen kombiniert <a id=\"a2\">Ihre Sprachaufzeichnungen</a> mit Daten von Drittanbietern, um "
 #~ "Ihre Anfragen zu beantworten und die Spracherkennung von Alexa zu trainieren. Sie können festlegen, dass keine Sprachaufzeichnungen gespeichert werden, dies kostet Sie jedoch einige Funktionen."
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number, address"
+#~ msgstr "Name, E-Mail, Telefonnummer, Adresse"
+
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Voice recordings"
+#~ msgstr "Sprachaufnahmen"
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

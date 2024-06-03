@@ -299,12 +299,6 @@ msgstr "„Anna ist dazu da, Ihnen den richtigen Weg zu weisen und Sie dabei zu 
 #~ " Ihrer personenbezogenen Daten führen.“</i> Das ist eine gute Erinnerung daran, dass alle persönlichen Daten, die Sie so ziemlich überall im Internet teilen, auch bei Happify, nicht sicher sind."
 
 #~ msgctxt "how_does_it_use_data_collected"
-#~ msgid "Happify™ reserves the right to transfer and/or sell aggregate or group data about Happify™ users (including Usage Data not linked to Personal Information) for lawful purposes."
-#~ msgstr ""
-#~ "Happify™ behält sich das Recht vor, aggregierte oder gruppierte Daten über Happify™-Nutzer (einschließlich Nutzungsdaten, die nicht mit personenbezogenen Daten verknüpft sind) für rechtmäßige Zwecke"
-#~ " zu übertragen und/oder zu verkaufen."
-
-#~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
 #~ "By making the Personal Information available to Happify Health, you grant Happify Health the right, subject to applicable law, to use that Personal Information to bring you certain promotional "
 #~ "offers from Happify Health and its third party partners that Happify Health believes may be of interest to you."
@@ -320,6 +314,12 @@ msgstr "„Anna ist dazu da, Ihnen den richtigen Weg zu weisen und Sie dabei zu 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid "Happify Health does not knowingly permit any person less than 16 years of age to register directly for the Happify Health Offerings."
 #~ msgstr "Happify Health erlaubt keiner Person unter 16 Jahren wissentlich, sich direkt für die Happify Health-Angebote zu registrieren."
+
+#~ msgctxt "how_does_it_use_data_collected"
+#~ msgid "Happify™ reserves the right to transfer and/or sell aggregate or group data about Happify™ users (including Usage Data not linked to Personal Information) for lawful purposes."
+#~ msgstr ""
+#~ "Happify™ behält sich das Recht vor, aggregierte oder gruppierte Daten über Happify™-Nutzer (einschließlich Nutzungsdaten, die nicht mit personenbezogenen Daten verknüpft sind) für rechtmäßige Zwecke"
+#~ " zu übertragen und/oder zu verkaufen."
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""

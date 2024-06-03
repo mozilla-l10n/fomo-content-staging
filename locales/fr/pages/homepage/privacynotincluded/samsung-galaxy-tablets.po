@@ -346,10 +346,10 @@ msgid ""
 " data is unaffected, but the company declined to say — only that the issue “did not impact” Social Security numbers. Samsung collects Social Security numbers as part of its financing options and as "
 "a requirement for users of Samsung Money."
 msgstr ""
-"Au début de l’année 2022, Samsung <a id=\"a1\">a été la cible</a> du cyberorganisme Lapsus$, qui s’est vanté d’avoir volé 190 Go de données au géant de la technologie. L’avis de violation de données"
-" <a id=\"a2\">indique</a> expressément que la violation « n’a pas eu d’incidence sur les numéros de sécurité sociale ou les numéros de cartes de crédit et de débit ». TechCrunch a demandé à Samsung "
-"les numéros de sécurité sociale étaient stockés et si ces données n’étaient pas affectées, mais l’entreprise a refusé de répondre, se contentant de dire que le problème \"n’a pas eu d’impact\" sur "
-"les numéros de sécurité sociale. Samsung collecte les numéros de sécurité sociale dans le cadre de ses options de financement et les exige pour l’utilisation de Samsung Money."
+"Au début de l’année 2022, Samsung <a id=\"a1\">a été la cible</a> du cyberorganisme Lapsus$, qui s’est vanté d’avoir volé 190 Go de données au géant de la technologie. L’avis de fuite de données <a "
+"id=\"a2\">indique</a> expressément que la fuite « n’a pas eu d’incidence sur les numéros de sécurité sociale ou les numéros de cartes de crédit et de débit ». TechCrunch a demandé à Samsung les "
+"numéros de sécurité sociale étaient stockés et si ces données n’étaient pas affectées, mais l’entreprise a refusé de répondre, se contentant de dire que le problème \"n’a pas eu d’impact\" sur les "
+"numéros de sécurité sociale. Samsung collecte les numéros de sécurité sociale dans le cadre de ses options de financement et les exige pour l’utilisation de Samsung Money."
 
 msgctxt "track_record_details"
 msgid "In February, 2020, Samsung <a id=\"a1\">had</a> a data breach on it UK customer account pages, affecting less than 150 people."
@@ -576,36 +576,6 @@ msgctxt "ai_what_can_it_do"
 msgid "Camera functionality uses AI to recognize objects"
 msgstr "Les appareils photo utilisent l’intelligence artificielle pour reconnaître les objets"
 
-#~ msgctxt "uses_encryption_helptext"
-#~ msgid "Uses encryption in transit and at rest."
-#~ msgstr "Utilisation du chiffrement en transit et au repos."
-
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Voice recordings if you use voice commands"
-#~ msgstr "Enregistrements vocaux si vous utilisez des commandes vocales"
-
-#~ msgctxt "manage_vulnerabilities_helptext"
-#~ msgid "Samsung has a <a id=\"a1\">bug bounty program</a>, which means that anyone who finds a security issue and discloses it responsibly may get paid."
-#~ msgstr ""
-#~ "Samsung dispose d’un <a id=\"a1\">programme de prime aux bugs</a> (« bug bounty »), ce qui signifie que toute personne qui découvre une faille de sécurité et la signale de façon responsable peut "
-#~ "être payée."
-
-#~ msgctxt "privacy_policy_helptext"
-#~ msgid "Samsung has a page highlighting it's privacy principles"
-#~ msgstr "Samsung a une page soulignant ses principes de confidentialité"
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "In the browser of your Samsung Galaxy Tab, you can determine for yourself which information you share while surfing the Internet."
-#~ msgstr "Dans le navigateur de votre Samsung Galaxy Tab, vous pouvez déterminer vous-même les informations que vous partagez en surfant sur Internet."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Check Samsung Galaxy <a id=\"a1\">privacy controls</a>."
-#~ msgstr "Vérifiez les <a id=\"a1\">contrôles de confidentialité</a> du Samsung Galaxy."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Chose your <a id=\"a1\">Android privacy settings</a>."
-#~ msgstr "Choisissez vos <a id=\"a1\">paramètres de confidentialité Android</a>."
-
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "You want a tablet but you don't want an iPad. Samsung's Galaxy Android tablets—of which it feels like there are a million versions—are a good option. Use them like an iPad. Use them like a laptop. "
@@ -644,16 +614,6 @@ msgstr "Les appareils photo utilisent l’intelligence artificielle pour reconna
 #~ "d’art. Vous abandonnez la fac de droit, entrez en école d’art, et êtes comblé·e jusqu’à la fin de votre vie. D’accord, c’est vraiment une éventualité réjouissante. C’est également peu probable… ou "
 #~ "peut-être pas, dans notre économie publicitaire numérique un peu flippante ?"
 
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid "If you do not have a Samsung Account or an email on file, your deletion request will not be processed. Users with a Samsung Account can go <a id=\"a1\">here</a> to delete your data."
-#~ msgstr ""
-#~ "Si vous n’avez pas de compte Samsung ou d’e-mail enregistré, votre demande de suppression ne sera pas traitée. Les utilisateurs disposant d’un compte Samsung peuvent se rendre <a id=\"a1\">ici</a> "
-#~ "pour supprimer leurs données."
-
-#~ msgctxt "track_record_details"
-#~ msgid "In February, 2020, Samsung <a id=\"a1\">had</a> a data breach on its UK customer account pages, affecting less than 150 people."
-#~ msgstr "En février 2020, Samsung <a id=\"a1\">a connu</a> une fuite de données sur ses pages de compte client au Royaume-Uni, affectant moins de 150 personnes."
-
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
 #~ "Samsung may share your personal information with their subsidiaries, affiliates and service providers. This includes consumer data resellers and social networks. For business purposes, it may have "
@@ -670,6 +630,46 @@ msgstr "Les appareils photo utilisent l’intelligence artificielle pour reconna
 #~ "aux intérêts des individus, pour suivre les navigateurs des utilisateurs ou appareils sur plusieurs sites web et applications, et pour créer un profil des activités de navigation en ligne et "
 #~ "d’utilisation des applications des utilisateurs. »"
 
+#~ msgctxt "uses_encryption_helptext"
+#~ msgid "Uses encryption in transit and at rest."
+#~ msgstr "Utilisation du chiffrement en transit et au repos."
+
+#~ msgctxt "manage_vulnerabilities_helptext"
+#~ msgid "Samsung has a <a id=\"a1\">bug bounty program</a>, which means that anyone who finds a security issue and discloses it responsibly may get paid."
+#~ msgstr ""
+#~ "Samsung dispose d’un <a id=\"a1\">programme de prime aux bugs</a> (« bug bounty »), ce qui signifie que toute personne qui découvre une faille de sécurité et la signale de façon responsable peut "
+#~ "être payée."
+
+#~ msgctxt "privacy_policy_helptext"
+#~ msgid "Samsung has a page highlighting it's privacy principles"
+#~ msgstr "Samsung a une page soulignant ses principes de confidentialité"
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "In the browser of your Samsung Galaxy Tab, you can determine for yourself which information you share while surfing the Internet."
+#~ msgstr "Dans le navigateur de votre Samsung Galaxy Tab, vous pouvez déterminer vous-même les informations que vous partagez en surfant sur Internet."
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Check Samsung Galaxy <a id=\"a1\">privacy controls</a>."
+#~ msgstr "Vérifiez les <a id=\"a1\">contrôles de confidentialité</a> du Samsung Galaxy."
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Chose your <a id=\"a1\">Android privacy settings</a>."
+#~ msgstr "Choisissez vos <a id=\"a1\">paramètres de confidentialité Android</a>."
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number, date of birth, gender"
+#~ msgstr "Nom, adresse e-mail, numéro de téléphone, date de naissance, genre"
+
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Voice recordings if you use voice commands"
+#~ msgstr "Enregistrements vocaux si vous utilisez des commandes vocales"
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "If you do not have a Samsung Account or an email on file, your deletion request will not be processed. Users with a Samsung Account can go <a id=\"a1\">here</a> to delete your data."
+#~ msgstr ""
+#~ "Si vous n’avez pas de compte Samsung ou d’e-mail enregistré, votre demande de suppression ne sera pas traitée. Les utilisateurs disposant d’un compte Samsung peuvent se rendre <a id=\"a1\">ici</a> "
+#~ "pour supprimer leurs données."
+
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""
 #~ "No retention details nor deletion rights are stated for users not covered by CCPA and GDPR in Samsung's privacy policy. <a id=\"a1\">CCPA deletion rights are mentioned</a> and Samsung says they "
@@ -678,6 +678,6 @@ msgstr "Les appareils photo utilisent l’intelligence artificielle pour reconna
 #~ "Aucun détail de conservation ni aucun droit de suppression ne sont indiqués pour les utilisateurs non couverts par le CCPA et le RGPD dans la politique de confidentialité de Samsung. <a "
 #~ "id=\"a1\">Les droits de suppression CCPA sont mentionnés</a> et Samsung déclare étendre les droits CCPA à toutes les personnes aux États-Unis."
 
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number, date of birth, gender"
-#~ msgstr "Nom, adresse e-mail, numéro de téléphone, date de naissance, genre"
+#~ msgctxt "track_record_details"
+#~ msgid "In February, 2020, Samsung <a id=\"a1\">had</a> a data breach on its UK customer account pages, affecting less than 150 people."
+#~ msgstr "En février 2020, Samsung <a id=\"a1\">a connu</a> une fuite de données sur ses pages de compte client au Royaume-Uni, affectant moins de 150 personnes."

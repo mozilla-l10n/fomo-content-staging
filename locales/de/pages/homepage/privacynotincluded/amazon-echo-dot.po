@@ -578,18 +578,6 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ msgid "Uses encryption in transit and at rest."
 #~ msgstr "Verschlüsselung wird bei der Übertragung und bei Speicherung verwendet."
 
-#~ msgctxt "track_record_details"
-#~ msgid "<a id=\"a1\">In 2018</a>, Amazon's Echo Dot device recorded private conversation and sent it to random contact. The recording consisted of 1,700 audio files."
-#~ msgstr "<a id=\"a1\">Im Jahr 2018</a> zeichnete das Echo Dot-Gerät von Amazon private Gespräche auf und sendete sie an einen zufälligen Kontakt. Die Aufnahme bestand aus 1.700 Audiodateien."
-
-#~ msgctxt "ai_helptext"
-#~ msgid "Alexa provides some information about its AI at the Alexa FAQ and the Amazon Science webpages: <a id=\"a1\">https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230</a>"
-#~ msgstr "Alexa stellt einige Informationen zu seiner KI in den Alexa FAQ und auf den Amazon Science-Webseiten bereit: <a id=\"a1\">https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230</a>"
-
-#~ msgctxt "ai_helptext"
-#~ msgid "<a id=\"a1\">https://www.amazon.science/tag/alexa</a>"
-#~ msgstr "<a id=\"a1\">https://www.amazon.science/tag/alexa</a>"
-
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "The hockey puck has become a globe. Amazon's Alexa-powered Echo Dot smart speaker is now round and there's even a version that can show you the time. Alexa has become the most bossed around bot on "
@@ -625,6 +613,15 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ "haben, immer noch gespeichert werden können. Wenn Sie also einen Schwangerschaftstest über Amazon Alexa kaufen, wird Amazon nicht vergessen, dass Sie diesen Schwangerschaftstest gekauft haben, nur "
 #~ "weil Sie sie darum bitten, die Sprachaufzeichnung dieses Kaufs zu löschen. Die Aufzeichnung des Kaufs sind Daten, die auch in Zukunft über Sie vorhanden sind und die genutzt werden können, um Ihnen "
 #~ "Werbung für weitere Produkte zu schicken."
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid ""
+#~ "Amazon <a id=\"a1\">collects data</a> from third parties about you, to target ads better: \"Some third-parties may provide Amazon pseudonymized information about you (such as demographic information"
+#~ " or sites where you have been shown ads) from offline and online sources that we may use to provide you more relevant and useful advertising.\""
+#~ msgstr ""
+#~ "Amazon <a id=\"a1\">sammelt Daten</a> von Drittanbietern über Sie, um Anzeigen gezielter auszurichten: \"Einige Drittanbieter können Amazon pseudonymisierte Informationen über Sie (wie demografische"
+#~ " Informationen oder Websites, auf denen Ihnen Werbung gezeigt wurde) aus Offline- und Online-Quellen zur Verfügung stellen, die wir nutzen können, um Ihnen weitere relevante und nützliche Werbung zu"
+#~ " liefern.\""
 
 #~ msgctxt "worst_case"
 #~ msgid ""
@@ -729,15 +726,6 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""
-#~ "Amazon <a id=\"a1\">collects data</a> from third parties about you, to target ads better: \"Some third-parties may provide Amazon pseudonymized information about you (such as demographic information"
-#~ " or sites where you have been shown ads) from offline and online sources that we may use to provide you more relevant and useful advertising.\""
-#~ msgstr ""
-#~ "Amazon <a id=\"a1\">sammelt Daten</a> von Drittanbietern über Sie, um Anzeigen gezielter auszurichten: \"Einige Drittanbieter können Amazon pseudonymisierte Informationen über Sie (wie demografische"
-#~ " Informationen oder Websites, auf denen Ihnen Werbung gezeigt wurde) aus Offline- und Online-Quellen zur Verfügung stellen, die wir nutzen können, um Ihnen weitere relevante und nützliche Werbung zu"
-#~ " liefern.\""
-
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid ""
 #~ "Amazon's privacy statement is not entirely clear regarding deletion rights: \"To the extent required by applicable law, you may have the right to request access to or delete your personal "
 #~ "information. If you wish to do any of these things, please contact Customer Service. Depending on your data choices, certain services may be limited or unavailable."
 #~ msgstr ""
@@ -761,9 +749,17 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ "Im <a id=\"a1\">April 2019</a> wurde aufgedeckt, dass Tausende von Mitarbeitern, von denen viele Leiharbeiter sind und einige nicht einmal direkt bei Amazon angestellt sind, Zugang zu Sprach- und "
 #~ "Texttranskripten von Alexa-<a id=\"a2\">Interaktionen</a> hatten."
 
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number, address, age, location information"
-#~ msgstr "Name, E-Mail-Adresse, Telefonnummer, Adresse, Alter, Standortinformationen"
+#~ msgctxt "track_record_details"
+#~ msgid "<a id=\"a1\">In 2018</a>, Amazon's Echo Dot device recorded private conversation and sent it to random contact. The recording consisted of 1,700 audio files."
+#~ msgstr "<a id=\"a1\">Im Jahr 2018</a> zeichnete das Echo Dot-Gerät von Amazon private Gespräche auf und sendete sie an einen zufälligen Kontakt. Die Aufnahme bestand aus 1.700 Audiodateien."
+
+#~ msgctxt "ai_helptext"
+#~ msgid "Alexa provides some information about its AI at the Alexa FAQ and the Amazon Science webpages: <a id=\"a1\">https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230</a>"
+#~ msgstr "Alexa stellt einige Informationen zu seiner KI in den Alexa FAQ und auf den Amazon Science-Webseiten bereit: <a id=\"a1\">https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230</a>"
+
+#~ msgctxt "ai_helptext"
+#~ msgid "<a id=\"a1\">https://www.amazon.science/tag/alexa</a>"
+#~ msgstr "<a id=\"a1\">https://www.amazon.science/tag/alexa</a>"
 
 #~ msgctxt "worst_case"
 #~ msgid ""
@@ -788,6 +784,10 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ "anhand derer Sie identifizierbar sind, um Ihnen interessenbasierte Werbung zu zeigen (da müssen wir uns drauf verlassen). Außerdem verwendet Amazon Ihre personenbezogenen Daten, um Ihre Präferenzen "
 #~ "zu identifizieren und Produkte und Services auf Sie zuzuschneiden, damit Sie diese Produkte und Services so viel wie möglich nutzen. Es gibt auch an, dass persönliche Informationen mit einer Anzahl "
 #~ "an Drittparteien geteilt werden kann."
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number, address, age, location information"
+#~ msgstr "Name, E-Mail-Adresse, Telefonnummer, Adresse, Alter, Standortinformationen"
 
 #~ msgctxt "biometric_data_collected"
 #~ msgid "Voice recordings, images and videos collected or stored in connection with Amazon Services"

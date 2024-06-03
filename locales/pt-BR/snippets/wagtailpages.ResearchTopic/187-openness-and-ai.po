@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Openness and AI"
-msgstr ""
+msgstr "Abertura e inteligência artificial"

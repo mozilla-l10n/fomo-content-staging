@@ -31,8 +31,8 @@ msgid "Get access to engaging sessions, workshops, and our flagship Dialogues an
 msgstr "Accédez à des sessions et des ateliers captivants, ainsi qu’à nos panels phares Discussions et débats."
 
 msgctxt "description"
-msgid "Ensure your spot at our Songs of the Living experience."
-msgstr "Assistez à notre expérience Songs of the Live."
+msgid "Entrance to Songs of the Living Amsterdam <i>(subject to availability)</i>"
+msgstr "Entrée pour Songs of the Living Amsterdam <i>(sous réserve de disponibilité)</i>"
 
 msgctxt "description"
 msgid "Explore a variety of art installations and exhibits."
@@ -49,3 +49,7 @@ msgstr "Le prix du billet comprend la TVA néerlandaise de 21 %."
 msgctxt "button_text"
 msgid "Get Your Ticket"
 msgstr "Acheter votre billet"
+
+#~ msgctxt "description"
+#~ msgid "Ensure your spot at our Songs of the Living experience."
+#~ msgstr "Assistez à notre expérience Songs of the Live."

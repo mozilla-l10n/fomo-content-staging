@@ -8,11 +8,11 @@ msgstr ""
 
 msgctxt "title"
 msgid "Tell OpenAI, Google, and Microsoft: Provide transparency about the data used to train your AI tools!"
-msgstr ""
+msgstr "Sis tsjin OpenAI, Google en Microsoft: soargje foar transparânsje oer de gegevens dy’t brûkt wurde om jimme AI-helpmiddelen te trainen!"
 
 msgctxt "description"
 msgid "We don’t even know if big AI companies like Microsoft, Google or Meta are using Common Crawl to train their AI products, let alone how they filtered out harmful content."
-msgstr ""
+msgstr "Wy witte net iens oft grutte AI-bedriuwen lykas Microsoft, Google of Meta Common Crawl brûke om harren AI-produkten te trainen, lit stean hoe’t se skealike ynhâld der útfiltere hawwe."
 
 msgctxt "link_label"
 msgid "Sign the petition"

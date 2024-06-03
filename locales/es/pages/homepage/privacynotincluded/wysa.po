@@ -357,12 +357,12 @@ msgstr "Wysa decide qué tipo de ayuda o contenidos proporcionarte."
 #~ msgstr "Wysa proporciona una extensa sección de preguntas frecuentes (FAQ) de privacidad."
 
 #~ msgctxt "tips_to_protect_yourself"
-#~ msgid "For extra security, you can use the app without registering."
-#~ msgstr "Para mayor seguridad, puedes usar la aplicación sin registrarte."
-
-#~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Wysa provides the following <a id=\"a1\">security tips</a>:"
 #~ msgstr "Wysa proporciona los siguientes <a id=\"a1\">consejos de seguridad</a>:"
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "For extra security, you can use the app without registering."
+#~ msgstr "Para mayor seguridad, puedes usar la aplicación sin registrarte."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid "Where not specified Wysa retains your data for a maximum of 10 years since the end of subscription and as per their information retention policies."

@@ -15,6 +15,8 @@ msgid ""
 "Common Voice is the most diverse open voice dataset in the world. Most voice datasets are owned by companies, which stifles innovation. They also under-represent almost every language in the world, "
 "as well as demographic communities. We want to change that by mobilising people everywhere to share their voice."
 msgstr ""
+"Common Voice é o conjunto aberto de dados de voz mais diversificado do mundo. A maioria desses conjuntos de dados pertence a empresas, o que dificulta a inovação. Eles também sub-representam quase "
+"todos os idiomas do mundo, assim como comunidades demográficas. Nós queremos mudar isso, mobilizando pessoas em todos os lugares para compartilhar sua voz."
 
 msgctxt "body.51ded0e2-dec4-467e-b065-afcfe59b8ae5.quote"
 msgid "Common Voice is a flagship Mozilla Foundation initiative to mitigate bias in AI, by democratising speech tech for everyone!"

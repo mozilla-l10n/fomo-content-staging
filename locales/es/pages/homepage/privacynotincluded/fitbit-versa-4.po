@@ -861,14 +861,6 @@ msgstr "Se <a id=\"a1\">dice</a> que los servicios de FitBit Coach y FitBit Care
 #~ msgid "Fitbit connections"
 #~ msgstr "Conexiones a Fitbit"
 
-#~ msgctxt "how_does_it_use_data_collected"
-#~ msgid ""
-#~ "\"We never sell the personal information of our users. We do not share your personal information except in the limited circumstances described below: [...] FOR EXTERNAL PROCESSING, [...] FOR LEGAL "
-#~ "REASONS OR TO PREVENT HARM, \""
-#~ msgstr ""
-#~ "«Nunca vendemos la información personal de nuestros usuarios. No compartimos su información personal excepto en las circunstancias limitadas descritas a continuación: [...] PARA PROCESAMIENTO "
-#~ "EXTERNO, [...] POR RAZONES LEGALES O PARA EVITAR DAÑOS,»"
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "As of January 14, 2021, Google officially <a id=\"a1\">became the owner</a> of Fitbit. That worried many privacy conscious users. However, Google promised that “Fitbit users’ health and wellness "
@@ -942,6 +934,14 @@ msgstr "Se <a id=\"a1\">dice</a> que los servicios de FitBit Coach y FitBit Care
 #~ "Según Google, a partir de 2023 se requerirá una cuenta de Google para acceder a algunos de los usos de Fitbit, y es probable que todos los usuarios necesiten tener una cuenta de Google para usar "
 #~ "Fitbit en 2025. «En 2023 planeamos lanzar cuentas de Google en Fitbit, lo que permitirá el uso de Fitbit con una cuenta de Google. Después de la fecha de este lanzamiento, algunos usos de Fitbit "
 #~ "requerirán una cuenta de Google»."
+
+#~ msgctxt "how_does_it_use_data_collected"
+#~ msgid ""
+#~ "\"We never sell the personal information of our users. We do not share your personal information except in the limited circumstances described below: [...] FOR EXTERNAL PROCESSING, [...] FOR LEGAL "
+#~ "REASONS OR TO PREVENT HARM, \""
+#~ msgstr ""
+#~ "«Nunca vendemos la información personal de nuestros usuarios. No compartimos su información personal excepto en las circunstancias limitadas descritas a continuación: [...] PARA PROCESAMIENTO "
+#~ "EXTERNO, [...] POR RAZONES LEGALES O PARA EVITAR DAÑOS,»"
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""

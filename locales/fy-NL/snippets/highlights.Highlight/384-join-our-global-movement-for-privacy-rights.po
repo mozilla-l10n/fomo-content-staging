@@ -12,7 +12,7 @@ msgstr "Slút jo oan by ús wrâldwide beweging foar privacyrjochten."
 
 msgctxt "description"
 msgid "Privacy for All is a global movement to secure privacy as a right for everyone, regardless of where they live."
-msgstr ""
+msgstr "Privacy foar All is in wrâldwide beweging om privacy te befeiligjen as in rjocht foar elkenien, nettsjinsteande wêr't se wenje."
 
 msgctxt "link_label"
 msgid "Demand Privacy for All"

@@ -898,6 +898,10 @@ msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> s
 #~ "qualité de votre sommeil, votre cycle menstruel, et bien plus encore. Elle vous suit également grâce au GPS, compte vos pas, vos calories et vos minutes d’activité. La montre Fitbit Sense sait "
 #~ "littéralement quand vous dormez et quand vous êtes éveillé·e et sait si vous avez été sage ou non. Le Père Noël a du souci à se faire."
 
+#~ msgctxt "child_safety_blurb"
+#~ msgid "\"We appreciate the importance of taking additional measures to protect children’s privacy."
+#~ msgstr "« Nous sommes conscients de l’importance de prendre des mesures supplémentaires pour protéger la vie privée des enfants."
+
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "As of January 14, 2021, Google officially <a id=\"a1\">became the owner</a> of Fitbit. That worried many privacy conscious users. However, Google promised that “Fitbit users’ health and wellness "
@@ -1056,10 +1060,6 @@ msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> s
 #~ msgctxt "track_record_details"
 #~ msgid "In 2020, it was <a id=\"a1\">reported</a> the emails and passwords of nearly 2 million Fitbit users was leaked online."
 #~ msgstr "En 2020, il a été <a id=\"a1\">signalé</a> que les adresses e-mail et les mots de passe de près de 2 millions d’utilisateurs de Fitbit ont été divulgués en ligne."
-
-#~ msgctxt "child_safety_blurb"
-#~ msgid "\"We appreciate the importance of taking additional measures to protect children’s privacy."
-#~ msgstr "« Nous sommes conscients de l’importance de prendre des mesures supplémentaires pour protéger la vie privée des enfants."
 
 #~ msgctxt "worst_case"
 #~ msgid ""

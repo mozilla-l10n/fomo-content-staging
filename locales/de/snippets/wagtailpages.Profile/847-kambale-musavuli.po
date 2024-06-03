@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-06-03 07:03:19.947221+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 4a67550f-b69b-41c6-ad64-fd284e0e1ce3\n"
+
+msgctxt "tagline"
+msgid "Founder, Aether Strategies"
+msgstr "Gründer, Aether Strategies"

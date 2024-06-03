@@ -845,6 +845,14 @@ msgctxt "ai_helptext"
 msgid "FitBit Coach and FitBit Care services are <a id=\"a1\">said</a> to be based on Machine Learning."
 msgstr "<a id=\"a1\">Diz-se</a> que os serviços FitBit Coach e FitBit Care se baseiam no aprendizado de máquina."
 
+#~ msgctxt "social_data_collected"
+#~ msgid "Fitbit connections"
+#~ msgstr "Conexões do Fitbit"
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "Everyone can get their data deleted by deleting their account and waiting for 90 days,"
+#~ msgstr "Todos podem ter seus dados excluídos ao excluir sua conta e esperar por 90 dias,"
+
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "As of January 14, 2021, Google officially <a id=\"a1\">became the owner</a> of Fitbit. That worried many privacy conscious users. However, Google promised that “Fitbit users’ health and wellness "
@@ -869,6 +877,10 @@ msgstr "<a id=\"a1\">Diz-se</a> que os serviços FitBit Coach e FitBit Care se b
 #~ "número de telefone, data de nascimento, gênero, altura, peso, localização, pontos de acesso wi-fi e, claro, todos os dados relacionados ao corpo, como etapas, atividade, sono, estresse, calorias "
 #~ "queimadas e muito mais. O Fitbit também diz que eles podem coletar dados de sites de mídia social de terceiros, como Facebook e Google, se você optar por conectá-los (por favor, não faça isso) e de "
 #~ "empregadores e seguradoras, se você optar por compartilhar para receber benefícios de bem-estar ou serviços com desconto ou gratuitos (novamente, não é uma boa ideia)."
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, date of birth, gender, photo (optional)"
+#~ msgstr "Nome, data de nascimento, sexo, foto (opcional)"
 
 #~ msgctxt "worst_case"
 #~ msgid ""
@@ -967,21 +979,9 @@ msgstr "<a id=\"a1\">Diz-se</a> que os serviços FitBit Coach e FitBit Care se b
 #~ msgid "To create a Fitbit account, users are required to provide strong, complex, passwords during onboarding."
 #~ msgstr "Para criar uma conta Fitbit, os usuários são obrigados a fornecer senhas fortes e complexas durante a integração."
 
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, date of birth, gender, photo (optional)"
-#~ msgstr "Nome, data de nascimento, sexo, foto (opcional)"
-
 #~ msgctxt "biometric_data_collected"
 #~ msgid "Heart rate, movement, sleep data, menstrual cycle, and more"
 #~ msgstr "Frequência cardíaca, movimento, dados de sono, ciclo menstrual e muito mais"
-
-#~ msgctxt "social_data_collected"
-#~ msgid "Fitbit connections"
-#~ msgstr "Conexões do Fitbit"
-
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid "Everyone can get their data deleted by deleting their account and waiting for 90 days,"
-#~ msgstr "Todos podem ter seus dados excluídos ao excluir sua conta e esperar por 90 dias,"
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

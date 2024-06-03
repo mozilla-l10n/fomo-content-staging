@@ -19,12 +19,12 @@ msgid "Homepage"
 msgstr "Inicio"
 
 msgctxt "hero_headline"
-msgid "WhatsApp: Update Your Product to Protect Global Elections"
-msgstr "WhatsApp: Actualiza su producto para proteger las elecciones mundiales"
+msgid "Last Chance: Earlybird tickets for MozFest House Amsterdam"
+msgstr "Última oportunidad: Boletos anticipados para el MozFest House Ámsterdam"
 
 msgctxt "hero_button_text"
-msgid "Add Your Name"
-msgstr "Añade tu nombre"
+msgid "Sales end 22nd May"
+msgstr "Las ventas finalizan el 22 de mayo"
 
 msgctxt "spotlight_headline"
 msgid "Spotlight: The Data Futures Lab"
@@ -68,8 +68,8 @@ msgid "Take action"
 msgstr "Actúa ahora"
 
 msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
-msgid "Microsoft: Are You Using Customer Data To Train AI?"
-msgstr "Microsoft: ¿Estás utilizando los datos de tus clientes para entrenar tu IA?"
+msgid "Tell WhatsApp: Act to Protect Elections"
+msgstr "Dile a WhatsApp: Actúa para proteger las elecciones"
 
 msgctxt "take_action_cards.046f1c00-6873-4bdb-a623-32c6cc18e068.text"
 msgid "Join our global movement for privacy rights."
@@ -168,8 +168,16 @@ msgstr "Logo de Consumers International"
 #~ msgstr "¿Cuáles son los gadgets que protegen tu privacidad en estas fiestas?"
 
 #~ msgctxt "hero_headline"
+#~ msgid "Tech Giants Not Ready for Historic Election Year"
+#~ msgstr "Los gigantes tecnológicos no están listos para un año electoral histórico"
+
+#~ msgctxt "hero_headline"
 #~ msgid "MozFest House Amsterdam: Early Bird Tickets Now Available"
 #~ msgstr "MozFest House Amsterdam: entradas anticipadas ya disponibles"
+
+#~ msgctxt "hero_headline"
+#~ msgid "WhatsApp: Update Your Product to Protect Global Elections"
+#~ msgstr "WhatsApp: Actualiza su producto para proteger las elecciones mundiales"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Findings"
@@ -248,8 +256,16 @@ msgstr "Logo de Consumers International"
 #~ msgstr "Leer más"
 
 #~ msgctxt "hero_button_text"
+#~ msgid "Read the research"
+#~ msgstr "Lee el estudio"
+
+#~ msgctxt "hero_button_text"
 #~ msgid "Get Your Ticket"
 #~ msgstr "Consigue tu boleto"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Add Your Name"
+#~ msgstr "Añade tu nombre"
 
 #~ msgctxt "spotlight_headline"
 #~ msgid "What To Know About Venmo"
@@ -290,6 +306,10 @@ msgstr "Logo de Consumers International"
 #~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
 #~ msgid "Tell Tinder: It’s time for pricing algorithm transparency"
 #~ msgstr "Decirle a Tinder que ¡ya es hora de que sus algoritmos de precios sean transparentes!"
+
+#~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
+#~ msgid "Microsoft: Are You Using Customer Data To Train AI?"
+#~ msgstr "Microsoft: ¿Estás utilizando los datos de tus clientes para entrenar tu IA?"
 
 #~ msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
 #~ msgid "Tell YouTube: Give users real control over their video recommendations!"

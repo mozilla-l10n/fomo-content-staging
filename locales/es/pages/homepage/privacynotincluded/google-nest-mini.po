@@ -658,10 +658,6 @@ msgstr ""
 "Google está <a id=\"a1\">planeando</a> añadir el producto de IA generativa Bard a sus productos para el hogar. Google también utiliza el procesamiento del lenguaje natural para comprenderte y "
 "generar respuestas a tus solicitudes."
 
-#~ msgctxt "price"
-#~ msgid "49"
-#~ msgstr "49"
-
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "\"Hey Google!\" will become your new favorite greeting. Hey Google, turn on the lights. Hey Google, play Bohemian Rhapsody. Hey Google, what are the symptoms of toe fungus? Hey Google, are you still"
@@ -671,6 +667,10 @@ msgstr ""
 #~ "«Ok Google» se convertirá en tu nueva expresión favorita. Ok Google, enciende las luces. Ok Google, pon Bohemian Rhapsody. Ok Google, ¿cuáles son los síntomas del pie de atleta? Ok Google, ¿me estás"
 #~ " escuchando? Con tres micrófonos integrados, es bastante probable. Este pequeño altavoz inteligente (¿micrófono inteligente?) es útil, divertido... ¿y puede que también dé algo de yuyu? ¡Danos tu "
 #~ "opinión en el Yuyómetro!"
+
+#~ msgctxt "price"
+#~ msgid "49"
+#~ msgstr "49"
 
 #~ msgctxt "worst_case"
 #~ msgid ""

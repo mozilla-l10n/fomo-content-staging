@@ -484,10 +484,6 @@ msgctxt "ai_what_can_it_do"
 msgid "Ring cameras use camera-based motion detection to start recording."
 msgstr "Câmeras Ring usam detecção de movimento baseada em câmera para iniciar a gravação."
 
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid "It is unclear if all users regardless of location can get their data deleted."
-#~ msgstr "Não está claro se todos os usuários, independentemente de onde vivem, podem excluir seus dados."
-
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
 #~ msgstr ""
@@ -501,6 +497,10 @@ msgstr "Câmeras Ring usam detecção de movimento baseada em câmera para inici
 #~ msgctxt "personal_data_collected"
 #~ msgid "Name, email, phone number, address"
 #~ msgstr "Nome, e-mail, número de telefone, endereço"
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "It is unclear if all users regardless of location can get their data deleted."
+#~ msgstr "Não está claro se todos os usuários, independentemente de onde vivem, podem excluir seus dados."
 
 #~ msgctxt "track_record_details"
 #~ msgid ""
@@ -662,16 +662,6 @@ msgstr "Câmeras Ring usam detecção de movimento baseada em câmera para inici
 
 #~ msgctxt "worst_case"
 #~ msgid ""
-#~ "Amazon’s Ring security cameras and video doorbells are the <a id=\"a1\">most widely used</a> home video cameras in many parts of the world today. As one expert from US privacy org the Electronic "
-#~ "Frontier Foundation <a id=\"a2\">put it,</a> \"Ring has steadily been becoming one of the largest surveillance apparatuses in the nation.” And as wise comic book prophet Stan Lee reminds us, “With "
-#~ "great power comes great responsibility.” Has Amazon Ring lived up to that great responsibility? <a id=\"a3\">No, they haven’t</a>."
-#~ msgstr ""
-#~ "As câmeras de segurança e as campainhas de vídeo da Amazon são as câmeras de vídeo domésticas<a id=\"a1\">mais usadas</a> em muitas partes do mundo hoje. Como <a id=\"a2\">disse</a> um especialista "
-#~ "da organização de privacidade dos EUA Electronic Frontier Foundation,\"A Ring vem se tornando um dos maiores aparelhos de vigilância do país.\" E como o sábio profeta de quadrinhos Stan Lee nos "
-#~ "lembra, \"Com grande poder vem grande responsabilidade\". A Amazon Ring cumpre essa grande responsabilidade? <a id=\"a3\">Não</a>."
-
-#~ msgctxt "worst_case"
-#~ msgid ""
 #~ "What’s the worst that could happen? Well, beyond the snooping next door neighbor, the trigger happy, paranoid surveillance junky, and the questionable law enforcement partnerships, there’s the big "
 #~ "concerns about all this constant surveillance. In the United States where abortion has become illegal in a number of states, it is possible anti-abortion activists could use these video doorbell "
 #~ "cameras to spy on women who are pregnant to see if they carry their fetus to term. And if they don’t -- no matter the reason -- video from these cameras could potentially be used to harass, arrest, "
@@ -683,6 +673,16 @@ msgstr "Câmeras Ring usam detecção de movimento baseada em câmera para inici
 #~ "para espionar mulheres grávidas para ver se elas carregam seu feto até o fim. E se não o fizerem – não importa a razão – o vídeo dessas câmeras pode potencialmente ser usado para assediar, prender e"
 #~ " potencialmente até mesmo processar mulheres que procuram cuidados de saúde reprodutiva, por qualquer motivo. Isso é ruim. Em geral, na nossa opinião, essas câmeras de segurança levantam muitas "
 #~ "questões de privacidade, transparência, proteção de dados, segurança pública e racismo. Por este motivo, dizemos que elas vêm com *Privacidade não incluída."
+
+#~ msgctxt "worst_case"
+#~ msgid ""
+#~ "Amazon’s Ring security cameras and video doorbells are the <a id=\"a1\">most widely used</a> home video cameras in many parts of the world today. As one expert from US privacy org the Electronic "
+#~ "Frontier Foundation <a id=\"a2\">put it,</a> \"Ring has steadily been becoming one of the largest surveillance apparatuses in the nation.” And as wise comic book prophet Stan Lee reminds us, “With "
+#~ "great power comes great responsibility.” Has Amazon Ring lived up to that great responsibility? <a id=\"a3\">No, they haven’t</a>."
+#~ msgstr ""
+#~ "As câmeras de segurança e as campainhas de vídeo da Amazon são as câmeras de vídeo domésticas<a id=\"a1\">mais usadas</a> em muitas partes do mundo hoje. Como <a id=\"a2\">disse</a> um especialista "
+#~ "da organização de privacidade dos EUA Electronic Frontier Foundation,\"A Ring vem se tornando um dos maiores aparelhos de vigilância do país.\" E como o sábio profeta de quadrinhos Stan Lee nos "
+#~ "lembra, \"Com grande poder vem grande responsabilidade\". A Amazon Ring cumpre essa grande responsabilidade? <a id=\"a3\">Não</a>."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

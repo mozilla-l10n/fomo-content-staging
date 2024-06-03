@@ -597,6 +597,10 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ "Im <a id=\"a1\">April 2019</a>wurde bekannt, dass Tausende von Mitarbeitern, von denen viele Vertragsarbeiter sind und einige nicht einmal direkt bei Amazon beschäftigt sind, Zugang zu Sprach- und "
 #~ "Texttranskripten von Alexa-Interaktionen hatten."
 
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Voice recordings"
+#~ msgstr "Sprachaufnahmen"
+
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "When starting a sign-up, do not agree to tracking of your data."
 #~ msgstr "Stimmen Sie bei der Registrierung für ein Konto nicht der Nachverfolgung Ihrer Daten zu."
@@ -605,6 +609,10 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ msgid "Amazon has a complicated and difficult to navigate mess of privacy policies, privacy notices, privacy FAQs, and other privacy information."
 #~ msgstr "Amazon hat ein kompliziertes und schwer durchschaubares Durcheinander von Datenschutzrichtlinien, Datenschutzhinweisen, Datenschutz-FAQ und anderen Datenschutzinformationen"
 
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number, address"
+#~ msgstr "Name, E-Mail, Telefonnummer, Adresse"
+
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
 #~ "Amazon says they <a id=\"a1\">do not sell your personal information</a>. They combine <a id=\"a2\">your voice data</a> with third-party data to answer your requests as well as to train Alexa's "
@@ -612,17 +620,6 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ msgstr ""
 #~ "Amazon sagt, dass <a id=\"a1\">Ihre personenbezogenen Daten nicht weiterverkauft werden</a>. Das unternehmen kombiniert <a id=\"a2\">Ihre Sprachaufzeichnungen</a> mit Daten von Drittanbietern, um "
 #~ "Ihre Anfragen zu beantworten und die Spracherkennung von Alexa zu trainieren. Sie können festlegen, dass keine Sprachaufzeichnungen gespeichert werden, dies kostet Sie jedoch einige Funktionen."
-
-#~ msgctxt "worst_case"
-#~ msgid ""
-#~ "So, what’s the worst that could happen? Well, Amazon could learn all the shows you like to watch and start targeting you with ads for all the other streaming services out there. You can't resist and"
-#~ " join them all, sending you into bankruptcy because there are so many dang streaming services these days! If you want Amazon to stop trying to sell you more stuff, you can (and should!) <a "
-#~ "id=\"a1\">opt-out of some data collection</a> and processing. So yeah, while Amazon doesn't sell your personal information, they sure do use the heck out of it to target you with more stuff to buy."
-#~ msgstr ""
-#~ "Was ist also das Schlimmste, was passieren könnte? Nun, Amazon könnte lernen, welche Sendungen Sie gerne sehen, und Sie mit Werbung für alle anderen Streaming-Dienste ansprechen, die es gibt. Sie "
-#~ "können nicht widerstehen und melden sich bei allen an, was Sie in den Bankrott treibt, weil es heutzutage so viele Streaming-Dienste gibt! Wenn Sie möchten, dass Amazon aufhört, Ihnen noch mehr "
-#~ "Produkte zu verkaufen, können (und sollten!) Sie <a id=\"a1\">der Datenerfassung und -verarbeitung widersprechen</a>. Ja, Amazon verkauft Ihre persönlichen Daten zwar nicht, aber sie nutzen sie sehr"
-#~ " wohl, um Ihnen immer mehr Produkte zu verkaufen."
 
 #~ msgctxt "worst_case"
 #~ msgid ""
@@ -680,6 +677,17 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ "natürlich noch weitere geben, die nicht aufgedeckt oder bekannt geworden sind.). Und klar, Amazon ist ein riesiges Unternehmen mit vielen Produkten und Mitarbeiter*innen, und es ist unmöglich, alles"
 #~ " durchgängig zu 100 % zu sichern. Aber darum geht’s ja. Wer so viele personenbezogene Daten sammelt, muss extra vorsichtig damit umgehen und die Daten immer und überall schützen. Amazon hat "
 #~ "bewiesen, dass es das nicht immer kann."
+
+#~ msgctxt "worst_case"
+#~ msgid ""
+#~ "So, what’s the worst that could happen? Well, Amazon could learn all the shows you like to watch and start targeting you with ads for all the other streaming services out there. You can't resist and"
+#~ " join them all, sending you into bankruptcy because there are so many dang streaming services these days! If you want Amazon to stop trying to sell you more stuff, you can (and should!) <a "
+#~ "id=\"a1\">opt-out of some data collection</a> and processing. So yeah, while Amazon doesn't sell your personal information, they sure do use the heck out of it to target you with more stuff to buy."
+#~ msgstr ""
+#~ "Was ist also das Schlimmste, was passieren könnte? Nun, Amazon könnte lernen, welche Sendungen Sie gerne sehen, und Sie mit Werbung für alle anderen Streaming-Dienste ansprechen, die es gibt. Sie "
+#~ "können nicht widerstehen und melden sich bei allen an, was Sie in den Bankrott treibt, weil es heutzutage so viele Streaming-Dienste gibt! Wenn Sie möchten, dass Amazon aufhört, Ihnen noch mehr "
+#~ "Produkte zu verkaufen, können (und sollten!) Sie <a id=\"a1\">der Datenerfassung und -verarbeitung widersprechen</a>. Ja, Amazon verkauft Ihre persönlichen Daten zwar nicht, aber sie nutzen sie sehr"
+#~ " wohl, um Ihnen immer mehr Produkte zu verkaufen."
 
 #~ msgctxt "worst_case"
 #~ msgid ""
@@ -744,14 +752,6 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ "zu Qualitätssicherungszwecken überprüft oder wenn wir einen Dienstleister nutzen, um Ihre Bestellung zum Drucken von Bildern aus Ihrem Amazon Photos-Konto zu erfüllen;<br/>- Bildungsinformationen, "
 #~ "z. B. Kursarbeiten, die wir auf Ihre Anweisung hin mit dem Betreiber eines Alexa-Skills für Bildungszwecke teilen; und<br/>- berufliche Informationen, z. B. wenn wir Ihre Kontodaten im Rahmen der "
 #~ "Anmeldung für ein Amazon Business-Konto an einen Dienstleister zur Überprüfung weitergeben.“"
-
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number, address"
-#~ msgstr "Name, E-Mail, Telefonnummer, Adresse"
-
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Voice recordings"
-#~ msgstr "Sprachaufnahmen"
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

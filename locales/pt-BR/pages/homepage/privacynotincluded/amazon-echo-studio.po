@@ -576,6 +576,10 @@ msgstr "A Alexa da Amazon utiliza o processamento de linguagem natural para ente
 #~ "Alexa fornece algumas informações sobre sua IA no FAQ sobre Alexa e nas páginas da Amazon Science: <a id=\"a1\">https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230</a> <a "
 #~ "id=\"a2\">https://www.amazon.science/tag/alexa</a>"
 
+#~ msgctxt "how_does_it_use_data_collected"
+#~ msgid "\"Information about our customers is an important part of our business, and we are not in the business of selling our customers' personal information to others.\""
+#~ msgstr "\"A informação sobre nossos clientes é uma parte importante do nosso negócio, e não estamos no negócio de vender as informações pessoais de nossos clientes para terceiros.\""
+
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "And when we say a number, we don’t exactly know how many third parties because Amazon doesn’t share that information. But we must assume it’s a lot of third parties because they say they can share "
@@ -641,10 +645,6 @@ msgstr "A Alexa da Amazon utiliza o processamento de linguagem natural para ente
 #~ msgstr ""
 #~ "\"Nos doze meses anteriores à data efetiva desta Divulgação, a Amazon não vendeu nenhuma informação pessoal dos consumidores, conforme esses termos são definidos sob a Lei de Privacidade do "
 #~ "Consumidor da Califórnia.\""
-
-#~ msgctxt "how_does_it_use_data_collected"
-#~ msgid "\"Information about our customers is an important part of our business, and we are not in the business of selling our customers' personal information to others.\""
-#~ msgstr "\"A informação sobre nossos clientes é uma parte importante do nosso negócio, e não estamos no negócio de vender as informações pessoais de nossos clientes para terceiros.\""
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""

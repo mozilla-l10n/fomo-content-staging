@@ -12,19 +12,19 @@ msgstr "Wat jo dwaan kinne"
 
 msgctxt "ctaHeroHeader"
 msgid "WhatsApp: Update Your Product to Protect Global Elections"
-msgstr ""
+msgstr "WhatsApp: wurkje jin produkt by om wrâldwiid ferkiezingen te beskermjen"
 
 msgctxt "ctaHeroSubhead"
 msgid "Add your name to ask WhatsApp to update its product to protect global elections."
-msgstr ""
+msgstr "Foegje jo namme ta om WhatsApp te freegjen om har produkt te aktualisearjen om wrâldwide ferkiezingen te beskermjen."
 
 msgctxt "ctaButtonTitle"
 msgid "Add Your Name"
-msgstr ""
+msgstr "Foegje jo namme ta"
 
 msgctxt "ctaButtonURL"
 msgid "https://foundation.mozilla.org/campaigns/whatsapp-must-act-to-protect-elections/"
-msgstr ""
+msgstr "https://foundation.mozilla.org/campaigns/whatsapp-must-act-to-protect-elections/"
 
 msgctxt "ctaHeroHeader2"
 msgid "If you can, will you give today?"

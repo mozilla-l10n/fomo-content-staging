@@ -836,6 +836,14 @@ msgstr "Se <a id=\"a1\">dice</a> que los servicios de FitBit Coach y FitBit Care
 #~ msgid "Fitbit connections"
 #~ msgstr "Conexiones a Fitbit"
 
+#~ msgctxt "user_friendly_privacy_policy_helptext"
+#~ msgid "Despite being acquired by Google, Fitbit keeps its own privacy policy, written in relatively simple language."
+#~ msgstr "A pesar de haber sido adquirido por Google, Fitbit mantiene su propia política de privacidad, que está escrita en un lenguaje relativamente simple."
+
+#~ msgctxt "strong_password_helptext"
+#~ msgid "To create a Fitbit account, users are required to provide strong, complex, passwords during onboarding."
+#~ msgstr "Para crear una cuenta de Fitbit, los usuarios deben proporcionar una contraseña segura y compleja durante el proceso de registro."
+
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "As of January 14, 2021, Google officially <a id=\"a1\">became the owner</a> of Fitbit. That worried many privacy conscious users. However, Google promised that “Fitbit users’ health and wellness "
@@ -923,14 +931,6 @@ msgstr "Se <a id=\"a1\">dice</a> que los servicios de FitBit Coach y FitBit Care
 #~ "Fitbit dice que transfieren información a sus afiliados corporativos, proveedores de servicios y otros socios: «Transferimos información a nuestros afiliados corporativos, proveedores de servicios y"
 #~ " otros socios, quienes la procesan por nosotros, según nuestras instrucciones, y de conformidad con esta política y cualquier otra medida de confidencialidad y seguridad apropiada. Estos socios nos "
 #~ "brindan servicios a nivel mundial, que incluyen soporte al cliente, tecnología de la información, pagos, ventas, marketing, análisis de datos, investigación y encuestas»."
-
-#~ msgctxt "user_friendly_privacy_policy_helptext"
-#~ msgid "Despite being acquired by Google, Fitbit keeps its own privacy policy, written in relatively simple language."
-#~ msgstr "A pesar de haber sido adquirido por Google, Fitbit mantiene su propia política de privacidad, que está escrita en un lenguaje relativamente simple."
-
-#~ msgctxt "strong_password_helptext"
-#~ msgid "To create a Fitbit account, users are required to provide strong, complex, passwords during onboarding."
-#~ msgstr "Para crear una cuenta de Fitbit, los usuarios deben proporcionar una contraseña segura y compleja durante el proceso de registro."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

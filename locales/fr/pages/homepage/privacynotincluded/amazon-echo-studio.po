@@ -765,6 +765,12 @@ msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprend
 #~ "Outre les politiques de confidentialité trompeuses, <a id=\"a4\">d’autres éléments étaient problématiques</a>, tels que la possibilité pour les développeurs de revendiquer une fausse identité "
 #~ "(« Samsung », « Apple »), plusieurs skills partageant les mêmes mots déclencheurs Alexa, etc. »"
 
+#~ msgctxt "user_friendly_privacy_policy_helptext"
+#~ msgid "Amazon has a complicated and difficult to navigate mess of privacy policies, privacy notices, privacy FAQs, and other privacy information."
+#~ msgstr ""
+#~ "Amazon dispose de tout un fouillis de politiques de confidentialité, d’avis de confidentialité, de FAQ sur la confidentialité et d’autres informations de confidentialité au sein duquel il est "
+#~ "difficile de s’y retrouver."
+
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "And let’s talk for a minute about Alexa itself. Amazon’s helpful artificial intelligence that’s built into everything from your Echo Dot smart speaker to your headphones to your thermostat comes "
@@ -814,12 +820,6 @@ msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprend
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid "\"Information about our customers is an important part of our business, and we are not in the business of selling our customers' personal information to others.\""
 #~ msgstr "« Les informations relatives à nos clients représentent une part importante de notre activité et notre métier n’est pas de vendre les informations personnelles de nos clients. »"
-
-#~ msgctxt "user_friendly_privacy_policy_helptext"
-#~ msgid "Amazon has a complicated and difficult to navigate mess of privacy policies, privacy notices, privacy FAQs, and other privacy information."
-#~ msgstr ""
-#~ "Amazon dispose de tout un fouillis de politiques de confidentialité, d’avis de confidentialité, de FAQ sur la confidentialité et d’autres informations de confidentialité au sein duquel il est "
-#~ "difficile de s’y retrouver."
 
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"

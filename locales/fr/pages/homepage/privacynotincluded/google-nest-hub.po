@@ -698,10 +698,6 @@ msgstr ""
 "Sur les caméras Nest, vous pouvez sélectionner les notifications à recevoir. Par exemple, désactiver la détection des personnes. La détection des visages familiers, qui identifie les personnes qui "
 "visitent souvent votre domicile, comme les membres de votre famille, est une fonctionnalité qui nécessite un abonnement à Nest Aware."
 
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid "You can review and delete your data in the Nest app or via the Google Privacy Dashboard."
-#~ msgstr "Vous pouvez consulter et supprimer vos données dans l’application Nest ou avec le tableau de bord de confidentialité Google."
-
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "If you like the idea of a smart video hub that lets you display your photos, watch YouTube, listen to podcasts, and control you lights with your voice, but you don't want a video camera watching you"
@@ -753,6 +749,10 @@ msgstr ""
 #~ msgctxt "biometric_data_collected"
 #~ msgid "Voice recordings"
 #~ msgstr "Enregistrements vocaux"
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "You can review and delete your data in the Nest app or via the Google Privacy Dashboard."
+#~ msgstr "Vous pouvez consulter et supprimer vos données dans l’application Nest ou avec le tableau de bord de confidentialité Google."
 
 #~ msgctxt "track_record_details"
 #~ msgid ""

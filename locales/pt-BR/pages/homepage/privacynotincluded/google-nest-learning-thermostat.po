@@ -692,6 +692,10 @@ msgstr ""
 #~ "Para excluir o histórico de busca da página inicial do Google e as gravações de voz: veja a seção \"Exclusão de dados\" do item Segurança e privacidade de dados em dispositivos que funcionam com o "
 #~ "Assistente."
 
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Turn off personalised advertisement"
+#~ msgstr "Desative a publicidade personalizada"
+
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "We do like that people who use Google’s AI voice assistant are now automatically opted out of Google's human review of voice recordings, because that was super creepy. We also like that Google does "
@@ -814,10 +818,6 @@ msgstr ""
 #~ msgctxt "user_friendly_privacy_policy_helptext"
 #~ msgid "Google provides a page with privacy information about Nest."
 #~ msgstr "O Google disponibiliza uma página com informações de privacidade sobre o Nest."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Turn off personalised advertisement"
-#~ msgstr "Desative a publicidade personalizada"
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

@@ -648,10 +648,6 @@ msgstr ""
 #~ msgid "Name, email, phone number"
 #~ msgstr "Nome, email, número de telefone"
 
-#~ msgctxt "ai_what_can_it_do"
-#~ msgid "Google uses natural language processing to understand you and to generate answers to your requests."
-#~ msgstr "O Google utiliza o processamento de linguagem natural para entender você e gerar respostas às suas solicitações."
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "Of course, Google uses your personal information to sell those targeted, personalized ads you see all over the place like in your Gmail, in your favorite Solitaire app, on partner websites, and on "
@@ -836,6 +832,10 @@ msgstr ""
 #~ "tecnologias de reconhecimento de áudio e os serviços do Google que as utilizam, como o Google Assistente. Se seu filho usa o Google Assistente com Voice Match e você ativou essa configuração de voz "
 #~ "e atividade de áudio, o Google também pode processar temporariamente um modelo da voz de seu filho a partir de seu áudio salvo para desenvolver e melhorar as tecnologias de voz do Google e os "
 #~ "serviços do Google que as utilizam."
+
+#~ msgctxt "ai_what_can_it_do"
+#~ msgid "Google uses natural language processing to understand you and to generate answers to your requests."
+#~ msgstr "O Google utiliza o processamento de linguagem natural para entender você e gerar respostas às suas solicitações."
 
 #~ msgctxt "child_safety_blurb"
 #~ msgid "You can check <a id=\"a1\">Google Family Link</a> privacy guide for teens &amp; children for details for different countries and age groups."

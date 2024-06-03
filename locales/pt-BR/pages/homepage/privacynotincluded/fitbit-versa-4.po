@@ -880,6 +880,10 @@ msgstr "<a id=\"a1\">Diz-se</a> que os serviços FitBit Coach e FitBit Care se b
 #~ "queimadas e muito mais. O Fitbit também diz que eles podem coletar dados de sites de mídia social de terceiros, como Facebook e Google, se você optar por conectá-los (por favor, não faça isso) e de "
 #~ "empregadores e seguradoras, se você optar por compartilhar para receber benefícios de bem-estar ou serviços com desconto ou gratuitos (novamente, não é uma boa ideia)."
 
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, date of birth, gender, photo (optional)"
+#~ msgstr "Nome, data de nascimento, sexo, foto (opcional)"
+
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "How does Fitbit use all this personal information it collects? Well, the good news is their <a id=\"a1\">privacy policy</a> says they never sell your data. They also say they can share your personal"
@@ -965,10 +969,6 @@ msgstr "<a id=\"a1\">Diz-se</a> que os serviços FitBit Coach e FitBit Care se b
 #~ msgctxt "strong_password_helptext"
 #~ msgid "To create a Fitbit account, users are required to provide strong, complex, passwords during onboarding."
 #~ msgstr "Para criar uma conta Fitbit, os usuários são obrigados a fornecer senhas fortes e complexas durante a integração."
-
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, date of birth, gender, photo (optional)"
-#~ msgstr "Nome, data de nascimento, sexo, foto (opcional)"
 
 #~ msgctxt "biometric_data_collected"
 #~ msgid "Heart rate, movement, sleep data, menstrual cycle, and more"

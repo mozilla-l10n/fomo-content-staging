@@ -8,16 +8,16 @@ msgstr ""
 
 msgctxt "title"
 msgid "WhatsApp Must Act to Protect Elections"
-msgstr ""
+msgstr "WhatsApp moat aksje ûndernimme om ferkiezingen te beskermjen"
 
 msgctxt "description"
 msgid "Will you add your name to ask WhatsApp to update its product to protect global elections?"
-msgstr ""
+msgstr "Wolle jo jo namme tafoegje om WhatsApp te freegjen om har produkt te aktualisearjen om wrâldwide ferkiezingen te beskermjen."
 
 msgctxt "link_label"
 msgid "Add Your Name"
-msgstr ""
+msgstr "Foegje jo namme ta"
 
 msgctxt "footer"
 msgid "Add Your Name"
-msgstr ""
+msgstr "Foegje jo namme ta"

@@ -12,11 +12,11 @@ msgstr "O que você pode fazer"
 
 msgctxt "ctaHeroHeader"
 msgid "WhatsApp: Update Your Product to Protect Global Elections"
-msgstr ""
+msgstr "WhatsApp: Atualize seu produto para proteger eleições mundiais"
 
 msgctxt "ctaHeroSubhead"
 msgid "Add your name to ask WhatsApp to update its product to protect global elections."
-msgstr ""
+msgstr "Adicione seu nome e peça ao WhatsApp que atualize seu produto para proteger eleições mundiais."
 
 msgctxt "ctaButtonTitle"
 msgid "Add Your Name"

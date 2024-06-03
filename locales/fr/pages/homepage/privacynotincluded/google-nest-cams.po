@@ -693,22 +693,6 @@ msgstr ""
 "Google <a id=\"a1\">prévoit</a> d’ajouter l’IA générative Bard à ses produits Home. Google utilise également le traitement du langage naturel pour vous comprendre et générer des réponses à vos "
 "demandes."
 
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Visit <a id=\"a1\">privacy &amp; security controls</a> to adjust the amount of data collected"
-#~ msgstr "Consultez les <a id=\"a1\">paramètres de confidentialité et de vie privée</a> pour ajuster la quantité de données collectées"
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Review <a id=\"a1\">Nest privacy tips</a>"
-#~ msgstr "Consultez les <a id=\"a1\">Conseils de confidentialité de Nest</a>"
-
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number, address"
-#~ msgstr "Nom, adresse e-mail, numéro de téléphone, adresse postale"
-
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Voice recordings, face (Nest Cam IQ only)"
-#~ msgstr "Enregistrements vocaux, visage (Nest Cam IQ uniquement)"
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "Google seems to do a better job than some of the other Big Tech companies when it comes to security and privacy. That said, you should be aware they are a huge ad company that needs your data to "
@@ -767,6 +751,22 @@ msgstr ""
 #~ msgctxt "user_friendly_privacy_policy_helptext"
 #~ msgid "Google provides a page with privacy information about Nest."
 #~ msgstr "Google fournit une page avec des informations de confidentialité sur Nest."
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Visit <a id=\"a1\">privacy &amp; security controls</a> to adjust the amount of data collected"
+#~ msgstr "Consultez les <a id=\"a1\">paramètres de confidentialité et de vie privée</a> pour ajuster la quantité de données collectées"
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Review <a id=\"a1\">Nest privacy tips</a>"
+#~ msgstr "Consultez les <a id=\"a1\">Conseils de confidentialité de Nest</a>"
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number, address"
+#~ msgstr "Nom, adresse e-mail, numéro de téléphone, adresse postale"
+
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Voice recordings, face (Nest Cam IQ only)"
+#~ msgstr "Enregistrements vocaux, visage (Nest Cam IQ uniquement)"
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""
@@ -863,6 +863,12 @@ msgstr ""
 #~ "id=\"a7\">l’Illinois</a>, en <a id=\"a8\">Arizona</a>, de la part de la <a id=\"a9\">Federal Trade Commission</a>, et plus encore. Toutes ces informations n’inspirent pas confiance quant aux "
 #~ "déclarations de l’entreprise concernant ce qu’elle fait des énormes quantités de données personnelles collectées."
 
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "To delete Google Home search history and voice recordings: See the \"Data deletion\" section of Data security and privacy on devices that work with Assistant."
+#~ msgstr ""
+#~ "Pour supprimer l’historique de recherches et les enregistrements vocaux de Google Home, consultez la section « Suppression des données » dans « Sécurité et confidentialité des données » sur les "
+#~ "appareils fonctionnant avec l’Assistant."
+
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
 #~ "Google shares data with its affiliates and business partners: \"We provide personal information to our affiliates and other trusted businesses or persons to process it for us, based on our "
@@ -950,12 +956,6 @@ msgstr ""
 #~ msgstr ""
 #~ "« Lorsque vous supprimez des informations dans votre compte Google, nous commençons immédiatement à les supprimer du produit et de nos systèmes. Nous faisons d’abord en sorte qu’elles ne soient plus"
 #~ " visibles et ne puissent plus être utilisées pour personnaliser votre expérience Google. »"
-
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid "To delete Google Home search history and voice recordings: See the \"Data deletion\" section of Data security and privacy on devices that work with Assistant."
-#~ msgstr ""
-#~ "Pour supprimer l’historique de recherches et les enregistrements vocaux de Google Home, consultez la section « Suppression des données » dans « Sécurité et confidentialité des données » sur les "
-#~ "appareils fonctionnant avec l’Assistant."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

@@ -177,7 +177,7 @@ msgstr "Inscrição do Google disponível"
 
 msgctxt "how_does_it_use_data_collected"
 msgid "We ding this product as it may sell or share personal information for targeted advertising purposes.<br/><br/>Privacy policy"
-msgstr ""
+msgstr "Nós damos um alerta sobre este produto, pois ele pode vender ou compartilhar informações pessoais para fins de publicidade direcionada.<br/><br/>Política de privacidade"
 
 msgctxt "how_does_it_use_data_collected"
 msgid ""

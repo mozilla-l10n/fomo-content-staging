@@ -23,30 +23,32 @@ msgid ""
 "Institutional Passes are pay-what-you-wish tickets that grant you full access to MozFest House Amsterdam, while also subsidizing Community Passes, ensuring accessibility for all while limiting "
 "financial barriers."
 msgstr ""
+"Ynstellingspassen binne betelje-wat-jo-winske-kaartsjes dy’t jo folsleine tagong jouwe ta MozFest House Amsterdam, wylst se ek Mienskipspassen subsidiearje, en garandearje tagonklikens foar "
+"elkenien, wylst finansjele barriêren beheine."
 
 msgctxt "description"
 msgid "Get access to engaging sessions, workshops, and our flagship Dialogues and Debates panels."
-msgstr ""
+msgstr "Krij tagong ta boeiende sesjes, workshops, en ús flaggeskip Dialogen en Debatten."
 
 msgctxt "description"
 msgid "Ensure your spot at our Songs of the Living experience."
-msgstr ""
+msgstr "Fersekerje jo fan in plak by ús Songs of the Living-ûnderfining."
 
 msgctxt "description"
 msgid "Explore a variety of art installations and exhibits."
-msgstr ""
+msgstr "Ferken in ferskaat oan keunstynstallaasjes en eksposysjes."
 
 msgctxt "description"
 msgid "Attend our vibrant welcome party on 11 June."
-msgstr ""
+msgstr "Wês op 11 juny by ús bjusterbaarlike wolkomsfeest."
 
 msgctxt "description"
 msgid "Receive an invite to our Funders Reception attended by other institutions and Mozilla executives."
-msgstr ""
+msgstr "Untfang in útnûging foar ús Sponsorresepsje bywenne troch oare ynstellingen en Mozilla-bestjoerders."
 
 msgctxt "description"
 msgid "The price includes Dutch VAT at 21%. The minimum contribution is €250.00."
-msgstr ""
+msgstr "De priis is ynklusyf 21% btw. De minimale bydrage is €250,-."
 
 msgctxt "button_text"
 msgid "Get Your Ticket"

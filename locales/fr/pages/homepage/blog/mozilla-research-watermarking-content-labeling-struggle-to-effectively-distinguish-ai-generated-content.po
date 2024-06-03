@@ -166,7 +166,7 @@ msgid ""
 "encryption/decryption process."
 msgstr ""
 "<b>Filigrane cryptographique :</b> des informations secrètes sont encodées dans les fonctions cryptographiques (ou circuits) du contenu, qui ne peuvent alors être détectées, supprimées ou modifiées "
-"qu’à l’aide d’un processus de cryptage ou de décryptage."
+"qu’à l’aide d’un processus de chiffrement ou de déchiffrement."
 
 msgctxt "body.327d7b35-2dae-4229-a9a4-09b9bd2fe903"
 msgid ""

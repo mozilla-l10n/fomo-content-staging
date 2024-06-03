@@ -326,14 +326,14 @@ msgstr ""
 " haben.“"
 
 #~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Keep your app regularly updated."
+#~ msgstr "Halten Sie Ihre App regelmäßig auf dem neuesten Stand"
+
+#~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images and videos)."
 #~ msgstr ""
 #~ "Verwenden Sie die Datenschutzeinstellungen Ihres Geräts, um den Zugriff auf Ihre personenbezogenen Daten über die App zu beschränken (geben Sie keinen Zugriff auf Ihre Kamera, Ihr Mikrofon, Ihre "
 #~ "Bilder und Videos)."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Keep your app regularly updated."
-#~ msgstr "Halten Sie Ihre App regelmäßig auf dem neuesten Stand"
 
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid ""

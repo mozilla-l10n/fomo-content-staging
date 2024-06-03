@@ -196,11 +196,13 @@ msgstr "ilustração abstrata"
 
 msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
 msgid "Accelerating Progress Toward Trustworthy AI"
-msgstr ""
+msgstr "Acelerando o progresso em direção a inteligência artificial confiável"
 
 msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
 msgid "Status update on our 2020 paper “Creating Trustworthy AI” and next steps to promote openness, competition, and accountability in AI."
 msgstr ""
+"Atualização de informações sobre nosso artigo de 2020 “Criando inteligência artificial confiável” e próximas etapas para promover abertura, competitividade e responsabilização em inteligência "
+"artificial."
 
 msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
 msgid "<a id=\"a1\">Read the white paper →</a>"

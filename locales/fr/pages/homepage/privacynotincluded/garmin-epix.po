@@ -430,6 +430,13 @@ msgstr ""
 #~ msgstr "Garmin a une liste facile à trouver de toutes les politiques de confidentialité. Les politiques de confidentialité sont relativement simples à lire."
 
 #~ msgctxt "tips_to_protect_yourself"
+#~ msgid ""
+#~ "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)."
+#~ msgstr ""
+#~ "Limitez le suivi publicitaire via votre appareil (par ex., sur iPhone, accédez à Confidentialité -> Publicité -> Limiter le suivi publicitaire) et les plus grands réseaux publicitaires (pour Google,"
+#~ " accédez à votre compte Google et désactivez la personnalisation des annonces)"
+
+#~ msgctxt "tips_to_protect_yourself"
 #~ msgid "When you no longer use the app, go to \"Delete account\" in the app menu."
 #~ msgstr "Lorsque vous n’utilisez plus l’application, accédez à « Supprimer le compte » dans le menu de l’application"
 
@@ -441,13 +448,6 @@ msgstr ""
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Keep your app regularly updated."
 #~ msgstr "Mettez votre application à jour régulièrement"
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid ""
-#~ "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)."
-#~ msgstr ""
-#~ "Limitez le suivi publicitaire via votre appareil (par ex., sur iPhone, accédez à Confidentialité -> Publicité -> Limiter le suivi publicitaire) et les plus grands réseaux publicitaires (pour Google,"
-#~ " accédez à votre compte Google et désactivez la personnalisation des annonces)"
 
 #~ msgctxt "personal_data_collected"
 #~ msgid "Name, email address, gender (optional), age (optional), date of birth (optional), photos (optional)"

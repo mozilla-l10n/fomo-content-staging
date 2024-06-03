@@ -45,7 +45,7 @@ msgid ""
 "“The TikTok Observatory developed the infrastructure needed to investigate recommended and demoted content on the ‘For You’ feed — that was the original idea,” explains Marc Faddoul, Co-Director of "
 "Tracking Exposed."
 msgstr ""
-"« Le TikTok Observatory a développé l’infrastructure nécessaire pour enquêter sur les contenus recommandés et rétrogradés dans le flux ‘Pour vous’ - voilà l’idée de départ », explique Marc Faddoul, "
+"« Le TikTok Observatory a développé l’infrastructure nécessaire pour enquêter sur les contenus recommandés et rétrogradés dans le flux ’Pour vous’ - voilà l’idée de départ », explique Marc Faddoul, "
 "codirecteur de Tracking Exposed."
 
 msgctxt "body.b1802831-e644-41fc-97b3-b81951138941"

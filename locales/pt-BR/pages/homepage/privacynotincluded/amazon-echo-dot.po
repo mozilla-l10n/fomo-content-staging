@@ -622,10 +622,6 @@ msgstr "A Alexa da Amazon utiliza o processamento de linguagem natural para ente
 #~ "proteger tudo 100% do tempo. Mas essa é a questão. Quando você coleta uma quantidade tão grande de informações pessoais, você tem que ser supermegaextracuidadoso para mantê-las seguras em todos os "
 #~ "lugares, o tempo todo. A Amazon demonstrou que nem sempre consegue fazer isso."
 
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Voice recordings, images and videos collected or stored in connection with Amazon Services"
-#~ msgstr "Gravações de voz, imagens e vídeos coletados ou armazenados em conexão com os Amazon Services"
-
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid "We ding this product for using personal data for targeted advertising purposes, and combining data about you with data it receives from third parties for targeted advertising purposes."
 #~ msgstr "Nós gongamos este produto por utilizar dados pessoais para fins de publicidade direcionada e combinar dados sobre você com dados recebidos de terceiros para fins de publicidade direcionada."
@@ -667,6 +663,10 @@ msgstr "A Alexa da Amazon utiliza o processamento de linguagem natural para ente
 #~ msgstr ""
 #~ "Use os controles de privacidade do seu dispositivo para limitar o acesso a seus dados pessoais por meio do app (não dê acesso à sua câmera, microfone, imagens e localização, a não ser que seja "
 #~ "necessário)"
+
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Voice recordings, images and videos collected or stored in connection with Amazon Services"
+#~ msgstr "Gravações de voz, imagens e vídeos coletados ou armazenados em conexão com os Amazon Services"
 
 #~ msgctxt "track_record_details"
 #~ msgid ""

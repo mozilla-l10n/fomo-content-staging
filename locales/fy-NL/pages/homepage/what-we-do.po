@@ -194,11 +194,11 @@ msgstr "abstrakte yllustraasje"
 
 msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
 msgid "Accelerating Progress Toward Trustworthy AI"
-msgstr ""
+msgstr "Foarútgongsfersnelling nei betroubere AI"
 
 msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
 msgid "Status update on our 2020 paper “Creating Trustworthy AI” and next steps to promote openness, competition, and accountability in AI."
-msgstr ""
+msgstr "Statusupdate fan ús dokumint ‘Creating Trustworthy AI’ út 2020 en folgjende stappen om iepenheid, konkurrinsje en ferantwurdlikheid yn AI te befoarderjen."
 
 msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
 msgid "<a id=\"a1\">Read the white paper →</a>"

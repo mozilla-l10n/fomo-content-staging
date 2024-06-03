@@ -815,10 +815,6 @@ msgstr ""
 #~ "animal cerca o si tu vecino(a) está en la puerta. Estos timbres con vídeo también te permiten usar mensajes pregrabados para decirle a tu vecino(a) molesto(a) que no estás en casa, incluso si lo "
 #~ "estás. Necesitarás una suscripción adicional a Nest Aware para algunas funciones, incluyendo 10 días de historial de vídeo 24/7."
 
-#~ msgctxt "child_safety_blurb"
-#~ msgid "You can check <a id=\"a1\">Google Family Link</a> privacy guide for teens &amp; children for details for different countries and age groups."
-#~ msgstr "Puedes leer la guía de privacidad para adolescentes y niños en <a id=\"a1\">Google Family Link</a> para conocer más detalles sobre los distintos países y grupos de edad."
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "Of course, Google uses your personal information to sell those targeted, personalized ads you see all over the place like in your Gmail, in your favorite Solitaire app, on partner websites, and on "
@@ -862,6 +858,10 @@ msgstr ""
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid "Google does not share data with third parties for their own advertisement purposes. Google does not sell personal data."
 #~ msgstr "Google no comparte datos con terceros para sus fines publicitarios. Google no vende datos personales."
+
+#~ msgctxt "child_safety_blurb"
+#~ msgid "You can check <a id=\"a1\">Google Family Link</a> privacy guide for teens &amp; children for details for different countries and age groups."
+#~ msgstr "Puedes leer la guía de privacidad para adolescentes y niños en <a id=\"a1\">Google Family Link</a> para conocer más detalles sobre los distintos países y grupos de edad."
 
 #~ msgctxt "worst_case"
 #~ msgid ""

@@ -273,6 +273,10 @@ msgctxt "title"
 msgid "Awards"
 msgstr "Tuzo"
 
+#~ msgctxt "body.1f1f23ae-ce17-443a-b9ab-42819cab7b66.text"
+#~ msgid "Creative Media Awards"
+#~ msgstr "Tuzo za Ubunifu za Vyombo vya Habari"
+
 #~ msgctxt "body.d88555d0-2096-4c89-92b8-4cf86f5f6b25"
 #~ msgid ""
 #~ "Mozilla exists to protect and promote the internet as a global public resource, open and accessible to all. As a critical part of this mission, Mozilla invests in the innovators working to make the "
@@ -325,10 +329,6 @@ msgstr "Tuzo"
 #~ msgctxt "body.1f1f23ae-ce17-443a-b9ab-42819cab7b66.altText"
 #~ msgid "Screen capture from Stealing Ur Feelings project"
 #~ msgstr "Picha ya mradi unaoitwa Stealing Ur Feelings"
-
-#~ msgctxt "body.1f1f23ae-ce17-443a-b9ab-42819cab7b66.text"
-#~ msgid "Creative Media Awards"
-#~ msgstr "Tuzo za Ubunifu za Vyombo vya Habari"
 
 #~ msgctxt "body.1f1f23ae-ce17-443a-b9ab-42819cab7b66.text"
 #~ msgid ""

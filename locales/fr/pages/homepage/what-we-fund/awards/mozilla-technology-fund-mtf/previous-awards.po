@@ -232,10 +232,6 @@ msgstr "<a id=\"a1\">Une liste complète des cohortes et projets passés du MTF 
 #~ msgstr "MTF"
 
 #~ msgctxt "body.2002708d-3288-450a-938d-bcdda8e48e89.accordion_items.d960eebf-4ee3-4f49-bb11-a1949762a99d.content.e5cc1cbb-12e9-473e-9134-6addf1f60932"
-#~ msgid "<a id=\"a1\">AI-Driven Air Quality Forecasting for Asunción</a> | Fernanda Carlés |Paraguay"
-#~ msgstr "<a id=\"a1\">AI-Driven Air Quality Forecasting for Asunción</a> | Fernanda Carlés |Paraguay"
-
-#~ msgctxt "body.2002708d-3288-450a-938d-bcdda8e48e89.accordion_items.d960eebf-4ee3-4f49-bb11-a1949762a99d.content.e5cc1cbb-12e9-473e-9134-6addf1f60932"
 #~ msgid "<a id=\"a1\">CodeCarbon</a> | France"
 #~ msgstr "<a id=\"a1\">CodeCarbon</a> | France"
 
@@ -252,6 +248,10 @@ msgstr "<a id=\"a1\">Une liste complète des cohortes et projets passés du MTF 
 #~ msgctxt "body.2002708d-3288-450a-938d-bcdda8e48e89.accordion_items.d960eebf-4ee3-4f49-bb11-a1949762a99d.content.e5cc1cbb-12e9-473e-9134-6addf1f60932"
 #~ msgid "<a id=\"a1\">Estimating  and Validating PM2.5 Levels Using Satellite and Ground Observations in  Selected African Cities for Environmental Justice</a> | AirQo | Uganda"
 #~ msgstr "<a id=\"a1\">Estimating and Validating PM2.5 Levels Using Satellite and Ground Observations in Selected African Cities for Environmental Justice</a> | AirQo | Ouganda"
+
+#~ msgctxt "body.2002708d-3288-450a-938d-bcdda8e48e89.accordion_items.d960eebf-4ee3-4f49-bb11-a1949762a99d.content.e5cc1cbb-12e9-473e-9134-6addf1f60932"
+#~ msgid "<a id=\"a1\">AI-Driven Air Quality Forecasting for Asunción</a> | Fernanda Carlés |Paraguay"
+#~ msgstr "<a id=\"a1\">AI-Driven Air Quality Forecasting for Asunción</a> | Fernanda Carlés |Paraguay"
 
 #~ msgctxt "body.2002708d-3288-450a-938d-bcdda8e48e89.accordion_items.d960eebf-4ee3-4f49-bb11-a1949762a99d.content.e5cc1cbb-12e9-473e-9134-6addf1f60932"
 #~ msgid "Leveraging AI for Environmental Justice and Environmental Impact  Assessment for Advocacy on Nuclear Energy and Policy | Center for  Justice Governance &amp; Environmental (ACTI) | Kenya"
