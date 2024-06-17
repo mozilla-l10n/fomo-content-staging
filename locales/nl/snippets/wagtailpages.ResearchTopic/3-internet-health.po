@@ -7,5 +7,9 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 678c7dd2-4ead-46ba-97da-d08f637b5c68\n"
 
 msgctxt "name"
-msgid "Internet Health"
+msgid "Internet health"
 msgstr "Internetgezondheid"
+
+#~ msgctxt "name"
+#~ msgid "Internet Health"
+#~ msgstr "Internetgezondheid"

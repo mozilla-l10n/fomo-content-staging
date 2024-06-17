@@ -7,5 +7,9 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: e2de2453-f51e-4858-95f9-c68ca003f12b\n"
 
 msgctxt "name"
-msgid "Data Governance"
-msgstr "Daten-Governance"
+msgid "Data governance &amp; stewardship"
+msgstr "Umgang mit und Verwaltung von Daten"
+
+#~ msgctxt "name"
+#~ msgid "Data Governance"
+#~ msgstr "Daten-Governance"

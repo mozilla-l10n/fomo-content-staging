@@ -566,16 +566,16 @@ msgstr ""
 #~ msgstr "Apple hat ein <a id=\"a1\">Bug-Bounty-Programm</a>."
 
 #~ msgctxt "tips_to_protect_yourself"
-#~ msgid "You can say “Hey Siri, stop listening” to turn off speech recognition for a period of time."
-#~ msgstr "Sie können sagen: „Hey Siri, hör auf, zuzuhören“, um die Spracherkennung für eine Zeit zu deaktivieren."
+#~ msgid "You can turn off location services on your HomePod, too."
+#~ msgstr "Sie können auch die Ortungsdienste auf Ihrem HomePod deaktivieren."
 
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Check out <a id=\"a1\">Apple HomePod</a> privacy controls."
 #~ msgstr "Schauen Sie sich die Datenschutzeinstellungen von <a id=\"a1\">Apple HomePod</a> an."
 
 #~ msgctxt "tips_to_protect_yourself"
-#~ msgid "You can turn off location services on your HomePod, too."
-#~ msgstr "Sie können auch die Ortungsdienste auf Ihrem HomePod deaktivieren."
+#~ msgid "You can say “Hey Siri, stop listening” to turn off speech recognition for a period of time."
+#~ msgstr "Sie können sagen: „Hey Siri, hör auf, zuzuhören“, um die Spracherkennung für eine Zeit zu deaktivieren."
 
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Before you give HomePod to someone else, you should remove it from the Home app."

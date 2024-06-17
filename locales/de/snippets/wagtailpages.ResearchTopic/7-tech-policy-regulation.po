@@ -7,5 +7,9 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 9e44cb2a-b1d2-40eb-8e2b-6c3b36f40442\n"
 
 msgctxt "name"
-msgid "Tech Policy &amp; Regulation"
+msgid "Tech policy &amp; regulation"
 msgstr "Technologie-Politik &amp;-Regulierung"
+
+#~ msgctxt "name"
+#~ msgid "Tech Policy &amp; Regulation"
+#~ msgstr "Technologie-Politik &amp;-Regulierung"

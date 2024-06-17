@@ -634,18 +634,6 @@ msgstr "Amazon Alexa utiliza el procesamiento del lenguaje natural para entender
 #~ "En <a id=\"a1\">abril de 2019</a>, se puso de manifiesto que miles de empleados, muchos de los cuales eran contratistas y algunos ni siquiera eran empleados directos de Amazon, tenían acceso a las "
 #~ "grabaciones y transcripciones de las interacciones de los usuarios con Alexa."
 
-#~ msgctxt "how_does_it_use_data_collected"
-#~ msgid "\"Information about our customers is an important part of our business, and we are not in the business of selling our customers' personal information to others.\""
-#~ msgstr "\"La información sobre nuestros consumidores es una parte importante de nuestro negocio y nuestro negocio no es vender la información personal de nuestros clientes a otros\"."
-
-#~ msgctxt "how_does_it_use_data_collected"
-#~ msgid ""
-#~ "Amazon says they <a id=\"a1\">do not sell your personal information</a>. They combine <a id=\"a2\">your voice data</a> with third-party data to answer your requests as well as to train Alexa's "
-#~ "speech recognition. You can choose to not save any voice recordings, but it will cost you some features."
-#~ msgstr ""
-#~ "Amazon dice que <a id=\"a1\">no vende tu información personal</a>. La empresa combina <a id=\"a2\">tus datos de voz</a> con datos de terceros para responder a tus solicitudes y para entrenar el "
-#~ "reconocimiento de voz de Alexa. Puedes optar por no guardar las grabaciones de voz, pero deberás renunciar a algunas funciones."
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "Oh, let’s not forget Amazon’s track record at protecting and respecting their customers' data. That raises some red flags too. Here are a few of the problems we’ve seen over the last few years. "
@@ -685,6 +673,18 @@ msgstr "Amazon Alexa utiliza el procesamiento del lenguaje natural para entender
 #~ msgstr ""
 #~ "\"En los doce meses previos a la entrada en vigor de esta Divulgación, Amazon no ha vendido información personal de los consumidores, conforme a la definición de esos términos en la Ley de "
 #~ "Privacidad del Consumidor de California\"."
+
+#~ msgctxt "how_does_it_use_data_collected"
+#~ msgid "\"Information about our customers is an important part of our business, and we are not in the business of selling our customers' personal information to others.\""
+#~ msgstr "\"La información sobre nuestros consumidores es una parte importante de nuestro negocio y nuestro negocio no es vender la información personal de nuestros clientes a otros\"."
+
+#~ msgctxt "how_does_it_use_data_collected"
+#~ msgid ""
+#~ "Amazon says they <a id=\"a1\">do not sell your personal information</a>. They combine <a id=\"a2\">your voice data</a> with third-party data to answer your requests as well as to train Alexa's "
+#~ "speech recognition. You can choose to not save any voice recordings, but it will cost you some features."
+#~ msgstr ""
+#~ "Amazon dice que <a id=\"a1\">no vende tu información personal</a>. La empresa combina <a id=\"a2\">tus datos de voz</a> con datos de terceros para responder a tus solicitudes y para entrenar el "
+#~ "reconocimiento de voz de Alexa. Puedes optar por no guardar las grabaciones de voz, pero deberás renunciar a algunas funciones."
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""

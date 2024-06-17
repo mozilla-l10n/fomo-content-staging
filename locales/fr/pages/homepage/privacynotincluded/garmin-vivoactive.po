@@ -470,10 +470,6 @@ msgstr ""
 #~ msgstr "Faites très attention avec qui vous avez choisi de partager vos données bien-être Garmin."
 
 #~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Keep your app regularly updated."
-#~ msgstr "Mettez votre application à jour régulièrement"
-
-#~ msgctxt "tips_to_protect_yourself"
 #~ msgid "When you no longer use the app, go to \"Delete account\" in the app menu."
 #~ msgstr "Lorsque vous n’utilisez plus l’application, accédez à « Supprimer le compte » dans le menu de l’application"
 
@@ -481,6 +477,10 @@ msgstr ""
 #~ msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images and videos)."
 #~ msgstr ""
 #~ "Utilisez les contrôles de confidentialité de votre appareil pour limiter l’accès à vos informations personnelles via l’application (ne donnez pas accès à votre caméra, microphone, images et vidéos)"
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Keep your app regularly updated."
+#~ msgstr "Mettez votre application à jour régulièrement"
 
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid ""

@@ -716,6 +716,10 @@ msgstr ""
 #~ msgid "Google uses natural language processing to understand you and to generate answers to your requests."
 #~ msgstr "Google utiliza el procesamiento del lenguaje natural para entenderte y ser capaz de generar respuestas adecuadas a tus solicitudes."
 
+#~ msgctxt "child_safety_blurb"
+#~ msgid "You can check <a id=\"a1\">Google Family Link</a> privacy guide for teens &amp; children for details for different countries and age groups."
+#~ msgstr "Puedes leer la guía de privacidad para adolescentes y niños en <a id=\"a1\">Google Family Link</a> para conocer más detalles sobre los distintos países y grupos de edad."
+
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "Of course, Google uses your personal information to sell those targeted, personalized ads you see all over the place like in your Gmail, in your favorite Solitaire app, on partner websites, and on "
@@ -752,10 +756,6 @@ msgstr ""
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Turn off personalised advertisement"
 #~ msgstr "Desactiva los anuncios personalizados."
-
-#~ msgctxt "child_safety_blurb"
-#~ msgid "You can check <a id=\"a1\">Google Family Link</a> privacy guide for teens &amp; children for details for different countries and age groups."
-#~ msgstr "Puedes leer la guía de privacidad para adolescentes y niños en <a id=\"a1\">Google Family Link</a> para conocer más detalles sobre los distintos países y grupos de edad."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid "To delete Google Home search history and voice recordings: See the \"Data deletion\" section of Data security and privacy on devices that work with Assistant."

@@ -7,5 +7,9 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 806b35fa-73ad-472e-8ccd-cad626832a75\n"
 
 msgctxt "name"
-msgid "Voice Technology"
+msgid "Voice technology"
 msgstr "Spraaktechnologie"
+
+#~ msgctxt "name"
+#~ msgid "Voice Technology"
+#~ msgstr "Spraaktechnologie"

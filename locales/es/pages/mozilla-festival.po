@@ -981,6 +981,10 @@ msgstr "Ver más destacados"
 #~ msgid "Join us at MozFest House: Amsterdam for Workshops, Roundtable Discussions, and Installations from 19-21 June, 2023."
 #~ msgstr "Únete a nosotros en el «MozFest House: Amsterdam» para participar en talleres, mesas redondas e instalaciones desde el 19 al 21 de junio de 2023."
 
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.39c8eb68-f348-4377-a8da-78f38133c427.title"
+#~ msgid "Ethical Dilemma Cafe"
+#~ msgstr "Ethical Dilemma Cafe"
+
 #~ msgctxt "cta_button_label"
 #~ msgid "Secure Your House Ticket"
 #~ msgstr "Asegura tu ticket para el House"
@@ -1018,10 +1022,6 @@ msgstr "Ver más destacados"
 #~ msgstr ""
 #~ "Un desafío para desarrollar IA de manera responsable es ocuparse de las maneras en que las dinámicas de poder influyen en la creación de los sistemas de IA. Usando objetos de límite, la dinámica de "
 #~ "poder en las IA se vuelve tangible e interactiva incluso para quienes no tienen experiencia en tecnologías."
-
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.39c8eb68-f348-4377-a8da-78f38133c427.title"
-#~ msgid "Ethical Dilemma Cafe"
-#~ msgstr "Ethical Dilemma Cafe"
 
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.39c8eb68-f348-4377-a8da-78f38133c427.body"
 #~ msgid "Grab a hot drink, explore installations, listen to related talks and join workshops that raise the issues we face with data today. What personal data would you give up for a free hot drink?"
@@ -1103,10 +1103,6 @@ msgstr "Ver más destacados"
 #~ msgid "https://www.discord.gg/mozfest"
 #~ msgstr "https://www.discord.gg/mozfest"
 
-#~ msgctxt "body.cbd9dade-f9db-430f-b9db-1878ae41da1e.title"
-#~ msgid "Join us on Discord"
-#~ msgstr "Únete a nosotros en Discord"
-
 #~ msgctxt "search_description"
 #~ msgid "Activists in the internet health movement will gather at MozFest to move the needle in tech, art, social responsibility, ethics, and AI. Will you join us in September 2023?"
 #~ msgstr ""
@@ -1115,35 +1111,6 @@ msgstr "Ver más destacados"
 #~ msgctxt "cta_button_label"
 #~ msgid "Join MozFest on Discord"
 #~ msgstr "Únete a MozFest en Discord"
-
-#~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.c1c6a511-801f-40cc-87bb-9674796b1fee.highlighted_metadata"
-#~ msgid "Virtual Gathering"
-#~ msgstr "Reunión virtual"
-
-#~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.c1c6a511-801f-40cc-87bb-9674796b1fee.metadata"
-#~ msgid "16th April, 3pm UTC"
-#~ msgstr "16 de abril, 3:00 p. m. UTC"
-
-#~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.60acfad0-4131-47ee-a01b-114f49db5ba0.highlighted_metadata"
-#~ msgid "Virtual Gathering"
-#~ msgstr "Reunión virtual"
-
-#~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.60acfad0-4131-47ee-a01b-114f49db5ba0.metadata"
-#~ msgid "30th April, 3pm UTC"
-#~ msgstr "30 de abril, 3:00 p. m. UTC"
-
-#~ msgctxt "body.cbd9dade-f9db-430f-b9db-1878ae41da1e.text"
-#~ msgid "Join Mozilla Festival on Discord and engage year-round with diverse global movements, collaborate on Trustworthy AI, and stay updated with exclusive news and events."
-#~ msgstr ""
-#~ "Únete al Festival Mozilla en Discord y participa durante todo el año con diversos movimientos globales, colabora en Trustworthy AI y mantente al día sobre las noticias y los eventos exclusivos."
-
-#~ msgctxt "body.cbd9dade-f9db-430f-b9db-1878ae41da1e.url_label"
-#~ msgid "Join the Discord"
-#~ msgstr "Únete a Discord"
-
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.898f5bea-0a5a-4758-b9cd-2e188c8ecffe.title"
-#~ msgid "African Feminism in Big Social Data: Why We Must Advance Radical Care in Digital Activism Engagement"
-#~ msgstr "El feminismo africano en los macrodatos sociales: Por qué debemos promover el cuidado radical al participar en el activismo digital"
 
 #~ msgctxt "body.cbd9dade-f9db-430f-b9db-1878ae41da1e.altText"
 #~ msgid "a crowd of attendees at MozFest cheering"
@@ -1177,6 +1144,23 @@ msgstr "Ver más destacados"
 #~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
 #~ msgid "Sign up to below to become a Festival Insider to be the first to know about upcoming opportunities, resources, and news about MozFest all-year-round."
 #~ msgstr "Regístrate a continuación para convertirte en un Insider del Festival y estar entre los primeros en conocer las próximas oportunidades, recursos y noticias del MozFest durante todo el año."
+
+#~ msgctxt "body.cbd9dade-f9db-430f-b9db-1878ae41da1e.title"
+#~ msgid "Join us on Discord"
+#~ msgstr "Únete a nosotros en Discord"
+
+#~ msgctxt "body.cbd9dade-f9db-430f-b9db-1878ae41da1e.text"
+#~ msgid "Join Mozilla Festival on Discord and engage year-round with diverse global movements, collaborate on Trustworthy AI, and stay updated with exclusive news and events."
+#~ msgstr ""
+#~ "Únete al Festival Mozilla en Discord y participa durante todo el año con diversos movimientos globales, colabora en Trustworthy AI y mantente al día sobre las noticias y los eventos exclusivos."
+
+#~ msgctxt "body.cbd9dade-f9db-430f-b9db-1878ae41da1e.url_label"
+#~ msgid "Join the Discord"
+#~ msgstr "Únete a Discord"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.898f5bea-0a5a-4758-b9cd-2e188c8ecffe.title"
+#~ msgid "African Feminism in Big Social Data: Why We Must Advance Radical Care in Digital Activism Engagement"
+#~ msgstr "El feminismo africano en los macrodatos sociales: Por qué debemos promover el cuidado radical al participar en el activismo digital"
 
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.898f5bea-0a5a-4758-b9cd-2e188c8ecffe.body"
 #~ msgid ""
@@ -1320,6 +1304,10 @@ msgstr "Ver más destacados"
 #~ msgid "https://www.mozillafestival.org/songs-of-the-living"
 #~ msgstr "https://www.mozillafestival.org/songs-of-the-living"
 
+#~ msgctxt "body.f88eb143-861d-400a-aa1e-e04ec507c6e3.heading"
+#~ msgid "Get Your Early Bird Tickets"
+#~ msgstr "Consigue tus boletos anticipados"
+
 #~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.c1c6a511-801f-40cc-87bb-9674796b1fee.title"
 #~ msgid "Faces behind MozFest: Volunteer Spotlight"
 #~ msgstr "Caras detrás del MozFest: Voluntarios destacados"
@@ -1344,16 +1332,6 @@ msgstr "Ver más destacados"
 #~ msgid "June 11-13 2024 | Tolhuistuin | Amsterdam-Noord"
 #~ msgstr "11-13 de junio de 2024 | Tolhuistuin | Ámsterdam-Noord"
 
-#~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.60acfad0-4131-47ee-a01b-114f49db5ba0.title"
-#~ msgid "Faces Behind MozFest: Volunteer Spotlight"
-#~ msgstr "Caras detrás del MozFest: Voluntarios destacados"
-
-#~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.c1c6a511-801f-40cc-87bb-9674796b1fee.body"
-#~ msgid "Our Faces Behind MozFest series aims to showcase the incredible work members of the MozFest community accomplish year-round. Join us for a conversation with some of this year’s Wranglers."
-#~ msgstr ""
-#~ "Nuestra serie «Caras detrás del MozFest» tiene como objetivo mostrar el increíble trabajo que los miembros de la comunidad del MozFest realizan durante todo el año. Únete a nosotros para conversar "
-#~ "con algunos de los Wranglers de este año."
-
 #~ msgctxt "banner_heading"
 #~ msgid "Announcing MozFest House Amsterdam"
 #~ msgstr "Anuncio del MozFest House Ámsterdam"
@@ -1365,6 +1343,32 @@ msgstr "Ver más destacados"
 #~ msgctxt "banner_text"
 #~ msgid "The premier gathering for people working to build a better digital world."
 #~ msgstr "El principal encuentro de personas que trabajan para construir un mundo digital mejor."
+
+#~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.c1c6a511-801f-40cc-87bb-9674796b1fee.highlighted_metadata"
+#~ msgid "Virtual Gathering"
+#~ msgstr "Reunión virtual"
+
+#~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.c1c6a511-801f-40cc-87bb-9674796b1fee.metadata"
+#~ msgid "16th April, 3pm UTC"
+#~ msgstr "16 de abril, 3:00 p. m. UTC"
+
+#~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.c1c6a511-801f-40cc-87bb-9674796b1fee.body"
+#~ msgid "Our Faces Behind MozFest series aims to showcase the incredible work members of the MozFest community accomplish year-round. Join us for a conversation with some of this year’s Wranglers."
+#~ msgstr ""
+#~ "Nuestra serie «Caras detrás del MozFest» tiene como objetivo mostrar el increíble trabajo que los miembros de la comunidad del MozFest realizan durante todo el año. Únete a nosotros para conversar "
+#~ "con algunos de los Wranglers de este año."
+
+#~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.60acfad0-4131-47ee-a01b-114f49db5ba0.title"
+#~ msgid "Faces Behind MozFest: Volunteer Spotlight"
+#~ msgstr "Caras detrás del MozFest: Voluntarios destacados"
+
+#~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.60acfad0-4131-47ee-a01b-114f49db5ba0.highlighted_metadata"
+#~ msgid "Virtual Gathering"
+#~ msgstr "Reunión virtual"
+
+#~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.60acfad0-4131-47ee-a01b-114f49db5ba0.metadata"
+#~ msgid "30th April, 3pm UTC"
+#~ msgstr "30 de abril, 3:00 p. m. UTC"
 
 #~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.60acfad0-4131-47ee-a01b-114f49db5ba0.body"
 #~ msgid ""
@@ -1381,7 +1385,3 @@ msgstr "Ver más destacados"
 #~ msgctxt "body.5f7b7339-f1fe-483a-b0d4-b6e53d992dc0.title"
 #~ msgid "2024 Themes"
 #~ msgstr "Temas de 2024"
-
-#~ msgctxt "body.f88eb143-861d-400a-aa1e-e04ec507c6e3.heading"
-#~ msgid "Get Your Early Bird Tickets"
-#~ msgstr "Consigue tus boletos anticipados"

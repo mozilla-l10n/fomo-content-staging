@@ -712,26 +712,6 @@ msgstr "Regarder plus de moments forts"
 #~ msgid "<b>The deadline for the MozFest 2022 Call for Proposals has been extended.</b> <a id=\"a1\">Submit your proposal</a> by end of day November 14th."
 #~ msgstr "<b>La date limite de l’appel à propositions du MozFest 2022 a été repoussée.</b> <a id=\"a1\">Envoyez votre proposition</a> d’ici au 14 novembre au soir."
 
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.5f3890da-93a1-49ef-abe2-c014a53e81fa.title"
-#~ msgid "Proposal Support Call"
-#~ msgstr "Session d’aide pour vos propositions"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.body"
-#~ msgid "We’ll convene several CFP community calls to help you draft successful session proposals for MozFest 2022. Tuesday, 9 November 2021 - 13:00 UTC"
-#~ msgstr "Nous organiserons plusieurs sessions communautaires pour l’appel à propositions, afin de vous aider à rédiger des propositions réussies pour le MozFest 2022. Mardi 9 novembre 2021 à 13 h UTC"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.buttons.ffaf526c-5071-456a-bd0d-584400724c8d.label"
-#~ msgid "Register here"
-#~ msgstr "S’inscrire"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.5f3890da-93a1-49ef-abe2-c014a53e81fa.subheading_link.9f41aa2b-32d5-4796-af2f-23b1900c751a.label"
-#~ msgid "CFP Support"
-#~ msgstr "Aide pour l’appel à propositions"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.5f3890da-93a1-49ef-abe2-c014a53e81fa.buttons.1a0a711b-175f-4fcd-bcaf-4cb0da6596f1.label"
-#~ msgid "Register here"
-#~ msgstr "S’inscrire"
-
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.title"
 #~ msgid "Here is what's coming up next on the MozFest calendar:"
 #~ msgstr "Voici les prochains évènements du calendrier MozFest :"
@@ -743,6 +723,10 @@ msgstr "Regarder plus de moments forts"
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.subheading_link.e1aa2271-7a52-40e5-9d55-fe93f87404e0.label"
 #~ msgid "CFP Support"
 #~ msgstr "Aide pour l’appel à propositions"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.5f3890da-93a1-49ef-abe2-c014a53e81fa.title"
+#~ msgid "Proposal Support Call"
+#~ msgstr "Session d’aide pour vos propositions"
 
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.body"
 #~ msgid "We're offering a limited number of coaching sessions for Facilitators who want individual feedback on their session designs."
@@ -756,7 +740,23 @@ msgstr "Regarder plus de moments forts"
 #~ msgid "Proposal Support Call"
 #~ msgstr "Session d’aide pour vos propositions"
 
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.5f3890da-93a1-49ef-abe2-c014a53e81fa.buttons.1a0a711b-175f-4fcd-bcaf-4cb0da6596f1.label"
+#~ msgid "Register here"
+#~ msgstr "S’inscrire"
+
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.subheading_link.5cc865b6-7fb6-4069-b47f-22a271ff8289.label"
+#~ msgid "CFP Support"
+#~ msgstr "Aide pour l’appel à propositions"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.body"
+#~ msgid "We’ll convene several CFP community calls to help you draft successful session proposals for MozFest 2022. Tuesday, 9 November 2021 - 13:00 UTC"
+#~ msgstr "Nous organiserons plusieurs sessions communautaires pour l’appel à propositions, afin de vous aider à rédiger des propositions réussies pour le MozFest 2022. Mardi 9 novembre 2021 à 13 h UTC"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.7d9e9801-7c6c-49d5-9ed6-86afb1b788c0.buttons.ffaf526c-5071-456a-bd0d-584400724c8d.label"
+#~ msgid "Register here"
+#~ msgstr "S’inscrire"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.5f3890da-93a1-49ef-abe2-c014a53e81fa.subheading_link.9f41aa2b-32d5-4796-af2f-23b1900c751a.label"
 #~ msgid "CFP Support"
 #~ msgstr "Aide pour l’appel à propositions"
 
@@ -832,6 +832,10 @@ msgstr "Regarder plus de moments forts"
 #~ msgid "Nanjira Sambuli"
 #~ msgstr "Nanjira Sambuli"
 
+#~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.34d6b491-3634-4860-8c73-625492e50ec6.caption"
+#~ msgid "Nanjira Sambuli"
+#~ msgstr "Nanjira Sambuli"
+
 #~ msgctxt "body.7e194331-433a-4602-9ebf-70c350ce9ecb.text"
 #~ msgid "<b>Discover the award-winning</b> <a id=\"a1\"><b>MozFest Book</b></a>, a celebration of our past and future."
 #~ msgstr "<b>Découvrez le livre primé <a id=\"a1\">MozFest Book</a></b>, une célébration de notre passé et de notre avenir."
@@ -852,13 +856,13 @@ msgstr "Regarder plus de moments forts"
 #~ msgid "February 10, 2022 18:30 CET (UTC+1)"
 #~ msgstr "10 février 2022 18:30 CET (UTC+1)"
 
-#~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.34d6b491-3634-4860-8c73-625492e50ec6.caption"
-#~ msgid "Nanjira Sambuli"
-#~ msgstr "Nanjira Sambuli"
-
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.b0f30d0a-316a-493b-978e-e52e6f83f937.buttons.9c62ef5e-f554-41aa-8e14-22ab378b5d21.label"
 #~ msgid "Learn more"
 #~ msgstr "En savoir plus"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.title"
+#~ msgid "Catch up with MozFest On-Demand!"
+#~ msgstr "Rattrapez le MozFest à la demande !"
 
 #~ msgctxt "body.d7e32aa1-c700-4f46-9165-cdca85cb0ee4.grid_items.34d6b491-3634-4860-8c73-625492e50ec6.url"
 #~ msgid "https://www.mozillafestival.org/on-demand/previous-festivals"
@@ -891,10 +895,6 @@ msgstr "Regarder plus de moments forts"
 #~ msgctxt "cta_button_label"
 #~ msgid "Secure your ticket"
 #~ msgstr "Réservez votre billet"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.title"
-#~ msgid "Catch up with MozFest On-Demand!"
-#~ msgstr "Rattrapez le MozFest à la demande !"
 
 #~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
 #~ msgid "Tickets Now Available"
@@ -1658,6 +1658,10 @@ msgstr "Regarder plus de moments forts"
 #~ "mondiale, autrice et défenseuse des droits humains, et Christian Smalls, militant acharné des droits du travail et président du syndicat Amazon Labor Union, animée par J. Bob Alotta, vétéran de "
 #~ "l’industrie et vice-présidente des programmes internationaux chez Mozilla."
 
+#~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
+#~ msgid "Tickets Available Now"
+#~ msgstr "Les billets sont disponibles"
+
 #~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.heading"
 #~ msgid "Join The Community"
 #~ msgstr "Rejoignez la communauté"
@@ -1673,10 +1677,6 @@ msgstr "Regarder plus de moments forts"
 #~ msgctxt "body.cbd9dade-f9db-430f-b9db-1878ae41da1e.url_label"
 #~ msgid "Secure Your Ticket"
 #~ msgstr "Réservez votre billet"
-
-#~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
-#~ msgid "Tickets Available Now"
-#~ msgstr "Les billets sont disponibles"
 
 #~ msgctxt "body.cbd9dade-f9db-430f-b9db-1878ae41da1e.url"
 #~ msgid ""
@@ -1852,6 +1852,18 @@ msgstr "Regarder plus de moments forts"
 #~ msgid "Watch the Virtual after movie"
 #~ msgstr "Regarder le récap du MozFest virtuel"
 
+#~ msgctxt "body.cbd9dade-f9db-430f-b9db-1878ae41da1e.title"
+#~ msgid "Join us on Discord"
+#~ msgstr "Rejoignez-nous sur Discord"
+
+#~ msgctxt "body.cbd9dade-f9db-430f-b9db-1878ae41da1e.url_label"
+#~ msgid "Join the Discord"
+#~ msgstr "Rejoindre le Discord"
+
+#~ msgctxt "body.cbd9dade-f9db-430f-b9db-1878ae41da1e.url"
+#~ msgid "https://www.discord.gg/mozfest"
+#~ msgstr "https://www.discord.gg/mozfest"
+
 #~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.description"
 #~ msgid "Take a look back at the highlights from MozFest Virtual and MozFest House Amsterdam, from workshops to discussions to conversations from our main stages."
 #~ msgstr "Revivez les temps forts du MozFest virtuel et du MozFest House Amsterdam, des ateliers aux discussions en passant par les conversations sur les scènes principales."
@@ -1867,18 +1879,6 @@ msgstr "Regarder plus de moments forts"
 #~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.heading"
 #~ msgid "Relive MozFest"
 #~ msgstr "Revivez le MozFest"
-
-#~ msgctxt "body.cbd9dade-f9db-430f-b9db-1878ae41da1e.title"
-#~ msgid "Join us on Discord"
-#~ msgstr "Rejoignez-nous sur Discord"
-
-#~ msgctxt "body.cbd9dade-f9db-430f-b9db-1878ae41da1e.url_label"
-#~ msgid "Join the Discord"
-#~ msgstr "Rejoindre le Discord"
-
-#~ msgctxt "body.cbd9dade-f9db-430f-b9db-1878ae41da1e.url"
-#~ msgid "https://www.discord.gg/mozfest"
-#~ msgstr "https://www.discord.gg/mozfest"
 
 #~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
 #~ msgid "Join Mozilla Festival on Discord and engage year-round with diverse global movements, collaborate on Trustworthy AI, and stay updated with exclusive news and events."
@@ -2338,6 +2338,18 @@ msgstr "Regarder plus de moments forts"
 #~ msgid "https://discord.gg/mozfest?event=1204808402165829705"
 #~ msgstr "https://discord.gg/mozfest?event=1204808402165829705"
 
+#~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.c1c6a511-801f-40cc-87bb-9674796b1fee.link_url"
+#~ msgid "https://discord.gg/mozfest?event=1230652423799046156"
+#~ msgstr "https://discord.gg/mozfest?event=1230652423799046156"
+
+#~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.60acfad0-4131-47ee-a01b-114f49db5ba0.metadata"
+#~ msgid "May 21ST, 6pm UTC"
+#~ msgstr "21 mai, 18h UTC"
+
+#~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.60acfad0-4131-47ee-a01b-114f49db5ba0.link_url"
+#~ msgid "https://discord.gg/mozfest?event=1228342211490349156"
+#~ msgstr "https://discord.gg/mozfest?event=1228342211490349156"
+
 #~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.60acfad0-4131-47ee-a01b-114f49db5ba0.title"
 #~ msgid "Elections: A Test of Transparency"
 #~ msgstr "Élections : un test pour la transparence"
@@ -2366,9 +2378,9 @@ msgstr "Regarder plus de moments forts"
 #~ msgid "https://www.mozillafestival.org/songs-of-the-living"
 #~ msgstr "https://www.mozillafestival.org/songs-of-the-living"
 
-#~ msgctxt "body.a715166c-6a94-4913-aa6b-cac514a995d1"
-#~ msgid "Mozilla Festival 2024: On Togetherness &amp; Solidarity"
-#~ msgstr "Mozilla Festival 2024 : unité et solidarité"
+#~ msgctxt "body.f88eb143-861d-400a-aa1e-e04ec507c6e3.heading"
+#~ msgid "Get Your Early Bird Tickets"
+#~ msgstr "Réservez votre billet Early Bird"
 
 #~ msgctxt "banner_meta"
 #~ msgid "11-13 June 2024 | Amsterdam, NL"
@@ -2378,9 +2390,9 @@ msgstr "Regarder plus de moments forts"
 #~ msgid "https://discord.gg/mozfest?event=1220725928242450523"
 #~ msgstr "https://discord.gg/mozfest?event=1220725928242450523"
 
-#~ msgctxt "body.f88eb143-861d-400a-aa1e-e04ec507c6e3.heading"
-#~ msgid "Get Your Early Bird Tickets"
-#~ msgstr "Réservez votre billet Early Bird"
+#~ msgctxt "body.a715166c-6a94-4913-aa6b-cac514a995d1"
+#~ msgid "Mozilla Festival 2024: On Togetherness &amp; Solidarity"
+#~ msgstr "Mozilla Festival 2024 : unité et solidarité"
 
 #~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.c1c6a511-801f-40cc-87bb-9674796b1fee.body"
 #~ msgid "Our Faces Behind MozFest series aims to showcase the incredible work members of the MozFest community accomplish year-round. Join us for a conversation with some of this year’s Wranglers."
@@ -2405,10 +2417,6 @@ msgstr "Regarder plus de moments forts"
 #~ msgstr "Visages des coulisses du MozFest : rencontre avec des Wranglers"
 
 #~ msgctxt "banner_meta"
-#~ msgid "June 11-13 2024 | Tolhuistuin | Amsterdam-Noord"
-#~ msgstr "11-13 juin 2024 | Tolhuistuin | Amsterdam-Nord"
-
-#~ msgctxt "banner_meta"
 #~ msgid "June 11-13, 2024 | Amsterdam, NL"
 #~ msgstr "Du 11 au 13 juin 2024 | Amsterdam"
 
@@ -2416,17 +2424,9 @@ msgstr "Regarder plus de moments forts"
 #~ msgid "May 14th, 3pm UTC"
 #~ msgstr "14 mai, 15h UTC"
 
-#~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.c1c6a511-801f-40cc-87bb-9674796b1fee.link_url"
-#~ msgid "https://discord.gg/mozfest?event=1230652423799046156"
-#~ msgstr "https://discord.gg/mozfest?event=1230652423799046156"
-
-#~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.60acfad0-4131-47ee-a01b-114f49db5ba0.metadata"
-#~ msgid "May 21ST, 6pm UTC"
-#~ msgstr "21 mai, 18h UTC"
-
-#~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.60acfad0-4131-47ee-a01b-114f49db5ba0.link_url"
-#~ msgid "https://discord.gg/mozfest?event=1228342211490349156"
-#~ msgstr "https://discord.gg/mozfest?event=1228342211490349156"
+#~ msgctxt "banner_meta"
+#~ msgid "June 11-13 2024 | Tolhuistuin | Amsterdam-Noord"
+#~ msgstr "11-13 juin 2024 | Tolhuistuin | Amsterdam-Nord"
 
 #~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.c1c6a511-801f-40cc-87bb-9674796b1fee.title"
 #~ msgid "Faces behind MozFest: Volunteer Spotlight"

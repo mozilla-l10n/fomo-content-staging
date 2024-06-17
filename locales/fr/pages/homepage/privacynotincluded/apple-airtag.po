@@ -343,6 +343,10 @@ msgstr ""
 "Apple déclare dans sa politique de confidentialité : « Apple n’utilise pas d’algorithmes ou de méthodes de profilage pour prendre des décisions qui vous affecteraient de manière significative sans "
 "la possibilité de recourir à un jugement humain ». Apple utilise l’apprentissage automatique de différentes manières, que ce soit pour améliorer Siri ou pour améliorer la qualité de vos photos."
 
+#~ msgctxt "title"
+#~ msgid "Apple Airtag"
+#~ msgstr "Apple Airtag"
+
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "Losing your stuff stinks. Finding your stuff is amazing. Apple entered the tiny Bluetooth tracker game with their new Airtags. These little, round trackers can slip into or be attached to almost "
@@ -355,10 +359,6 @@ msgstr ""
 #~ "prononcer : « Dis Siri, où est le nounours ? ». Un haut-parleur sur le traqueur vous indiquera où il se trouve si vous êtes à portée Bluetooth. Vous pouvez également utiliser l’application Localiser"
 #~ " pour mettre à contribution la communauté mondiale de millions d’utilisateurs d’iPhone, d’iPad et de Mac pour vous aider à localiser votre petit traqueur. Et oui, il y a des problèmes de "
 #~ "confidentialité. Et effectivement, Apple a pris des mesures pour répondre à ces problèmes de confidentialité. Voilà, en espérant que ça suffise."
-
-#~ msgctxt "title"
-#~ msgid "Apple Airtag"
-#~ msgstr "Apple Airtag"
 
 #~ msgctxt "worst_case"
 #~ msgid ""

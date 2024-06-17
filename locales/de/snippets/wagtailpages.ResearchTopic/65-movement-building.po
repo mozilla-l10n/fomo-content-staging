@@ -7,5 +7,9 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: de241c9d-232e-4f3f-b35f-40c1d1db1b96\n"
 
 msgctxt "name"
-msgid "Movement Building"
-msgstr "Aufbau von Bewegungen"
+msgid "Community building"
+msgstr "Aufbau von Gemeinschaften"
+
+#~ msgctxt "name"
+#~ msgid "Movement Building"
+#~ msgstr "Aufbau von Bewegungen"

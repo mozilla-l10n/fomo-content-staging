@@ -7,5 +7,9 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 4b3ba048-50af-4d39-b0db-fd2b3c408503\n"
 
 msgctxt "name"
-msgid "AI Fairness, Accountability and Transparency"
+msgid "AI fairness, accountability, and transparency"
 msgstr "AI-earlikheid, -ferantwurdlikheid en -transparânsje"
+
+#~ msgctxt "name"
+#~ msgid "AI Fairness, Accountability and Transparency"
+#~ msgstr "AI-earlikheid, -ferantwurdlikheid en -transparânsje"

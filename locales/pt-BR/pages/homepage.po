@@ -19,12 +19,12 @@ msgid "Homepage"
 msgstr "Página inicial"
 
 msgctxt "hero_headline"
-msgid "Last Chance: Earlybird tickets for MozFest House Amsterdam"
-msgstr "Última chance: Compra antecipada de entradas para o MozFest House Amsterdam"
+msgid "MozFest House Amsterdam"
+msgstr ""
 
 msgctxt "hero_button_text"
-msgid "Sales end 22nd May"
-msgstr "As vendas terminam em 22 de maio"
+msgid "June 11-13 2024"
+msgstr ""
 
 msgctxt "spotlight_headline"
 msgid "Spotlight: The Data Futures Lab"
@@ -224,12 +224,12 @@ msgstr "Logotipo da Consumers International"
 #~ msgstr "Carros são um pesadelo de privacidade"
 
 #~ msgctxt "hero_headline"
-#~ msgid "Season 7 of our award winning podcast: IRL"
-#~ msgstr "7ª temporada do nosso podcast premiado: IRL"
-
-#~ msgctxt "hero_headline"
 #~ msgid "Cars!* (*Privacy Not Included)"
 #~ msgstr "Carros!* (*Privacidade não incluída)"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Season 7 of our award winning podcast: IRL"
+#~ msgstr "7ª temporada do nosso podcast premiado: IRL"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Which Gadgets Protect Your Privacy This Holiday Season?"
@@ -238,6 +238,10 @@ msgstr "Logotipo da Consumers International"
 #~ msgctxt "hero_headline"
 #~ msgid "WhatsApp: Update Your Product to Protect Global Elections"
 #~ msgstr "WhatsApp: Atualize seu produto para proteger eleições mundiais"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Last Chance: Earlybird tickets for MozFest House Amsterdam"
+#~ msgstr "Última chance: Compra antecipada de entradas para o MozFest House Amsterdam"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Tech Giants Not Ready for Historic Election Year"
@@ -354,6 +358,10 @@ msgstr "Logotipo da Consumers International"
 #~ msgctxt "hero_button_text"
 #~ msgid "See The 7 Winning Projects"
 #~ msgstr "Veja os 7 projetos vencedores"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Sales end 22nd May"
+#~ msgstr "As vendas terminam em 22 de maio"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Read the research"

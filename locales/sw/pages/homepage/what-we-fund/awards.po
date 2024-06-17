@@ -39,24 +39,38 @@ msgid "Current Funding Opportunities"
 msgstr "Fursa za Sasa za Ufadhili"
 
 msgctxt "body.fcfc3b3b-ff3d-4d54-81d8-5c077e49e733.altText"
+msgid "Responsible Computing Challenge logo"
+msgstr ""
+
+msgctxt "body.fcfc3b3b-ff3d-4d54-81d8-5c077e49e733.text"
+msgid "Mozilla Awards support the next generation of responsible technology builders."
+msgstr ""
+
+msgctxt "body.fcfc3b3b-ff3d-4d54-81d8-5c077e49e733.text"
+msgid "The <b>Responsible Computing Challenge</b> (RCC) supports the integration of ethics into undergraduate computing curricula in South Africa."
+msgstr ""
+
+msgctxt "body.fcfc3b3b-ff3d-4d54-81d8-5c077e49e733.text"
+msgid "<a id=\"a1\">Learn more →</a>"
+msgstr ""
+
+msgctxt "body.0407e386-d2d1-476b-ab72-40671b68880d.altText"
 msgid "Privacy image"
-msgstr "Picha ya faragha"
+msgstr ""
 
-msgctxt "body.fcfc3b3b-ff3d-4d54-81d8-5c077e49e733.text"
+msgctxt "body.0407e386-d2d1-476b-ab72-40671b68880d.text"
 msgid "Mozilla Awards galvanize open-source technology."
-msgstr "Tuzo za Mozilla zinakuza teknolojia huria."
+msgstr ""
 
-msgctxt "body.fcfc3b3b-ff3d-4d54-81d8-5c077e49e733.text"
+msgctxt "body.0407e386-d2d1-476b-ab72-40671b68880d.text"
 msgid ""
 "The <b>Mozilla Technology Fund (MTF)</b> funds technologies in the open-source and free software movement that align with Mozilla’s mission and address pressing internet health issues. "
 "<i>Applications are closed.</i>"
 msgstr ""
-"Mfuko wa Teknolojia wa <b>Mozilla (MTF)</b> hufadhili teknolojia zinazoweza kufikiwa na watu wote na harakati za programu huria zinazoendana na dhamira ya Mozilla na kushughulikia masuala mazito ya "
-"maadili mema ya mtandao. <i>Maombi yamefungwa.</i>"
 
-msgctxt "body.fcfc3b3b-ff3d-4d54-81d8-5c077e49e733.text"
+msgctxt "body.0407e386-d2d1-476b-ab72-40671b68880d.text"
 msgid "<a id=\"a1\">Learn More →</a>"
-msgstr "<a id=\"a1\">Jifunze zaidi →</a>"
+msgstr ""
 
 msgctxt "body.cae27f40-cdf5-40dc-a099-a86588eb24d4.altText"
 msgid "two people on a team looking at a computer screen"
@@ -273,10 +287,6 @@ msgctxt "title"
 msgid "Awards"
 msgstr "Tuzo"
 
-#~ msgctxt "body.1f1f23ae-ce17-443a-b9ab-42819cab7b66.text"
-#~ msgid "Creative Media Awards"
-#~ msgstr "Tuzo za Ubunifu za Vyombo vya Habari"
-
 #~ msgctxt "body.d88555d0-2096-4c89-92b8-4cf86f5f6b25"
 #~ msgid ""
 #~ "Mozilla exists to protect and promote the internet as a global public resource, open and accessible to all. As a critical part of this mission, Mozilla invests in the innovators working to make the "
@@ -329,6 +339,10 @@ msgstr "Tuzo"
 #~ msgctxt "body.1f1f23ae-ce17-443a-b9ab-42819cab7b66.altText"
 #~ msgid "Screen capture from Stealing Ur Feelings project"
 #~ msgstr "Picha ya mradi unaoitwa Stealing Ur Feelings"
+
+#~ msgctxt "body.1f1f23ae-ce17-443a-b9ab-42819cab7b66.text"
+#~ msgid "Creative Media Awards"
+#~ msgstr "Tuzo za Ubunifu za Vyombo vya Habari"
 
 #~ msgctxt "body.1f1f23ae-ce17-443a-b9ab-42819cab7b66.text"
 #~ msgid ""

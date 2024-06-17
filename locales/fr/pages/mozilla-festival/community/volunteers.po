@@ -258,6 +258,10 @@ msgstr "Billets de blog connexes"
 #~ msgstr "À propos du bénévolat virtuel au MozFest"
 
 #~ msgctxt "body.1a6f72fe-6449-4ee1-a5af-3d2457c689d2"
+#~ msgid "Send any reports concerning our <a id=\"a1\">community participation guidelines</a> to the festival safety team."
+#~ msgstr "Transmettre tout rapport concernant nos <a id=\"a1\">directives communautaire relatives à la participation</a> à l’équipe safety du festival."
+
+#~ msgctxt "body.1a6f72fe-6449-4ee1-a5af-3d2457c689d2"
 #~ msgid "As a Volunteer during MozFest Virtual, you can expect to:"
 #~ msgstr "En tant que bénévole lors du MozFest Virtual, vous pouvez vous attendre à :"
 
@@ -268,10 +272,6 @@ msgstr "Billets de blog connexes"
 #~ msgctxt "body.1a6f72fe-6449-4ee1-a5af-3d2457c689d2"
 #~ msgid "Connect people with other MozFest and technical support staff if you don’t know the answer to a question."
 #~ msgstr "Rediriger les gens vers d’autres membres du personnel du MozFest et de l’assistance technique si vous ne connaissez pas la réponse à une question."
-
-#~ msgctxt "body.1a6f72fe-6449-4ee1-a5af-3d2457c689d2"
-#~ msgid "Send any reports concerning our <a id=\"a1\">community participation guidelines</a> to the festival safety team."
-#~ msgstr "Transmettre tout rapport concernant nos <a id=\"a1\">directives communautaire relatives à la participation</a> à l’équipe safety du festival."
 
 #~ msgctxt "body.1a6f72fe-6449-4ee1-a5af-3d2457c689d2"
 #~ msgid ""

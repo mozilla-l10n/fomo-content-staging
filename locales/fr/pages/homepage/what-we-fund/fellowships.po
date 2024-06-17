@@ -501,13 +501,13 @@ msgstr "Bourses"
 #~ "Ces titulaires de bourse ont <a id=\"a1\">une expertise politique</a> et réfléchissent en profondeur à des solutions politiques innovantes mais spécifiques nécessaires pour rendre l’écosystème des "
 #~ "IA plus digne de confiance et qui examinent ces questions politiques sous un angle intersectionnel avec d’autres domaines d’action."
 
-#~ msgctxt "body.277969a4-dec9-4f06-80a1-c3f561c5bd27.text"
-#~ msgid "Apply by 22 January to be a <a id=\"a1\">Tech + Society Fellow</a>!"
-#~ msgstr "Postulez d’ici au 22 janvier pour devenir <a id=\"a1\">Tech + Society Fellow</a> !"
-
 #~ msgctxt "body.277969a4-dec9-4f06-80a1-c3f561c5bd27.altText"
 #~ msgid "megaphone"
 #~ msgstr "mégaphone"
+
+#~ msgctxt "body.277969a4-dec9-4f06-80a1-c3f561c5bd27.text"
+#~ msgid "Apply by 22 January to be a <a id=\"a1\">Tech + Society Fellow</a>!"
+#~ msgstr "Postulez d’ici au 22 janvier pour devenir <a id=\"a1\">Tech + Society Fellow</a> !"
 
 #~ msgctxt "body.d3df47b4-0395-4c95-bb18-7b06f498261d.label"
 #~ msgid "Apply to be a Senior Fellow!"

@@ -7,5 +7,9 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: fbcf7fab-202b-41c8-9f03-30eb4fa70b41\n"
 
 msgctxt "name"
-msgid "Ads Transparency"
+msgid "Ads transparency"
 msgstr "Transparânsje fan advertinsjes"
+
+#~ msgctxt "name"
+#~ msgid "Ads Transparency"
+#~ msgstr "Transparânsje fan advertinsjes"

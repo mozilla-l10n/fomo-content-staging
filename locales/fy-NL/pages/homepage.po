@@ -19,12 +19,12 @@ msgid "Homepage"
 msgstr "Startside"
 
 msgctxt "hero_headline"
-msgid "Last Chance: Earlybird tickets for MozFest House Amsterdam"
-msgstr "Lêste kâns: Earlybird-tickets foar MozFest House Amsterdam"
+msgid "MozFest House Amsterdam"
+msgstr "MozFest House Amsterdam"
 
 msgctxt "hero_button_text"
-msgid "Sales end 22nd May"
-msgstr "Ferkeap einiget op 22 maaie"
+msgid "June 11-13 2024"
+msgstr "11-13 juny 2024"
 
 msgctxt "spotlight_headline"
 msgid "Spotlight: The Data Futures Lab"
@@ -314,6 +314,10 @@ msgstr "Consumers International-logo"
 #~ msgid "Secure Yours"
 #~ msgstr "Krij no jo kaartsjes"
 
+#~ msgctxt "hero_button_text"
+#~ msgid "Secure Your Tickets Now"
+#~ msgstr "Stel n jo tickets feilich"
+
 #~ msgctxt "hero_headline"
 #~ msgid "MozFest 2023 Call For Proposals"
 #~ msgstr "MozFest 2023-oprop foar foarstellen"
@@ -337,10 +341,6 @@ msgstr "Consumers International-logo"
 #~ msgctxt "hero_headline"
 #~ msgid "Nadya Tolokonnikova, Pussy Riot Founder keynote speaker at MozFest!"
 #~ msgstr "Nadya Tolokonnikova, oprjochter fan Pussy Riot, keynote-sprekker op MozFest!"
-
-#~ msgctxt "hero_button_text"
-#~ msgid "Secure Your Tickets Now"
-#~ msgstr "Stel n jo tickets feilich"
 
 #~ msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
 #~ msgid "Tell YouTube: Give users real control over their video recommendations!"
@@ -390,6 +390,10 @@ msgstr "Consumers International-logo"
 #~ msgid "Read our reviews of relationship chatbots"
 #~ msgstr "Lês ús beoardielingen fan relaasjechatbots"
 
+#~ msgctxt "hero_headline"
+#~ msgid "Mozilla Discovers Ring Vulnerability"
+#~ msgstr "Mozilla ûntdekt Ring-kwetsberheid"
+
 #~ msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
 #~ msgid "Tell TikTok: Stop misleading Android users"
 #~ msgstr "Sis tsjin TikTok: stop mei it mislieden fan Android-brûkers"
@@ -405,10 +409,6 @@ msgstr "Consumers International-logo"
 #~ msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
 #~ msgid "Tell YouTube: Give users real control over recommendations!"
 #~ msgstr "Sis tsjin YouTube: jou brûkers echte kontrôle oer oanrekommandaasjes!"
-
-#~ msgctxt "hero_headline"
-#~ msgid "Mozilla Discovers Ring Vulnerability"
-#~ msgstr "Mozilla ûntdekt Ring-kwetsberheid"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Ring Doorbell Vulnerability? Here's What We Found"
@@ -459,16 +459,8 @@ msgstr "Consumers International-logo"
 #~ msgstr "Mozilla lûkt mei vice-presidint Harris op ta stipe fan AI fan algemien belang"
 
 #~ msgctxt "hero_headline"
-#~ msgid "Season 7 of our award winning podcast: IRL"
-#~ msgstr "Seizoen 7 fan ús priiswinnende podcast: IRL"
-
-#~ msgctxt "hero_headline"
 #~ msgid "IRL Podcast Season 7 Is Here"
 #~ msgstr "IRL-podcast seizoen 7 is hjir"
-
-#~ msgctxt "hero_button_text"
-#~ msgid "Listen Now"
-#~ msgstr "No harkje"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Cars!* (*Privacy Not Included)"
@@ -498,6 +490,14 @@ msgstr "Consumers International-logo"
 #~ msgid "Stop France From Forcing Browsers To Censor Websites"
 #~ msgstr "Stop Frankryk browsers te twingen websites te sensurearjen"
 
+#~ msgctxt "hero_headline"
+#~ msgid "Season 7 of our award winning podcast: IRL"
+#~ msgstr "Seizoen 7 fan ús priiswinnende podcast: IRL"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Listen Now"
+#~ msgstr "No harkje"
+
 #~ msgctxt "hero_button_text"
 #~ msgid "Learn how to demand better"
 #~ msgstr "Les hoe’t jo better easkje kinne"
@@ -517,6 +517,14 @@ msgstr "Consumers International-logo"
 #~ msgctxt "hero_button_text"
 #~ msgid "See The 7 Winning Projects"
 #~ msgstr "Besjoch de 7 winnende projekten"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Last Chance: Earlybird tickets for MozFest House Amsterdam"
+#~ msgstr "Lêste kâns: Earlybird-tickets foar MozFest House Amsterdam"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Sales end 22nd May"
+#~ msgstr "Ferkeap einiget op 22 maaie"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Tech Giants Not Ready for Historic Election Year"

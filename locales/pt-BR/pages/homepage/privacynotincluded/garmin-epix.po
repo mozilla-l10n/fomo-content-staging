@@ -442,14 +442,6 @@ msgstr "A Garmin diz em sua política de privacidade: \"A Garmin não toma qualq
 #~ msgstr "Você pode adicionar amigos para ver dados das atividades deles"
 
 #~ msgctxt "how_can_you_control_your_data"
-#~ msgid ""
-#~ "If you do not reside in the EEA, U.K., Switzerland, or mainland China but you believe you have a right to exercise the right to erasure of your data or any other rights under your local laws, please"
-#~ " contact Garmin International, Inc. by email at privacy@garmin.com."
-#~ msgstr ""
-#~ "Se você não reside no EEE, Reino Unido, Suíça ou China continental, mas acredita que tem o direito de solicitar a exclusão dos seus dados, bem como quaisquer outros direitos conforme as leis da sua "
-#~ "região, entre em contato com a Garmin International, Inc. por e-mail em privacy@garmin.com."
-
-#~ msgctxt "how_can_you_control_your_data"
 #~ msgid "It is unclear if all users regardless of location can get their data be deleted."
 #~ msgstr "Não está claro se todos os usuários, independentemente de onde vivem, podem excluir seus dados."
 
@@ -464,6 +456,14 @@ msgstr "A Garmin diz em sua política de privacidade: \"A Garmin não toma qualq
 #~ msgstr ""
 #~ "Se você reside no EEE, Reino Unido ou Suíça, você tem o direito, sujeito às condições estabelecidas no Regulamento Geral de Proteção de Dados (\"GDPR\") ou outra lei aplicável, de solicitar à Garmin"
 #~ " acesso e retificação ou exclusão de seus dados pessoais."
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid ""
+#~ "If you do not reside in the EEA, U.K., Switzerland, or mainland China but you believe you have a right to exercise the right to erasure of your data or any other rights under your local laws, please"
+#~ " contact Garmin International, Inc. by email at privacy@garmin.com."
+#~ msgstr ""
+#~ "Se você não reside no EEE, Reino Unido, Suíça ou China continental, mas acredita que tem o direito de solicitar a exclusão dos seus dados, bem como quaisquer outros direitos conforme as leis da sua "
+#~ "região, entre em contato com a Garmin International, Inc. por e-mail em privacy@garmin.com."
 
 #~ msgctxt "child_safety_blurb"
 #~ msgid ""

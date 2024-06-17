@@ -621,10 +621,6 @@ msgstr ""
 #~ msgid "Password isn't requires as login happens either via phone or third-party."
 #~ msgstr "L’utilisation d’un mot de passe n’est pas nécessaire, car la connexion s’effectue par téléphone ou via un compte tiers."
 
-#~ msgctxt "privacy_policy_helptext"
-#~ msgid "Includes security info"
-#~ msgstr "Inclut des informations sur la sécurité"
-
 #~ msgctxt "user_friendly_privacy_policy_helptext"
 #~ msgid "Privacy policy is pretty technical even though they claim to make it accessible."
 #~ msgstr "Bien que l’application affirme la rendre accessible, la Politique de confidentialité est assez technique."
@@ -632,6 +628,10 @@ msgstr ""
 #~ msgctxt "uses_encryption_helptext"
 #~ msgid "Tinder strengthen their encryption practices in 2018."
 #~ msgstr "Tinder utilise un chiffrement renforcé depuis juin 2018."
+
+#~ msgctxt "privacy_policy_helptext"
+#~ msgid "Includes security info"
+#~ msgstr "Inclut des informations sur la sécurité"
 
 #~ msgctxt "signup_requirement_explanation"
 #~ msgid "Phone or third-party (Facebook or Apple) are required to sign up."

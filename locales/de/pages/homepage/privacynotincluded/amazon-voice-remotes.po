@@ -597,10 +597,6 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ "Im <a id=\"a1\">April 2019</a>wurde bekannt, dass Tausende von Mitarbeitern, von denen viele Vertragsarbeiter sind und einige nicht einmal direkt bei Amazon beschäftigt sind, Zugang zu Sprach- und "
 #~ "Texttranskripten von Alexa-Interaktionen hatten."
 
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Voice recordings"
-#~ msgstr "Sprachaufnahmen"
-
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "When starting a sign-up, do not agree to tracking of your data."
 #~ msgstr "Stimmen Sie bei der Registrierung für ein Konto nicht der Nachverfolgung Ihrer Daten zu."
@@ -608,10 +604,6 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ msgctxt "user_friendly_privacy_policy_helptext"
 #~ msgid "Amazon has a complicated and difficult to navigate mess of privacy policies, privacy notices, privacy FAQs, and other privacy information."
 #~ msgstr "Amazon hat ein kompliziertes und schwer durchschaubares Durcheinander von Datenschutzrichtlinien, Datenschutzhinweisen, Datenschutz-FAQ und anderen Datenschutzinformationen"
-
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number, address"
-#~ msgstr "Name, E-Mail, Telefonnummer, Adresse"
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
@@ -752,6 +744,14 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ "zu Qualitätssicherungszwecken überprüft oder wenn wir einen Dienstleister nutzen, um Ihre Bestellung zum Drucken von Bildern aus Ihrem Amazon Photos-Konto zu erfüllen;<br/>- Bildungsinformationen, "
 #~ "z. B. Kursarbeiten, die wir auf Ihre Anweisung hin mit dem Betreiber eines Alexa-Skills für Bildungszwecke teilen; und<br/>- berufliche Informationen, z. B. wenn wir Ihre Kontodaten im Rahmen der "
 #~ "Anmeldung für ein Amazon Business-Konto an einen Dienstleister zur Überprüfung weitergeben.“"
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number, address"
+#~ msgstr "Name, E-Mail, Telefonnummer, Adresse"
+
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Voice recordings"
+#~ msgstr "Sprachaufnahmen"
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

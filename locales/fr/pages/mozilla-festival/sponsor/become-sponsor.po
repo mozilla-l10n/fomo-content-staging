@@ -343,6 +343,10 @@ msgstr "Une session de formation au MozFest"
 #~ msgstr "Sponsor présentateur (50 000 €)"
 
 #~ msgctxt "body.b540ae23-aa3d-4352-ab1e-5e6732619ced"
+#~ msgid "Interested to learning more about the festival, our community and who joins us at our events, please review our sponsor deck."
+#~ msgstr "Vous souhaitez en savoir plus sur le festival, notre communauté et qui se joint à nous lors de nos évènements, veuillez consulter notre présentation pour les sponsors."
+
+#~ msgctxt "body.b540ae23-aa3d-4352-ab1e-5e6732619ced"
 #~ msgid "Local Sponsor  ( €15,000)"
 #~ msgstr "Sponsor local ( 15 000 €)"
 
@@ -357,7 +361,3 @@ msgstr "Une session de formation au MozFest"
 #~ msgctxt "body.b540ae23-aa3d-4352-ab1e-5e6732619ced"
 #~ msgid "Room available to host a social at MozFest House as part of the festival social program"
 #~ msgstr "Une salle mise à disposition pour accueillir un évènement social au MozFest House dans le cadre du programme social du festival"
-
-#~ msgctxt "body.b540ae23-aa3d-4352-ab1e-5e6732619ced"
-#~ msgid "Interested to learning more about the festival, our community and who joins us at our events, please review our sponsor deck."
-#~ msgstr "Vous souhaitez en savoir plus sur le festival, notre communauté et qui se joint à nous lors de nos évènements, veuillez consulter notre présentation pour les sponsors."

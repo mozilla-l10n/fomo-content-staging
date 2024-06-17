@@ -331,6 +331,10 @@ msgstr ""
 "En su política de privacidad, Apple declara que: «Apple no utiliza algoritmos ni crea perfiles para tomar decisiones que te afecten significativamente sin la oportunidad de aplicar una revisión "
 "humana». Apple emplea el aprendizaje automático de muchas formas diferentes, desde mejorar Siri hasta aumentar la calidad de las fotos que tomas."
 
+#~ msgctxt "title"
+#~ msgid "Apple Airtag"
+#~ msgstr "Apple Airtag"
+
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "Losing your stuff stinks. Finding your stuff is amazing. Apple entered the tiny Bluetooth tracker game with their new Airtags. These little, round trackers can slip into or be attached to almost "
@@ -343,10 +347,6 @@ msgstr ""
 #~ " ¿dónde está mi osito?» El altavoz que se encuentra en el rastreador te permitirá saber dónde está, si te encuentras dentro del alcance del Bluetooth. También puedes usar la aplicación Find My para "
 #~ "acceder a la comunidad de millones de usuarios de iPhone, iPad y Mac de todo el mundo, que también te ayudarán a encontrar tu pequeño rastreador. Sí, hay motivos para preocuparse por la privacidad. "
 #~ "Sí, Apple ha tomado medidas para resolver estos problemas de privacidad. Esperemos que sean suficientes."
-
-#~ msgctxt "title"
-#~ msgid "Apple Airtag"
-#~ msgstr "Apple Airtag"
 
 #~ msgctxt "worst_case"
 #~ msgid ""

@@ -863,14 +863,9 @@ msgstr "Se <a id=\"a1\">dice</a> que los servicios de FitBit Coach y FitBit Care
 #~ msgid "Name, date of birth, gender, photo (optional)"
 #~ msgstr "Nombre, fecha de nacimiento, sexo, foto (opcional)"
 
-#~ msgctxt "how_does_it_use_data_collected"
-#~ msgid ""
-#~ "\"We never sell the personal information of our users. We do work with partners who provide us with advertising services as described in the Analytics and Advertising Services Provided By Others "
-#~ "section. To learn more about how these partners collect data and your options for controlling the use of your information for interest-based advertising, please read our Cookie Use statement\""
-#~ msgstr ""
-#~ "«Nunca vendemos la información personal de nuestros usuarios. Trabajamos con socios que nos brindan servicios de publicidad como se describe en la sección \"Servicios de análisis y publicidad "
-#~ "prestados por terceros\". Para obtener más información sobre cómo estos socios recopilan datos y cuáles son sus opciones para controlar el uso de su información para publicidad basada en intereses, "
-#~ "lea nuestra declaración sobre el Uso de cookies»"
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "Everyone can get their data deleted by deleting their account and waiting for 90 days,"
+#~ msgstr "Los datos de todos los usuarios se suprimen después de 90 días tras la eliminación de una cuenta por parte del usuario,"
 
 #~ msgctxt "user_friendly_privacy_policy_helptext"
 #~ msgid "Despite being acquired by Google, Fitbit keeps its own privacy policy, written in relatively simple language."
@@ -964,6 +959,15 @@ msgstr "Se <a id=\"a1\">dice</a> que los servicios de FitBit Coach y FitBit Care
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
+#~ "\"We never sell the personal information of our users. We do work with partners who provide us with advertising services as described in the Analytics and Advertising Services Provided By Others "
+#~ "section. To learn more about how these partners collect data and your options for controlling the use of your information for interest-based advertising, please read our Cookie Use statement\""
+#~ msgstr ""
+#~ "«Nunca vendemos la información personal de nuestros usuarios. Trabajamos con socios que nos brindan servicios de publicidad como se describe en la sección \"Servicios de análisis y publicidad "
+#~ "prestados por terceros\". Para obtener más información sobre cómo estos socios recopilan datos y cuáles son sus opciones para controlar el uso de su información para publicidad basada en intereses, "
+#~ "lea nuestra declaración sobre el Uso de cookies»"
+
+#~ msgctxt "how_does_it_use_data_collected"
+#~ msgid ""
 #~ "Fitbit says they can share your data with third-parties for targeted, interest-based advertising. \"We work with partners who provide us with analytics and advertising services. This includes "
 #~ "helping us understand how users interact with the Services, serving advertisements on our behalf across the internet, and measuring the performance of those advertisements. These companies may use "
 #~ "cookies and similar technologies to collect information about your interactions with the Services and other websites and applications. To learn more and about your privacy choices, please read our "
@@ -983,10 +987,6 @@ msgstr "Se <a id=\"a1\">dice</a> que los servicios de FitBit Coach y FitBit Care
 #~ "Fitbit dice que transfieren información a sus afiliados corporativos, proveedores de servicios y otros socios: «Transferimos información a nuestros afiliados corporativos, proveedores de servicios y"
 #~ " otros socios, quienes la procesan por nosotros, según nuestras instrucciones, y de conformidad con esta política y cualquier otra medida de confidencialidad y seguridad apropiada. Estos socios nos "
 #~ "brindan servicios a nivel mundial, que incluyen soporte al cliente, tecnología de la información, pagos, ventas, marketing, análisis de datos, investigación y encuestas»."
-
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid "Everyone can get their data deleted by deleting their account and waiting for 90 days,"
-#~ msgstr "Los datos de todos los usuarios se suprimen después de 90 días tras la eliminación de una cuenta por parte del usuario,"
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

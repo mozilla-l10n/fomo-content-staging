@@ -238,10 +238,6 @@ msgstr "Entradas de blog relacionadas"
 #~ msgid "Cosmos"
 #~ msgstr "Cosmos"
 
-#~ msgctxt "body.d0903664-e80f-4626-aaf6-c121c43d4ee4"
-#~ msgid "MoZone"
-#~ msgstr "MoZona"
-
 #~ msgctxt "body.fa2bb37f-c126-4c81-a4ec-3b35d57dae6c.program_type"
 #~ msgid "Education &amp; Access: You're The Product Of Data"
 #~ msgstr "Education &amp; Access: You're The Product Of Data"
@@ -285,6 +281,10 @@ msgstr "Entradas de blog relacionadas"
 #~ msgctxt "body.07802861-70a6-490a-b776-72bb05f84feb.program_type"
 #~ msgid "YouthZone"
 #~ msgstr "YouthZone"
+
+#~ msgctxt "body.d0903664-e80f-4626-aaf6-c121c43d4ee4"
+#~ msgid "MoZone"
+#~ msgstr "MoZona"
 
 #~ msgctxt "intro"
 #~ msgid "MozFest is not just an annual date on the calendar. It's a collaborative community taking action on the issues that matter most all-year long."

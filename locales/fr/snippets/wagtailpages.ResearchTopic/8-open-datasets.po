@@ -7,5 +7,9 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: dc6e6658-f4d9-4133-9437-311d103030fa\n"
 
 msgctxt "name"
-msgid "Open datasets"
-msgstr "Jeux de données ouverts"
+msgid "Responsible datasets"
+msgstr "Jeux de données responsables"
+
+#~ msgctxt "name"
+#~ msgid "Open datasets"
+#~ msgstr "Jeux de données ouverts"

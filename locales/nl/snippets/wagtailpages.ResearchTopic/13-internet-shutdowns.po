@@ -7,5 +7,9 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: 20cda07f-c130-4414-a0cf-27f03e4f6a82\n"
 
 msgctxt "name"
-msgid "Internet Shutdowns"
+msgid "Internet shutdowns"
 msgstr "Internetuitval"
+
+#~ msgctxt "name"
+#~ msgid "Internet Shutdowns"
+#~ msgstr "Internetuitval"
