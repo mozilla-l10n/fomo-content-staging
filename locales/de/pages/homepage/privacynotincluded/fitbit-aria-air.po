@@ -838,13 +838,13 @@ msgstr "FitBit Coach und FitBit Care basieren <a id=\"a1\">angeblich</a> auf mas
 #~ msgid "Everyone can get their data deleted by deleting their account and waiting for 90 days"
 #~ msgstr "Jeder kann seine Daten löschen lassen, indem er sein Konto löscht und 90 Tage wartet."
 
-#~ msgctxt "user_friendly_privacy_policy_helptext"
-#~ msgid "Despite being acquired by Google, Fitbit keeps its own privacy policy, written in relatively simple language."
-#~ msgstr "Obwohl Fitbit von Google übernommen wurde, hat das Unternehmen seine eigenen Datenschutzrichtlinien, die relativ einfach formuliert sind."
-
 #~ msgctxt "strong_password_helptext"
 #~ msgid "To create a Fitbit account, users are required to provide strong, complex, passwords during onboarding."
 #~ msgstr "Um ein Fitbit-Konto zu erstellen, müssen Benutzer während des Onboardings starke, komplexe Passwörter bereitstellen."
+
+#~ msgctxt "user_friendly_privacy_policy_helptext"
+#~ msgid "Despite being acquired by Google, Fitbit keeps its own privacy policy, written in relatively simple language."
+#~ msgstr "Obwohl Fitbit von Google übernommen wurde, hat das Unternehmen seine eigenen Datenschutzrichtlinien, die relativ einfach formuliert sind."
 
 #~ msgctxt "personal_data_collected"
 #~ msgid "Name, date of birth, gender, photo (optional)"

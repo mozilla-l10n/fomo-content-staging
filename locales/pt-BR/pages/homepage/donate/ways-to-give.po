@@ -145,8 +145,8 @@ msgstr ""
 "títulos para doar, estamos aqui para conversar!"
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
-msgid "You can either make your gift <a id=\"a1\">online</a> or contact us via <a id=\"a2\">this form</a> to initiate the process."
-msgstr ""
+msgid "You can contact us via <a id=\"a1\">this form</a> to initiate the process."
+msgstr "Você pode entrar em contato conosco através <a id=\"a1\">deste formulário</a> para iniciar o processo."
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "Employer matching"

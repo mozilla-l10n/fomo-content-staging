@@ -54,10 +54,6 @@ msgctxt "body.329143bd-e9b1-424a-93c6-fef34cc16ddd.label"
 msgid "Read the research"
 msgstr "Informacje o badaniu"
 
-msgctxt "body.329143bd-e9b1-424a-93c6-fef34cc16ddd.external_url"
-msgid "https://foundation.mozilla.org/campaigns/googles-data-safety-labels"
-msgstr "https://foundation.mozilla.org/campaigns/googles-data-safety-labels"
-
 msgctxt "body.973f8149-bac3-4c78-a022-5e095b4d719a.quote"
 msgid ""
 "Google Play Store's misleading Data Safety labels give users a false sense of security. Honest nutrition labels help us eat better. It's time we have honest data safety labels to help us better "
@@ -188,3 +184,7 @@ msgstr ""
 #~ msgstr ""
 #~ "„Historia etykiet z informacjami o wartości odżywczej pokazuje, że możliwe jest stworzenie jednolitego systemu, który zakorzeni się w kulturze i wpłynie pozytywnie na codzienne życie nas wszystkich”"
 #~ " — twierdzi Caltrider."
+
+#~ msgctxt "body.329143bd-e9b1-424a-93c6-fef34cc16ddd.external_url"
+#~ msgid "https://foundation.mozilla.org/campaigns/googles-data-safety-labels"
+#~ msgstr "https://foundation.mozilla.org/campaigns/googles-data-safety-labels"

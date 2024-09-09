@@ -862,6 +862,14 @@ msgctxt "ai_helptext"
 msgid "FitBit Coach and FitBit Care services are <a id=\"a1\">said</a> to be based on Machine Learning."
 msgstr "FitBit Coach und FitBit Care basieren <a id=\"a1\">angeblich</a> auf maschinellem Lernen."
 
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Heart rate, movement, sleep data, menstrual cycle, and more"
+#~ msgstr "Herzfrequenz, Bewegung, Schlafdaten, Menstruationszyklus und mehr"
+
+#~ msgctxt "social_data_collected"
+#~ msgid "Fitbit connections"
+#~ msgstr "Fitbit Verbindungen"
+
 #~ msgctxt "user_friendly_privacy_policy_helptext"
 #~ msgid "Despite being acquired by Google, Fitbit keeps its own privacy policy, written in relatively simple language."
 #~ msgstr "Obwohl Fitbit von Google übernommen wurde, hat das Unternehmen seine eigenen Datenschutzrichtlinien, die relativ einfach formuliert sind."
@@ -873,14 +881,6 @@ msgstr "FitBit Coach und FitBit Care basieren <a id=\"a1\">angeblich</a> auf mas
 #~ msgctxt "personal_data_collected"
 #~ msgid "Name, date of birth, gender, photo (optional)"
 #~ msgstr "Name, Geburtsdatum, Geschlecht, Foto (optional)"
-
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Heart rate, movement, sleep data, menstrual cycle, and more"
-#~ msgstr "Herzfrequenz, Bewegung, Schlafdaten, Menstruationszyklus und mehr"
-
-#~ msgctxt "social_data_collected"
-#~ msgid "Fitbit connections"
-#~ msgstr "Fitbit Verbindungen"
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid "Everyone can get their data deleted by deleting their account and waiting for 90 days,"

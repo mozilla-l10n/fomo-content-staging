@@ -356,16 +356,16 @@ msgstr ""
 "personnelles, nous les supprimerons dans la mesure requise par la loi Children’s Online Privacy Protection Act. »"
 
 #~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Ensure you have a strong password"
-#~ msgstr "Assurez-vous d’avoir un mot de passe fort"
-
-#~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Do not allow third-party tools access to your medical data"
 #~ msgstr "N’autorisez pas les outils tiers à accéder à vos données médicales"
 
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Do not give permission to combine your data with other third-party data, or to use it for research"
 #~ msgstr "Ne donnez pas la permission de combiner vos données avec d’autres données tierces, ni de les utiliser à des fins de recherche"
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Ensure you have a strong password"
+#~ msgstr "Assurez-vous d’avoir un mot de passe fort"
 
 #~ msgctxt "personal_data_collected"
 #~ msgid "Name, mailing address, e-mail address, telephone, location"

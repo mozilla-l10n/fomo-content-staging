@@ -24,12 +24,12 @@ msgid "Homepage"
 msgstr "Page d’accueil"
 
 msgctxt "hero_headline"
-msgid "MozFest House Amsterdam"
-msgstr "MozFest House Amsterdam"
+msgid "TikTok Lite Lacks Key Safety Features, Fails Global Majority"
+msgstr "TikTok Lite manque de sécurité et néglige une majorité d’utilisateurs·trices"
 
 msgctxt "hero_button_text"
-msgid "June 11-13 2024"
-msgstr "Du 11 au 13 juin 2024"
+msgid "Read Our Research"
+msgstr "Lire notre étude"
 
 msgctxt "spotlight_headline"
 msgid "Spotlight: The Data Futures Lab"
@@ -72,20 +72,36 @@ msgid "Take action"
 msgstr "Passez à l’action"
 
 msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
-msgid "Tell WhatsApp: Act to Protect Elections"
-msgstr "Dites-le à WhatsApp : agissez pour protéger les élections"
+msgid "Tell Bumble: Don’t sell or share users’ data without permission."
+msgstr "Demandez à Bumble de ne pas vendre ou partager les données de ses utilisateurs·trices sans leur permission."
+
+msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.cta"
+msgid "Sign now"
+msgstr "Signer la pétition"
 
 msgctxt "take_action_cards.046f1c00-6873-4bdb-a623-32c6cc18e068.text"
-msgid "Join our global movement for privacy rights."
-msgstr "Rejoignez notre mouvement mondial pour le respect de la vie privée."
+msgid "Tell Meta: Don't Kill Your Crucial Transparency Tool, CrowdTangle!"
+msgstr "Dites à Meta de ne pas supprimer CrowdTangle, l’outil essentiel pour la transparence en ligne !"
 
-msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
-msgid "Car Companies: Stop Your Data Collection Programs"
-msgstr "Constructeurs automobiles : arrêtez de recueillir nos données !"
+msgctxt "take_action_cards.046f1c00-6873-4bdb-a623-32c6cc18e068.cta"
+msgid "Sign now"
+msgstr "Signer la pétition"
 
 msgctxt "take_action_cards.5ae600cc-b1a4-43b2-852f-d2ce8396cbe1.text"
 msgid "Tell OpenAI, Google, and Microsoft: Provide transparency about the data used to train your AI tools!"
 msgstr "Demandez à OpenAI, Google et Microsoft d’être transparents sur les données utilisées pour entraîner leurs outils d’IA !"
+
+msgctxt "take_action_cards.5ae600cc-b1a4-43b2-852f-d2ce8396cbe1.cta"
+msgid "Sign now"
+msgstr "Signer la pétition"
+
+msgctxt "take_action_cards.b2c17bff-53d9-44fe-a882-7603d821585c.text"
+msgid "TikTok Lite Lacks Critical Safety Features, Neglects Global Majority Users"
+msgstr "TikTok Lite manque de fonctions de sécurité et néglige la majorité des utilisateurs dans le monde"
+
+msgctxt "take_action_cards.b2c17bff-53d9-44fe-a882-7603d821585c.cta"
+msgid "Learn more"
+msgstr "En savoir plus"
 
 msgctxt "partner_logos.27a519d5-cbc2-4e21-af63-5e80a198ecf6.name"
 msgid "Ford Foundation logo"
@@ -174,6 +190,10 @@ msgstr "Logo de Consumers International"
 #~ msgctxt "hero_headline"
 #~ msgid "*Privacy Not Included — Reproductive Health Apps Edition"
 #~ msgstr "*Confidentialité non incluse, spécial applications de santé reproductive"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Mozilla’s J. Bob Alotta Named to Fast Company Queer 50 List"
+#~ msgstr "J. Bob Alotta de Mozilla nommée dans la liste Queer 50 de Fast Company"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Does YouTube’s Dislike Button Even Work?"
@@ -288,6 +308,10 @@ msgstr "Logo de Consumers International"
 #~ msgstr "Les voitures sont un véritable cauchemar sur le plan de la vie privée"
 
 #~ msgctxt "hero_headline"
+#~ msgid "Join our global movement for privacy rights."
+#~ msgstr "Rejoignez notre mouvement mondial pour le respect de la vie privée."
+
+#~ msgctxt "hero_headline"
 #~ msgid "Mozilla Joins Vice President Harris to Support Public Public Interest AI"
 #~ msgstr "Mozilla rejoint l’initiative de la vice-présidente des États-Unis pour favoriser l’IA d’utilité publique"
 
@@ -340,6 +364,10 @@ msgstr "Logo de Consumers International"
 #~ msgstr "Les initiatives électorales des plateformes sont inefficaces à l’international"
 
 #~ msgctxt "hero_headline"
+#~ msgid "Mona Chalabi Live at MozFest House Amsterdam: We Are Data"
+#~ msgstr "Mona Chalabi en direct du MozFest House Amsterdam : We are data"
+
+#~ msgctxt "hero_headline"
 #~ msgid "Last Chance: Earlybird tickets for MozFest House Amsterdam"
 #~ msgstr "Dernière chance : billets à tarif préférentiel pour le MozFest House Amsterdam"
 
@@ -356,12 +384,16 @@ msgstr "Logo de Consumers International"
 #~ msgstr "Les applications de rencontre sont un véritable cauchemar pour votre vie privée"
 
 #~ msgctxt "hero_headline"
-#~ msgid "Mona Chalabi Live at MozFest House Amsterdam: We Are Data"
-#~ msgstr "Mona Chalabi en direct du MozFest House Amsterdam : We are data"
+#~ msgid "MozFest House Amsterdam"
+#~ msgstr "MozFest House Amsterdam"
 
 #~ msgctxt "hero_headline"
 #~ msgid "WhatsApp: Update Your Product to Protect Global Elections"
 #~ msgstr "WhatsApp : mettez à jour vos produits pour protéger les élections mondiales"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Bumble may be selling your deeply personal data for profit."
+#~ msgstr "Bumble pourrait vendre vos données très personnelles dans un but lucratif."
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Findings"
@@ -520,6 +552,10 @@ msgstr "Logo de Consumers International"
 #~ msgstr "Lire l’étude"
 
 #~ msgctxt "hero_button_text"
+#~ msgid "RSVP on LinkedIn"
+#~ msgstr "Confirmez votre participation sur LinkedIn"
+
+#~ msgctxt "hero_button_text"
 #~ msgid "Sales end 22nd May"
 #~ msgstr "En vente jusqu’au 22 mai"
 
@@ -532,12 +568,16 @@ msgstr "Logo de Consumers International"
 #~ msgstr "Découvrez pourquoi"
 
 #~ msgctxt "hero_button_text"
-#~ msgid "RSVP on LinkedIn"
-#~ msgstr "Confirmez votre participation sur LinkedIn"
+#~ msgid "June 11-13 2024"
+#~ msgstr "Du 11 au 13 juin 2024"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Add Your Name"
 #~ msgstr "Signer la pétition"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Tell Bumble to stop"
+#~ msgstr "Demandez à Bumble d’arrêter"
 
 #~ msgctxt "spotlight_headline"
 #~ msgid "What To Know About Venmo"
@@ -591,6 +631,10 @@ msgstr "Logo de Consumers International"
 #~ msgid "Microsoft: Are You Using Customer Data To Train AI?"
 #~ msgstr "Microsoft : utilisez-vous les données des clients pour entraîner une IA ?"
 
+#~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
+#~ msgid "Tell WhatsApp: Act to Protect Elections"
+#~ msgstr "Dites-le à WhatsApp : agissez pour protéger les élections"
+
 #~ msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
 #~ msgid "Tell YouTube: Give users real control over their video recommendations!"
 #~ msgstr "Dites-le à YouTube : laissez les internautes contrôler leurs recommandations vidéo !"
@@ -623,6 +667,18 @@ msgstr "Logo de Consumers International"
 #~ msgid "Tell YouTube: Give users real control over recommendations!"
 #~ msgstr "Dites-le à YouTube : laissez les internautes contrôler leurs recommandations !"
 
+#~ msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
+#~ msgid "Car Companies: Stop Your Data Collection Programs"
+#~ msgstr "Constructeurs automobiles : arrêtez de recueillir nos données !"
+
+#~ msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
+#~ msgid "Tell WhatsApp: Act to Protect Global Elections!"
+#~ msgstr "Dites-le à WhatsApp : agissez pour protéger les élections du monde entier !"
+
 #~ msgctxt "take_action_cards.9081a0e2-ecd6-4faf-bf73-97151ff38a67.text"
 #~ msgid "Tell Microsoft &amp; Google: Only train AI models on users’ data if they opt in!"
 #~ msgstr "Dites-le à Microsoft et à Google : n’entraînez vos modèles d’IA qu’avec les données des utilisateurs qui l’acceptent !"
+
+#~ msgctxt "take_action_cards.046f1c00-6873-4bdb-a623-32c6cc18e068.text"
+#~ msgid "Join our global movement for privacy rights."
+#~ msgstr "Rejoignez notre mouvement mondial pour le respect de la vie privée."

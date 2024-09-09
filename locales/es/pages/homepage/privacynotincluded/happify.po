@@ -301,18 +301,18 @@ msgstr "«Anna está aquí para orientarte en la dirección correcta y para ayud
 #~ "usuario usando otros elementos, como los identificadores de dispositivos y los datos de ubicación, los cuales Happify dice que puede recopilar."
 
 #~ msgctxt "how_does_it_use_data_collected"
+#~ msgid "Happify™ reserves the right to transfer and/or sell aggregate or group data about Happify™ users (including Usage Data not linked to Personal Information) for lawful purposes."
+#~ msgstr ""
+#~ "Happify™ se reserva el derecho de transferir o vender datos agregados o grupales sobre los usuarios de Happify™ (incluyendo los datos de uso no vinculados a la información personal) para fines "
+#~ "legales."
+
+#~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
 #~ "Happify Health will never sell, rent, exchange or barter your Personal Information to or with any third party for financial gain or marketing purposes. However, they can use your Usage Data on an "
 #~ "aggregate and anonymous basis to promote Happify Health to third parties."
 #~ msgstr ""
 #~ "Happify Health nunca venderá, alquilará, intercambiará ni permutará tus datos personales con terceros para obtener ganancias financieras o con fines de marketing. Sin embargo, la empresa puede "
 #~ "utilizar tus datos de uso de forma agregada y anonimizada con el fin de promocionar Happify Health a terceros."
-
-#~ msgctxt "how_does_it_use_data_collected"
-#~ msgid "Happify™ reserves the right to transfer and/or sell aggregate or group data about Happify™ users (including Usage Data not linked to Personal Information) for lawful purposes."
-#~ msgstr ""
-#~ "Happify™ se reserva el derecho de transferir o vender datos agregados o grupales sobre los usuarios de Happify™ (incluyendo los datos de uso no vinculados a la información personal) para fines "
-#~ "legales."
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""

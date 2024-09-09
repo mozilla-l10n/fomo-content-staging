@@ -8,12 +8,12 @@ msgstr ""
 
 msgctxt "name"
 msgid "Mozilla News"
-msgstr ""
+msgstr "Notícias da Mozilla"
 
 msgctxt "title"
 msgid "Mozilla News"
-msgstr ""
+msgstr "Notícias da Mozilla"
 
 msgctxt "intro"
 msgid "Sharing news, updates, and announcements from Mozilla"
-msgstr ""
+msgstr "Divulgação de notícias, novidades e anúncios da Mozilla"

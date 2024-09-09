@@ -769,12 +769,6 @@ msgstr ""
 #~ "id=\"a2\">https://ai.google/tools/</a> Si quieres obtener más información sobre la detección de rostros familiares, ingresa a: <a id=\"a3\">https://support.google.com/googlenest/answer/9268625</a>"
 
 #~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Delete your historical data from time to time. You can do this by saying, “Hey Google, delete this week’s activity.” or \"Hey Google, that wasn't for you\" to delete the last thing you said."
-#~ msgstr ""
-#~ "Elimina tus datos históricos de vez en cuando. Puedes hacerlo diciendo: «OK, Google, elimina la actividad de esta semana» o, si deseas eliminar lo último que dijiste, «OK, Google, eso no era para "
-#~ "ti»."
-
-#~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Visit privacy &amp; security controls to adjust the amount of data collected."
 #~ msgstr "Visita los controles de privacidad y seguridad para ajustar la cantidad de datos que pueden ser recopilados."
 
@@ -785,6 +779,12 @@ msgstr ""
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Keep your app regularly updated."
 #~ msgstr "Actualiza tu aplicación con regularidad."
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Delete your historical data from time to time. You can do this by saying, “Hey Google, delete this week’s activity.” or \"Hey Google, that wasn't for you\" to delete the last thing you said."
+#~ msgstr ""
+#~ "Elimina tus datos históricos de vez en cuando. Puedes hacerlo diciendo: «OK, Google, elimina la actividad de esta semana» o, si deseas eliminar lo último que dijiste, «OK, Google, eso no era para "
+#~ "ti»."
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid "Google says they keep video footage, audio recordings, and home environment sensor readings separate from advertising, and they won’t use this data for ad personalization."

@@ -680,14 +680,6 @@ msgstr ""
 "Google <a id=\"a1\">plant</a> , das generative KI-Produkt Bard zu seinen Home-Produkten hinzuzufügen. Google verwendet auch natürliche Sprachverarbeitung, um Sie zu verstehen und Antworten auf Ihre "
 "Anfragen zu generieren."
 
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number, address."
-#~ msgstr "Name, E-Mail, Telefonnummer, Adresse"
-
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Voice recordings"
-#~ msgstr "Sprachaufnahmen"
-
 #~ msgctxt "ai_helptext"
 #~ msgid "Google publishes academic papers about it's AI research (<a id=\"a1\">https://ai.google/</a>) and makes several tools available via open source."
 #~ msgstr "Google veröffentlicht akademische Paper über seine KI-Forschung (<a id=\"a1\">https://ai.google/</a>) und stellt mehrere Tools via Open Source zur Verfügung."
@@ -695,6 +687,14 @@ msgstr ""
 #~ msgctxt "user_friendly_privacy_policy_helptext"
 #~ msgid "Google provides a page with privacy information about Nest."
 #~ msgstr "Google stellt eine Seite mit Datenschutzinformationen zu Nest bereit."
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number, address."
+#~ msgstr "Name, E-Mail, Telefonnummer, Adresse"
+
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Voice recordings"
+#~ msgstr "Sprachaufnahmen"
 
 #~ msgctxt "ai_what_can_it_do"
 #~ msgid "Google uses natural language processing to understand you and to generate answers to your requests."

@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "name"
 msgid "Tech policy &amp; regulation"
-msgstr ""
+msgstr "Política e regulação de tecnologia"
 
 #~ msgctxt "name"
 #~ msgid "Tech Policy &amp; Regulation"

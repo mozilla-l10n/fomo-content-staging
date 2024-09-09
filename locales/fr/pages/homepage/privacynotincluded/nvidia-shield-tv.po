@@ -277,10 +277,6 @@ msgctxt "ai_what_can_it_do"
 msgid "SHIELD delivers AI powered upscaling, capable of intelligently scaling lower resolution video to your TV’s native resolution."
 msgstr "SHIELD offre une mise à l’échelle optimisée par l’IA, capable de mettre à l’échelle intelligemment une vidéo de résolution inférieure à la résolution native de votre téléviseur."
 
-#~ msgctxt "track_record_details"
-#~ msgid "No known incidents in the last 3 years."
-#~ msgstr "Aucun incident connu au cours des 3 dernières années."
-
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "If you want an Android TV streaming box with features like Dolby Vision and Atmos, 4K HDR and AI-upscaling, and a customizable remote, then Nvidia's Shield TV and Shield TV Pro are for you. It's got"
@@ -345,3 +341,7 @@ msgstr "SHIELD offre une mise à l’échelle optimisée par l’IA, capable de 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid "You can request that data be deleted."
 #~ msgstr "Vous pouvez demander la suppression des données."
+
+#~ msgctxt "track_record_details"
+#~ msgid "No known incidents in the last 3 years."
+#~ msgstr "Aucun incident connu au cours des 3 dernières années."

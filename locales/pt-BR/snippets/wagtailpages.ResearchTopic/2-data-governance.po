@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "name"
 msgid "Data governance &amp; stewardship"
-msgstr ""
+msgstr "Governança e administração de dados"
 
 #~ msgctxt "name"
 #~ msgid "Data Governance"

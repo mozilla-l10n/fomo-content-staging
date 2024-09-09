@@ -154,14 +154,14 @@ msgid "Donate to Build Mozilla's TikTok Reporter App"
 msgstr "Faites un don pour permettre à Mozilla de développer l’application TikTok Reporter"
 
 #~ msgctxt "body.87f199f3-6a32-47d1-a20e-b2eef243a047.text"
+#~ msgid "<a id=\"a1\"><b>Donate now</b></a>"
+#~ msgstr "<a id=\"a1\"><b>Faire un don</b></a>"
+
+#~ msgctxt "body.87f199f3-6a32-47d1-a20e-b2eef243a047.text"
 #~ msgid "To do that, we need your support to raise $100,000 by July 30th to support our research and advocacy efforts, including the development of a TikTok crowdsourcing tool."
 #~ msgstr ""
 #~ "Pour ce faire, nous avons besoin de votre soutien pour collecter 100 000 $ d’ici au 30 juillet, afin de soutenir nos recherches et nos efforts de sensibilisation, notamment le développement de "
 #~ "l’application participative pour TikTok."
-
-#~ msgctxt "body.87f199f3-6a32-47d1-a20e-b2eef243a047.text"
-#~ msgid "<a id=\"a1\"><b>Donate now</b></a>"
-#~ msgstr "<a id=\"a1\"><b>Faire un don</b></a>"
 
 #~ msgctxt "body.7545d0a5-71b3-46d7-80b0-c427499db5a7.text"
 #~ msgid "We need your support to raise $100,000 by July 30th to support our research and advocacy efforts, including the development of a TikTok RegretsReporter tool."

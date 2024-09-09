@@ -283,6 +283,18 @@ msgctxt "ai_what_can_it_do"
 msgid "Wysa decides what kind of help/content to provide you."
 msgstr "Wysa decide qué tipo de ayuda o contenidos proporcionarte."
 
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "Where not specified Wysa retains your data for a maximum of 10 years since the end of subscription and as per their information retention policies."
+#~ msgstr "Donde no se especifique, Wysa conservará tus datos durante un máximo de 10 años desde el final de la suscripción y de acuerdo con sus políticas de retención de datos."
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "You can also, at any point of time, clear all your transactional data by using the “reset my data” feature available in the App settings."
+#~ msgstr "Tienes la opción de borrar todos tus datos transaccionales en cualquier momento, utilizando la función «restablecer mis datos» disponible en la configuración de la aplicación."
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "You can exercise the wide range of rights, including rights of access and right to erasure."
+#~ msgstr "Puedes ejercer una amplia gama de derechos, que incluyen los derechos de acceso y de eliminación."
+
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "Wysa describes itself as \"an emotionally intelligent chatbot that uses AI to react to the emotions you express.\" Launched in 2016 by founder Jo Aggarwal, who discovered <a id=\"a1\">bots were "
@@ -357,24 +369,12 @@ msgstr "Wysa decide qué tipo de ayuda o contenidos proporcionarte."
 #~ msgstr "Wysa proporciona una extensa sección de preguntas frecuentes (FAQ) de privacidad."
 
 #~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Wysa provides the following <a id=\"a1\">security tips</a>:"
-#~ msgstr "Wysa proporciona los siguientes <a id=\"a1\">consejos de seguridad</a>:"
-
-#~ msgctxt "tips_to_protect_yourself"
 #~ msgid "For extra security, you can use the app without registering."
 #~ msgstr "Para mayor seguridad, puedes usar la aplicación sin registrarte."
 
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid "Where not specified Wysa retains your data for a maximum of 10 years since the end of subscription and as per their information retention policies."
-#~ msgstr "Donde no se especifique, Wysa conservará tus datos durante un máximo de 10 años desde el final de la suscripción y de acuerdo con sus políticas de retención de datos."
-
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid "You can also, at any point of time, clear all your transactional data by using the “reset my data” feature available in the App settings."
-#~ msgstr "Tienes la opción de borrar todos tus datos transaccionales en cualquier momento, utilizando la función «restablecer mis datos» disponible en la configuración de la aplicación."
-
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid "You can exercise the wide range of rights, including rights of access and right to erasure."
-#~ msgstr "Puedes ejercer una amplia gama de derechos, que incluyen los derechos de acceso y de eliminación."
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Wysa provides the following <a id=\"a1\">security tips</a>:"
+#~ msgstr "Wysa proporciona los siguientes <a id=\"a1\">consejos de seguridad</a>:"
 
 #~ msgctxt "child_safety_blurb"
 #~ msgid ""

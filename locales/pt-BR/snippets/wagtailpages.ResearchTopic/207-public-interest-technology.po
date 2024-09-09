@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Public interest technology"
-msgstr ""
+msgstr "Tecnologia de interesse público"

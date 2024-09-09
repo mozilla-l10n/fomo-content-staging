@@ -152,8 +152,8 @@ msgstr ""
 " de recevoir d’autres types de titres : n’hésitez pas à nous contacter."
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
-msgid "You can either make your gift <a id=\"a1\">online</a> or contact us via <a id=\"a2\">this form</a> to initiate the process."
-msgstr "Vous pouvez faire un don <a id=\"a1\">en ligne</a> ou nous contacter via <a id=\"a2\">ce formulaire</a> pour initier la démarche."
+msgid "You can contact us via <a id=\"a1\">this form</a> to initiate the process."
+msgstr "Vous pouvez nous contacter via <a id=\"a1\">ce formulaire</a> pour initier la démarche."
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "Employer matching"
@@ -261,6 +261,10 @@ msgstr "Si vous avez d’autres questions d’ordre général ou besoin d’aide
 #~ msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 #~ msgid "Mozilla Foundation<br/>149 New Montgomery St 4th Floor<br/>San Francisco, CA 94105"
 #~ msgstr "Mozilla Foundation<br/>149 New Montgomery St 4th Floor<br/>San Francisco, CA 94105"
+
+#~ msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
+#~ msgid "You can either make your gift <a id=\"a1\">online</a> or contact us via <a id=\"a2\">this form</a> to initiate the process."
+#~ msgstr "Vous pouvez faire un don <a id=\"a1\">en ligne</a> ou nous contacter via <a id=\"a2\">ce formulaire</a> pour initier la démarche."
 
 #~ msgctxt "body.945d7ae2-0796-4a50-a064-5670cfb3035d.external_url"
 #~ msgid "https://foundation.mozilla.org/?form=donate&amp;utm_medium=web&amp;utm_source=wtg-page&amp;utm_campaign=WTG"

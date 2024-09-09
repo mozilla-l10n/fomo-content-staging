@@ -387,20 +387,20 @@ msgstr ""
 #~ "l’utilisateur est actif. Les utilisateurs peuvent supprimer leurs données des applications et services associés à tout moment."
 
 #~ msgctxt "how_can_you_control_your_data"
-#~ msgid ""
-#~ "If you reside in the EEA, U.K., or Switzerland, you have the right, subject to the conditions set out in the General Data Protection Regulation (\"GDPR\") or other applicable law, to request from "
-#~ "Garmin access to and rectification or erasure of your personal data."
-#~ msgstr ""
-#~ "Si vous résidez dans l’EEE, au Royaume-Uni ou en Suisse, vous avez le droit, sous réserve des conditions énoncées dans le Règlement général sur la protection des données (« RGPD ») ou de toute autre"
-#~ " loi applicable, de demander à Garmin l’accès à vos données personnelles, ainsi que la rectification ou la suppression de celles-ci."
-
-#~ msgctxt "how_can_you_control_your_data"
 #~ msgid "It is unclear if all users regardless of location can get their data be deleted."
 #~ msgstr "Il n’est pas clair si tous les utilisateurs, quel que soit leur emplacement, peuvent supprimer leurs données."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid "Garmin will retain your personal data as long as your Garmin account is considered to be active or in accordance with applicable law and regulatory obligations."
 #~ msgstr "Garmin conservera vos données personnelles aussi longtemps que votre compte Garmin sera considéré actif ou conformément à la loi et aux obligations réglementaires applicables."
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid ""
+#~ "If you reside in the EEA, U.K., or Switzerland, you have the right, subject to the conditions set out in the General Data Protection Regulation (\"GDPR\") or other applicable law, to request from "
+#~ "Garmin access to and rectification or erasure of your personal data."
+#~ msgstr ""
+#~ "Si vous résidez dans l’EEE, au Royaume-Uni ou en Suisse, vous avez le droit, sous réserve des conditions énoncées dans le Règlement général sur la protection des données (« RGPD ») ou de toute autre"
+#~ " loi applicable, de demander à Garmin l’accès à vos données personnelles, ainsi que la rectification ou la suppression de celles-ci."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

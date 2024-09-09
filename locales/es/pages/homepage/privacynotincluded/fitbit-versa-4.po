@@ -849,6 +849,10 @@ msgctxt "ai_helptext"
 msgid "FitBit Coach and FitBit Care services are <a id=\"a1\">said</a> to be based on Machine Learning"
 msgstr "Se <a id=\"a1\">dice</a> que los servicios de FitBit Coach y FitBit Care están basados en el aprendizaje automático"
 
+#~ msgctxt "social_data_collected"
+#~ msgid "Fitbit connections"
+#~ msgstr "Conexiones a Fitbit"
+
 #~ msgctxt "personal_data_collected"
 #~ msgid "Name, date of birth, gender, photo (optional)"
 #~ msgstr "Nombre, fecha de nacimiento, sexo, foto (opcional)"
@@ -856,10 +860,6 @@ msgstr "Se <a id=\"a1\">dice</a> que los servicios de FitBit Coach y FitBit Care
 #~ msgctxt "biometric_data_collected"
 #~ msgid "Heart rate, movement, sleep data, menstrual cycle, and more"
 #~ msgstr "Frecuencia cardíaca, movimiento, datos del sueño, ciclo menstrual y más"
-
-#~ msgctxt "social_data_collected"
-#~ msgid "Fitbit connections"
-#~ msgstr "Conexiones a Fitbit"
 
 #~ msgctxt "worst_case"
 #~ msgid ""

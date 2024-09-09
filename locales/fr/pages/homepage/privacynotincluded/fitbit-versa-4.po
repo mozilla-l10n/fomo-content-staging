@@ -869,10 +869,6 @@ msgctxt "ai_helptext"
 msgid "FitBit Coach and FitBit Care services are <a id=\"a1\">said</a> to be based on Machine Learning"
 msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> sur l’apprentissage automatique"
 
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid "Everyone can get their data deleted by deleting their account and waiting for 90 days,"
-#~ msgstr "N’importe qui peut faire supprimer ses données en supprimant son compte et en attendant 90 jours."
-
 #~ msgctxt "user_friendly_privacy_policy_helptext"
 #~ msgid "Despite being acquired by Google, Fitbit keeps its own privacy policy, written in relatively simple language."
 #~ msgstr "Bien que Fitbit ait été racheté par Google, Fitbit conserve sa propre politique de confidentialité, rédigée avec des termes relativement simples."
@@ -880,10 +876,6 @@ msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> s
 #~ msgctxt "strong_password_helptext"
 #~ msgid "To create a Fitbit account, users are required to provide strong, complex, passwords during onboarding."
 #~ msgstr "Pour créer un compte Fitbit, les utilisateurs et utilisatrices doivent fournir des mots de passe compliqués lors de la configuration initiale."
-
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, date of birth, gender, photo (optional)"
-#~ msgstr "Nom, date de naissance, genre, photo (facultatif)"
 
 #~ msgctxt "blurb"
 #~ msgid ""
@@ -921,14 +913,6 @@ msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> s
 #~ "pas, l’activité, le sommeil, le stress, les calories brûlées, etc. Fitbit indique également pouvoir collecter des données auprès de sites de réseaux sociaux tiers comme Facebook et Google si vous "
 #~ "choisissez de les connecter (vraiment pas une bonne idée) et auprès d’employeurs et de compagnies d’assurance si vous choisissez de les partager pour bénéficier d’avantages en matière de bien-être "
 #~ "ou de services gratuits ou à prix réduit (là encore, ce n’est pas une bonne idée)."
-
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Heart rate, movement, sleep data, menstrual cycle, and more"
-#~ msgstr "Fréquence cardiaque, mouvements, données sur le sommeil, cycle menstruel, etc."
-
-#~ msgctxt "social_data_collected"
-#~ msgid "Fitbit connections"
-#~ msgstr "Connexions Fitbit"
 
 #~ msgctxt "worst_case"
 #~ msgid ""
@@ -1008,6 +992,22 @@ msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> s
 #~ "fournisseurs de services et à d’autres partenaires qui les traitent pour nous, sur la base de nos instructions, et dans le respect de la présente politique et de toute autre mesure de "
 #~ "confidentialité et de sécurité appropriée. Ces partenaires nous fournissent des services dans le monde entier, notamment pour l’assistance client, les technologies de l’information, les paiements, "
 #~ "les ventes, le marketing, l’analyse des données, la recherche et les enquêtes. »"
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, date of birth, gender, photo (optional)"
+#~ msgstr "Nom, date de naissance, genre, photo (facultatif)"
+
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Heart rate, movement, sleep data, menstrual cycle, and more"
+#~ msgstr "Fréquence cardiaque, mouvements, données sur le sommeil, cycle menstruel, etc."
+
+#~ msgctxt "social_data_collected"
+#~ msgid "Fitbit connections"
+#~ msgstr "Connexions Fitbit"
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "Everyone can get their data deleted by deleting their account and waiting for 90 days,"
+#~ msgstr "N’importe qui peut faire supprimer ses données en supprimant son compte et en attendant 90 jours."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

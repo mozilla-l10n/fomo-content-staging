@@ -683,10 +683,6 @@ msgstr ""
 #~ "Google proporciona varios controles de la privacidad, accesibles mediante las herramientas de Privacidad de Google. Hay varias maneras claramente definidas de eliminar datos personales, inclusive "
 #~ "los datos de la app de Nest o la cuenta completa de Google. Se puede configurar un temporizador automático para 3 o 18 meses. Los detalles de retención también se enumeran en la Política."
 
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Visit <a id=\"a1\">privacy &amp; security controls</a> to adjust the amount of data collected"
-#~ msgstr "Visita los <a id=\"a1\">controles de privacidad y seguridad</a> para ajustar la cantidad de datos que pueden ser recopilados"
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "What’s the worst that could happen? Well, we suppose you could catch your neighbor dancing naked on cam in front of their window and then never be able to look at them the same ever again, making "
@@ -701,6 +697,10 @@ msgstr ""
 #~ msgctxt "user_friendly_privacy_policy_helptext"
 #~ msgid "Google provides a page with privacy information about Nest."
 #~ msgstr "Google cuenta con una página en la que proporciona información de privacidad sobre Nest."
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Visit <a id=\"a1\">privacy &amp; security controls</a> to adjust the amount of data collected"
+#~ msgstr "Visita los <a id=\"a1\">controles de privacidad y seguridad</a> para ajustar la cantidad de datos que pueden ser recopilados"
 
 #~ msgctxt "personal_data_collected"
 #~ msgid "Name, email, phone number, address"

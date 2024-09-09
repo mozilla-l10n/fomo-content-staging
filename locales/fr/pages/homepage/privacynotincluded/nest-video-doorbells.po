@@ -723,6 +723,18 @@ msgstr ""
 #~ "sonnettes vidéo vous laissent même préenregistrer des messages afin que vous puissiez dire à votre voisin que vous n’êtes pas là, même si c’est le cas. Vous aurez besoin d’un abonnement Nest Aware "
 #~ "supplémentaire pour certaines fonctionnalités, dont 10 jours d’historique vidéo 24 h/24 et 7 j/7."
 
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Review <a id=\"a1\">Nest privacy tips</a>"
+#~ msgstr "Consultez les <a id=\"a1\">Conseils de confidentialité de Nest</a>."
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number, address"
+#~ msgstr "Nom, adresse e-mail, numéro de téléphone, adresse postale"
+
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Voice recordings"
+#~ msgstr "Enregistrements vocaux"
+
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "What’s the worst that could happen? Well, we suppose you could catch your neighbor dancing naked on cam in front of their window and then never be able to look at them the same ever again, making "
@@ -750,18 +762,6 @@ msgstr ""
 #~ msgctxt "user_friendly_privacy_policy_helptext"
 #~ msgid "Google provides a page with privacy information about Nest."
 #~ msgstr "Google fournit une page avec des informations de confidentialité sur Nest."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Review <a id=\"a1\">Nest privacy tips</a>"
-#~ msgstr "Consultez les <a id=\"a1\">Conseils de confidentialité de Nest</a>."
-
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number, address"
-#~ msgstr "Nom, adresse e-mail, numéro de téléphone, adresse postale"
-
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Voice recordings"
-#~ msgstr "Enregistrements vocaux"
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

@@ -19,12 +19,12 @@ msgid "Homepage"
 msgstr "Inicio"
 
 msgctxt "hero_headline"
-msgid "MozFest House Amsterdam"
-msgstr "MozFest House: Ámsterdam"
+msgid "TikTok Lite Lacks Key Safety Features, Fails Global Majority"
+msgstr ""
 
 msgctxt "hero_button_text"
-msgid "June 11-13 2024"
-msgstr "11-13 de junio de 2024"
+msgid "Read Our Research"
+msgstr "Lee el estudio"
 
 msgctxt "spotlight_headline"
 msgid "Spotlight: The Data Futures Lab"
@@ -68,20 +68,36 @@ msgid "Take action"
 msgstr "Actúa ahora"
 
 msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
-msgid "Tell WhatsApp: Act to Protect Elections"
-msgstr "Dile a WhatsApp: Actúa para proteger las elecciones"
+msgid "Tell Bumble: Don’t sell or share users’ data without permission."
+msgstr "Dile a Bumble que no venda ni comparta datos de sus usuarios ¡sin su permiso explícito!"
+
+msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.cta"
+msgid "Sign now"
+msgstr "Firmar ahora"
 
 msgctxt "take_action_cards.046f1c00-6873-4bdb-a623-32c6cc18e068.text"
-msgid "Join our global movement for privacy rights."
-msgstr "Únete a nuestro movimiento global por los derechos de privacidad."
+msgid "Tell Meta: Don't Kill Your Crucial Transparency Tool, CrowdTangle!"
+msgstr "Dile a Meta: ¡No aniquiles tu herramienta crucial de transparencia, CrowdTangle!"
 
-msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
-msgid "Car Companies: Stop Your Data Collection Programs"
-msgstr "Empresas automotrices: detengan sus programas para recopilación de datos"
+msgctxt "take_action_cards.046f1c00-6873-4bdb-a623-32c6cc18e068.cta"
+msgid "Sign now"
+msgstr "Firmar ahora"
 
 msgctxt "take_action_cards.5ae600cc-b1a4-43b2-852f-d2ce8396cbe1.text"
 msgid "Tell OpenAI, Google, and Microsoft: Provide transparency about the data used to train your AI tools!"
 msgstr "Pide a OpenAI, Google y Microsoft transparencia sobre los datos que utilizaron para entrenar tus herramientas de IA."
+
+msgctxt "take_action_cards.5ae600cc-b1a4-43b2-852f-d2ce8396cbe1.cta"
+msgid "Sign now"
+msgstr "Firmar ahora"
+
+msgctxt "take_action_cards.b2c17bff-53d9-44fe-a882-7603d821585c.text"
+msgid "TikTok Lite Lacks Critical Safety Features, Neglects Global Majority Users"
+msgstr ""
+
+msgctxt "take_action_cards.b2c17bff-53d9-44fe-a882-7603d821585c.cta"
+msgid "Learn more"
+msgstr "Saber más"
 
 msgctxt "partner_logos.27a519d5-cbc2-4e21-af63-5e80a198ecf6.name"
 msgid "Ford Foundation logo"
@@ -164,6 +180,10 @@ msgstr "Logo de Consumers International"
 #~ msgstr "MozFest House: 19-21 de junio"
 
 #~ msgctxt "hero_headline"
+#~ msgid "MozFest House Amsterdam"
+#~ msgstr "MozFest House: Ámsterdam"
+
+#~ msgctxt "hero_headline"
 #~ msgid "Which Gadgets Protect Your Privacy This Holiday Season?"
 #~ msgstr "¿Cuáles son los gadgets que protegen tu privacidad en estas fiestas?"
 
@@ -220,12 +240,12 @@ msgstr "Logo de Consumers International"
 #~ msgstr "Asegura tu boleto"
 
 #~ msgctxt "hero_button_text"
-#~ msgid "Here’s What We Found"
-#~ msgstr "He aquí lo que hemos descubierto"
-
-#~ msgctxt "hero_button_text"
 #~ msgid "Submit Your Session Idea"
 #~ msgstr "Envía tu idea para una sesión"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Here’s What We Found"
+#~ msgstr "He aquí lo que hemos descubierto"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Shop smart, and safe."
@@ -250,6 +270,10 @@ msgstr "Logo de Consumers International"
 #~ msgctxt "hero_button_text"
 #~ msgid "Sign the Petition"
 #~ msgstr "Firma la petición"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "June 11-13 2024"
+#~ msgstr "11-13 de junio de 2024"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Buyers' Guide"
@@ -319,6 +343,10 @@ msgstr "Logo de Consumers International"
 #~ msgid "Microsoft: Are You Using Customer Data To Train AI?"
 #~ msgstr "Microsoft: ¿Estás utilizando los datos de tus clientes para entrenar tu IA?"
 
+#~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
+#~ msgid "Tell WhatsApp: Act to Protect Elections"
+#~ msgstr "Dile a WhatsApp: Actúa para proteger las elecciones"
+
 #~ msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
 #~ msgid "Tell YouTube: Give users real control over their video recommendations!"
 #~ msgstr "Dile a YouTube: ¡Permite que los usuarios tengan un control real sobre sus recomendaciones de video!"
@@ -350,3 +378,11 @@ msgstr "Logo de Consumers International"
 #~ msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
 #~ msgid "Tell YouTube: Give users real control over recommendations!"
 #~ msgstr "Dile a YouTube: ¡Permite que los usuarios tengan un control real sobre sus recomendaciones!"
+
+#~ msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
+#~ msgid "Car Companies: Stop Your Data Collection Programs"
+#~ msgstr "Empresas automotrices: detengan sus programas para recopilación de datos"
+
+#~ msgctxt "take_action_cards.046f1c00-6873-4bdb-a623-32c6cc18e068.text"
+#~ msgid "Join our global movement for privacy rights."
+#~ msgstr "Únete a nuestro movimiento global por los derechos de privacidad."

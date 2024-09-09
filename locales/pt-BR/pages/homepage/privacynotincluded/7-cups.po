@@ -298,16 +298,16 @@ msgstr "O nosso Chatbot de IA, chamado Noni, pode ajudá-lo a navegar no site ou
 #~ "bate-papos com um terapeuta licenciado estejam cobertos por leis de privacidade mais rigorosas da HIPAA, bate-papos com ouvintes voluntários podem não estar."
 
 #~ msgctxt "how_does_it_use_data_collected"
-#~ msgid "It is unclear if 7 Cups sells users personal information"
-#~ msgstr "Não está claro se o 7 Cups vende informações pessoais dos usuários."
-
-#~ msgctxt "how_does_it_use_data_collected"
 #~ msgid "7 Cups shares Personal Information with certain third-party service providers that assist them in providing the services and which are bound by duties of confidentiality."
 #~ msgstr "O 7 Cups compartilha informações pessoais com determinados prestadores de serviços terceirizados que os auxiliam e que estão vinculados a deveres de confidencialidade."
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid "It is unclear if 7 Cups shares personal information with third parties for marketing or advertising purposes"
 #~ msgstr "Não está claro se o 7 Cups compartilha informações pessoais com terceiros para fins de marketing ou propaganda"
+
+#~ msgctxt "how_does_it_use_data_collected"
+#~ msgid "It is unclear if 7 Cups sells users personal information"
+#~ msgstr "Não está claro se o 7 Cups vende informações pessoais dos usuários."
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid "7 Cups may share anonymized aggregated data with the sponsors of programs that facilitate your access to the services, such as government health agencies, researchers or healthcare providers."

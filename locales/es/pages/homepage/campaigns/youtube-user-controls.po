@@ -43,6 +43,10 @@ msgstr ""
 #~ msgstr "Una imagen que representa una serie de entradas que se introducen en un icono de YouTube y se proyectan en una pantalla"
 
 #~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
+#~ msgid "Even after using the feedback mechanisms, <b>YouTube’s algorithm recommends unwanted videos</b>"
+#~ msgstr "Incluso después de usar los mecanismos de retroalimentación, <b>el algoritmo de YouTube sigue recomendando videos no deseados</b>"
+
+#~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
 #~ msgid ""
 #~ "From conspiracy theories to propaganda, YouTube’s algorithm promotes a minefield of controversial videos. <b>Have you ever wondered why it keeps recommending the same clickbait content</b> even "
 #~ "after you click “dislike” or “do not recommend”?"
@@ -61,10 +65,6 @@ msgstr ""
 #~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
 #~ msgid "<b>Users are not in control</b> of their experience on the video platform"
 #~ msgstr "<b>Los usuarios no tienen el control</b> de su experiencia en la plataforma de video"
-
-#~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
-#~ msgid "Even after using the feedback mechanisms, <b>YouTube’s algorithm recommends unwanted videos</b>"
-#~ msgstr "Incluso después de usar los mecanismos de retroalimentación, <b>el algoritmo de YouTube sigue recomendando videos no deseados</b>"
 
 #~ msgctxt "body.faac8553-76c4-46c5-b974-d0902bc29663"
 #~ msgid ""

@@ -276,12 +276,12 @@ msgstr "institutional-pass"
 #~ msgstr "<b>En wy hawwe de mienskip nedich.</b> MozFest-huzen binne regionale útnûgingen foar minsken om har wurk binnen de kontekst fan plak, kultuer en belibbe ûnderfining te bringen."
 
 #~ msgctxt "body.7d0e60c0-c41d-4b5d-afc2-69a42394c9fc"
-#~ msgid "Festival Passes grant you full access to MozFest House Amsterdam from 11-13 June. Save €50 by purchasing the Early Bird ticket."
-#~ msgstr "Festivalpassen jouwe jo folsleine tagong ta MozFest House Amsterdam fan 11-13 juny. Besparje € 50 troch it Early Bird-kaartsje te keapjen."
-
-#~ msgctxt "body.7d0e60c0-c41d-4b5d-afc2-69a42394c9fc"
 #~ msgid "Early Bird Festival Passes"
 #~ msgstr "Early Bird Festival-passen"
+
+#~ msgctxt "body.7d0e60c0-c41d-4b5d-afc2-69a42394c9fc"
+#~ msgid "Festival Passes grant you full access to MozFest House Amsterdam from 11-13 June. Save €50 by purchasing the Early Bird ticket."
+#~ msgstr "Festivalpassen jouwe jo folsleine tagong ta MozFest House Amsterdam fan 11-13 juny. Besparje € 50 troch it Early Bird-kaartsje te keapjen."
 
 #~ msgctxt "body.f23aada3-9627-46d3-b787-132e7c6be965.button_label"
 #~ msgid "Buy an Early Bird Festival Pass"

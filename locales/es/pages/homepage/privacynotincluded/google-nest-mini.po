@@ -850,6 +850,10 @@ msgstr ""
 #~ msgid "Google uses natural language processing to understand you and to generate answers to your requests."
 #~ msgstr "Google utiliza el procesamiento del lenguaje natural para entenderte y ser capaz de generar respuestas adecuadas a tus solicitudes."
 
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Review Nest privacy tips: <a id=\"a1\">https://support.google.com/googlenest/answer/9247517</a>"
+#~ msgstr "Revisa las recomendaciones de privacidad de Nest: <a id=\"a1\">https://support.google.com/googlenest/answer/9247517</a>"
+
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "“OK, Google.” That’s pretty much exactly how we think Google does when it comes to privacy. They are OK, if you consider the fact that they are a ginormous data collecting advertising company that "
@@ -1007,10 +1011,6 @@ msgstr ""
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Turn off personalised advertisement"
 #~ msgstr "Desactiva los anuncios personalizados."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Review Nest privacy tips: <a id=\"a1\">https://support.google.com/googlenest/answer/9247517</a>"
-#~ msgstr "Revisa las recomendaciones de privacidad de Nest: <a id=\"a1\">https://support.google.com/googlenest/answer/9247517</a>"
 
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"

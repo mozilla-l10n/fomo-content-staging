@@ -320,12 +320,12 @@ msgstr "Leer ahora"
 #~ msgstr "https://pretalx.com/mozilla-festival-2023/cfp"
 
 #~ msgctxt "body.046f0ea0-52fc-446c-a77d-280cbca57040.url_label"
-#~ msgid "Secure your ticket"
-#~ msgstr "Asegura tu boleto"
-
-#~ msgctxt "body.046f0ea0-52fc-446c-a77d-280cbca57040.url_label"
 #~ msgid "Submit your session idea"
 #~ msgstr "Envía tu idea para una sesión"
+
+#~ msgctxt "body.046f0ea0-52fc-446c-a77d-280cbca57040.url_label"
+#~ msgid "Secure your ticket"
+#~ msgstr "Asegura tu boleto"
 
 #~ msgctxt "body.046f0ea0-52fc-446c-a77d-280cbca57040.url"
 #~ msgid "https://pretalx.com/mozilla-festival-2023/cfp?track=3235-autonomy-governance"

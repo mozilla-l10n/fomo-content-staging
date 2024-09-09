@@ -11,8 +11,8 @@ msgid "Community Pass - Shorterned"
 msgstr "Community-Pass – Gekürzt"
 
 msgctxt "cost"
-msgid "€55"
-msgstr "55 €"
+msgid "K 15,250"
+msgstr "K 15,250"
 
 msgctxt "group"
 msgid "Community Pass"
@@ -33,3 +33,7 @@ msgstr "Der Preis beinhaltet die niederländische MwSt in Höhe von 21%."
 msgctxt "button_text"
 msgid "Get Your Ticket"
 msgstr "Holen Sie sich Ihr Ticket"
+
+#~ msgctxt "cost"
+#~ msgid "€55"
+#~ msgstr "55 €"

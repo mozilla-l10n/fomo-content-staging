@@ -12,7 +12,7 @@ msgstr "Default Form"
 
 msgctxt "header"
 msgid "Join our movement to reclaim the internet"
-msgstr "Junte-se ao nosso movimento de recuperar a internet"
+msgstr "Participe da nossa mobilização de recuperação da internet"
 
 msgctxt "description"
 msgid "Sign up for Mozilla's newsletter to get updates and take action for the internet."

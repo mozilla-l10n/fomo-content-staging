@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Misinformation &amp; disinformation"
-msgstr ""
+msgstr "Informações falsas ou enganosas"

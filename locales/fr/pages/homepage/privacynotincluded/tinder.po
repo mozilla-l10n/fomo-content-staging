@@ -617,22 +617,6 @@ msgstr ""
 "correspondent à ces critères. Tinder ajoute ensuite ces profils à votre file d’attente. Plus vous swipez, plus les prédictions deviennent précises et (théoriquement, du moins) plus vous avez de "
 "chances de swiper à droite sur les profils que Tinder a sélectionnés pour vous. »"
 
-#~ msgctxt "strong_password_helptext"
-#~ msgid "Password isn't requires as login happens either via phone or third-party."
-#~ msgstr "L’utilisation d’un mot de passe n’est pas nécessaire, car la connexion s’effectue par téléphone ou via un compte tiers."
-
-#~ msgctxt "user_friendly_privacy_policy_helptext"
-#~ msgid "Privacy policy is pretty technical even though they claim to make it accessible."
-#~ msgstr "Bien que l’application affirme la rendre accessible, la Politique de confidentialité est assez technique."
-
-#~ msgctxt "uses_encryption_helptext"
-#~ msgid "Tinder strengthen their encryption practices in 2018."
-#~ msgstr "Tinder utilise un chiffrement renforcé depuis juin 2018."
-
-#~ msgctxt "privacy_policy_helptext"
-#~ msgid "Includes security info"
-#~ msgstr "Inclut des informations sur la sécurité"
-
 #~ msgctxt "signup_requirement_explanation"
 #~ msgid "Phone or third-party (Facebook or Apple) are required to sign up."
 #~ msgstr "Numéro de téléphone ou compte tiers (Facebook ou Apple) nécessaire pour s’inscrire."
@@ -665,6 +649,22 @@ msgstr ""
 #~ "retardement en matière de confidentialité. Oh, et n’oubliez pas que, quand vous connectez un compte sur un réseau social comme Facebook à Tinder, Facebook et Tinder peuvent potentiellement collecter"
 #~ " encore plus de données ensemble. C’est pourquoi nous vous déconseillons de connecter votre application de rencontre à Facebook. Qu’est-ce qu’il pourrait arriver de pire ? Tinder a déjà connu "
 #~ "tellement de problèmes que nous n’avons pas besoin de les répéter ici. Rendez-vous dans la section « Mises à jour » en bas de cette page et constatez les dégâts par vous-même."
+
+#~ msgctxt "user_friendly_privacy_policy_helptext"
+#~ msgid "Privacy policy is pretty technical even though they claim to make it accessible."
+#~ msgstr "Bien que l’application affirme la rendre accessible, la Politique de confidentialité est assez technique."
+
+#~ msgctxt "uses_encryption_helptext"
+#~ msgid "Tinder strengthen their encryption practices in 2018."
+#~ msgstr "Tinder utilise un chiffrement renforcé depuis juin 2018."
+
+#~ msgctxt "strong_password_helptext"
+#~ msgid "Password isn't requires as login happens either via phone or third-party."
+#~ msgstr "L’utilisation d’un mot de passe n’est pas nécessaire, car la connexion s’effectue par téléphone ou via un compte tiers."
+
+#~ msgctxt "privacy_policy_helptext"
+#~ msgid "Includes security info"
+#~ msgstr "Inclut des informations sur la sécurité"
 
 #~ msgctxt "personal_data_collected"
 #~ msgid ""

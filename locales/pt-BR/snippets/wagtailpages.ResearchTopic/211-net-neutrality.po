@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Net neutrality"
-msgstr ""
+msgstr "Neutralidade da rede"
