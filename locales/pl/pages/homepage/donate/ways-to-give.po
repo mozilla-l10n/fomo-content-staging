@@ -150,7 +150,7 @@ msgstr ""
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "You can contact us via <a id=\"a1\">this form</a> to initiate the process."
-msgstr ""
+msgstr "Możesz skontaktować się z nami za pośrednictwem <a id=\"a1\">tego formularza</a>, aby rozpocząć procedurę."
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "Employer matching"
@@ -162,8 +162,8 @@ msgid ""
 "for matching gifts; please confirm the details of your employer’s matching gift program with your employer. If you have any questions or need assistance, contact us via <a id=\"a1\">this form</a>."
 msgstr ""
 "Fundacja Mozilla jest zarejestrowana w większości głównych systemów pracowniczych do obsługi darowizn i chętnie przyjmuje datki w ramach programów dopłat pracodawcy. Firmy samodzielnie określają "
-"zasady dopłat do darowizn, dlatego szczegółowe informacje dotyczące programu uzyskasz u swojego pracodawcy. Jeśli masz jakieś pytania lub potrzebujesz pomocy, skontaktuj się z nami za pośrednictwem"
-"  <a id=\"a1\">tego formularza</a>."
+"zasady dopłat do darowizn, dlatego szczegółowe informacje dotyczące programu uzyskasz u swojego pracodawcy. Jeśli masz jakieś pytania lub potrzebujesz pomocy, skontaktuj się z nami za pośrednictwem "
+"<a id=\"a1\">tego formularza</a>."
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "Donor Advised Funds"
@@ -216,19 +216,6 @@ msgid "Include an email or return address so we can send you a receipt."
 msgstr "Podaj adres e-mail lub adres zwrotny, pod który będziemy mogli przesłać potwierdzenie wpłaty."
 
 msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
-msgid "Leave a gift in your will"
-msgstr "Zapis w testamencie"
-
-msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
-msgid ""
-"You can leave a legacy for a free and open web by leaving us a gift in your will or estate. There can be significant tax advantages to donating assets to charity as part of an estate plan. For more "
-"information about legacy giving, reach out to Kara Niles at <a id=\"a1\">kara@mozillafoundation.org</a>."
-msgstr ""
-"Jeśli chcesz zadbać o wolny i otwarty internet w dłuższej perspektywie, możesz przekazać nam darowiznę na mocy testamentu lub planu spadkowego. Przekazanie darowizny organizacji charytatywnej w "
-"ramach planowania spadkowego może wiązać się z istotnymi korzyściami podatkowymi. Więcej informacji na temat darowizn spadkowych udzieli Ci Kara Niles pod adresem <a "
-"id=\"a1\">kara@mozillafoundation.org</a>."
-
-msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 msgid "Have questions? Need support?"
 msgstr "Masz jakieś pytania? Potrzebujesz pomocy?"
 
@@ -251,6 +238,10 @@ msgstr "W przypadku jakichkolwiek innych pytań ogólnych lub jeśli potrzebujes
 #~ msgstr "Mozilla Foundation<br/>149 New Montgomery St 4th Floor<br/>San Francisco, CA 94105"
 
 #~ msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
+#~ msgid "Leave a gift in your will"
+#~ msgstr "Zapis w testamencie"
+
+#~ msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
 #~ msgid ""
 #~ "You can leave a legacy for a free and open web by leaving us a gift in your will or estate. There can be significant tax advantages to donating assets to charity as part of an estate plan. For more "
 #~ "information about legacy giving, reach out to Juan Barani at <a id=\"a1\">juan@mozillafoundation.org</a>."
@@ -258,6 +249,15 @@ msgstr "W przypadku jakichkolwiek innych pytań ogólnych lub jeśli potrzebujes
 #~ "Jeśli chcesz zadbać o wolny i otwarty internet w dłuższej perspektywie, możesz przekazać nam darowiznę na mocy testamentu lub planu spadkowego. Przekazanie darowizny organizacji charytatywnej w "
 #~ "ramach planowania spadkowego może wiązać się z istotnymi korzyściami podatkowymi. Więcej informacji na temat darowizn spadkowych udzieli Ci Juan Barani pod adresem <a "
 #~ "id=\"a1\">juan@mozillafoundation.org</a>."
+
+#~ msgctxt "body.b20fad4e-7c43-45d9-8a66-3be5f26609cd"
+#~ msgid ""
+#~ "You can leave a legacy for a free and open web by leaving us a gift in your will or estate. There can be significant tax advantages to donating assets to charity as part of an estate plan. For more "
+#~ "information about legacy giving, reach out to Kara Niles at <a id=\"a1\">kara@mozillafoundation.org</a>."
+#~ msgstr ""
+#~ "Jeśli chcesz zadbać o wolny i otwarty internet w dłuższej perspektywie, możesz przekazać nam darowiznę na mocy testamentu lub planu spadkowego. Przekazanie darowizny organizacji charytatywnej w "
+#~ "ramach planowania spadkowego może wiązać się z istotnymi korzyściami podatkowymi. Więcej informacji na temat darowizn spadkowych udzieli Ci Kara Niles pod adresem <a "
+#~ "id=\"a1\">kara@mozillafoundation.org</a>."
 
 #~ msgctxt "body.945d7ae2-0796-4a50-a064-5670cfb3035d.external_url"
 #~ msgid "https://foundation.mozilla.org/?form=donate&amp;utm_medium=web&amp;utm_source=wtg-page&amp;utm_campaign=WTG"

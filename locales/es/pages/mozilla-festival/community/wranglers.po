@@ -54,7 +54,7 @@ msgstr ""
 
 msgctxt "body.3289842f-cb84-440a-8c0e-6e798db42e51.heading"
 msgid "Wrangling at MozFest"
-msgstr ""
+msgstr "Wrangling en el MozFest"
 
 msgctxt "body.3289842f-cb84-440a-8c0e-6e798db42e51.text"
 msgid "Mozilla Festival Wranglers are the connection point between the festival narrative and the Facilitators, who will become the face of the festival."
@@ -114,31 +114,31 @@ msgstr ""
 
 msgctxt "body.aed7a3ec-8c47-49c6-ac3e-7aa76849c991"
 msgid "Meet Our MozFest House Zambia Wranglers"
-msgstr ""
+msgstr "Conoce a nuestros Wranglers del MozFest House Zambia"
 
 msgctxt "body.274233cc-26a6-4d27-a8b0-1962993f57e4"
 msgid "Why participate as a Wrangler?"
-msgstr ""
+msgstr "¿Por qué participar como Wrangler?"
 
 msgctxt "body.24847233-1c44-4b9e-9033-86c4d617d206"
 msgid "Inform the Mozilla Festival program, shape the narrative on a topic you are passionate about, and create change via new collaborations at MozFest"
-msgstr ""
+msgstr "Para informar al programa del Mozilla Festival, crear la narrativa sobre un tema que te apasione y generar cambios a través de nuevas colaboraciones en el MozFest"
 
 msgctxt "body.24847233-1c44-4b9e-9033-86c4d617d206"
 msgid "Be at the forefront of the internet health and Trustworthy AI movement and learn from other builders, thinkers, and doers"
-msgstr ""
+msgstr "Para estar a la vanguardia del movimiento de la Internet saludable y la IA confiable, y aprender de otros desarrolladores, pensadores y hacedores"
 
 msgctxt "body.24847233-1c44-4b9e-9033-86c4d617d206"
 msgid "Networking and community building opportunities, including opportunities to be featured in other Mozilla Festival related events"
-msgstr ""
+msgstr "Para acceder a oportunidades de creación de redes y comunidades, lo que incluye oportunidades para presentarte en otros eventos relacionados con el Festival Mozilla"
 
 msgctxt "body.24847233-1c44-4b9e-9033-86c4d617d206"
 msgid "Leadership development and skill-building opportunities, including mentorship"
-msgstr ""
+msgstr "Para desarrollar el liderazgo y obtener oportunidades para fortalecer habilidades, incluyendo mentorías"
 
 msgctxt "body.24847233-1c44-4b9e-9033-86c4d617d206"
 msgid "Letter of program completion from Mozilla and professional references"
-msgstr ""
+msgstr "Para obtener una nota de finalización del programa por parte de Mozilla y referencias profesionales"
 
 msgctxt "body.5689a104-8594-4af0-9358-d25adf9697a7"
 msgid "Federated Design"
@@ -194,6 +194,10 @@ msgstr "Entradas de blog relacionadas"
 #~ msgid "YouthZone"
 #~ msgstr "YouthZone"
 
+#~ msgctxt "body.d0903664-e80f-4626-aaf6-c121c43d4ee4"
+#~ msgid "MoZone"
+#~ msgstr "MoZona"
+
 #~ msgctxt "body.27d49885-4167-4444-a529-873f65be4cc8.external_url"
 #~ msgid "https://www.mozillafestival.org"
 #~ msgstr "https://www.mozillafestival.org"
@@ -221,10 +225,6 @@ msgstr "Entradas de blog relacionadas"
 #~ msgctxt "body.8fc07921-3c3b-4d3d-8e7a-5480ca3ca3f8.program_type"
 #~ msgid "Cosmos"
 #~ msgstr "Cosmos"
-
-#~ msgctxt "body.d0903664-e80f-4626-aaf6-c121c43d4ee4"
-#~ msgid "MoZone"
-#~ msgstr "MoZona"
 
 #~ msgctxt "body.fa2bb37f-c126-4c81-a4ec-3b35d57dae6c.program_type"
 #~ msgid "Education &amp; Access: You're The Product Of Data"
@@ -265,6 +265,22 @@ msgstr "Entradas de blog relacionadas"
 #~ msgctxt "body.39289a6f-4fe7-4492-902f-39b4e3372318"
 #~ msgid "Youth Zone"
 #~ msgstr "Zona juvenil"
+
+#~ msgctxt "body.00511105-839b-4dec-b860-78a92302dc8f.profile_type"
+#~ msgid "Wrangler"
+#~ msgstr "Wrangler"
+
+#~ msgctxt "body.f555ed74-fcfd-44f9-baf2-67d72305183b.profile_type"
+#~ msgid "Wrangler"
+#~ msgstr "Wrangler"
+
+#~ msgctxt "body.cef0f0ce-82e6-4f15-acdb-46a9e85283f1.profile_type"
+#~ msgid "Wrangler"
+#~ msgstr "Wrangler"
+
+#~ msgctxt "body.07802861-70a6-490a-b776-72bb05f84feb.profile_type"
+#~ msgid "Wrangler"
+#~ msgstr "Wrangler"
 
 #~ msgctxt "intro"
 #~ msgid "MozFest is not just an annual date on the calendar. It's a collaborative community taking action on the issues that matter most all-year long."
@@ -360,22 +376,6 @@ msgstr "Entradas de blog relacionadas"
 #~ msgid "Wrangler"
 #~ msgstr "Wrangler"
 
-#~ msgctxt "body.00511105-839b-4dec-b860-78a92302dc8f.profile_type"
-#~ msgid "Wrangler"
-#~ msgstr "Wrangler"
-
-#~ msgctxt "body.f555ed74-fcfd-44f9-baf2-67d72305183b.profile_type"
-#~ msgid "Wrangler"
-#~ msgstr "Wrangler"
-
-#~ msgctxt "body.cef0f0ce-82e6-4f15-acdb-46a9e85283f1.profile_type"
-#~ msgid "Wrangler"
-#~ msgstr "Wrangler"
-
-#~ msgctxt "body.07802861-70a6-490a-b776-72bb05f84feb.profile_type"
-#~ msgid "Wrangler"
-#~ msgstr "Wrangler"
-
 #~ msgctxt "body.27d49885-4167-4444-a529-873f65be4cc8.external_url"
 #~ msgid "https://mozillafoundation.typeform.com/MFWranglers"
 #~ msgstr "https://mozillafoundation.typeform.com/MFWranglers"
@@ -415,6 +415,14 @@ msgstr "Entradas de blog relacionadas"
 #~ msgctxt "body.51a4368f-7dd1-4a90-8951-6eddafec66b0.aside.f2c364ae-80cf-4db9-a1d2-bc7ae2d78b4c.external_url"
 #~ msgid "https://www.mzl.la/wrangle2024"
 #~ msgstr "https://www.mzl.la/wrangle2024"
+
+#~ msgctxt "body.51a4368f-7dd1-4a90-8951-6eddafec66b0.content.8f44a9d9-d7cd-48c3-abc2-2724e16ab56e"
+#~ msgid "Networking and community building opportunities, including opportunities to be featured in other MozFest related events"
+#~ msgstr "Para acceder a oportunidades de creación de redes y comunidades, lo que incluye oportunidades para presentarte en otros eventos relacionados con el MozFest"
+
+#~ msgctxt "body.51a4368f-7dd1-4a90-8951-6eddafec66b0.content.8f44a9d9-d7cd-48c3-abc2-2724e16ab56e"
+#~ msgid "Leadership development and skill building opportunities, including mentorship"
+#~ msgstr "Para desarrollar el liderazgo y obtener oportunidades para fortalecer habilidades, incluyendo mentorías"
 
 #~ msgctxt "body.6c82d241-a95a-46a2-8533-29465983009b"
 #~ msgid ""
@@ -467,14 +475,6 @@ msgstr "Entradas de blog relacionadas"
 #~ msgctxt "body.51a4368f-7dd1-4a90-8951-6eddafec66b0.content.8f44a9d9-d7cd-48c3-abc2-2724e16ab56e"
 #~ msgid "Inform the MozFest program, shape the narrative on a topic you are passionate about, and create change via new collaborations at MozFest"
 #~ msgstr "Para informar al programa MozFest, crear la narrativa sobre un tema que te apasione y generar cambios a través de nuevas colaboraciones en el MozFest"
-
-#~ msgctxt "body.51a4368f-7dd1-4a90-8951-6eddafec66b0.content.8f44a9d9-d7cd-48c3-abc2-2724e16ab56e"
-#~ msgid "Networking and community building opportunities, including opportunities to be featured in other MozFest related events"
-#~ msgstr "Para acceder a oportunidades de creación de redes y comunidades, lo que incluye oportunidades para presentarte en otros eventos relacionados con el MozFest"
-
-#~ msgctxt "body.51a4368f-7dd1-4a90-8951-6eddafec66b0.content.8f44a9d9-d7cd-48c3-abc2-2724e16ab56e"
-#~ msgid "Leadership development and skill building opportunities, including mentorship"
-#~ msgstr "Para desarrollar el liderazgo y obtener oportunidades para fortalecer habilidades, incluyendo mentorías"
 
 #~ msgctxt "body.51a4368f-7dd1-4a90-8951-6eddafec66b0.aside.02e2cbe7-fadd-4dd6-b1f2-486442b8fc1f.body"
 #~ msgid "Applications to help co-design the 2024 MozFest House have now closed, but you can still register your interest to wrangler future MozFest events."

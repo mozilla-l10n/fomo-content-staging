@@ -138,7 +138,7 @@ msgid ""
 "two prominent online press websites to combat fake news and disinformation and/or misinformation."
 msgstr ""
 "ABB est une association de blogueurs axée sur le partage d’informations sur les TIC, la communication, la promotion d’une éducation citoyenne responsable, la science et la culture. Ils créeront des "
-"widgets de vérification des faits pour deux importants sites Web de presse en ligne afin de lutter contre les fausses nouvelles et la désinformation ou fausse information."
+"widgets de vérification des faits pour deux importants sites web de presse en ligne afin de lutter contre les fausses nouvelles et la désinformation ou fausse information."
 
 msgctxt "body.9e2a8413-7c99-42c2-a7eb-4d6be9ecc505"
 msgid "<a id=\"a1\"><b>Civic Tech Innovation Network</b></a> <b>(CTIN) | South Africa</b>"

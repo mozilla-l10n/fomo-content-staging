@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "name"
 msgid "AI bias &amp; discrimination"
-msgstr ""
+msgstr "Dyskryminacja i uprzedzenia sztucznej inteligencji"
 
 #~ msgctxt "name"
 #~ msgid "AI Bias"

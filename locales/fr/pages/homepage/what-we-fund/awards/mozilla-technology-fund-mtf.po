@@ -4,7 +4,7 @@ msgstr ""
 "POT-Creation-Date: 2023-04-24 07:06:08.649153+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
-"X-WagtailLocalize-TranslationID: 423bba66-3549-4da8-bcd1-1c0131e21831\n"
+"X-WagtailLocalize-TranslationID: 4186fb5d-4e75-4b67-908b-7e09ffd6bc55\n"
 
 msgctxt "search_description"
 msgid "The Mozilla Technology Fund (MTF) supports open source technologists whose work furthers promising approaches to solving pressing internet health issues."

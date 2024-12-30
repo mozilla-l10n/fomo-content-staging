@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Tech literacy"
-msgstr ""
+msgstr "Alfabetización tecnológica"

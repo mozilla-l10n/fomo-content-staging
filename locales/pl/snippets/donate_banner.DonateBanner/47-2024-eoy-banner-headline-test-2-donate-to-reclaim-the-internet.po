@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-12-30 07:04:52.405879+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: f19287d5-d1a7-4b29-8ae9-3e24c602831e\n"
+
+msgctxt "title"
+msgid "Donate to reclaim the internet"
+msgstr "Wpłać datek, aby odzyskać Internet"
+
+msgctxt "subtitle"
+msgid "People have lost control of the internet. It's time to reclaim it from Big Tech."
+msgstr "Ludzie utracili kontrolę nad Internetem. Czas odebrać ją firmom technologicznym."
+
+msgctxt "cta_button_text"
+msgid "Donate →"
+msgstr "Wpłać datek →"

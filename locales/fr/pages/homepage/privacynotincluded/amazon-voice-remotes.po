@@ -285,7 +285,7 @@ msgstr ""
 "« Toute information personnelle qu’Amazon peut avoir partagée à des fins de publicité comportementale intersectorielle &lt;…&gt; au cours des douze mois précédant la date d’entrée en vigueur du "
 "présent avis appartient aux catégories suivantes :<br/> - identifiants tels que les cookies, les identifiants d’appareils ou les codes obtenus en appliquant une cryptographie irréversible à d’autres"
 " informations telles que l’adresse e-mail ; en aucun cas nous ne partageons votre nom ou d’autres informations permettant de vous identifier directement.<br/> - informations relatives à l’activité "
-"sur Internet ou sur d’autres systèmes de communication électronique &lt;…&gt;.<br/> - données d’inférence ; &lt;…&gt;, nous pouvons partager un identifiant publicitaire et une estimation de la "
+"sur Internet ou sur d’autres systèmes de communication électronique &lt;…&gt;.<br/> - données d’inférence ; &lt;…&gt;, nous pouvons partager un identifiant publicitaire et une estimation de la "
 "portée des publicités qui vous sont présentées en notre nom, afin de pouvoir vous proposer des publicités Amazon plus pertinentes »."
 
 msgctxt "how_does_it_use_data_collected"
@@ -591,18 +591,6 @@ msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprend
 #~ msgid "Voice recordings"
 #~ msgstr "Enregistrements vocaux"
 
-#~ msgctxt "track_record_details"
-#~ msgid "In <a id=\"a1\">October 2019</a>, Forbes reported that Amazon employees were listening to Amazon Cloud Cam recording, to train its AI algorythm."
-#~ msgstr "En <a id=\"a1\">octobre 2019</a>, Forbes a révélé que des employés d’Amazon écoutaient des enregistrements d’Amazon Cloud Cam, pour entraîner son algorithme d’IA."
-
-#~ msgctxt "track_record_details"
-#~ msgid ""
-#~ "In <a id=\"a1\">April 2019</a>, it was revealed that thousands of employees, many of whom are contract workers and some not even directly employed by Amazon, had access to both voice and text "
-#~ "transcripts of Alexa interactions."
-#~ msgstr ""
-#~ "En <a id=\"a1\">avril 2019</a>, il a été révélé que des milliers d’employés, dont beaucoup sont des contractuels et certains ne sont même pas directement employés par Amazon, avaient accès aux "
-#~ "transcriptions des interactions vocales et textuelles d’Alexa."
-
 #~ msgctxt "uses_encryption_helptext"
 #~ msgid "Encryption in transit and at rest."
 #~ msgstr "Utilisation du chiffrement en transit et au repos."
@@ -751,6 +739,18 @@ msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprend
 #~ msgstr ""
 #~ "<a id=\"a1\">En août 2020</a>, des chercheurs en sécurité de Check Point ont signalé une faille dans les appareils connectés Alexa d’Amazon qui aurait pu permettre à des pirates d’accéder à des "
 #~ "informations personnelles et à l’historique des conversations. Amazon a rapidement corrigé le bug."
+
+#~ msgctxt "track_record_details"
+#~ msgid "In <a id=\"a1\">October 2019</a>, Forbes reported that Amazon employees were listening to Amazon Cloud Cam recording, to train its AI algorythm."
+#~ msgstr "En <a id=\"a1\">octobre 2019</a>, Forbes a révélé que des employés d’Amazon écoutaient des enregistrements d’Amazon Cloud Cam, pour entraîner son algorithme d’IA."
+
+#~ msgctxt "track_record_details"
+#~ msgid ""
+#~ "In <a id=\"a1\">April 2019</a>, it was revealed that thousands of employees, many of whom are contract workers and some not even directly employed by Amazon, had access to both voice and text "
+#~ "transcripts of Alexa interactions."
+#~ msgstr ""
+#~ "En <a id=\"a1\">avril 2019</a>, il a été révélé que des milliers d’employés, dont beaucoup sont des contractuels et certains ne sont même pas directement employés par Amazon, avaient accès aux "
+#~ "transcriptions des interactions vocales et textuelles d’Alexa."
 
 #~ msgctxt "worst_case"
 #~ msgid ""

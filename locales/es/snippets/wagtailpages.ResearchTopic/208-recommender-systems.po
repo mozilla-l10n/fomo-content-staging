@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Recommender systems"
-msgstr ""
+msgstr "Sistemas de recomendación"

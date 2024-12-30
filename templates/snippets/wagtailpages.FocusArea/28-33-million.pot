@@ -1,0 +1,14 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-12-30 07:05:11.470107+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "name"
+msgid "$33 million+"
+msgstr ""
+
+msgctxt "description"
+msgid "in grants supporting a more human-centered internet"
+msgstr ""

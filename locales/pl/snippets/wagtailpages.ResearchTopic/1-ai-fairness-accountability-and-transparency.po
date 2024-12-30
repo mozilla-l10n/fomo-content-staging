@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "name"
 msgid "AI fairness, accountability, and transparency"
-msgstr ""
+msgstr "Uczciwość, odpowiedzialność i przejrzystość sztucznej inteligencji"
 
 #~ msgctxt "name"
 #~ msgid "AI Fairness, Accountability and Transparency"

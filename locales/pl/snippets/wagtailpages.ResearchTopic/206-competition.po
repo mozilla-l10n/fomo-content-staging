@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Competition"
-msgstr ""
+msgstr "Konkurencja"

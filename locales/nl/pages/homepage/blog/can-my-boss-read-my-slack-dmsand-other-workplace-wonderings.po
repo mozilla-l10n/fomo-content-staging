@@ -67,7 +67,7 @@ msgstr ""
 
 msgctxt "body.e78d462f-070c-4670-8af8-667efc45c941.altText"
 msgid "Can Your Bosses Read Your Slack Messages, Microsoft Team chats or see your Zoom calls?"
-msgstr "Kunnen uw bazen je berichten op Slack lezen, chats op Microsoft Team bekijken of uw oproepen op Zoom bekijken?"
+msgstr "Kunnen uw bazen je berichten op Slack lezen, chats op Microsoft Teams bekijken of uw oproepen op Zoom bekijken?"
 
 msgctxt "body.f59fcf27-6bc2-46a7-a1fd-5248767296e2"
 msgid "How about my Microsoft Teams chat? Can my boss see that?"

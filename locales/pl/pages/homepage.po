@@ -19,16 +19,36 @@ msgid "Homepage"
 msgstr "Strona główna"
 
 msgctxt "hero_headline"
-msgid "TikTok Lite Lacks Key Safety Features, Fails Global Majority"
-msgstr ""
+msgid "We're reclaiming the internet, building trustworthy AI, and holding tech companies accountable"
+msgstr "Odzyskujemy Internet, tworzymy godną zaufania AI i pociągamy firmy technologiczne do odpowiedzialności"
 
 msgctxt "hero_button_text"
-msgid "Read Our Research"
-msgstr ""
+msgid "Join Us"
+msgstr "Dołącz do nas"
 
-msgctxt "spotlight_headline"
-msgid "Spotlight: The Data Futures Lab"
-msgstr "W centrum uwagi: Laboratorium Data Futures"
+msgctxt "hero_intro_heading"
+msgid "A healthy internet is one in which privacy, openness, and inclusion are the norms."
+msgstr "W „zdrowym Internecie” prywatność, otwartość i inkluzywność to standard."
+
+msgctxt "hero_intro_body"
+msgid ""
+"The Mozilla Foundation empowers people to shape a healthier digital world. We work across borders to advocate for privacy, inclusion and decentralization, and to create safer, more transparent "
+"online experiences for everyone."
+msgstr ""
+"Fundacja Mozilli pomaga kształtować zdrowszy świat cyfrowy. Współpracujemy z podmiotami z całego świata, promując prywatność, inkluzywność i decentralizację. Naszym celem jest stworzenie "
+"bezpieczniejszego i bardziej przejrzystego środowiska online dla wszystkich."
+
+msgctxt "hero_intro_link.23e90ac4-ef42-4580-9e95-405571c3ac4d.label"
+msgid "More about us"
+msgstr "Więcej o nas"
+
+msgctxt "ideas_title"
+msgid "What We're Building"
+msgstr "Co tworzymy"
+
+msgctxt "ideas_headline"
+msgid "Championing ‘Public AI’"
+msgstr "Wsparcie „publicznej AI”"
 
 msgctxt "cause_statement"
 msgid "The Mozilla Foundation works to ensure the internet remains a public resource that is open and accessible to us all."
@@ -51,8 +71,8 @@ msgid "Ford Foundation"
 msgstr "Fundacja Forda"
 
 msgctxt "partner_heading"
-msgid "Partner with us"
-msgstr "Nawiąż z nami współpracę"
+msgid "Funder or civil society organization? Partner with us."
+msgstr "Jesteś podmiotem finansującym lub organizacją działającą na rzecz społeczeństwa obywatelskiego? Nawiąż z nami współpracę."
 
 msgctxt "partner_intro_text"
 msgid "Help fund, shape, and expand Mozilla work toward a healthy internet and trustworthy AI."
@@ -63,24 +83,24 @@ msgid "Let’s work together"
 msgstr "Pracujmy razem"
 
 msgctxt "take_action_title"
-msgid "Take action"
-msgstr "Podejmij działanie"
+msgid "Take Action"
+msgstr "Zacznij działać"
 
 msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
 msgid "Tell Bumble: Don’t sell or share users’ data without permission."
-msgstr ""
+msgstr "Zaapeluj do Bumble: nie sprzedawajcie danych użytkowników bez ich zgody."
 
 msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.cta"
 msgid "Sign now"
-msgstr ""
+msgstr "Podpisz teraz"
 
 msgctxt "take_action_cards.046f1c00-6873-4bdb-a623-32c6cc18e068.text"
 msgid "Tell Meta: Don't Kill Your Crucial Transparency Tool, CrowdTangle!"
-msgstr ""
+msgstr "Apel do firmy Meta: Nie wyłączajcie kluczowego narzędzia do monitorowania przejrzystości – CrowdTangle!"
 
 msgctxt "take_action_cards.046f1c00-6873-4bdb-a623-32c6cc18e068.cta"
 msgid "Sign now"
-msgstr ""
+msgstr "Podpisz teraz"
 
 msgctxt "take_action_cards.5ae600cc-b1a4-43b2-852f-d2ce8396cbe1.text"
 msgid "Tell OpenAI, Google, and Microsoft: Provide transparency about the data used to train your AI tools!"
@@ -88,15 +108,15 @@ msgstr "Zaapeluj do firm OpenAI, Google i Microsoft, aby zapewniły przejrzysto�
 
 msgctxt "take_action_cards.5ae600cc-b1a4-43b2-852f-d2ce8396cbe1.cta"
 msgid "Sign now"
-msgstr ""
+msgstr "Podpisz teraz"
 
 msgctxt "take_action_cards.b2c17bff-53d9-44fe-a882-7603d821585c.text"
 msgid "TikTok Lite Lacks Critical Safety Features, Neglects Global Majority Users"
-msgstr ""
+msgstr "Usługa TikTok Lite jest pozbawiona krytycznych funkcji bezpieczeństwa i zaniedbuje użytkowników z największych ośrodków na świecie"
 
 msgctxt "take_action_cards.b2c17bff-53d9-44fe-a882-7603d821585c.cta"
 msgid "Learn more"
-msgstr ""
+msgstr "Więcej informacji"
 
 msgctxt "partner_logos.27a519d5-cbc2-4e21-af63-5e80a198ecf6.name"
 msgid "Ford Foundation logo"
@@ -114,6 +134,22 @@ msgctxt "partner_logos.929c99af-30b5-43e9-868d-348dff76a7cb.name"
 msgid "Consumers International logo"
 msgstr "Logo Consumers International"
 
+msgctxt "ideas_posts.edd097f8-7d7f-45b2-b7c8-bc594288f5d8.cta"
+msgid "Common Voice 19.0 Dataset Release"
+msgstr "Zbiór danych Common Voice, wydanie 19.0"
+
+msgctxt "ideas_posts.5d8ee629-1355-48db-b54c-f85951512e7d.cta"
+msgid "2024 Mozilla Technology Fund Cohort"
+msgstr "Kohorta Mozilla Technology Fund 2024"
+
+msgctxt "ideas_posts.229b0fa6-2d60-4744-be0f-8ef91c68931f.cta"
+msgid "Read more"
+msgstr "Więcej informacji"
+
+msgctxt "highlights_title"
+msgid "The Latest"
+msgstr "Najnowsze posty"
+
 #~ msgctxt "take_action_cards.36e213a7-6199-4ebc-b1fc-633d6bc11965.text"
 #~ msgid "Tell Slack: #BlockAbuse"
 #~ msgstr "Powiedz Slack: #StopPrzemocy"
@@ -121,14 +157,6 @@ msgstr "Logo Consumers International"
 #~ msgctxt "take_action_cards.1e303e2d-ade9-48e9-9f84-00a6e018e345.text"
 #~ msgid "Open letter to Venmo: Make Privacy the Default"
 #~ msgstr "Otwarty list do Venmo: Prywatność jako ustawienie domyślne"
-
-#~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
-#~ msgid "Tell Tinder: It’s time for meaningful transparency into your pricing algorithms!"
-#~ msgstr "Powiedz Tinderowi: Czas na prawdziwą przejrzystość algorytmów cenowych!"
-
-#~ msgctxt "take_action_cards.86d49254-53ec-460e-a27a-60fb74df0b92.text"
-#~ msgid "Invest in our Planet – The Intersectionality of Climate &amp; Tech"
-#~ msgstr "Inwestuj w planetę - Miejsce spotkań klimatu i technologii"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Mozilla Festival 2023 Dates Announced!"
@@ -141,6 +169,22 @@ msgstr "Logo Consumers International"
 #~ msgctxt "spotlight_headline"
 #~ msgid "All About Common Voice"
 #~ msgstr "Wszystko o Common Voice"
+
+#~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
+#~ msgid "Tell Tinder: It’s time for meaningful transparency into your pricing algorithms!"
+#~ msgstr "Powiedz Tinderowi: Czas na prawdziwą przejrzystość algorytmów cenowych!"
+
+#~ msgctxt "take_action_cards.86d49254-53ec-460e-a27a-60fb74df0b92.text"
+#~ msgid "Invest in our Planet – The Intersectionality of Climate &amp; Tech"
+#~ msgstr "Inwestuj w planetę - Miejsce spotkań klimatu i technologii"
+
+#~ msgctxt "partner_heading"
+#~ msgid "Partner with us"
+#~ msgstr "Nawiąż z nami współpracę"
+
+#~ msgctxt "take_action_title"
+#~ msgid "Take action"
+#~ msgstr "Podejmij działanie"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Guide"
@@ -206,6 +250,10 @@ msgstr "Logo Consumers International"
 #~ msgid "Read the research"
 #~ msgstr "Zobacz wyniki badania"
 
+#~ msgctxt "spotlight_headline"
+#~ msgid "Spotlight: The Data Futures Lab"
+#~ msgstr "W centrum uwagi: Laboratorium Data Futures"
+
 #~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
 #~ msgid "Microsoft: Are You Using Customer Data To Train AI?"
 #~ msgstr "Microsoft: Czy używasz danych klientów do szkolenia sztucznej inteligencji?"
@@ -225,3 +273,11 @@ msgstr "Logo Consumers International"
 #~ msgctxt "hero_button_text"
 #~ msgid "Add Your Name"
 #~ msgstr "Podpisz petycję"
+
+#~ msgctxt "ideas_title"
+#~ msgid "Ideas"
+#~ msgstr "Pomysły"
+
+#~ msgctxt "ideas_headline"
+#~ msgid "Spotlight: The Data Futures Lab"
+#~ msgstr "W centrum uwagi: Laboratorium Data Futures"

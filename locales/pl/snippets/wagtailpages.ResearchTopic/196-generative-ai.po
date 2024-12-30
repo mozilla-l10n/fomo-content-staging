@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Generative AI"
-msgstr ""
+msgstr "Generatywna sztuczna inteligencja"

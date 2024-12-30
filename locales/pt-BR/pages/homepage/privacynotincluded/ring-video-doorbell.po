@@ -534,6 +534,14 @@ msgstr "Câmeras Ring usam detecção de movimento baseada em câmera para inici
 #~ "Em <a id=\"a1\">abril de 2019</a>, foi revelado que milhares de funcionários, muitos dos quais eram prestadores de serviços e alguns nem mesmo eram contratados diretamente pela Amazon, tinham acesso"
 #~ " a transcrições de voz e texto das <a id=\"a2\">interações</a> da Alexa."
 
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid ""
+#~ "In addition, law enforcement can make a video request in the Neighbors app to ask the community to assist in an investigation. Police who download videos from customer cameras may be able to keep "
+#~ "them indefinite<a id=\"a1\">ly,</a> <a id=\"a2\">depending on local</a> laws."
+#~ msgstr ""
+#~ "Além disso, as autoridades podem fazer uma solicitação de vídeo no aplicativo Neighbors para pedir à comunidade que ajude em uma investigação. A polícia que baixar vídeos de câmeras de clientes pode"
+#~ " mantê-los indefinidamente<a id=\"a1\">,</a> <a id=\"a2\">dependendo das leis locais.</a>"
+
 #~ msgctxt "biometric_data_collected"
 #~ msgid "Video and voice recordings"
 #~ msgstr "Gravações de vídeo e voz"
@@ -541,18 +549,6 @@ msgstr "Câmeras Ring usam detecção de movimento baseada em câmera para inici
 #~ msgctxt "social_data_collected"
 #~ msgid "Neighbors app network"
 #~ msgstr "Rede do aplicativo Neighbors"
-
-#~ msgctxt "track_record_details"
-#~ msgid ""
-#~ "In <a id=\"a1\">November 2019</a>, a security vulnerability in Amazon's Ring Video Doorbell Pro devices could have allowed attackers to exploit the internet-connected doorbell to intercept the "
-#~ "owner's wi-fi credentials."
-#~ msgstr ""
-#~ "Em <a id=\"a1\">novembro de 2019</a>, uma vulnerabilidade de segurança nos dispositivos Ring Video Doorbell Pro da Amazon poderia ter possibilitado que os invasores explorassem a campainha conectada"
-#~ " à internet para interceptar as credenciais de WiFi do proprietário."
-
-#~ msgctxt "child_safety_blurb"
-#~ msgid "\"Ring's products and services are intended for a general audience and are not directed to children. We do not knowingly collect personal information online from children under the age of 13.\""
-#~ msgstr "\"Os produtos e serviços da Ring são destinados a um público geral e não são direcionados a crianças. Não coletamos conscientemente informações pessoais online de crianças menores de 13 anos.\""
 
 #~ msgctxt "worst_case"
 #~ msgid ""
@@ -642,14 +638,6 @@ msgstr "Câmeras Ring usam detecção de movimento baseada em câmera para inici
 #~ msgid "Review sharing options for your data if you have multiple people in the neighborhood"
 #~ msgstr "Revise as opções de compartilhamento de seus dados se você tiver várias pessoas na vizinhança"
 
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid ""
-#~ "In addition, law enforcement can make a video request in the Neighbors app to ask the community to assist in an investigation. Police who download videos from customer cameras may be able to keep "
-#~ "them indefinite<a id=\"a1\">ly,</a> <a id=\"a2\">depending on local</a> laws."
-#~ msgstr ""
-#~ "Além disso, as autoridades podem fazer uma solicitação de vídeo no aplicativo Neighbors para pedir à comunidade que ajude em uma investigação. A polícia que baixar vídeos de câmeras de clientes pode"
-#~ " mantê-los indefinidamente<a id=\"a1\">,</a> <a id=\"a2\">dependendo das leis locais.</a>"
-
 #~ msgctxt "track_record_details"
 #~ msgid "In 2021, the Federal Trade Commision in the US <a id=\"a1\">recommended filing a lawsuit</a> against Amazon because of privacy and security breaches in Ring home security unit"
 #~ msgstr ""
@@ -659,6 +647,18 @@ msgstr "Câmeras Ring usam detecção de movimento baseada em câmera para inici
 #~ msgctxt "track_record_details"
 #~ msgid "In <a id=\"a1\">December 2020</a>, a class action lawsuit was filed alleging lax security measures at Ring, allowed hackers to take over their devices."
 #~ msgstr "Em <a id=\"a1\">dezembro de 2020</a>, uma ação coletiva foi ajuizada alegando medidas de segurança negligentes na Ring, possibilitando que hackers tomassem o controle de seus dispositivos."
+
+#~ msgctxt "track_record_details"
+#~ msgid ""
+#~ "In <a id=\"a1\">November 2019</a>, a security vulnerability in Amazon's Ring Video Doorbell Pro devices could have allowed attackers to exploit the internet-connected doorbell to intercept the "
+#~ "owner's wi-fi credentials."
+#~ msgstr ""
+#~ "Em <a id=\"a1\">novembro de 2019</a>, uma vulnerabilidade de segurança nos dispositivos Ring Video Doorbell Pro da Amazon poderia ter possibilitado que os invasores explorassem a campainha conectada"
+#~ " à internet para interceptar as credenciais de WiFi do proprietário."
+
+#~ msgctxt "child_safety_blurb"
+#~ msgid "\"Ring's products and services are intended for a general audience and are not directed to children. We do not knowingly collect personal information online from children under the age of 13.\""
+#~ msgstr "\"Os produtos e serviços da Ring são destinados a um público geral e não são direcionados a crianças. Não coletamos conscientemente informações pessoais online de crianças menores de 13 anos.\""
 
 #~ msgctxt "worst_case"
 #~ msgid ""

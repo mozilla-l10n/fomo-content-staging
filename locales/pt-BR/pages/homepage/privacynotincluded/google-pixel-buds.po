@@ -648,18 +648,6 @@ msgstr ""
 #~ msgid "Name, email, phone number"
 #~ msgstr "Nome, email, número de telefone"
 
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Voice recordings"
-#~ msgstr "Gravações de voz"
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-#~ msgstr "Não se inscreva com contas de terceiros. É melhor fazer o login somente com e-mail e senha forte."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
-#~ msgstr "Use uma senha forte! Você pode usar uma ferramenta de controle de senha como 1Password, KeePass etc."
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "Of course, Google uses your personal information to sell those targeted, personalized ads you see all over the place like in your Gmail, in your favorite Solitaire app, on partner websites, and on "
@@ -671,13 +659,6 @@ msgstr ""
 #~ " sites parceiros e no YouTube. Sim, os anúncios estão em todos os lugares. No entanto, o Google afirma que não usará coisas como sua orientação sexual, raça e saúde para mostrar-lhe anúncios... e só"
 #~ " nos resta acreditar neles. Tenho certeza de que todos nós já vimos anúncios baseados em assuntos privados sobre nós que pareceram bastante assustadores. E o Google diz que não vai usar o conteúdo "
 #~ "de seu Google Drive, e-mail ou fotos para personalizar os anúncios. Nós com certeza esperamos que não."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid ""
-#~ "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
-#~ msgstr ""
-#~ "Limite o rastreamento de anúncios através do seu dispositivo (por exemplo, no iPhone, vá para Privacidade - > Publicidade -> Limite o rastreamento de anúncios) e as maiores redes de anúncios (para o"
-#~ " Google, vá para a Conta do Google e desative a personalização de anúncios)"
 
 #~ msgctxt "worst_case"
 #~ msgid ""
@@ -775,6 +756,25 @@ msgstr ""
 #~ msgid "Google says they keep video footage, audio recordings, and home environment sensor readings separate from advertising, and they won’t use this data for ad personalization."
 #~ msgstr ""
 #~ "O Google diz que mantém imagens de vídeo, gravações de áudio e leituras de sensores de ambiente doméstico separados da publicidade, e que não usará esses dados para personalização de anúncios."
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
+#~ msgstr "Não se inscreva com contas de terceiros. É melhor fazer o login somente com e-mail e senha forte."
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
+#~ msgstr "Use uma senha forte! Você pode usar uma ferramenta de controle de senha como 1Password, KeePass etc."
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid ""
+#~ "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
+#~ msgstr ""
+#~ "Limite o rastreamento de anúncios através do seu dispositivo (por exemplo, no iPhone, vá para Privacidade - > Publicidade -> Limite o rastreamento de anúncios) e as maiores redes de anúncios (para o"
+#~ " Google, vá para a Conta do Google e desative a personalização de anúncios)"
+
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Voice recordings"
+#~ msgstr "Gravações de voz"
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

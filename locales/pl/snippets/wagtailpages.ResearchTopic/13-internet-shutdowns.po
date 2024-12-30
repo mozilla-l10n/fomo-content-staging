@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "name"
 msgid "Internet shutdowns"
-msgstr ""
+msgstr "Wyłączenia Internetu"
 
 #~ msgctxt "name"
 #~ msgid "Internet Shutdowns"

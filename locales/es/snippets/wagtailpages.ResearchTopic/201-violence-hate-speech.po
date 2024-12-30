@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Violence &amp; hate speech"
-msgstr ""
+msgstr "Violencia y discursos de odio"

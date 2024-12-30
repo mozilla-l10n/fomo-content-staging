@@ -598,18 +598,6 @@ msgstr "A Alexa da Amazon utiliza o processamento de linguagem natural para ente
 #~ msgid "Uses encryption in transit and at rest."
 #~ msgstr "Utiliza criptografia em trânsito e em repouso."
 
-#~ msgctxt "how_does_it_use_data_collected"
-#~ msgid ""
-#~ "\"In the twelve months prior to the effective date of this Disclosure, Amazon has not sold any personal information of consumers, as those terms are defined under the California Consumer Privacy "
-#~ "Act. \""
-#~ msgstr ""
-#~ "\"Nos doze meses anteriores à data efetiva desta Divulgação, a Amazon não vendeu nenhuma informação pessoal dos consumidores, conforme esses termos são definidos sob a Lei de Privacidade do "
-#~ "Consumidor da Califórnia.\""
-
-#~ msgctxt "how_does_it_use_data_collected"
-#~ msgid "\"Information about our customers is an important part of our business, and we are not in the business of selling our customers' personal information to others.\""
-#~ msgstr "\"A informação sobre nossos clientes é uma parte importante do nosso negócio, e não estamos no negócio de vender as informações pessoais de nossos clientes para terceiros.\""
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "Amazon proudly states they are not in the business of selling your personal information to others. True. But, Amazon doesn’t need to sell your data to others when they have their own advertising and"
@@ -694,6 +682,18 @@ msgstr "A Alexa da Amazon utiliza o processamento de linguagem natural para ente
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
+#~ "\"In the twelve months prior to the effective date of this Disclosure, Amazon has not sold any personal information of consumers, as those terms are defined under the California Consumer Privacy "
+#~ "Act. \""
+#~ msgstr ""
+#~ "\"Nos doze meses anteriores à data efetiva desta Divulgação, a Amazon não vendeu nenhuma informação pessoal dos consumidores, conforme esses termos são definidos sob a Lei de Privacidade do "
+#~ "Consumidor da Califórnia.\""
+
+#~ msgctxt "how_does_it_use_data_collected"
+#~ msgid "\"Information about our customers is an important part of our business, and we are not in the business of selling our customers' personal information to others.\""
+#~ msgstr "\"A informação sobre nossos clientes é uma parte importante do nosso negócio, e não estamos no negócio de vender as informações pessoais de nossos clientes para terceiros.\""
+
+#~ msgctxt "how_does_it_use_data_collected"
+#~ msgid ""
 #~ "Amazon says they <a id=\"a1\">do not sell your personal information</a>. They combine <a id=\"a2\">your voice data</a> with third-party data to answer your requests as well as to train Alexa's "
 #~ "speech recognition. You can choose to not save any voice recordings, but it will cost you some features."
 #~ msgstr ""
@@ -703,17 +703,6 @@ msgstr "A Alexa da Amazon utiliza o processamento de linguagem natural para ente
 #~ msgctxt "biometric_data_collected"
 #~ msgid "Voice recordings"
 #~ msgstr "Gravações de voz"
-
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid ""
-#~ "<b>We ding this product for not guaranteeing all users have the same right to access and delete their data, regardless of where they live.</b><br/><br/> For users outside of California and Europe, "
-#~ "Amazon is not clear if they can excercise their deletion rights: \"In addition, to the extent required by applicable law, you may have the right to request access to or delete your personal "
-#~ "information. If you wish to do any of these things, please contact Customer Service. Depending on your data choices, certain services may be limited or unavailable.\""
-#~ msgstr ""
-#~ "<b>Fazemos um alerta para este produto por não garantir que todos os usuários têm o mesmo direito de acessar e excluir seus dados, independentemente de onde eles vivem.</b><br/><br/> Para usuários "
-#~ "fora da Califórnia e da Europa, a Amazon não é clara se eles podem exercer seus direitos de exclusão: \"Além disso, na medida exigida pela lei aplicável, você pode ter o direito de solicitar acesso "
-#~ "ou excluir suas informações pessoais. Se você deseja fazer qualquer uma dessas coisas, entre em contato com o Atendimento ao Cliente. Dependendo das suas escolhas de dados, certos serviços podem ser"
-#~ " limitados ou ficarem indisponíveis.\""
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
@@ -739,6 +728,17 @@ msgstr "A Alexa da Amazon utiliza o processamento de linguagem natural para ente
 #~ "fins de garantia de qualidade, ou se usarmos um provedor de serviços para atender ao seu pedido para imprimir imagens da sua conta do Amazon Photos;<br/>- informações educacionais, por exemplo, "
 #~ "cursos que você pode nos instruir a compartilhar com o operador de uma habilidade educacional da Alexa; e<br/>- informações profissionais, por exemplo, se fornecermos os detalhes da sua conta a um "
 #~ "provedor de serviços para verificação como parte da inscrição para uma conta do Amazon Business.\""
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid ""
+#~ "<b>We ding this product for not guaranteeing all users have the same right to access and delete their data, regardless of where they live.</b><br/><br/> For users outside of California and Europe, "
+#~ "Amazon is not clear if they can excercise their deletion rights: \"In addition, to the extent required by applicable law, you may have the right to request access to or delete your personal "
+#~ "information. If you wish to do any of these things, please contact Customer Service. Depending on your data choices, certain services may be limited or unavailable.\""
+#~ msgstr ""
+#~ "<b>Fazemos um alerta para este produto por não garantir que todos os usuários têm o mesmo direito de acessar e excluir seus dados, independentemente de onde eles vivem.</b><br/><br/> Para usuários "
+#~ "fora da Califórnia e da Europa, a Amazon não é clara se eles podem exercer seus direitos de exclusão: \"Além disso, na medida exigida pela lei aplicável, você pode ter o direito de solicitar acesso "
+#~ "ou excluir suas informações pessoais. Se você deseja fazer qualquer uma dessas coisas, entre em contato com o Atendimento ao Cliente. Dependendo das suas escolhas de dados, certos serviços podem ser"
+#~ " limitados ou ficarem indisponíveis.\""
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""
@@ -796,10 +796,10 @@ msgstr "A Alexa da Amazon utiliza o processamento de linguagem natural para ente
 #~ "privadas, embora suas políticas de privacidade declarassem que não estavam solicitando informações privadas.\" Além de políticas de privacidade enganosas, os <a id=\"a4\">problemas incluíam</a> "
 #~ "coisas como os desenvolvedores poderem reivindicar identidade falsa (\"Samsung\", \"Apple\"), várias habilidades compartilhando as mesmas palavras de gatilho Alexa, etc."
 
-#~ msgctxt "user_friendly_privacy_policy_helptext"
-#~ msgid "Amazon has a complicated and difficult to navigate mess of privacy policies, privacy notices, privacy FAQs, and other privacy information."
-#~ msgstr "A Amazon tem uma bagunça complicada e difícil de navegar de políticas de privacidade, avisos de privacidade, perguntas frequentes sobre privacidade e outras informações de privacidade."
-
 #~ msgctxt "personal_data_collected"
 #~ msgid "Name, email, phone number, address"
 #~ msgstr "Nome, email, número de telefone, endereço"
+
+#~ msgctxt "user_friendly_privacy_policy_helptext"
+#~ msgid "Amazon has a complicated and difficult to navigate mess of privacy policies, privacy notices, privacy FAQs, and other privacy information."
+#~ msgstr "A Amazon tem uma bagunça complicada e difícil de navegar de políticas de privacidade, avisos de privacidade, perguntas frequentes sobre privacidade e outras informações de privacidade."

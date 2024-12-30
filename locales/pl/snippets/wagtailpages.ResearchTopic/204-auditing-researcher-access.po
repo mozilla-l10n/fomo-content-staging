@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Auditing &amp; researcher access"
-msgstr ""
+msgstr "Dostęp dla audytorów i badaczy"

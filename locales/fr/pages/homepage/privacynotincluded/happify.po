@@ -349,16 +349,16 @@ msgstr "« Anna est là pour vous orienter dans la bonne direction et pour vous
 #~ msgstr "Happify Health ne permet sciemment à aucune personne de moins de 16 ans de s’inscrire directement aux offres Happify Health."
 
 #~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Never link your Happify account to a social media account like Facebook or Twitter."
-#~ msgstr "N’associez jamais votre compte Happify à un compte de réseau social comme Facebook ou Twitter."
-
-#~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Chose a strong password."
 #~ msgstr "Choisissez un mot de passe fort."
 
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Do not share data with third parties."
 #~ msgstr "Ne partagez pas de données avec des tiers."
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Never link your Happify account to a social media account like Facebook or Twitter."
+#~ msgstr "N’associez jamais votre compte Happify à un compte de réseau social comme Facebook ou Twitter."
 
 #~ msgctxt "personal_data_collected"
 #~ msgid "Name, email, phone number, address, phone number, employee ID/healthcare ID, location"

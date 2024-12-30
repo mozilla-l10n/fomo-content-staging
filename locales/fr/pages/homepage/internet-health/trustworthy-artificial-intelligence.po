@@ -130,13 +130,6 @@ msgstr ""
 "centrées sur l’humain, qui libèrent la puissance et le potentiel d’Internet."
 
 #~ msgctxt "body.c618904b-681a-4e03-ba0d-622ff18a0e88"
-#~ msgid ""
-#~ "<b>TRANSPARENCY</b>: Automated decisions can have huge personal impact, yet the reasons for decisions are often opaque. We need breakthroughs in explainability and transparency to protect users."
-#~ msgstr ""
-#~ "<b>TRANSPARENCE</b> : Les décisions automatisées peuvent avoir un impact énorme au niveau personnel, mais les raisons de ces décisions sont souvent obscures. Nous avons besoin de progrès majeurs en "
-#~ "matière de clarté et de transparence pour protéger les utilisateurs."
-
-#~ msgctxt "body.c618904b-681a-4e03-ba0d-622ff18a0e88"
 #~ msgid "A majority of Mozilla’s movement building work is focused on developing trustworthy AI."
 #~ msgstr "La majorité des efforts de Mozilla pour donner de l’élan au mouvement sont orientés vers le développement d’une IA digne de confiance."
 
@@ -198,6 +191,13 @@ msgstr ""
 #~ msgstr ""
 #~ "<b>SÉCURITÉ</b> : Les experts ont tiré la sonnette d’alarme sur le fait que l’IA pourrait accroître les risques de sécurité et la cybercriminalité. Les développeurs de plateformes devront mettre en "
 #~ "place des mesures plus strictes pour protéger nos données et notre sécurité personnelle."
+
+#~ msgctxt "body.c618904b-681a-4e03-ba0d-622ff18a0e88"
+#~ msgid ""
+#~ "<b>TRANSPARENCY</b>: Automated decisions can have huge personal impact, yet the reasons for decisions are often opaque. We need breakthroughs in explainability and transparency to protect users."
+#~ msgstr ""
+#~ "<b>TRANSPARENCE</b> : Les décisions automatisées peuvent avoir un impact énorme au niveau personnel, mais les raisons de ces décisions sont souvent obscures. Nous avons besoin de progrès majeurs en "
+#~ "matière de clarté et de transparence pour protéger les utilisateurs."
 
 #~ msgctxt "body.7ddc19fa-51f9-4d0a-a419-a0124d9fb55d"
 #~ msgid "We are approaching the fight for trustworthy AI in three key ways:"

@@ -19,16 +19,36 @@ msgid "Homepage"
 msgstr "Startside"
 
 msgctxt "hero_headline"
-msgid "TikTok Lite Lacks Key Safety Features, Fails Global Majority"
-msgstr "TikTok Lite mist wichtige feilichheidsfunksjes, net genôch foar wrâldwide mearderheid"
+msgid "We're reclaiming the internet, building trustworthy AI, and holding tech companies accountable"
+msgstr "Wy easkje it ynternet werom, bouwe oan betroubere AI en hâlde technologybedriuwen ta ferantwurding"
 
 msgctxt "hero_button_text"
-msgid "Read Our Research"
-msgstr "Lês ús ûndersyk"
+msgid "Join Us"
+msgstr "Meidwaan"
 
-msgctxt "spotlight_headline"
-msgid "Spotlight: The Data Futures Lab"
-msgstr "Utljochte: it Data Futures Lab"
+msgctxt "hero_intro_heading"
+msgid "A healthy internet is one in which privacy, openness, and inclusion are the norms."
+msgstr "In sûn ynternet is ien wêryn privacy, iepenheid en ynklúzje de noarms binne."
+
+msgctxt "hero_intro_body"
+msgid ""
+"The Mozilla Foundation empowers people to shape a healthier digital world. We work across borders to advocate for privacy, inclusion and decentralization, and to create safer, more transparent "
+"online experiences for everyone."
+msgstr ""
+"De Mozilla Foundation stelt minsken yn steat om in sûnere digitale wrâld te foarmjen. Wy wurkje oer grinzen hinne om te pleitsjen foar privacy, ynklúzje en desintralisaasje, en feiliger, "
+"transparanter online ûnderfiningen foar elkenien te meitsjen."
+
+msgctxt "hero_intro_link.23e90ac4-ef42-4580-9e95-405571c3ac4d.label"
+msgid "More about us"
+msgstr "Mear oer ús"
+
+msgctxt "ideas_title"
+msgid "What We're Building"
+msgstr "Wat wy bouwe"
+
+msgctxt "ideas_headline"
+msgid "Championing ‘Public AI’"
+msgstr "Opkomme foar ‘Publike AI’"
 
 msgctxt "cause_statement"
 msgid "The Mozilla Foundation works to ensure the internet remains a public resource that is open and accessible to us all."
@@ -51,8 +71,8 @@ msgid "Ford Foundation"
 msgstr "Ford Foundation"
 
 msgctxt "partner_heading"
-msgid "Partner with us"
-msgstr "Partner wurde"
+msgid "Funder or civil society organization? Partner with us."
+msgstr "Finansier of maatskiplike organisaasje? Wurk mei ús gear."
 
 msgctxt "partner_intro_text"
 msgid "Help fund, shape, and expand Mozilla work toward a healthy internet and trustworthy AI."
@@ -63,7 +83,7 @@ msgid "Let’s work together"
 msgstr "Litte wy gearwurkje"
 
 msgctxt "take_action_title"
-msgid "Take action"
+msgid "Take Action"
 msgstr "Aksje ûndernimme"
 
 msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
@@ -114,6 +134,22 @@ msgctxt "partner_logos.929c99af-30b5-43e9-868d-348dff76a7cb.name"
 msgid "Consumers International logo"
 msgstr "Consumers International-logo"
 
+msgctxt "ideas_posts.edd097f8-7d7f-45b2-b7c8-bc594288f5d8.cta"
+msgid "Common Voice 19.0 Dataset Release"
+msgstr "Common Voice-gegevensset ferzje 19.0"
+
+msgctxt "ideas_posts.5d8ee629-1355-48db-b54c-f85951512e7d.cta"
+msgid "2024 Mozilla Technology Fund Cohort"
+msgstr "Mozilla Technology Fund-cohort 2024"
+
+msgctxt "ideas_posts.229b0fa6-2d60-4744-be0f-8ef91c68931f.cta"
+msgid "Read more"
+msgstr "Mear ynfo"
+
+msgctxt "highlights_title"
+msgid "The Latest"
+msgstr "De nijste"
+
 #~ msgctxt "spotlight_headline"
 #~ msgid "What To Know About Venmo"
 #~ msgstr "Wat jo witte moatte oer Venmo"
@@ -125,6 +161,14 @@ msgstr "Consumers International-logo"
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Findings"
 #~ msgstr "Lês de befiningen"
+
+#~ msgctxt "partner_heading"
+#~ msgid "Partner with us"
+#~ msgstr "Partner wurde"
+
+#~ msgctxt "take_action_title"
+#~ msgid "Take action"
+#~ msgstr "Aksje ûndernimme"
 
 #~ msgctxt "take_action_cards.86d49254-53ec-460e-a27a-60fb74df0b92.text"
 #~ msgid "Let’s Unfck The Internet"
@@ -145,10 +189,6 @@ msgstr "Consumers International-logo"
 #~ msgctxt "hero_headline"
 #~ msgid "Inside the Shadowy World of Disinformation-for-hire in Kenya"
 #~ msgstr "Yn de dizige wrâld fan desynformaasje-te-hier yn Kenia"
-
-#~ msgctxt "hero_button_text"
-#~ msgid "Read more"
-#~ msgstr "Mear ynfo"
 
 #~ msgctxt "hero_headline"
 #~ msgid "TikTok is failing to curb German election disinformation"
@@ -186,6 +226,10 @@ msgstr "Consumers International-logo"
 #~ msgid "Read"
 #~ msgstr "Lêze"
 
+#~ msgctxt "ideas_title"
+#~ msgid "Ideas"
+#~ msgstr "Ideeën"
+
 #~ msgctxt "hero_headline"
 #~ msgid "Got YouTube regrets? Take back control"
 #~ msgstr "Hawwe jo spyt fan YouTube? Nim de kontrôle werom"
@@ -218,6 +262,10 @@ msgstr "Consumers International-logo"
 #~ msgid "Read More"
 #~ msgstr "Mear ynfo"
 
+#~ msgctxt "spotlight_headline"
+#~ msgid "All About Common Voice"
+#~ msgstr "Alles oer Common Voice"
+
 #~ msgctxt "hero_headline"
 #~ msgid "*privacy not included — Mental Health Apps Edition"
 #~ msgstr "*privacy net ynbegrepen – Geastlike sûnensapps-edysje"
@@ -225,10 +273,6 @@ msgstr "Consumers International-logo"
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Guide"
 #~ msgstr "De Gids lêze"
-
-#~ msgctxt "spotlight_headline"
-#~ msgid "All About Common Voice"
-#~ msgstr "Alles oer Common Voice"
 
 #~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
 #~ msgid "Tell Tinder: It’s time for meaningful transparency into your pricing algorithms!"
@@ -265,6 +309,10 @@ msgstr "Consumers International-logo"
 #~ msgctxt "hero_button_text"
 #~ msgid "Learn More Here"
 #~ msgstr "Mear ynfo hjir"
+
+#~ msgctxt "ideas_headline"
+#~ msgid "Spotlight: The Data Futures Lab"
+#~ msgstr "Utljochte: it Data Futures Lab"
 
 #~ msgctxt "hero_headline"
 #~ msgid "MozFest 2023 — Virtual Experience"
@@ -327,16 +375,16 @@ msgstr "Consumers International-logo"
 #~ msgstr "Ynvestearje yn ús planeet – The Intersectionality of Climate & amp; Tech"
 
 #~ msgctxt "hero_button_text"
-#~ msgid "Submit Your Session Idea"
-#~ msgstr "Jo sesje-idee yntsjinje"
-
-#~ msgctxt "hero_button_text"
 #~ msgid "Secure Yours"
 #~ msgstr "Krij no jo kaartsjes"
 
 #~ msgctxt "hero_headline"
 #~ msgid "MozFest 2023 Call For Proposals"
 #~ msgstr "MozFest 2023-oprop foar foarstellen"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Submit Your Session Idea"
+#~ msgstr "Jo sesje-idee yntsjinje"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Research: Platforms’ Failing Global Election Initiatives"
@@ -454,6 +502,10 @@ msgstr "Consumers International-logo"
 #~ msgid "Help Prevent France Website Censorship Bill"
 #~ msgstr "Help de Frânske websitesensuerwet foar te kommen"
 
+#~ msgctxt "spotlight_headline"
+#~ msgid "Spotlight: The Data Futures Lab"
+#~ msgstr "Utljochte: it Data Futures Lab"
+
 #~ msgctxt "hero_headline"
 #~ msgid "Introducing The Mozilla Consumer Creep-O-Meter"
 #~ msgstr "Nij: de Mozilla Konsuminten-Creep-O-Meter"
@@ -470,21 +522,21 @@ msgstr "Consumers International-logo"
 #~ msgid "Read The Latest *Privacy Not Included Guide"
 #~ msgstr "Lês de nijste gids *Privacy net ynbegrepen"
 
+#~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
+#~ msgid "Stop France From Forcing Browsers To Censor Websites"
+#~ msgstr "Stop Frankryk browsers te twingen websites te sensurearjen"
+
+#~ msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
+#~ msgid "Car Companies: Stop Your Data Collection Programs"
+#~ msgstr "Autobedriuwen: stopje jo gegevenssamlingprogramma's"
+
 #~ msgctxt "hero_headline"
 #~ msgid "Mozilla Joins Vice President Harris to Support Public Interest AI"
 #~ msgstr "Mozilla lûkt mei vice-presidint Harris op ta stipe fan AI fan algemien belang"
 
 #~ msgctxt "hero_headline"
-#~ msgid "Season 7 of our award winning podcast: IRL"
-#~ msgstr "Seizoen 7 fan ús priiswinnende podcast: IRL"
-
-#~ msgctxt "hero_headline"
 #~ msgid "IRL Podcast Season 7 Is Here"
 #~ msgstr "IRL-podcast seizoen 7 is hjir"
-
-#~ msgctxt "hero_button_text"
-#~ msgid "Listen Now"
-#~ msgstr "No harkje"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Cars!* (*Privacy Not Included)"
@@ -510,13 +562,13 @@ msgstr "Consumers International-logo"
 #~ msgid "TikTok: Stop Misleading Android Users"
 #~ msgstr "TikTok: stop Android-brûkers te mislieden"
 
-#~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
-#~ msgid "Stop France From Forcing Browsers To Censor Websites"
-#~ msgstr "Stop Frankryk browsers te twingen websites te sensurearjen"
+#~ msgctxt "hero_headline"
+#~ msgid "Season 7 of our award winning podcast: IRL"
+#~ msgstr "Seizoen 7 fan ús priiswinnende podcast: IRL"
 
-#~ msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
-#~ msgid "Car Companies: Stop Your Data Collection Programs"
-#~ msgstr "Autobedriuwen: stopje jo gegevenssamlingprogramma's"
+#~ msgctxt "hero_button_text"
+#~ msgid "Listen Now"
+#~ msgstr "No harkje"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Join our global movement for privacy rights."
@@ -535,6 +587,10 @@ msgstr "Consumers International-logo"
 #~ msgstr "Lês de keapgids"
 
 #~ msgctxt "hero_headline"
+#~ msgid "Tech Giants Not Ready for Historic Election Year"
+#~ msgstr "Techreuzen net klear foar histoarysk ferkiezingsjier"
+
+#~ msgctxt "hero_headline"
 #~ msgid "Examining AI On The Continent Of Africa"
 #~ msgstr "AI op it Afrikaanske kontinint ûndersykje"
 
@@ -551,8 +607,12 @@ msgstr "Consumers International-logo"
 #~ msgstr "Ferkeap einiget op 22 maaie"
 
 #~ msgctxt "hero_headline"
-#~ msgid "Tech Giants Not Ready for Historic Election Year"
-#~ msgstr "Techreuzen net klear foar histoarysk ferkiezingsjier"
+#~ msgid "Mozilla’s J. Bob Alotta Named to Fast Company Queer 50 List"
+#~ msgstr "J. Bob Alotta fan Mozilla neamd op Fast Company Queer 50-list"
+
+#~ msgctxt "take_action_cards.046f1c00-6873-4bdb-a623-32c6cc18e068.text"
+#~ msgid "Join our global movement for privacy rights."
+#~ msgstr "Slút jo oan by ús wrâldwide beweging foar privacyrjochten."
 
 #~ msgctxt "hero_headline"
 #~ msgid "Data-Hungry Dating Apps Are a Privacy Nightmare"
@@ -562,17 +622,9 @@ msgstr "Consumers International-logo"
 #~ msgid "Learn Why"
 #~ msgstr "Lês wêrom"
 
-#~ msgctxt "hero_headline"
-#~ msgid "Mozilla’s J. Bob Alotta Named to Fast Company Queer 50 List"
-#~ msgstr "J. Bob Alotta fan Mozilla neamd op Fast Company Queer 50-list"
-
 #~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
 #~ msgid "Tell WhatsApp: Act to Protect Elections"
 #~ msgstr "Fertel WhatsApp: ûndernim aksje om de ferkiezingen te beskermjen"
-
-#~ msgctxt "take_action_cards.046f1c00-6873-4bdb-a623-32c6cc18e068.text"
-#~ msgid "Join our global movement for privacy rights."
-#~ msgstr "Slút jo oan by ús wrâldwide beweging foar privacyrjochten."
 
 #~ msgctxt "hero_headline"
 #~ msgid "MozFest House Amsterdam"
@@ -595,9 +647,41 @@ msgstr "Consumers International-logo"
 #~ msgstr "Bumble ferkeapet mooglik jo hiel persoanlike gegevens mei winsteachmerk."
 
 #~ msgctxt "hero_button_text"
+#~ msgid "Read Our Research"
+#~ msgstr "Lês ús ûndersyk"
+
+#~ msgctxt "hero_headline"
+#~ msgid "TikTok Lite Lacks Key Safety Features, Fails Global Majority"
+#~ msgstr "TikTok Lite mist wichtige feilichheidsfunksjes, net genôch foar wrâldwide mearderheid"
+
+#~ msgctxt "hero_button_text"
 #~ msgid "Tell Bumble to stop"
 #~ msgstr "Fertel Bumble om te stopjen"
 
 #~ msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
 #~ msgid "Tell WhatsApp: Act to Protect Global Elections!"
 #~ msgstr "Fertel WhatsApp: ûndernim aksje om de wrâldwide ferkiezingen te beskermjen!"
+
+#~ msgctxt "hero_intro_body"
+#~ msgid ""
+#~ "Mozilla empowers people to shape a healthier digital world. We work across borders to advocate for privacy, inclusion and decentralization, and to create safer, more transparent online experiences "
+#~ "for everyone."
+#~ msgstr ""
+#~ "Mozilla stelt minsken yn steat om in sûnere digitale wrâld te foarmjen. Wy wurkje oer grinzen hinne om te pleitsjen foar privacy, ynklúzje en desintralisaasje, en feiliger, transparanter online "
+#~ "ûnderfiningen foar elkenien te meitsjen."
+
+#~ msgctxt "hero_headline"
+#~ msgid "Angela Oduor Lungati to Headline MozFest House Zambia"
+#~ msgstr "Angela Oduor Lungati is de foarnaamste sprekker op MozFest House Zambia"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Learn More &amp; RSVP to Watch Live→"
+#~ msgstr "Mear ynformaasje &amp; Reagearje om live te sjen→"
+
+#~ msgctxt "hero_headline"
+#~ msgid "MozFest House Zambia: Full Schedule Now Live!"
+#~ msgstr "MozFest House Zambia: folsleine programma no live!"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Learn more &amp; see full schedule"
+#~ msgstr "Mear ynfo &amp; folsleine programma besjen"

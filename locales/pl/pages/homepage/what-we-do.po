@@ -158,7 +158,7 @@ msgstr "Sześciokąt w środku z małymi kwadratami wokół niego, symbolizując
 
 msgctxt "body.7248a8e8-1820-48c1-b3c2-b3fc42c6a401.text"
 msgid "Data Futures Lab"
-msgstr "Data Futures Lab"
+msgstr "Laboratorium Data Futures"
 
 msgctxt "body.7248a8e8-1820-48c1-b3c2-b3fc42c6a401.text"
 msgid "An experimental space for instigating new approaches to data stewardship challenges."
@@ -196,11 +196,13 @@ msgstr "ilustracja abstrakcyjna"
 
 msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
 msgid "Accelerating Progress Toward Trustworthy AI"
-msgstr ""
+msgstr "Przyspieszenie postępu w kierunku godnej zaufania sztucznej inteligencji"
 
 msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
 msgid "Status update on our 2020 paper “Creating Trustworthy AI” and next steps to promote openness, competition, and accountability in AI."
 msgstr ""
+"Aktualizacja stanu w naszym dokumencie pt. „Tworzenie godnej zaufania sztucznej inteligencji” z 2020 roku i kolejne kroki na rzecz promowania otwartości, konkurencji i odpowiedzialności w zakresie "
+"sztucznej inteligencji."
 
 msgctxt "body.eeb33f0a-10a0-479e-a86c-3877c94b8be5.text"
 msgid "<a id=\"a1\">Read the white paper →</a>"

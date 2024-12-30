@@ -393,10 +393,6 @@ msgstr "Toll! Beziehungs-Chatbots sind auf neue seltsame Weise schlecht für Ihr
 #~ msgid "Happy Valentine’s Day! Romantic AI Chatbots Don’t Have Your Privacy at Heart"
 #~ msgstr "Alles Liebe zum Valentinstag? Romantische KI-Chatbots kümmert Ihre Privatsphäre herzlich wenig"
 
-#~ msgctxt "search_description"
-#~ msgid "Here's why you should leave your AI chatbot BAE on read."
-#~ msgstr "Warum Sie Ihrem KI-Chatbot-Schatzi einen Korb geben sollten."
-
 #~ msgctxt "body.421d5645-1d56-43fa-8663-4fbc34f12c1d.label"
 #~ msgid "Support This Work With a Donation Today"
 #~ msgstr "Unterstützen Sie unsere Arbeit noch heute mit einer Spende"
@@ -404,6 +400,10 @@ msgstr "Toll! Beziehungs-Chatbots sind auf neue seltsame Weise schlecht für Ihr
 #~ msgctxt "body.421d5645-1d56-43fa-8663-4fbc34f12c1d.external_url"
 #~ msgid "https://foundation.mozilla.org/?form=romantic-chatbots"
 #~ msgstr "https://foundation.mozilla.org/?form=romantic-chatbots"
+
+#~ msgctxt "search_description"
+#~ msgid "Here's why you should leave your AI chatbot BAE on read."
+#~ msgstr "Warum Sie Ihrem KI-Chatbot-Schatzi einen Korb geben sollten."
 
 #~ msgctxt "body.421d5645-1d56-43fa-8663-4fbc34f12c1d.external_url"
 #~ msgid "https://foundation.mozilla.org/privacy-for-all/"

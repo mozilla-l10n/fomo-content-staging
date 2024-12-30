@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "name"
 msgid "Ads transparency"
-msgstr ""
+msgstr "Przejrzystość reklam"
 
 #~ msgctxt "name"
 #~ msgid "Ads Transparency"

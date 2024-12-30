@@ -560,6 +560,10 @@ msgctxt "ai_what_can_it_do"
 msgid "Voice recognition, if a user uses Bixby, a Samsung-specific AI-assistant, or Google Assistant"
 msgstr "Spracherkennung, wenn ein Benutzer Bixby, einen Samsung-spezifischen KI-Assistenten oder Google Assistant verwendet"
 
+#~ msgctxt "ai_helptext"
+#~ msgid "If a user uses Bixby, a Samsung-specific AI-assistant, or Google Assistant"
+#~ msgstr "Wenn ein Benutzer Bixby, einen Samsung-spezifischen KI-Assistenten oder Google Assistant verwendet"
+
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "Samsung offers many versions of their Galaxy earbuds. There's the Buds2, Buds Pro, Buds Live, and Buds+. That's a lot of Buds. And these tiny earbuds come in lots of shiny colors. They do the things"
@@ -650,7 +654,3 @@ msgstr "Spracherkennung, wenn ein Benutzer Bixby, einen Samsung-spezifischen KI-
 #~ msgctxt "track_record_details"
 #~ msgid "In February, 2020, Samsung <a id=\"a1\">had</a> a data breach on it UK customer account pages, affecting less than 150 people."
 #~ msgstr "Im Februar 2020 kam es bei Samsung <a id=\"a1\">einem</a> Datenschutzverstoß auf seinen britischen Kundenkontoseiten, von dem weniger als 150 Personen betroffen waren."
-
-#~ msgctxt "ai_helptext"
-#~ msgid "If a user uses Bixby, a Samsung-specific AI-assistant, or Google Assistant"
-#~ msgstr "Wenn ein Benutzer Bixby, einen Samsung-spezifischen KI-Assistenten oder Google Assistant verwendet"

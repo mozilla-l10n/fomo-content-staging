@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "name"
 msgid "Privacy, security &amp; tracking"
-msgstr ""
+msgstr "Prywatność, bezpieczeństwo i śledzenie"
 
 #~ msgctxt "name"
 #~ msgid "Privacy and Security"

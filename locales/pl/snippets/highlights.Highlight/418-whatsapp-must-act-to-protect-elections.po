@@ -12,7 +12,7 @@ msgstr "Apel do WhatsApp o podjęcie działań w celu ochrony wyborów"
 
 msgctxt "description"
 msgid "Will you add your name to ask WhatsApp to update its product to protect global elections?"
-msgstr ""
+msgstr "Czy dodasz swoje imię i nazwisko, aby poprosić twórców aplikacji WhatsApp o aktualizację produktu w celu ochrony wyborów na całym świecie?"
 
 msgctxt "link_label"
 msgid "Add Your Name"

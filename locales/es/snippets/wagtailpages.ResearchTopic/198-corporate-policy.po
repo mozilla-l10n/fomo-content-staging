@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "Corporate policy"
-msgstr ""
+msgstr "Política corporativa"

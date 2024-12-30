@@ -1,0 +1,80 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-12-30 07:04:46.484581+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: e4cc8d60-a85c-47a6-8537-16f905f9c336\n"
+
+msgctxt "seo_title"
+msgid "Common Voice Accounts are Changing"
+msgstr "Common Voice-accounts wizigje"
+
+msgctxt "search_description"
+msgid "The way contributors log into Common Voice will change on Nov 4th, 2024. This change will impact users who currently log in using Github."
+msgstr "Op 4 novimber 2024 wiziget de manier wêrop meiwurkers oanmelde by Common Voice. Dizze wiziging hat gefolgen foar brûkers dy’t harren op dit stuit oanmelde mei Github."
+
+msgctxt "body.38ff5b5f-c8df-4567-81e5-d842e398da99"
+msgid ""
+"In order to modernize account management on the Common Voice platform, Common Voice will be moving our accounts infrastructure to Mozilla Accounts Authentication System. This change will enable "
+"future work on the Common Voice platform by introducing different levels of permissions for contributors. Most users of the Common Voice platform will not see any changes to the login process. These"
+" changes will go live November 4th, 2024."
+msgstr ""
+"Om accountbehear op it Common Voice-platfoarm te modernisearjen, sil Common Voice ús accountynfrastruktuer ferpleatse nei it Mozilla Accounts-autentikaasjesysteem. Dizze wiziging makket takomstich "
+"wurk oan it Common Voice-platfoarm mooglik troch ferskate machtigingsnivo’s foar meiwurkers te yntrodusearjen. De measte brûkers fan it Common Voice-platfoarm sille gjin wizigingen yn it "
+"oanmeldingsproses sjen. Dizze wizigingen gean op 4 novimber 2024 live."
+
+msgctxt "body.ade35418-e8f3-4ae6-9bde-714ccb52d169"
+msgid "If you currently use Github to log into Common Voice:"
+msgstr "As jo op dit stuit Github brûke om oan te melden by Common Voice:"
+
+msgctxt "body.ade35418-e8f3-4ae6-9bde-714ccb52d169"
+msgid ""
+"The “Log in with GitHub” option will no longer be available after October 30th, 2024. To continue to log into your Common Voice account, enter the email address associated with your Github account "
+"into the “Log in with email” text box shown at the top of the new login page. This will create a new Mozilla Account that will be linked to your existing contributions and history."
+msgstr ""
+"De opsje ‘Oanmelden mei GitHub’ is nei 30 oktober 2024 net mear beskikber. Om jo oanmelde te bliuwen by jo Common Voice-account, fiere jo it e-mailadres dat oan jo GitHub-account keppele is yn it "
+"tekstfek ‘Oanmelde mei e-mailadres’ dat boppe oan de oanmeldside toand wurdt yn. Hjirtroch wurdt in nije Mozilla-account oanmakke, dy’t oan jo besteande bydragen en skiednis keppele wurdt."
+
+msgctxt "body.ade35418-e8f3-4ae6-9bde-714ccb52d169"
+msgid ""
+"You will be prompted to create a new password for your account. Once you do this, you’ll be logged into a new Mozilla Account for Common Voice that has been linked to your past contributions and "
+"history."
+msgstr ""
+"Jo wurde frege om in nij wachtwurd te meitsjen foar jo account. As jo dit dien hawwe, wurde jo oanmeld op in nij Mozilla-account foar Common Voice dat is keppele oan jo eardere bydragen en skiednis."
+
+msgctxt "body.ade35418-e8f3-4ae6-9bde-714ccb52d169"
+msgid "After the accounts updates, your data associated with your Mozilla Account may be processed by Mozilla Foundation's subsidiary, Mozilla Corporation."
+msgstr "Nei it bywurkjen fan jo account kinne jo gegevens ferbûn mei jo Mozilla-account ferwurke wurde troch de dochterûndernimming fan de Mozilla Foundation, Mozilla Corporation."
+
+msgctxt "body.58de0ee1-6c2e-4c0b-b84f-7f9ee9a154ab.altText"
+msgid "The current login screen for Common Voice showing options to sign in using email, Mozilla, Google and Github."
+msgstr "It hjoeddeistige oanmeldskerm foar Common Voice, dat opsjes om oan te melden mei e-mailadres, Mozilla, Google en Github toant."
+
+msgctxt "body.58de0ee1-6c2e-4c0b-b84f-7f9ee9a154ab.caption"
+msgid "The current Common Voice login options"
+msgstr "De hjoeddeistige oanmeldopsjes fan Common Voice"
+
+msgctxt "body.8dc8a94e-5965-46e1-ba85-4c64a7854190.altText"
+msgid "The new login options coming to Common Voice. Users will be able to log in with their email, Google account or Apple accounts"
+msgstr "De nije oanmeldopsjes foar Common Voice. Brûkers kinne oanmelde mei harren e-mailadres, Google- of Apple-account"
+
+msgctxt "body.8dc8a94e-5965-46e1-ba85-4c64a7854190.caption"
+msgid "The new Common Voice login options"
+msgstr "De nije oanmeldopsjes fan Common Voice"
+
+msgctxt "body.26a6b77e-1a4d-4993-aef6-10a27f94fd3f"
+msgid "If you currently use Google, Apple, or the Sign in with Mozilla options to log into Common Voice, your login experience will not change."
+msgstr "As jo op dit stuit Google, Apple, of de Oanmelde mei Mozilla brûke om jo oan te melden by Common Voice, sil jo oanmeldûnderfining net feroarje."
+
+msgctxt "body.26a6b77e-1a4d-4993-aef6-10a27f94fd3f"
+msgid ""
+"If you experience any issues logging into Common Voice after November 4th, you can seek community support via <a id=\"a1\">Matrix</a>, <a id=\"a2\">Discourse</a> or reach the Common Voice team "
+"directly at commonvoice@mozilla.com"
+msgstr ""
+"As jo problemen ûnderfine by it oanmelden by Common Voice nei 4 novimber, kinne jo mienskipsstipe sykje fia <a id=\"a1\">Matrix</a>, <a id=\"a2\">Discourse</a> of streekrjocht kontakt opnimme mei it"
+" Common Voice-team fia commonvoice@mozilla.com"
+
+msgctxt "title"
+msgid "Common Voice Accounts Are Changing"
+msgstr "Common Voice-accounts wizigje"

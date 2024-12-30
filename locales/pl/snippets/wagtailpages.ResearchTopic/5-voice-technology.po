@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "name"
 msgid "Voice technology"
-msgstr ""
+msgstr "Technologia głosowa"
 
 #~ msgctxt "name"
 #~ msgid "Voice Technology"

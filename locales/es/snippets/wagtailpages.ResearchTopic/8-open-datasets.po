@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "name"
 msgid "Responsible datasets"
-msgstr ""
+msgstr "Sets de datos responsables"
 
 #~ msgctxt "name"
 #~ msgid "Open datasets"

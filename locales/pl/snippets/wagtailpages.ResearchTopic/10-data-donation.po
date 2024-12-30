@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "name"
 msgid "Data donation"
-msgstr ""
+msgstr "Donacja danych"
 
 #~ msgctxt "name"
 #~ msgid "Data Donation"

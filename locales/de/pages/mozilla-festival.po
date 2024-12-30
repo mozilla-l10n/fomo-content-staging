@@ -23,8 +23,12 @@ msgid "Connect on Discord"
 msgstr "Bleiben Sie per Discord mit uns in Verbindung"
 
 msgctxt "banner_heading"
-msgid "Mozilla Festival"
-msgstr "Mozilla Festival"
+msgid "MozFest House Zambia"
+msgstr "MozFest House Sambia"
+
+msgctxt "banner_meta"
+msgid "November 20-21 | Lusaka, Zambia"
+msgstr "20.-21. November 2024 | Lusaka, Sambia"
 
 msgctxt "banner_text"
 msgid "The premier gathering for people working to build a better digital world."
@@ -34,31 +38,44 @@ msgctxt "banner_link_text"
 msgid "Connect on Discord"
 msgstr "Bleiben Sie per Discord mit uns in Verbindung"
 
-msgctxt "body.295db423-1585-459e-8c3d-696198327752.heading"
-msgid "15 years of Mozilla Festival, and we’re just getting started."
-msgstr "15 Jahre Mozilla Festival und es geht jetzt erst richtig los."
+msgctxt "body.8ab57f43-470d-4371-b85d-2bb69dbad9b7.alt_text"
+msgid "Picture of Angela Oduor Lungati"
+msgstr "Foto von Angela Oduor Lungati"
 
-msgctxt "body.295db423-1585-459e-8c3d-696198327752.text"
-msgid "Mozilla Festival is where passionate individuals unite to build a better internet."
-msgstr "Beim Mozilla Festival vereinen sich leidenschaftliche Menschen, um ein besseres Internet zu schaffen."
+msgctxt "body.8ab57f43-470d-4371-b85d-2bb69dbad9b7.title"
+msgid "Angela Oduor Lungati to Headline MozFest House Zambia"
+msgstr "Angela Oduor Lungati wird Hauptrednerin beim MozFest House Sambia"
+
+msgctxt "body.8ab57f43-470d-4371-b85d-2bb69dbad9b7.body"
+msgid ""
+"Angela is the Executive Director of Ushahidi, a global nonprofit that builds tools to help people create solutions and mobilize communities on critical issues.  Ushahidi’s open-source software, "
+"developed for crisis mapping in Kenya in 2007, has since become a global platform used in over 160 countries."
+msgstr ""
+"Angela ist die geschäftsführende Direktorin von Ushahidi, einer globalen gemeinnützigen Organisation, die Werkzeuge entwickelt, die Menschen dabei helfen, Lösungen zu finden und Gemeinschaften zu "
+"wichtigen Themen zu mobilisieren.  Ushahidis Open-Source-Software, die 2007 in Kenia für die Krisenanalyse entwickelt wurde, ist seitdem zu einer globalen Plattform geworden, die in über 160 Ländern"
+" genutzt wird."
+
+msgctxt "body.295db423-1585-459e-8c3d-696198327752.heading"
+msgid "Join us at MozFest House Zambia"
+msgstr "Besuchen Sie uns beim MozFest House Sambia"
 
 msgctxt "body.295db423-1585-459e-8c3d-696198327752.text"
 msgid ""
-"Whether you create art, code, program, or scroll with concern about the digital future - you're in the right place. Our mission is to make the internet a better, safer, and fairer place for everyone"
-" and now more than ever, your voice is crucial."
+"MozFest House Zambia is a gathering for collective action towards achieving trustworthy AI. It is a call to action that centers Africans in the pursuit of Trustworthy AI systems. Working in "
+"solidarity with activists, policymakers, technologists, artists, and civil society actors to make a new normal for a future that listens and adapts, ensuring technology serves us all."
 msgstr ""
-"Egal, ob Sie Kunst, Quelltext, Programmieren oder Scrollen mit Sorge um die digitale Zukunft erstellen – Sie sind an der richtigen Stelle. Unsere Mission ist es, das Internet zu einem besseren, "
-"sichereren und gerechteren Ort für alle zu machen, und Ihre Stimme ist mehr denn je wichtig."
+"Das MozFest House Sambia ist ein Treffen für kollektives Handeln zum Erreichen von vertrauenswürdiger KI. Es ist ein Aufruf zum Handeln, der die Afrikaner bei der Suche nach vertrauenswürdigen KI-"
+"Systemen in den Mittelpunkt stellt. solidarisch mit Aktivisten, Gesetzgebern, Technologen, Künstlern und Akteuren der Zivilgesellschaft zusammenarbeiten, um eine neue Normalität für eine Zukunft zu "
+"schaffen, die zuhört und sich anpasst, und sicherzustellen, dass Technologie uns alle dient."
 
 msgctxt "body.295db423-1585-459e-8c3d-696198327752.text"
-msgid "Reclaiming the internet starts with us, and at Mozilla Festival, your ideas have the power to create real impact. Join the movement to shape the future of the internet for the better."
+msgid ""
+"In the spirit of Mozilla Festival’s foundational theme of '<i>Solidarity and Togetherness</i>’, MozFest House Zambia in 2024 is a platform to demonstrate the power of solidarity and the limitless "
+"possibilities we can achieve in unity with the world around us. Together, we can reclaim the power of AI and technology for the collective well-being of people and planet."
 msgstr ""
-"Die Rückeroberung des Internets fängt bei uns an, und beim Mozilla Festival haben Ihre Ideen die Kraft, echte Wirkung zu erzielen. Werde Teil der Bewegung, um die Zukunft des Internets zum Besseren "
-"zu gestalten."
-
-msgctxt "body.295db423-1585-459e-8c3d-696198327752.link.02e8d2ba-e964-48cd-899c-8f4354def26a.label"
-msgid "Learn more about our themes"
-msgstr "Erfahren Sie mehr über unsere Themes"
+"Ganz im Sinne des Leitgedankens „<i>Solidarität und Gemeinsamkeit</i>“ des Mozilla Festivals ist das MozFest House Sambia im Jahr 2024 eine Plattform, um die Kraft der Verbundenheit und die "
+"grenzenlosen Möglichkeiten zu demonstrieren, die wir in Einheit mit der Welt um uns herum erreichen können . Gemeinsam können wir die Macht von KI und Technologie für das kollektive Wohl der "
+"Menschen und des Planeten zurückgewinnen."
 
 msgctxt "body.295db423-1585-459e-8c3d-696198327752.carousel_images.8cee907f-f809-47d6-9649-0df1a6ce8d18.altText"
 msgid "mozfest house kenya"
@@ -69,44 +86,44 @@ msgid "A group of people sitting outside in a circle in front of a vertical flag
 msgstr "Eine Gruppe von Personen, die draußen in einem Kreis vor einer vertikalen Flagge mit MozFest-House-Branding darauf sitzt"
 
 msgctxt "body.295db423-1585-459e-8c3d-696198327752.carousel_images.0b0ec316-f57a-4047-a58a-7fe5684d314e.altText"
-msgid "mozfest house amsterdam stage"
-msgstr "MozFest-Haus-Bühne Amsterdam"
+msgid "a group of people stood around a musician standing on stage"
+msgstr "Eine Gruppe von Menschen steht um einen Musiker auf der Plattform herum"
 
 msgctxt "body.295db423-1585-459e-8c3d-696198327752.carousel_images.b63387f1-2f69-4916-955c-116cce6f8da2.altText"
-msgid "mozfest london dialogues and debates stage"
-msgstr "MozFest-Bühne London Dialoge und Debatten"
+msgid "a person hand raised to ask a question in front of a stage at MozFest"
+msgstr "Eine Person hebt beim MozFest vor einer Bühne die Hand, um eine Frage zu stellen"
 
 msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.80473d24-62cb-46c3-b696-264bb35b85ed.title"
-msgid "60,000+"
-msgstr "über 60&thinsp;000"
+msgid "300+"
+msgstr "Mehr als 300"
 
 msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.80473d24-62cb-46c3-b696-264bb35b85ed.description"
 msgid "participants"
 msgstr "Teilnehmer"
 
 msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.8436e364-d587-4efc-85a5-a328f425df9a.title"
-msgid "2500+"
-msgstr "über 2500"
+msgid "30+"
+msgstr "Mehr als 30"
 
 msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.8436e364-d587-4efc-85a5-a328f425df9a.description"
-msgid "sessions"
-msgstr "Sitzungen"
+msgid "community-led sessions"
+msgstr "von der Gemeinschaft geleitete Sitzungen"
 
 msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.e22b267f-4d81-49a2-9561-320703bfd80a.title"
-msgid "145+"
-msgstr "über 145"
+msgid "15+"
+msgstr "Mehr als 15"
 
 msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.e22b267f-4d81-49a2-9561-320703bfd80a.description"
-msgid "countries"
-msgstr "Länder"
+msgid "main stage speakers"
+msgstr "Redner auf der Hauptbühne"
 
 msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.2c37c0d6-6ba7-4fcb-9f53-3f45c7fe324e.title"
-msgid "100K+"
-msgstr "über 100&thinsp;000"
+msgid "1"
+msgstr "1"
 
 msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.2c37c0d6-6ba7-4fcb-9f53-3f45c7fe324e.description"
-msgid "cups of coffee"
-msgstr "Tassen Kaffee"
+msgid "final night party"
+msgstr "Abschlussparty"
 
 msgctxt "body.49371a51-0a63-4930-964b-50125c6b59e3.quote"
 msgid "The internet is a global public resource that must remain open and accessible."
@@ -116,53 +133,212 @@ msgctxt "body.49371a51-0a63-4930-964b-50125c6b59e3.attribution"
 msgid "THE MOZILLA MANIFESTO"
 msgstr "DAS MOZILLA-MANIFEST"
 
-msgctxt "body.bee67c95-c3af-4db2-ae51-fe4a5414bb43.label"
-msgid "Connect on Discord"
-msgstr "Bleiben Sie per Discord mit uns in Verbindung"
-
-msgctxt "body.bee67c95-c3af-4db2-ae51-fe4a5414bb43.heading"
-msgid "Join Mozilla Festival on Discord"
-msgstr "Nehmen Sie am Mozilla Festival auf Discord teil"
-
-msgctxt "body.bee67c95-c3af-4db2-ae51-fe4a5414bb43.text"
-msgid "Engage year-round with diverse global movements, collaborate on Trustworthy AI, and join exclusive events."
-msgstr "Mischen Sie sich das ganze Jahr über in verschiedene globale Bewegungen ein, arbeiten Sie bei vertrauenswürdiger KI zusammen und nehmen Sie an exklusiven Veranstaltungen teil."
-
 msgctxt "body.a715166c-6a94-4913-aa6b-cac514a995d1"
-msgid "On Togetherness &amp; Solidarity"
-msgstr "Vom Miteinander &amp; solidarität"
+msgid "On Togetherness and Solidarity"
+msgstr "Von Gemeinsamkeit und Solidarität"
 
 msgctxt "body.a715166c-6a94-4913-aa6b-cac514a995d1"
 msgid ""
-"In 2024, Mozilla Festival is focused on Solidarity. This year, we are hosting MozFest House in The Netherlands &amp; Zambia. We are also hosting monthly Virtual Gatherings, uniting our global "
-"community."
+"In 2024, Mozilla Festival is focused on Togetherness and Solidarity. This year, we are reminded of the importance of gathering together, working alongside each other in solidarity, and leveraging "
+"collective global efforts to impact change on a local level."
 msgstr ""
-"Im Jahr 2024 steht das Mozilla Festival ganz im Zeichen von Solidarität. Dieses Jahr veranstalten wir das MozFest House in den Niederlanden &amp; Sambia. Wir veranstalten auch monatliche virtuelle "
-"Treffen und vereinen unsere globale Gemeinschaft."
+"Im Jahr 2024 konzentriert sich das Mozilla Festival auf Miteinander und Solidarität. Dieses Jahr wurden wir daran erinnert, wie wichtig es ist, sich zu versammeln, solidarisch zusammenzuarbeiten und"
+" gemeinsame globale Bemühungen zu nutzen, um auf lokaler Ebene Veränderungen zu bewirken."
 
-msgctxt "body.a8b79fdd-14e0-41ec-bbb8-12e4fedf3802.cards.cc0ae602-40b6-4b90-af98-71e16287e59d.title"
-msgid "Togetherness"
-msgstr "Miteinander"
+msgctxt "body.9547197b-6e78-47c5-b438-f86638349cc8.title"
+msgid "MozFest House Zambia Themes"
+msgstr "Themen für das MozFest House Sambia"
 
-msgctxt "body.a8b79fdd-14e0-41ec-bbb8-12e4fedf3802.cards.cc0ae602-40b6-4b90-af98-71e16287e59d.body"
-msgid "Together, we’ll stand in solidarity, leveraging our global efforts to drive change at a local level."
-msgstr "Gemeinsam werden wir solidarisch sein und unsere globalen Bemühungen nutzen, um Veränderungen auf lokaler Ebene voranzutreiben."
+msgctxt "body.9547197b-6e78-47c5-b438-f86638349cc8.session_items.76dde221-2bdf-477a-a5d5-d3029ce66a4d.title"
+msgid "Tech and Inclusion"
+msgstr "Technologie und Inklusion"
 
-msgctxt "body.a8b79fdd-14e0-41ec-bbb8-12e4fedf3802.cards.c290c30d-7f74-48c2-805b-0552fdc40857.title"
-msgid "Opportunity and Abundance"
-msgstr "Chancen und Fülle"
+msgctxt "body.9547197b-6e78-47c5-b438-f86638349cc8.session_items.76dde221-2bdf-477a-a5d5-d3029ce66a4d.body"
+msgid "Explore how tech can be a force for inclusion, empowering marginalized communities and ensuring equity in access, safety, and opportunity."
+msgstr "Entdecken Sie, wie Technologie eine Kraft für Inklusion sein kann, marginalisierte Gemeinschaften stärkt und Chancengleichheit in Zugang, Sicherheit und Chancen sicherstellt."
 
-msgctxt "body.a8b79fdd-14e0-41ec-bbb8-12e4fedf3802.cards.c290c30d-7f74-48c2-805b-0552fdc40857.body"
-msgid "Together, we stand against unfair treatment in our communities and around the world."
-msgstr "Gemeinsam stellen wir uns gegen unfaire Behandlung in unseren Gemeinschaften und auf der ganzen Welt."
+msgctxt "body.9547197b-6e78-47c5-b438-f86638349cc8.session_items.30a569ae-afbd-4e21-a703-b8975aca0ddd.title"
+msgid "Tech and Culture"
+msgstr "Technologie und Kultur"
 
-msgctxt "body.a8b79fdd-14e0-41ec-bbb8-12e4fedf3802.cards.f9ed298f-2a3d-47e6-aa5a-71f25800564b.title"
-msgid "Collective Wellbeing"
-msgstr "Kollektives Wohlergehen"
+msgctxt "body.9547197b-6e78-47c5-b438-f86638349cc8.session_items.30a569ae-afbd-4e21-a703-b8975aca0ddd.body"
+msgid "Tech can preserve and amplify culture by documenting languages, arts, and traditions while supporting new forms of expression in the digital era."
+msgstr "Technologie kann die Kultur erhalten und erweitern, indem sie Sprachen, Kunst und Traditionen dokumentiert und gleichzeitig neue Ausdrucksformen im digitalen Zeitalter unterstützt."
 
-msgctxt "body.a8b79fdd-14e0-41ec-bbb8-12e4fedf3802.cards.f9ed298f-2a3d-47e6-aa5a-71f25800564b.body"
-msgid "Together, we reform policy, tools, and economic infrastructure, rewriting the rules for AI."
-msgstr "Gemeinsam verbessern wir Politik, Werkzeuge und die wirtschaftliche Infrastruktur und schreiben damit die Regeln für KI neu."
+msgctxt "body.9547197b-6e78-47c5-b438-f86638349cc8.session_items.cf794c00-2db1-4840-b78b-4043b7636e5e.title"
+msgid "Tech and Environmental Justice"
+msgstr "Technologie und Umweltgerechtigkeit"
+
+msgctxt "body.9547197b-6e78-47c5-b438-f86638349cc8.session_items.cf794c00-2db1-4840-b78b-4043b7636e5e.body"
+msgid "Explore how tech can combat climate change, promote sustainability, and advance environmental justice for African communities."
+msgstr "Entdecken Sie, wie Technologie den Klimawandel bekämpfen, Nachhaltigkeit fördern und Umweltgerechtigkeit für afrikanische Gemeinschaften vorantreiben kann."
+
+msgctxt "body.9547197b-6e78-47c5-b438-f86638349cc8.session_items.4928dfeb-7651-4699-a855-7a58c4ec6d11.title"
+msgid "Tech and Economic Justice"
+msgstr "Technologie und wirtschaftliche Gerechtigkeit"
+
+msgctxt "body.9547197b-6e78-47c5-b438-f86638349cc8.session_items.4928dfeb-7651-4699-a855-7a58c4ec6d11.body"
+msgid "Tech can reshape economies. We must ensure fair labor practices, promote financial inclusion, and create equal opportunities for all."
+msgstr "Technologie kann Wirtschaft neu gestalten. Wir müssen gerechte Arbeitspraktiken sicherstellen, finanzielle Inklusion fördern und gleiche Chancen für alle schaffen."
+
+msgctxt "body.9547197b-6e78-47c5-b438-f86638349cc8.session_items.a136e7c0-5fe1-41cd-9be6-af0901a22ce0.title"
+msgid "Tech and Governance"
+msgstr "Technologie und Verwaltung"
+
+msgctxt "body.9547197b-6e78-47c5-b438-f86638349cc8.session_items.a136e7c0-5fe1-41cd-9be6-af0901a22ce0.body"
+msgid "As tech advances, governance must keep pace. Creating fair policies ensures technology is safe and accountable, and benefits everyone."
+msgstr ""
+"Mit dem technischen Fortschritt muss die Verwaltung Schritt halten. Die Erstellung fairer Richtlinien stellt sicher, dass die Technologie sicher und rechenschaftspflichtig ist und für alle von "
+"Vorteil ist."
+
+msgctxt "body.9547197b-6e78-47c5-b438-f86638349cc8.session_items.2f38c3c5-4550-4eb6-9956-cba28ed5485a.title"
+msgid "Tech and Philanthropy"
+msgstr "Technologie und Philanthropie"
+
+msgctxt "body.9547197b-6e78-47c5-b438-f86638349cc8.session_items.2f38c3c5-4550-4eb6-9956-cba28ed5485a.body"
+msgid "Philanthropy shapes responsible tech. Directing resources toward ethical innovation ensures tech reflects values of fairness and transparency."
+msgstr ""
+"Philanthropie prägt verantwortungsvolle Technologie. Der Einsatz von Ressourcen in Richtung ethischer Innovation stellt sicher, dass die Technologie die Werte Fairness und Transparenz widerspiegelt."
+
+msgctxt "body.9547197b-6e78-47c5-b438-f86638349cc8.session_items.7dac6286-5e6b-4ed1-bf65-3ff344687220.title"
+msgid "Building Alternative Technologies"
+msgstr "Entwicklung alternativer Technologien"
+
+msgctxt "body.9547197b-6e78-47c5-b438-f86638349cc8.session_items.7dac6286-5e6b-4ed1-bf65-3ff344687220.body"
+msgid "Creating ethical, inclusive tech alternatives ensures transparency, fairness, and community-driven solutions for the public good."
+msgstr "Die Schaffung ethischer, integrativer Technologie-Alternativen sorgt für Transparenz, Fairness und von der Gemeinschaft betriebene Lösungen zum Wohl aller."
+
+msgctxt "body.db5b8989-13fb-4d49-95dd-bf2373e6e9c5.title"
+msgid "Featured Sessions at MozFest House Zambia"
+msgstr "Vorgestellte Sitzungen beim MozFest House: Zambia"
+
+msgctxt "body.db5b8989-13fb-4d49-95dd-bf2373e6e9c5.current_events.d951df21-a6fc-4b54-b786-b0ab28dc8d73.title"
+msgid "Protecting our spaces: A Collaborative Approach to Protecting Human Rights Defenders"
+msgstr "Schutz unserer Räume: Ein kollaborativer Ansatz zum Schutz von Verteidigern von Menschenrechten"
+
+msgctxt "body.db5b8989-13fb-4d49-95dd-bf2373e6e9c5.current_events.d951df21-a6fc-4b54-b786-b0ab28dc8d73.subheading_link.887e67b7-515a-48e2-94e8-b98ec01d25f4.label"
+msgid "November 21, 13:15 CAT"
+msgstr "21. November, 13-15 Uhr CAT"
+
+msgctxt "body.db5b8989-13fb-4d49-95dd-bf2373e6e9c5.current_events.d951df21-a6fc-4b54-b786-b0ab28dc8d73.body"
+msgid "Meta shares its global and regional HRD safety approach, discusses challenges, and co-creates protection ideas."
+msgstr "Meta teilt seinen globalen und regionalen Sicherheitsansatz im Bereich HRD, diskutiert Herausforderungen und entwickelt Schutzideen mit."
+
+msgctxt "body.db5b8989-13fb-4d49-95dd-bf2373e6e9c5.current_events.d951df21-a6fc-4b54-b786-b0ab28dc8d73.buttons.488e432a-fa73-4680-9233-dc97eb5577f5.label"
+msgid "View session"
+msgstr "Sitzung ansehen"
+
+msgctxt "body.db5b8989-13fb-4d49-95dd-bf2373e6e9c5.current_events.4586c3cf-b17e-4b50-86d0-24070977baaf.title"
+msgid "Dialogues &amp; Debates: Working Open to Advance Transparent &amp; Trustworthy AI"
+msgstr "Dialoge &amp; Debatten: Offenes Arbeiten, um transparente &amp; vertrauenswürdige KI zu fördern"
+
+msgctxt "body.db5b8989-13fb-4d49-95dd-bf2373e6e9c5.current_events.4586c3cf-b17e-4b50-86d0-24070977baaf.subheading_link.91742265-4f4e-457b-b0e2-559dc4362f93.label"
+msgid "November 21, 11:05 CAT"
+msgstr "21. November, 11:05 Uhr CAT"
+
+msgctxt "body.db5b8989-13fb-4d49-95dd-bf2373e6e9c5.current_events.4586c3cf-b17e-4b50-86d0-24070977baaf.body"
+msgid "A panel discussion how open-source artificial intelligence empowers locals to tailor tech; builders share choices and challenges."
+msgstr "Eine Panel-Diskussion darüber, wie quelloffene künstliche Intelligenz es Einheimischen ermöglicht, Technologie maßzuschneiden; Entwickler teilen Entscheidungen und Herausforderungen."
+
+msgctxt "body.db5b8989-13fb-4d49-95dd-bf2373e6e9c5.current_events.4586c3cf-b17e-4b50-86d0-24070977baaf.buttons.86e18a6e-8800-4a89-b39a-48c407047bb8.label"
+msgid "View session"
+msgstr "Sitzung ansehen"
+
+msgctxt "body.db5b8989-13fb-4d49-95dd-bf2373e6e9c5.current_events.83bdf0fa-6c55-4b89-a4fb-af1eee45fbec.title"
+msgid "African Intelligence for Artificial Intelligence: The community driven approach"
+msgstr "Afrikanische Intelligenz für künstliche Intelligenz: Der von der Gemeinschaft getriebene Ansatz"
+
+msgctxt "body.db5b8989-13fb-4d49-95dd-bf2373e6e9c5.current_events.83bdf0fa-6c55-4b89-a4fb-af1eee45fbec.subheading_link.daff8fc8-9c6b-4e9b-9f43-bbbbd7de5d56.label"
+msgid "November 20, 13:15 CAT"
+msgstr "20. November, 13-15 Uhr CAT"
+
+msgctxt "body.db5b8989-13fb-4d49-95dd-bf2373e6e9c5.current_events.83bdf0fa-6c55-4b89-a4fb-af1eee45fbec.body"
+msgid "Exploring how community collaboration, culture, and art can help build trustworthy AI models that celebrate and preserve the diversity of African languages."
+msgstr ""
+"Untersuchung, wie Zusammenarbeit in der Gemeinschaft, Kultur und Kunst dazu beitragen können, vertrauenswürdige KI-Modelle zu entwickeln, die die Vielfalt afrikanischer Sprachen feiern und erhalten."
+
+msgctxt "body.db5b8989-13fb-4d49-95dd-bf2373e6e9c5.current_events.83bdf0fa-6c55-4b89-a4fb-af1eee45fbec.buttons.a904a1c0-a4bc-4c43-bfa9-a36b7680cf4d.label"
+msgid "View session"
+msgstr "Sitzung ansehen"
+
+msgctxt "body.db5b8989-13fb-4d49-95dd-bf2373e6e9c5.current_events.438f871e-9999-42b0-bb84-ea68a7c00d91.title"
+msgid "Responsible AI for Agriculture: Strategies and Insights for Equitable Technology Adoption"
+msgstr "Verantwortungsbewusste KI für die Landwirtschaft: Strategie und Einblicke für eine gleichberechtigte Einführung von Technologien"
+
+msgctxt "body.db5b8989-13fb-4d49-95dd-bf2373e6e9c5.current_events.438f871e-9999-42b0-bb84-ea68a7c00d91.subheading_link.826d0b1d-d35d-429a-9681-4c770438b928.label"
+msgid "November 20, 10:00 CAT"
+msgstr "20. November, 10 Uhr CAT"
+
+msgctxt "body.db5b8989-13fb-4d49-95dd-bf2373e6e9c5.current_events.438f871e-9999-42b0-bb84-ea68a7c00d91.body"
+msgid "Discover how AI and AgriTech can empower African smallholder farmers while addressing barriers like gender disparity, digital literacy, and access inequality."
+msgstr ""
+"Entdecken Sie, wie KI und AgriTech afrikanische Kleinbauern stärken und gleichzeitig Barrieren wie das Ungleichgewicht der Geschlechter, digitale Bildung und Ungleichheit beim Zugang angehen können."
+
+msgctxt "body.db5b8989-13fb-4d49-95dd-bf2373e6e9c5.current_events.438f871e-9999-42b0-bb84-ea68a7c00d91.buttons.7237e506-b265-4c37-96f7-4a81cba44df9.label"
+msgid "View session"
+msgstr "Sitzung ansehen"
+
+msgctxt "body.db5b8989-13fb-4d49-95dd-bf2373e6e9c5.current_events.08e9816a-a5c4-459d-b8a0-2ebdd4beee8b.title"
+msgid "Africa’s Elections vs Gendered Disinformation: What is it for Women in Politics?"
+msgstr "Afrikas Wahlen vs. geschlechtsspezifische Desinformation: Was bedeutet sie für Frauen in der Politik?"
+
+msgctxt "body.db5b8989-13fb-4d49-95dd-bf2373e6e9c5.current_events.08e9816a-a5c4-459d-b8a0-2ebdd4beee8b.subheading_link.f9e88744-136a-4c6f-bd10-814637d57dae.label"
+msgid "November 21, 13:15 CAT"
+msgstr "21. November, 13-15 Uhr CAT"
+
+msgctxt "body.db5b8989-13fb-4d49-95dd-bf2373e6e9c5.current_events.08e9816a-a5c4-459d-b8a0-2ebdd4beee8b.body"
+msgid "Examining the rise of gendered disinformation in African elections and its impact on women leaders, with strategies to combat online abuse and foster equitable civic spaces."
+msgstr ""
+"Untersuchung des Anstiegs geschlechtsspezifischer Desinformation bei Wahlen in Afrika und sein Einfluss auf Frauen in Führungspositionen sowie Strategien, Missbrauch im Internet zu bekämpfen und "
+"Gleichberechtigung im öffentlichen Raum zu schaffen."
+
+msgctxt "body.db5b8989-13fb-4d49-95dd-bf2373e6e9c5.current_events.08e9816a-a5c4-459d-b8a0-2ebdd4beee8b.buttons.c6285840-7e42-4282-b0d8-4c61d93181a1.label"
+msgid "View session"
+msgstr "Sitzung ansehen"
+
+msgctxt "body.ce90a06f-ebf1-4ca6-956f-6a4a53bbee3e"
+msgid "Location and Venue"
+msgstr "Veranstaltungsort"
+
+msgctxt "body.ce90a06f-ebf1-4ca6-956f-6a4a53bbee3e"
+msgid ""
+"MozFest House Zambia will be held at the Lusaka International Conference Center (LICC), located within the Ciela Resort. The venue is just 20 minutes north of Lusaka city center and 15 minutes from "
+"Kenneth Kaunda International Airport."
+msgstr ""
+"Das MozFest House Sambia wird im Lusaka International Conference Center (LICC) stattfinden, das sich innerhalb des Ciela-Resorts befindet. Die Unterkunft ist nur 20 Minuten Nördlich des Lusaka-"
+"Stadtzentrums und 15 Minuten vom internationalen Flughafen Lusaka entfernt."
+
+msgctxt "body.ff64d04c-5c25-4814-94cb-2619bb3347e4"
+msgid "Help Make MozFest Happen"
+msgstr "Helfen Sie, das MozFest zu ermöglichen"
+
+msgctxt "body.ff64d04c-5c25-4814-94cb-2619bb3347e4"
+msgid "Mozilla Festival is not just an annual date on the calendar. It's a collaborative community taking action on the issues that matter most all year long."
+msgstr "Mozilla Festival ist nicht nur ein jährliches Datum im Kalender. Es ist eine Gemeinschaft, die das ganze Jahr über an den wichtigsten Themen arbeitet."
+
+msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.ee5f4632-a423-4fcb-b02b-792108f1c8a2.title"
+msgid "Volunteer at Mozilla Festival"
+msgstr "Freiwillig beim MozFest helfen"
+
+msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.ee5f4632-a423-4fcb-b02b-792108f1c8a2.body"
+msgid "Apply to be a production volunteer at MozFest House Zambia."
+msgstr "Bewerben Sie sich als Freiwilliger in der Produktion im MozFest House Sambia."
+
+msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.ee5f4632-a423-4fcb-b02b-792108f1c8a2.link.23e49aff-5d77-4307-8eb8-4278856e9ae4.label"
+msgid "Apply now"
+msgstr "Jetzt bewerben"
+
+msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.98876986-8fc1-4ca8-b0a3-a89dc7241cb8.title"
+msgid "Become a Wrangler"
+msgstr "Wrangler werden"
+
+msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.98876986-8fc1-4ca8-b0a3-a89dc7241cb8.body"
+msgid "Register your interest in co-designing future festivals alongside other community members."
+msgstr "Zeigen Sie Ihr Interesse daran, zukünftige Festivals zusammen mit anderen Gemeinschaftsmitgliedern zu gestalten."
+
+msgctxt "body.f0273b19-8f37-4919-a042-742a69abd7e2.cards.98876986-8fc1-4ca8-b0a3-a89dc7241cb8.link.e1050a49-1ea8-4d4d-ae57-16cb109cc7d0.label"
+msgid "Learn more about Wrangling"
+msgstr "Erfahren Sie mehr über Wrangling"
 
 msgctxt "body.6f34e914-10cc-46a0-a107-356cb0f46eb0"
 msgid "Relive MozFest House Amsterdam"
@@ -189,8 +365,8 @@ msgid "Amsterdam, 2024"
 msgstr "Amsterdam, 2024"
 
 msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.68f80905-03b5-4a02-a1e8-f078fae0c6f5.body"
-msgid "Mona Chalabi helped us to find humanity in data sets and set the tone for an amazing two days of MozFest House"
-msgstr "Mona Chalabi hat uns geholfen, Menschlichkeit in Datensätzen zu finden und den Ton für zwei tolle Tage des MozFest House anzugeben"
+msgid "Mona Chalabi helped us find humanity in data sets and set the tone for an amazing two days of MozFest House."
+msgstr "Mona Chalabi hat uns geholfen, Menschlichkeit in Datensätzen zu finden und den Ton für zwei tolle Tage des MozFest House anzugeben."
 
 msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.6f76b23a-d300-4ac4-b7a3-83f21d21ea3d.alt_text"
 msgid "We Are Life: AI Accountability During War"
@@ -209,7 +385,7 @@ msgid "Amsterdam, 2024"
 msgstr "Amsterdam, 2024"
 
 msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.6f76b23a-d300-4ac4-b7a3-83f21d21ea3d.body"
-msgid "This thought provoking session highlighted the violent systems impacting lives across continents"
+msgid "This thought-provoking session highlighted the violent systems impacting lives across continents"
 msgstr "Diese zum Nachdenken anregende Sitzung beleuchtete die Gewaltsysteme, die das Leben auf allen Kontinenten beeinflussen"
 
 msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.872285ef-63b5-4e26-8d44-8193ba2138d7.alt_text"
@@ -256,37 +432,38 @@ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.link.f9aa1d0e-8684-494e-8705-
 msgid "Watch more highlights"
 msgstr "Sehen Sie sich weitere Highlights an"
 
-msgctxt "body.ff64d04c-5c25-4814-94cb-2619bb3347e4"
-msgid "Help Make MozFest Happen"
-msgstr "Helfen Sie, das MozFest zu ermöglichen"
+msgctxt "body.08ffd349-4701-4ef2-8a1e-acde9cae8971.title"
+msgid "MozFest House Zambia Presenting Sponsor"
+msgstr "Hauptsponsor des MozFest House Sambia"
 
-msgctxt "body.ff64d04c-5c25-4814-94cb-2619bb3347e4"
-msgid "MozFest is not just an annual date on the calendar. It's a collaborative community taking action on the issues that matter most all year long."
-msgstr "MozFest ist nicht nur ein jährliches Datum im Kalender. Es ist eine Gemeinschaft, die das ganze Jahr über an den wichtigsten Themen arbeitet."
+msgctxt "body.08ffd349-4701-4ef2-8a1e-acde9cae8971.text"
+msgid ""
+"Visa and the Mozilla Festival are joining forces with communities across Sub-Saharan Africa at MozFest House Zambia in November 2024. As the exclusive Presenting Sponsor, Visa is committed to "
+"advancing financial and digital inclusion by fostering meaningful dialogues between civil society, fintech innovators, and regulators."
+msgstr ""
+"Visa und das Mozilla Festival zusammenarbeiten im MozFest House Sambia im November 2024 mit Gemeinschaften in ganz Subsahara-Afrika. Als ausschließlicher Hauptsponsor setzt sich Visa für den "
+"Fortschritt der finanziellen und digitalen Inklusion ein, indem es sinnvolle Dialoge zwischen der Zivilgesellschaft, FinTech-Innovatoren und Regulierungsbehörden."
 
-msgctxt "body.53bad728-8838-4a6a-beca-d0c98fe9878b.cards.c4f5ccaf-9be1-4467-b927-045b4c86325a.title"
-msgid "Volunteer at Mozilla Festival"
-msgstr "Freiwillig beim MozFest helfen"
+msgctxt "body.08ffd349-4701-4ef2-8a1e-acde9cae8971.altText"
+msgid "Visa logo"
+msgstr "Visa-Logo"
 
-msgctxt "body.53bad728-8838-4a6a-beca-d0c98fe9878b.cards.c4f5ccaf-9be1-4467-b927-045b4c86325a.body"
-msgid "Access MozFest House Amsterdam for free by volunteering some of your time."
-msgstr "Erhalten Sie kostenlosen Zugang zum MozFest House Amsterdam, indem Sie einen Teil Ihrer Zeit freiwillig spenden."
+msgctxt "body.d0e79a07-7902-4c46-8b8f-6ea539c91353.title"
+msgid "MozFest House Zambia Showcase Sponsor"
+msgstr "Showcase-Sponsor des MozFest House Sambia"
 
-msgctxt "body.53bad728-8838-4a6a-beca-d0c98fe9878b.cards.079e1c4d-4a6d-4f8e-9dcc-85f327e2a89d.title"
-msgid "Facilitate Virtually"
-msgstr "Virtuell helfen"
+msgctxt "body.d0e79a07-7902-4c46-8b8f-6ea539c91353.text"
+msgid ""
+"Skoll Foundation joins MozFest House Zambia as a Showcase Sponsor, championing innovative approaches to pressing challenges like digital rights, trustworthy AI, and equitable access to technology. "
+"Through this collaboration, the Foundation is committed to supporting social innovators who are leading transformative, community-driven solutions for a more inclusive digital future."
+msgstr ""
+"Die Skoll Foundation schließt sich dem MozFest House Sambia als Showcase-Sponsor an und setzt sich für innovative Ansätze für drängende Herausforderungen wie digitale Rechte, vertrauenswürdige KI "
+"und gleichberechtigten Zugang zu Technologie ein. Durch diese Zusammenarbeit unterstützt die Foundation soziale Innovatoren, die verändernde, von der Gemeinschaft betriebene Lösungen für eine "
+"integrativere digitale Zukunft entwickeln."
 
-msgctxt "body.53bad728-8838-4a6a-beca-d0c98fe9878b.cards.079e1c4d-4a6d-4f8e-9dcc-85f327e2a89d.body"
-msgid "Grow your work and community through MozFest's Virtual Gatherings."
-msgstr "Vergrößern Sie Ihre Arbeit und Gemeinschaft durch die virtuellen Treffen des MozFest."
-
-msgctxt "body.53bad728-8838-4a6a-beca-d0c98fe9878b.cards.df711f37-aa0d-44be-847b-9c9053aaba00.title"
-msgid "Become a Wrangler"
-msgstr "Wrangler werden"
-
-msgctxt "body.53bad728-8838-4a6a-beca-d0c98fe9878b.cards.df711f37-aa0d-44be-847b-9c9053aaba00.body"
-msgid "We are looking for passionate individuals to help co-design future MozFest Houses."
-msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-Häuser mitzugestalten."
+msgctxt "body.d0e79a07-7902-4c46-8b8f-6ea539c91353.altText"
+msgid "Skoll logo"
+msgstr "Skoll-Logo"
 
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.title"
 #~ msgid "Call for Volunteers"
@@ -295,6 +472,10 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.subheading_link.d0133b5c-0e7e-40c2-81b9-fe2d34a2d326.label"
 #~ msgid "Volunteer"
 #~ msgstr "Ehrenamtlich mitarbeiten"
+
+#~ msgctxt "body.295db423-1585-459e-8c3d-696198327752.link_label"
+#~ msgid "Learn more about our themes"
+#~ msgstr "Erfahren Sie mehr über unsere Themes"
 
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.8cda064a-3296-4e95-986b-c1978b79c612.body"
 #~ msgid "MozFest depends on its Volunteers to deliver the best possible experience for all of its Participants. The Call to join this year's cohort of MozFest Virtual Volunteers is now open."
@@ -589,14 +770,6 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgid "Working towards Trustworthy AI? Share your work with our global community by submitting a proposal. Open until Nov 14th."
 #~ msgstr "Sie arbeiten an vertrauenswürdiger KI? Teilen Sie Ihre Arbeit mit unserer weltweiten Gemeinschaft, indem Sie einen Vorschlag einreichen. Dies ist noch bis zum 14. November möglich."
 
-#~ msgctxt "banner_cta_label"
-#~ msgid "Watch the live stream"
-#~ msgstr "Sehen Sie sich den Livestream an"
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.title"
-#~ msgid "Opening Circle"
-#~ msgstr "Eröffnungsveranstaltung"
-
 #~ msgctxt "cta_button_label"
 #~ msgid "Become a Festival Insider"
 #~ msgstr "Werden Sie ein Festival-Insider"
@@ -616,10 +789,6 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.title"
 #~ msgid "Here are some ways to get involved with MozFest in the lead up to the festival."
 #~ msgstr "Hier sind einige Möglichkeiten, sich im Vorfeld des Festivals am MozFest zu beteiligen."
-
-#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.subheading_link.d08c6e9c-98e7-48d0-ba22-86a21decf064.label"
-#~ msgid "March 7th, 2022 17:30 CET (UTC+1)"
-#~ msgstr "7. März 2022, 17:30 MEZ (UTC+1)"
 
 #~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.description"
 #~ msgid "Secure your ticket to access hundreds of sessions and interactive exhibits, and connect with our exciting global community."
@@ -652,6 +821,18 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
 #~ msgid "Start building your own schedule now on the <a id=\"a1\">MozFest Plaza</a>"
 #~ msgstr "Erstellen Sie jetzt Ihren eigenen Zeitplan auf der <a id=\"a1\">MozFest-Plaza</a>"
+
+#~ msgctxt "banner_cta_label"
+#~ msgid "Watch the live stream"
+#~ msgstr "Sehen Sie sich den Livestream an"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.title"
+#~ msgid "Opening Circle"
+#~ msgstr "Eröffnungsveranstaltung"
+
+#~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.subheading_link.d08c6e9c-98e7-48d0-ba22-86a21decf064.label"
+#~ msgid "March 7th, 2022 17:30 CET (UTC+1)"
+#~ msgstr "7. März 2022, 17:30 MEZ (UTC+1)"
 
 #~ msgctxt "body.65f8eed7-9212-4e63-88c6-a2e00128357c.current_events.55a11513-b17c-4610-8c50-e447e57c920b.body"
 #~ msgid "Join us as we open our 5 day festival with Mozilla, hear from the community on why MozFest is so important as a place to connect and collaborate."
@@ -1000,10 +1181,6 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgid "May 17, 2022 at 20:00 CET"
 #~ msgstr "17. Mai 2022 um 20:00 MEZ"
 
-#~ msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
-#~ msgid "Secure Your MozFest On-Demand Ticket Here"
-#~ msgstr "Sichern Sie sich hier Ihr Ticket für MozFest auf Abruf"
-
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.body"
 #~ msgid "Join Toshi Reagon, in conversation with Adrienne Maree Brown, both stewards of “Parable of the Sower” by Octavia E. Butler, as they discuss its influence on their artistic practice."
 #~ msgstr ""
@@ -1013,6 +1190,10 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.buttons.93ace7ae-042d-4428-a56e-22dd39954680.label"
 #~ msgid "Register for Tickets"
 #~ msgstr "Für Tickets registrieren"
+
+#~ msgctxt "body.2eeb50fb-c768-4c30-888b-f23ea1571d4c.button_label"
+#~ msgid "Secure Your MozFest On-Demand Ticket Here"
+#~ msgstr "Sichern Sie sich hier Ihr Ticket für MozFest auf Abruf"
 
 #~ msgctxt "banner_carousel.a5714c9c-9b74-4c56-b498-1533a89f8ba0.description"
 #~ msgid "Passionate about creating and promoting solutions to the most urgent issues in AI? Connect with MozFest's Trustworthy AI Working Groups."
@@ -1194,21 +1375,13 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgid "Save The Date"
 #~ msgstr "Merken Sie den Termin vor"
 
-#~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
-#~ msgid "MozFest 2023, taking place from March 20-24th. Join 1000s of activists in diverse global movements fighting for a more humane digital world."
-#~ msgstr "MozFest 2023 findet vom 20. bis 24. März statt. Schließen Sie sich Tausenden von Aktivisten in verschiedenen globalen Bewegungen an, die für eine humanere digitale Welt kämpfen."
-
 #~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
 #~ msgid "Add the dates for MozFest 2023 to your calendar, on <a id=\"a1\">Google</a>, <a id=\"a2\">Outlook</a> or <a id=\"a3\">download the invitation</a>."
 #~ msgstr "Fügen Sie die Termine für das MozFest 2023 zu Ihrem Kalender hinzu, (auf <a id=\"a1\">Google</a> oder <a id=\"a2\">Outlook</a>) oder <a id=\"a3\">laden Sie die Einladung herunter</a>."
 
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.title"
-#~ msgid "Submit your session to MozFest"
-#~ msgstr "Schlagen Sie Ihre Sitzung für das MozFest vor"
-
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.subheading_link.a00f4042-4a44-49e4-bd30-43cbb22e62e5.label"
-#~ msgid "Call for Proposals"
-#~ msgstr "Aufruf für Vorschläge"
+#~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
+#~ msgid "MozFest 2023, taking place from March 20-24th. Join 1000s of activists in diverse global movements fighting for a more humane digital world."
+#~ msgstr "MozFest 2023 findet vom 20. bis 24. März statt. Schließen Sie sich Tausenden von Aktivisten in verschiedenen globalen Bewegungen an, die für eine humanere digitale Welt kämpfen."
 
 #~ msgctxt "banner_carousel.31331683-0a14-4d7f-859a-4b3d620aae9d.description"
 #~ msgid "MozFest Virtual will take place 20-24 March, 2023. MozFest House in Amsterdam will take place 8-10 June, 2023."
@@ -1229,6 +1402,14 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgctxt "body.b38569c7-3bd9-4a02-af80-12fd79464f40.text"
 #~ msgid "The MozFest 2023 Call for Proposals is now open, and closes on December 16th 2022. <a id=\"a1\">Submit your proposal now.</a>"
 #~ msgstr "Sie können ab sofort bis um 16. Dezember 2022 Vorschläge für das MozFest 2023 einreichen. <a id=\"a1\">Reichen Sie jetzt Ihren Vorschlag ein.</a>"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.title"
+#~ msgid "Submit your session to MozFest"
+#~ msgstr "Schlagen Sie Ihre Sitzung für das MozFest vor"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.subheading_link.a00f4042-4a44-49e4-bd30-43cbb22e62e5.label"
+#~ msgid "Call for Proposals"
+#~ msgstr "Aufruf für Vorschläge"
 
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.84ef4307-a285-4604-a5b3-83f03f26854f.body"
 #~ msgid "Are you working towards Trustworthy AI and want to share your work with a global community? Submit a session idea for MozFest 2023!"
@@ -1338,6 +1519,10 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgid "MozFest Virtual will take place online from 20th - 24th March, 2023."
 #~ msgstr "MozFest Virtual findet vom 20. - 24. März 2023 online statt."
 
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.subheading_link.3908940c-786b-47a4-8039-23b7debdcd48.label"
+#~ msgid "Tuesday, March 21st - 15:00 UTC"
+#~ msgstr "Dienstag, 21. März - 15:00 UTC"
+
 #~ msgctxt "body.afedfd50-d0cb-4e2c-a6a2-0cb01f9ac237"
 #~ msgid ""
 #~ "If you’re on social media or other corners of the internet a lot, you’ve likely encountered AI systems with names like GPT-3 or DALL·E in recent months. These are some of the AI systems that have "
@@ -1400,10 +1585,6 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.title"
 #~ msgid "Funding Ethical Tech &amp; The Next Mozilla Chapter"
 #~ msgstr "Finanzierung ethischer Technologie &amp; Das nächste Mozilla-Kapitel"
-
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.subheading_link.3908940c-786b-47a4-8039-23b7debdcd48.label"
-#~ msgid "Tuesday, March 21st - 15:00 UTC"
-#~ msgstr "Dienstag, 21. März - 15:00 UTC"
 
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.body"
 #~ msgid ""
@@ -1483,6 +1664,10 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ "In einer Welt, in der Fortschritt mehr denn je benötigt ist, ist dies Ihre Chance, ein Teil der Lösung zu sein. Sehen Sie sich dieses unvergessene Gespräch mit Angela Davis, einer weltweit bekannten"
 #~ " Gelehrten, Autorin und Verteidigerin für Menschenrechte, und Christian Smalls, einem unerschütterlichen Arbeitsrechtsaktivisten und Präsident der Amazon Labour Union, an, das von einem "
 #~ "Branchenveteran und VP of Global Programs bei Mozilla moderiert wird , J. Robert Alotta."
+
+#~ msgctxt "body.ed226723-8560-4fb7-b4c3-c7033981b832.session_items.9687b6e2-aaf2-4f56-b46e-8859d7afaef8.title"
+#~ msgid "Centering Communities in the Data Economy"
+#~ msgstr "Gemeinschaften in der Datenökonomik zentrieren"
 
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.fe24699d-f3ae-450f-aa4e-6f22993898cb.buttons.8a7f3134-cb0d-40cd-9e1c-ee2127c13ebe.label"
 #~ msgid "Secure your ticket"
@@ -1628,10 +1813,6 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgid "Featured Virtual Sessions"
 #~ msgstr "Vorgestellte virtuelle Sitzungen"
 
-#~ msgctxt "body.ed226723-8560-4fb7-b4c3-c7033981b832.session_items.9687b6e2-aaf2-4f56-b46e-8859d7afaef8.title"
-#~ msgid "Centering Communities in the Data Economy"
-#~ msgstr "Gemeinschaften in der Datenökonomik zentrieren"
-
 #~ msgctxt "body.ed226723-8560-4fb7-b4c3-c7033981b832.session_items.9687b6e2-aaf2-4f56-b46e-8859d7afaef8.author_subheading"
 #~ msgid "J. Bob Alotta, Kathleen Siminyu, Keoni Mahelona &amp; Timnit Gebru"
 #~ msgstr "J. Bob Alotta, Kathleen Siminyu, Keoni Mahelona &amp; Timnit Gebru"
@@ -1758,13 +1939,25 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgid "Watch the highlights"
 #~ msgstr "Sehen Sie sich die Highlights an"
 
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.fe24699d-f3ae-450f-aa4e-6f22993898cb.buttons.8a7f3134-cb0d-40cd-9e1c-ee2127c13ebe.label"
+#~ msgid "Join this session"
+#~ msgstr "Dieser Sitzung beitreten"
+
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.39c8eb68-f348-4377-a8da-78f38133c427.title"
 #~ msgid "African perspectives on shaping safety and wellbeing of children in digital spaces."
 #~ msgstr "Afrikanische Perspektiven auf die Gestaltung der Sicherheit und des Wohlbefindens von Kindern in digitalen Räumen."
 
+#~ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.video.caption"
+#~ msgid "MozFest House Kenya Movie"
+#~ msgstr "Film zum MozFest-House Kenia"
+
 #~ msgctxt "banner_carousel.1a385bcd-0857-4bed-9309-80f1c0e31954.description"
 #~ msgid "Take a look back at the highlights from past Mozilla Festivals. From workshops, to discussions, to conversations from our main stages."
 #~ msgstr "Werfen Sie einen Blick auf die Highlights der vergangenen Mozilla Festivals. Von Workshops über Diskussionen bis hin zu Gesprächen aus unseren Hauptbühnen."
+
+#~ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.68f80905-03b5-4a02-a1e8-f078fae0c6f5.metadata"
+#~ msgid "Amsterdam, 2023"
+#~ msgstr "Amsterdam 2023"
 
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.39c8eb68-f348-4377-a8da-78f38133c427.body"
 #~ msgid ""
@@ -1781,6 +1974,14 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.title"
 #~ msgid "Decoding Digital Labor: How tech giants replicate the extractive practices of their corporate forefathers"
 #~ msgstr "Digitale Arbeit entschlüsseln: Wie Technologiegiganten die extraktiven Praktiken ihrer Vorfahren in den Unternehmen replizieren"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.buttons.cd37d31c-0e90-4675-b2fd-98918d21884c.label"
+#~ msgid "Join this session"
+#~ msgstr "Dieser Sitzung beitreten"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.fe24699d-f3ae-450f-aa4e-6f22993898cb.title"
+#~ msgid "Harmonizing the Waves: Navigating AI's Impact on African Podcasting"
+#~ msgstr "Harmonisierung der Wellen: Die Auswirkungen der KI auf den Podcast in Afrika bewältigen"
 
 #~ msgctxt "search_description"
 #~ msgid "Activists in the internet health movement will gather at MozFest to move the needle in tech, art, social responsibility, ethics, and AI. Will you join us in September 2023?"
@@ -1799,6 +2000,16 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.1a30556f-d227-46c2-aff7-9d966cd9fa11.buttons.57204f4c-f4ec-4a1f-9d22-bdda1e87c72f.label"
 #~ msgid "Join this session"
 #~ msgstr "Dieser Sitzung beitreten"
+
+#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.fe24699d-f3ae-450f-aa4e-6f22993898cb.body"
+#~ msgid ""
+#~ "In recent years, AI has experienced an explosive surge in popularity, largely driven by breakthroughs like the revolutionary large language models (LLMs) such as ChatGPT. Simultaneously, podcasting "
+#~ "has emerged as a formidable medium for creative expression and cultural representation, particularly amid and post the COVID-19 pandemic. This session will explore the possible impacts of AI, both "
+#~ "positive and negative, on an industry that gives voice to marginalized communities."
+#~ msgstr ""
+#~ "In den letzten Jahren ist die Beliebtheit von KI sprunghaft angestiegen, was hauptsächlich auf Durchbrüche wie den revolutionierenden großen Sprachmodellen (LLMs) wie ChatGPT zurückzuführen ist. "
+#~ "Gleichzeitig haben sich Podcasts zu einem hervorragenden Medium für kreativen Ausdruck und kulturellen Repräsentation entwickelt, insbesondere vor und nach der COVID-19-Pandemie. Diese Sitzung wird "
+#~ "die möglichen Auswirkungen von KI, sowohl positiv als auch negativ, auf eine Branche untersuchen, die marginalisierten Gemeinschaften eine Stimme gibt."
 
 #~ msgctxt "banner_cta_label"
 #~ msgid "Join us for the MozFest House: Kenya Keynote Address"
@@ -1838,28 +2049,6 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ "Das Versprechen der Technologie, Arbeitsmöglichkeiten in Entwicklungsländern über physische geographische Grenzen hinaus zu schaffen, hat unfaire Behandlung der Arbeit verbirgt. Das Fehlen von "
 #~ "Arbeitsmarktregulierung in einigen Ländern Afrikas, der die besonderen Bedingungen digital ermöglichter neuer Arbeitsformen anspricht, die Zunahme neuer Arbeitsformen – ein Phänomen der Deregulation"
 #~ " des Arbeitsmarkts – wird durch die digitale Transformation verschärft."
-
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.4519c17e-6251-431b-82d9-b3084de7570e.buttons.cd37d31c-0e90-4675-b2fd-98918d21884c.label"
-#~ msgid "Join this session"
-#~ msgstr "Dieser Sitzung beitreten"
-
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.fe24699d-f3ae-450f-aa4e-6f22993898cb.title"
-#~ msgid "Harmonizing the Waves: Navigating AI's Impact on African Podcasting"
-#~ msgstr "Harmonisierung der Wellen: Die Auswirkungen der KI auf den Podcast in Afrika bewältigen"
-
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.fe24699d-f3ae-450f-aa4e-6f22993898cb.body"
-#~ msgid ""
-#~ "In recent years, AI has experienced an explosive surge in popularity, largely driven by breakthroughs like the revolutionary large language models (LLMs) such as ChatGPT. Simultaneously, podcasting "
-#~ "has emerged as a formidable medium for creative expression and cultural representation, particularly amid and post the COVID-19 pandemic. This session will explore the possible impacts of AI, both "
-#~ "positive and negative, on an industry that gives voice to marginalized communities."
-#~ msgstr ""
-#~ "In den letzten Jahren ist die Beliebtheit von KI sprunghaft angestiegen, was hauptsächlich auf Durchbrüche wie den revolutionierenden großen Sprachmodellen (LLMs) wie ChatGPT zurückzuführen ist. "
-#~ "Gleichzeitig haben sich Podcasts zu einem hervorragenden Medium für kreativen Ausdruck und kulturellen Repräsentation entwickelt, insbesondere vor und nach der COVID-19-Pandemie. Diese Sitzung wird "
-#~ "die möglichen Auswirkungen von KI, sowohl positiv als auch negativ, auf eine Branche untersuchen, die marginalisierten Gemeinschaften eine Stimme gibt."
-
-#~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.fe24699d-f3ae-450f-aa4e-6f22993898cb.buttons.8a7f3134-cb0d-40cd-9e1c-ee2127c13ebe.label"
-#~ msgid "Join this session"
-#~ msgstr "Dieser Sitzung beitreten"
 
 #~ msgctxt "body.f242dbe4-7ddd-4634-b9cb-75905a306fad.current_events.898f5bea-0a5a-4758-b9cd-2e188c8ecffe.body"
 #~ msgid ""
@@ -1992,13 +2181,25 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgid "2024 Themes"
 #~ msgstr "Themen 2024"
 
+#~ msgctxt "body.5f7b7339-f1fe-483a-b0d4-b6e53d992dc0.session_items.1d34b2b8-9560-4ff3-bb72-4488d427f25f.title"
+#~ msgid "Togetherness"
+#~ msgstr "Miteinander"
+
 #~ msgctxt "body.5f7b7339-f1fe-483a-b0d4-b6e53d992dc0.session_items.1d34b2b8-9560-4ff3-bb72-4488d427f25f.body"
 #~ msgid "We will work alongside each other in solidarity, leveraging our collective global efforts to impact change on a local level."
 #~ msgstr "Wir werden solidarisch zusammenarbeiten und unsere gemeinsamen globalen Bemühungen nutzen, um auf lokaler Ebene Veränderungen zu bewirken."
 
+#~ msgctxt "body.5f7b7339-f1fe-483a-b0d4-b6e53d992dc0.session_items.9934c2a9-4726-41e2-8c23-a0297960a5a3.title"
+#~ msgid "Opportunity and Abundance"
+#~ msgstr "Chancen und Fülle"
+
 #~ msgctxt "body.5f7b7339-f1fe-483a-b0d4-b6e53d992dc0.session_items.9934c2a9-4726-41e2-8c23-a0297960a5a3.body"
 #~ msgid "We need to stand against unfair treatment in communities across the world and stop putting money and machines ahead of people and the environment."
 #~ msgstr "Wir müssen uns gegen unfaire Behandlung in Gemeinschaften auf der ganzen Welt einsetzen und aufhören, Geld und Maschinen über Menschen und Umwelt zu stellen."
+
+#~ msgctxt "body.5f7b7339-f1fe-483a-b0d4-b6e53d992dc0.session_items.031b054a-eb0c-4fea-b133-1ef9851fc98b.title"
+#~ msgid "Collective Wellbeing"
+#~ msgstr "Kollektives Wohlergehen"
 
 #~ msgctxt "body.5f7b7339-f1fe-483a-b0d4-b6e53d992dc0.session_items.031b054a-eb0c-4fea-b133-1ef9851fc98b.body"
 #~ msgid "We will work locally and globally to move policy decisions, technological tools, and economic infrastructure toward collective well-being."
@@ -2008,6 +2209,14 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgid "MozFest is not just an annual date on the calendar. It's a collaborative community taking action on the issues that matter most all-year long."
 #~ msgstr "MozFest ist nicht nur ein jährliches Datum im Kalender. Es ist eine Gemeinschaft, die das ganze Jahr über an den wichtigsten Themen arbeitet."
 
+#~ msgctxt "body.53bad728-8838-4a6a-beca-d0c98fe9878b.cards.079e1c4d-4a6d-4f8e-9dcc-85f327e2a89d.title"
+#~ msgid "Facilitate Virtually"
+#~ msgstr "Virtuell helfen"
+
+#~ msgctxt "body.53bad728-8838-4a6a-beca-d0c98fe9878b.cards.079e1c4d-4a6d-4f8e-9dcc-85f327e2a89d.body"
+#~ msgid "Grow your work and community through MozFest's Virtual Gatherings."
+#~ msgstr "Vergrößern Sie Ihre Arbeit und Gemeinschaft durch die virtuellen Treffen des MozFest."
+
 #~ msgctxt "body.53bad728-8838-4a6a-beca-d0c98fe9878b.cards.c4f5ccaf-9be1-4467-b927-045b4c86325a.title"
 #~ msgid "Volunteer at MozFest"
 #~ msgstr "Freiwillig beim MozFest helfen"
@@ -2016,9 +2225,45 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgid "Volunteers are integral to what we do at Mozilla, and MozFest is no different."
 #~ msgstr "Freiwillige Helfer sind ein wesentlicher Schritt für uns bei Mozilla und beim MozFest ist das nicht anders."
 
+#~ msgctxt "body.53bad728-8838-4a6a-beca-d0c98fe9878b.cards.df711f37-aa0d-44be-847b-9c9053aaba00.body"
+#~ msgid "We are looking for passionate individuals to help co-design future MozFest Houses."
+#~ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-Häuser mitzugestalten."
+
+#~ msgctxt "body.9547197b-6e78-47c5-b438-f86638349cc8.button.e9f6884b-8472-410a-a371-376d5cbf1cc4.label"
+#~ msgid "Learn more about our themes"
+#~ msgstr "Erfahren Sie mehr über unsere Themen"
+
+#~ msgctxt "banner_meta"
+#~ msgid "Announcing 2024 Dates Soon"
+#~ msgstr "Die Daten für 2024 werden bald angekündigt"
+
+#~ msgctxt "body.1778ee04-ad90-4f57-b61c-d01e9967d276"
+#~ msgid "What's Coming Up"
+#~ msgstr "Was steht an"
+
+#~ msgctxt "body.b1cec180-716a-42bb-8994-1c038f0534f7.cards.9f9797a3-eced-4113-be11-bbcffbf76fce.title"
+#~ msgid "Speculative F(r)iction in GenAI"
+#~ msgstr "Spekulative F(r)iktion in GenAI"
+
+#~ msgctxt "body.b1cec180-716a-42bb-8994-1c038f0534f7.cards.9f9797a3-eced-4113-be11-bbcffbf76fce.highlighted_metadata"
+#~ msgid "Virtual Gathering"
+#~ msgstr "Virtuelles Treffen"
+
+#~ msgctxt "body.b1cec180-716a-42bb-8994-1c038f0534f7.cards.9f9797a3-eced-4113-be11-bbcffbf76fce.metadata"
+#~ msgid "Jan 19, 2024 - 17:00 UTC"
+#~ msgstr "19. Jan 2024 – 17:00 UTC"
+
+#~ msgctxt "body.295db423-1585-459e-8c3d-696198327752.carousel_images.d891034d-6959-48f8-ae19-f178165a8e2a.altText"
+#~ msgid "mozfest london stage"
+#~ msgstr "MozFest-Bühne London"
+
 #~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.ac9d46fc-99c7-42fc-aaac-a78edf39e146.title"
 #~ msgid "Create Your Own Adaptive Podcast"
 #~ msgstr "Erstellen Sie Ihren eigenen anpassungsfähigen Podcast"
+
+#~ msgctxt "body.295db423-1585-459e-8c3d-696198327752.carousel_images.0b0ec316-f57a-4047-a58a-7fe5684d314e.altText"
+#~ msgid "mozfest house amsterdam stage"
+#~ msgstr "MozFest-Haus-Bühne Amsterdam"
 
 #~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.ac9d46fc-99c7-42fc-aaac-a78edf39e146.metadata"
 #~ msgid "25th March, 3pm UTC"
@@ -2046,6 +2291,78 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ "Unsere Serie „Gesichter des MozFest“ soll die unglaubliche Arbeit präsentieren, die die Mitglieder der MozFest-Gemeinschaft das ganze Jahr über leisten. Bleiben Sie bei uns und führen Sie ein "
 #~ "Gespräch mit einigen der diesjährigen Wrangler."
 
+#~ msgctxt "body.295db423-1585-459e-8c3d-696198327752.carousel_images.b63387f1-2f69-4916-955c-116cce6f8da2.altText"
+#~ msgid "mozfest london dialogues and debates stage"
+#~ msgstr "MozFest-Bühne London Dialoge und Debatten"
+
+#~ msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.80473d24-62cb-46c3-b696-264bb35b85ed.title"
+#~ msgid "60000+"
+#~ msgstr "über 60000"
+
+#~ msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.8436e364-d587-4efc-85a5-a328f425df9a.title"
+#~ msgid "2500+"
+#~ msgstr "über 2500"
+
+#~ msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.8436e364-d587-4efc-85a5-a328f425df9a.description"
+#~ msgid "sessions"
+#~ msgstr "Sitzungen"
+
+#~ msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.e22b267f-4d81-49a2-9561-320703bfd80a.title"
+#~ msgid "145+"
+#~ msgstr "über 145"
+
+#~ msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.e22b267f-4d81-49a2-9561-320703bfd80a.description"
+#~ msgid "countries"
+#~ msgstr "Länder"
+
+#~ msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.2c37c0d6-6ba7-4fcb-9f53-3f45c7fe324e.title"
+#~ msgid "100K+"
+#~ msgstr "über 100&thinsp;000"
+
+#~ msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.2c37c0d6-6ba7-4fcb-9f53-3f45c7fe324e.description"
+#~ msgid "cups of coffee"
+#~ msgstr "Tassen Kaffee"
+
+#~ msgctxt "body.bee67c95-c3af-4db2-ae51-fe4a5414bb43.heading"
+#~ msgid "Join MozFest on Disocrd"
+#~ msgstr "Nehmen Sie am MozFest auf Discord teil"
+
+#~ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.68f80905-03b5-4a02-a1e8-f078fae0c6f5.body"
+#~ msgid "Has exploitation expanded and adapted from offline to online? What is the cost of pursuing fame and influence online?"
+#~ msgstr "Wurde die Ausnutzung erweitert und von offline zu online angepasst? Was kostet es, im Internet nach Berühmtheit und Einfluss zu suchen?"
+
+#~ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.68f80905-03b5-4a02-a1e8-f078fae0c6f5.link_url"
+#~ msgid "https://www.mozillafestival.org/highlights/mozfest-house-amsterdam/"
+#~ msgstr "https://www.mozillafestival.org/highlights/mozfest-house-amsterdam/"
+
+#~ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.6f76b23a-d300-4ac4-b7a3-83f21d21ea3d.alt_text"
+#~ msgid "Frances Haugen on stage at MozFest House Amsterdam"
+#~ msgstr "Frances Haugen auf der Bühne im MozFest-Haus Amsterdam"
+
+#~ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.6f76b23a-d300-4ac4-b7a3-83f21d21ea3d.title"
+#~ msgid "Keynote by Frances Haugen"
+#~ msgstr "Keynote von Frances Haugen"
+
+#~ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.6f76b23a-d300-4ac4-b7a3-83f21d21ea3d.metadata"
+#~ msgid "Amsterdam, 2023"
+#~ msgstr "Amsterdam 2023"
+
+#~ msgctxt "body.bee67c95-c3af-4db2-ae51-fe4a5414bb43.text"
+#~ msgid "Engage year-round with diverse global movements, collaborate on Trustworthy AI, and join exclusive events."
+#~ msgstr "Mischen Sie sich das ganze Jahr über in verschiedene globale Bewegungen ein, arbeiten Sie bei vertrauenswürdiger KI zusammen und nehmen Sie an exklusiven Veranstaltungen teil."
+
+#~ msgctxt "body.6f34e914-10cc-46a0-a107-356cb0f46eb0"
+#~ msgid "MozFest 2023 In Review"
+#~ msgstr "MozFest 2023 im Rückblick"
+
+#~ msgctxt "body.b1cec180-716a-42bb-8994-1c038f0534f7.cards.9f9797a3-eced-4113-be11-bbcffbf76fce.body"
+#~ msgid ""
+#~ "What kinds of design fictions and constructive frictions could contribute towards improved transparency, evaluation, and human agency in the context of generative AI systems and the data and labor "
+#~ "pipelines they depend on?"
+#~ msgstr ""
+#~ "Welche Arten von Design-Fiktionen und konstruktiven Friktionen könnten zu verbesserter Transparenz, Bewertung und menschlicher Entscheidungsfreiheit im Kontext von generativen KI-Systemen und den "
+#~ "Daten- und Arbeitsleitungen, von denen sie abhängig sind, beitragen?"
+
 #~ msgctxt "body.b1cec180-716a-42bb-8994-1c038f0534f7.cards.9f9797a3-eced-4113-be11-bbcffbf76fce.link_url"
 #~ msgid "https://mozilla.zoom.us/meeting/register/tJUpduGrqjwiE9edRb_0Nd8BH0_68YkuyoiY#/registration"
 #~ msgstr "https://mozilla.zoom.us/meeting/register/tJUpduGrqjwiE9edRb_0Nd8BH0_68YkuyoiY#/registration"
@@ -2061,34 +2378,6 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgctxt "body.b1cec180-716a-42bb-8994-1c038f0534f7.cards.1c746a6c-2f7d-43b4-bfc1-200ac5c4d6af.metadata"
 #~ msgid "Jan 24, 2024 - 16:00 UTC"
 #~ msgstr "24. Januar 2024 – 16:00 UTC"
-
-#~ msgctxt "banner_meta"
-#~ msgid "Announcing 2024 Dates Soon"
-#~ msgstr "Die Daten für 2024 werden bald angekündigt"
-
-#~ msgctxt "body.1778ee04-ad90-4f57-b61c-d01e9967d276"
-#~ msgid "What's Coming Up"
-#~ msgstr "Was steht an"
-
-#~ msgctxt "body.b1cec180-716a-42bb-8994-1c038f0534f7.cards.9f9797a3-eced-4113-be11-bbcffbf76fce.title"
-#~ msgid "Speculative F(r)iction in GenAI"
-#~ msgstr "Spekulative F(r)iktion in GenAI"
-
-#~ msgctxt "body.b1cec180-716a-42bb-8994-1c038f0534f7.cards.9f9797a3-eced-4113-be11-bbcffbf76fce.highlighted_metadata"
-#~ msgid "Virtual Gathering"
-#~ msgstr "Virtuelles Treffen"
-
-#~ msgctxt "body.b1cec180-716a-42bb-8994-1c038f0534f7.cards.9f9797a3-eced-4113-be11-bbcffbf76fce.metadata"
-#~ msgid "Jan 19, 2024 - 17:00 UTC"
-#~ msgstr "19. Jan 2024 – 17:00 UTC"
-
-#~ msgctxt "body.b1cec180-716a-42bb-8994-1c038f0534f7.cards.9f9797a3-eced-4113-be11-bbcffbf76fce.body"
-#~ msgid ""
-#~ "What kinds of design fictions and constructive frictions could contribute towards improved transparency, evaluation, and human agency in the context of generative AI systems and the data and labor "
-#~ "pipelines they depend on?"
-#~ msgstr ""
-#~ "Welche Arten von Design-Fiktionen und konstruktiven Friktionen könnten zu verbesserter Transparenz, Bewertung und menschlicher Entscheidungsfreiheit im Kontext von generativen KI-Systemen und den "
-#~ "Daten- und Arbeitsleitungen, von denen sie abhängig sind, beitragen?"
 
 #~ msgctxt "body.b1cec180-716a-42bb-8994-1c038f0534f7.cards.1c746a6c-2f7d-43b4-bfc1-200ac5c4d6af.body"
 #~ msgid ""
@@ -2111,6 +2400,14 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgstr "Beim MozFest vereinen sich leidenschaftliche Menschen, um ein besseres Internet zu schaffen."
 
 #~ msgctxt "body.295db423-1585-459e-8c3d-696198327752.text"
+#~ msgid ""
+#~ "Whether you create art, code, program, or scroll with concern about the digital future - you're in the right place. Our mission is to make the internet a better, safer, and fairer place for everyone"
+#~ " and now more than ever, your voice is crucial."
+#~ msgstr ""
+#~ "Egal, ob Sie Kunst, Quelltext, Programmieren oder Scrollen mit Sorge um die digitale Zukunft erstellen – Sie sind an der richtigen Stelle. Unsere Mission ist es, das Internet zu einem besseren, "
+#~ "sichereren und gerechteren Ort für alle zu machen, und Ihre Stimme ist mehr denn je wichtig."
+
+#~ msgctxt "body.295db423-1585-459e-8c3d-696198327752.text"
 #~ msgid "Reclaiming the internet starts with us, and at MozFest, your ideas have power to create real impact. Join the movement to shape the future of the internet for the better."
 #~ msgstr ""
 #~ "Die Rückeroberung des Internets fängt bei uns an, und beim MozFest haben Ihre Ideen die Kraft, echte Wirkung zu erzielen. Werde Teil der Bewegung, um die Zukunft des Internets zum Besseren zu "
@@ -2119,50 +2416,6 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgctxt "body.295db423-1585-459e-8c3d-696198327752.link_label"
 #~ msgid "Learn more about MozFest"
 #~ msgstr "Erfahren Sie mehr über MozFest"
-
-#~ msgctxt "body.295db423-1585-459e-8c3d-696198327752.carousel_images.d891034d-6959-48f8-ae19-f178165a8e2a.altText"
-#~ msgid "mozfest london stage"
-#~ msgstr "MozFest-Bühne London"
-
-#~ msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.80473d24-62cb-46c3-b696-264bb35b85ed.title"
-#~ msgid "60000+"
-#~ msgstr "über 60000"
-
-#~ msgctxt "body.bee67c95-c3af-4db2-ae51-fe4a5414bb43.heading"
-#~ msgid "Join MozFest on Disocrd"
-#~ msgstr "Nehmen Sie am MozFest auf Discord teil"
-
-#~ msgctxt "body.6f34e914-10cc-46a0-a107-356cb0f46eb0"
-#~ msgid "MozFest 2023 In Review"
-#~ msgstr "MozFest 2023 im Rückblick"
-
-#~ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.video.caption"
-#~ msgid "MozFest House Kenya Movie"
-#~ msgstr "Film zum MozFest-House Kenia"
-
-#~ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.68f80905-03b5-4a02-a1e8-f078fae0c6f5.metadata"
-#~ msgid "Amsterdam, 2023"
-#~ msgstr "Amsterdam 2023"
-
-#~ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.68f80905-03b5-4a02-a1e8-f078fae0c6f5.body"
-#~ msgid "Has exploitation expanded and adapted from offline to online? What is the cost of pursuing fame and influence online?"
-#~ msgstr "Wurde die Ausnutzung erweitert und von offline zu online angepasst? Was kostet es, im Internet nach Berühmtheit und Einfluss zu suchen?"
-
-#~ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.68f80905-03b5-4a02-a1e8-f078fae0c6f5.link_url"
-#~ msgid "https://www.mozillafestival.org/highlights/mozfest-house-amsterdam/"
-#~ msgstr "https://www.mozillafestival.org/highlights/mozfest-house-amsterdam/"
-
-#~ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.6f76b23a-d300-4ac4-b7a3-83f21d21ea3d.alt_text"
-#~ msgid "Frances Haugen on stage at MozFest House Amsterdam"
-#~ msgstr "Frances Haugen auf der Bühne im MozFest-Haus Amsterdam"
-
-#~ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.6f76b23a-d300-4ac4-b7a3-83f21d21ea3d.title"
-#~ msgid "Keynote by Frances Haugen"
-#~ msgstr "Keynote von Frances Haugen"
-
-#~ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.6f76b23a-d300-4ac4-b7a3-83f21d21ea3d.metadata"
-#~ msgid "Amsterdam, 2023"
-#~ msgstr "Amsterdam 2023"
 
 #~ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.6f76b23a-d300-4ac4-b7a3-83f21d21ea3d.body"
 #~ msgid "Frances Haugen, the Facebook whistleblower who further exposed the platform's ability to incite hatred"
@@ -2199,6 +2452,10 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.68f80905-03b5-4a02-a1e8-f078fae0c6f5.title"
 #~ msgid "Race, Class, Fame &amp; Harm"
 #~ msgstr "Ethnie, Klasse, Ruf &amp; Schaden"
+
+#~ msgctxt "body.11bc4e15-ac22-4486-bafe-f3c5f8656050.statistics.80473d24-62cb-46c3-b696-264bb35b85ed.title"
+#~ msgid "60,000+"
+#~ msgstr "über 60&thinsp;000"
 
 #~ msgctxt "body.bee67c95-c3af-4db2-ae51-fe4a5414bb43.heading"
 #~ msgid "Your Chance To Shape MozFest 2024"
@@ -2269,6 +2526,30 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.c1c6a511-801f-40cc-87bb-9674796b1fee.link_url"
 #~ msgid "https://discord.gg/mozfest?event=1204808402165829705"
 #~ msgstr "https://discord.gg/mozfest?event=1204808402165829705"
+
+#~ msgctxt "body.a8b79fdd-14e0-41ec-bbb8-12e4fedf3802.cards.cc0ae602-40b6-4b90-af98-71e16287e59d.title"
+#~ msgid "Togetherness"
+#~ msgstr "Miteinander"
+
+#~ msgctxt "body.a8b79fdd-14e0-41ec-bbb8-12e4fedf3802.cards.cc0ae602-40b6-4b90-af98-71e16287e59d.body"
+#~ msgid "Together, we’ll stand in solidarity, leveraging our global efforts to drive change at a local level."
+#~ msgstr "Gemeinsam werden wir solidarisch sein und unsere globalen Bemühungen nutzen, um Veränderungen auf lokaler Ebene voranzutreiben."
+
+#~ msgctxt "body.a8b79fdd-14e0-41ec-bbb8-12e4fedf3802.cards.c290c30d-7f74-48c2-805b-0552fdc40857.title"
+#~ msgid "Opportunity and Abundance"
+#~ msgstr "Chancen und Fülle"
+
+#~ msgctxt "body.a8b79fdd-14e0-41ec-bbb8-12e4fedf3802.cards.c290c30d-7f74-48c2-805b-0552fdc40857.body"
+#~ msgid "Together, we stand against unfair treatment in our communities and around the world."
+#~ msgstr "Gemeinsam stellen wir uns gegen unfaire Behandlung in unseren Gemeinschaften und auf der ganzen Welt."
+
+#~ msgctxt "body.a8b79fdd-14e0-41ec-bbb8-12e4fedf3802.cards.f9ed298f-2a3d-47e6-aa5a-71f25800564b.title"
+#~ msgid "Collective Wellbeing"
+#~ msgstr "Kollektives Wohlergehen"
+
+#~ msgctxt "body.a8b79fdd-14e0-41ec-bbb8-12e4fedf3802.cards.f9ed298f-2a3d-47e6-aa5a-71f25800564b.body"
+#~ msgid "Together, we reform policy, tools, and economic infrastructure, rewriting the rules for AI."
+#~ msgstr "Gemeinsam verbessern wir Politik, Werkzeuge und die wirtschaftliche Infrastruktur und schreiben damit die Regeln für KI neu."
 
 #~ msgctxt "body.b79a6b9b-e64a-4518-b549-308392e08e34.title"
 #~ msgid "Session Sneak Peeks"
@@ -2368,6 +2649,10 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgid "Performance"
 #~ msgstr "Leistung"
 
+#~ msgctxt "body.295db423-1585-459e-8c3d-696198327752.link.02e8d2ba-e964-48cd-899c-8f4354def26a.label"
+#~ msgid "Learn more about our themes"
+#~ msgstr "Erfahren Sie mehr über unsere Themes"
+
 #~ msgctxt "body.cc14c6d9-06ac-4f23-ae1b-f615178c6960.cards.9887d20d-dca5-4e3f-a219-bf0a095a8ab2.body"
 #~ msgid ""
 #~ "Songs of the Living extends an invitation to actively engage in the movement to reclaim the internet, aligning with our physical world, environment, and humanity. This invitation encourages "
@@ -2377,6 +2662,10 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ "Songs of the Living lädt ein, sich aktiv in der Bewegung für die Rückeroberung des Internets zu beteiligen und im Einklang mit unserer physischen Welt, Umwelt und der Menschheit zu sein. Diese "
 #~ "Einladung ermutigt zur Erforschung und Zentrierung Ihrer Menschlichkeit in einem Zeitalter der Technologie. In Zusammenarbeit mit Toshi Reagon ist Songs of the Living ein Musikerlebnis, das aus "
 #~ "einer künstlerischen Zusammenarbeit lokaler Künstler hervorgeht."
+
+#~ msgctxt "body.a715166c-6a94-4913-aa6b-cac514a995d1"
+#~ msgid "On Togetherness &amp; Solidarity"
+#~ msgstr "Vom Miteinander &amp; solidarität"
 
 #~ msgctxt "body.fb4a11a2-71ba-46be-b8f3-e0df38307485"
 #~ msgid "Meet Our MozFest House Amsterdam Speakers"
@@ -2503,17 +2792,63 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgid "https://discord.gg/mozfest?event=1220725928242450523"
 #~ msgstr "https://discord.gg/mozfest?event=1220725928242450523"
 
+#~ msgctxt "body.295db423-1585-459e-8c3d-696198327752.heading"
+#~ msgid "15 years of Mozilla Festival, and we’re just getting started."
+#~ msgstr "15 Jahre Mozilla Festival und es geht jetzt erst richtig los."
+
+#~ msgctxt "body.295db423-1585-459e-8c3d-696198327752.text"
+#~ msgid "Mozilla Festival is where passionate individuals unite to build a better internet."
+#~ msgstr "Beim Mozilla Festival vereinen sich leidenschaftliche Menschen, um ein besseres Internet zu schaffen."
+
+#~ msgctxt "body.295db423-1585-459e-8c3d-696198327752.text"
+#~ msgid "Reclaiming the internet starts with us, and at Mozilla Festival, your ideas have the power to create real impact. Join the movement to shape the future of the internet for the better."
+#~ msgstr ""
+#~ "Die Rückeroberung des Internets fängt bei uns an, und beim Mozilla Festival haben Ihre Ideen die Kraft, echte Wirkung zu erzielen. Werde Teil der Bewegung, um die Zukunft des Internets zum Besseren "
+#~ "zu gestalten."
+
 #~ msgctxt "body.295db423-1585-459e-8c3d-696198327752.link_label"
 #~ msgid "Learn more about Mozilla Festival"
 #~ msgstr "Erfahren Sie mehr über das Mozilla Festival"
+
+#~ msgctxt "body.bee67c95-c3af-4db2-ae51-fe4a5414bb43.heading"
+#~ msgid "Join Mozilla Festival on Discord"
+#~ msgstr "Nehmen Sie am Mozilla Festival auf Discord teil"
 
 #~ msgctxt "body.a715166c-6a94-4913-aa6b-cac514a995d1"
 #~ msgid "Mozilla Festival 2024: On Togetherness &amp; Solidarity"
 #~ msgstr "Mozilla Festival 2024: Vom Miteinander &amp; Solidarität"
 
+#~ msgctxt "body.a715166c-6a94-4913-aa6b-cac514a995d1"
+#~ msgid ""
+#~ "In 2024, Mozilla Festival is focused on Solidarity. This year, we are hosting MozFest House in The Netherlands &amp; Zambia. We are also hosting monthly Virtual Gatherings, uniting our global "
+#~ "community."
+#~ msgstr ""
+#~ "Im Jahr 2024 steht das Mozilla Festival ganz im Zeichen von Solidarität. Dieses Jahr veranstalten wir das MozFest House in den Niederlanden &amp; Sambia. Wir veranstalten auch monatliche virtuelle "
+#~ "Treffen und vereinen unsere globale Gemeinschaft."
+
+#~ msgctxt "body.5f7b7339-f1fe-483a-b0d4-b6e53d992dc0.session_items.1d34b2b8-9560-4ff3-bb72-4488d427f25f.body"
+#~ msgid "Together, we’ll stand in solidarity, leveraging our global efforts to drive change at a local level."
+#~ msgstr "Gemeinsam werden wir solidarisch sein und unsere globalen Bemühungen nutzen, um Veränderungen auf lokaler Ebene voranzutreiben."
+
+#~ msgctxt "body.5f7b7339-f1fe-483a-b0d4-b6e53d992dc0.session_items.9934c2a9-4726-41e2-8c23-a0297960a5a3.body"
+#~ msgid "Together, we stand against unfair treatment in our communities and around the world."
+#~ msgstr "Gemeinsam stellen wir uns gegen unfaire Behandlung in unseren Gemeinschaften und auf der ganzen Welt."
+
+#~ msgctxt "body.5f7b7339-f1fe-483a-b0d4-b6e53d992dc0.session_items.031b054a-eb0c-4fea-b133-1ef9851fc98b.body"
+#~ msgid "Together, we reform policy, tools, and economic infrastructure, rewriting the rules for AI."
+#~ msgstr "Gemeinsam verbessern wir Politik, Werkzeuge und die wirtschaftliche Infrastruktur und schreiben damit die Regeln für KI neu."
+
 #~ msgctxt "body.f88eb143-861d-400a-aa1e-e04ec507c6e3.heading"
 #~ msgid "Get Your Early Bird Tickets"
 #~ msgstr "Holen Sie sich Ihre Frühbucher-Tickets"
+
+#~ msgctxt "body.ff64d04c-5c25-4814-94cb-2619bb3347e4"
+#~ msgid "MozFest is not just an annual date on the calendar. It's a collaborative community taking action on the issues that matter most all year long."
+#~ msgstr "MozFest ist nicht nur ein jährliches Datum im Kalender. Es ist eine Gemeinschaft, die das ganze Jahr über an den wichtigsten Themen arbeitet."
+
+#~ msgctxt "body.53bad728-8838-4a6a-beca-d0c98fe9878b.cards.c4f5ccaf-9be1-4467-b927-045b4c86325a.body"
+#~ msgid "Access MozFest House Amsterdam for free by volunteering some of your time."
+#~ msgstr "Erhalten Sie kostenlosen Zugang zum MozFest House Amsterdam, indem Sie einen Teil Ihrer Zeit freiwillig spenden."
 
 #~ msgctxt "body.1318e249-fe5d-41c5-a202-1c41cf688647.cards.c1c6a511-801f-40cc-87bb-9674796b1fee.title"
 #~ msgid "Faces behind MozFest: A meet and greet with Wranglers"
@@ -2580,6 +2915,10 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgid "Get your early bird ticket to the premier gathering for people working to build a better digital world. Early bird closing on 22nd May!"
 #~ msgstr "Holen Sie sich Ihr Frühbucher-Ticket für das wichtige Treffen für Menschen, die an einer besseren digitalen Welt arbeiten. Frühbucherrabatt endet am 22. Mai!"
 
+#~ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.68f80905-03b5-4a02-a1e8-f078fae0c6f5.body"
+#~ msgid "Mona Chalabi helped us to find humanity in data sets and set the tone for an amazing two days of MozFest House"
+#~ msgstr "Mona Chalabi hat uns geholfen, Menschlichkeit in Datensätzen zu finden und den Ton für zwei tolle Tage des MozFest House anzugeben"
+
 #~ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.68f80905-03b5-4a02-a1e8-f078fae0c6f5.link_url"
 #~ msgid "https://www.mozillafestival.org/highlights/mozfest-house-amsterdam-2024/"
 #~ msgstr "https://www.mozillafestival.org/highlights/mozfest-house-amsterdam-2024/"
@@ -2599,3 +2938,24 @@ msgstr "Wir suchen leidenschaftliche Menschen, die helfen, zukünftige MozFest-H
 #~ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.65815e65-0ce3-4786-9489-d95c55ad8dd3.link_url"
 #~ msgid "https://www.mozillafestival.org/highlights/mozfest-house-amsterdam-2024/"
 #~ msgstr "https://www.mozillafestival.org/highlights/mozfest-house-amsterdam-2024/"
+
+#~ msgctxt "body.7285eb6a-3cfc-4fe3-887a-dfe7385210c3.cards.6f76b23a-d300-4ac4-b7a3-83f21d21ea3d.body"
+#~ msgid "This thought provoking session highlighted the violent systems impacting lives across continents"
+#~ msgstr "Diese zum Nachdenken anregende Sitzung beleuchtete die Gewaltsysteme, die das Leben auf allen Kontinenten beeinflussen"
+
+#~ msgctxt "body.a715166c-6a94-4913-aa6b-cac514a995d1"
+#~ msgid "In 2024, Mozilla Festival is focused on Togetherness and Solidarity. This year, we are hosting MozFest House in The Netherlands and Zambia."
+#~ msgstr "Im Jahr 2024 konzentriert sich das Mozilla Festival auf Gemeinsamkeit und Solidarität. Dieses Jahr veranstalten wir das MozFest House in den Niederlanden und Sambia."
+
+#~ msgctxt "body.4c5e7b61-5c10-479f-a0b5-9d55437cd073.heading"
+#~ msgid "Get your MozFest House Zambia tickets"
+#~ msgstr "Holen Sie sich Ihre Tickets für das MozFest House Sambia"
+
+#~ msgctxt "body.8ab57f43-470d-4371-b85d-2bb69dbad9b7.body"
+#~ msgid ""
+#~ "Angela is the Executive Director of Ushahidi, a global nonprofit technology company that builds tools to empower people to generate solutions and mobilize communities around the issues most relevant"
+#~ " to them. One of their offerings is the Ushahidi open-source software application, which has evolved from a tool for crisis mapping in Kenya in 2007 to a global platform used in over 160 countries."
+#~ msgstr ""
+#~ "Angela ist die geschäftsführende Direktorin von Ushahidi, einem globalen gemeinnützigen Technologieunternehmen, das Werkzeuge entwickelt, die Menschen befähigen, Lösungen zu finden und "
+#~ "Gemeinschaften rund um die ihnen wichtigsten Probleme zu mobilisieren. Eines ihrer Angebote ist die Open-Source-Software Ushahidi, die sich von einem Werkzeug zur Krisenanalyse im Kenia im Jahr 2007"
+#~ " zu einer globalen Plattform entwickelt hat, die in über 160 Ländern genutzt wird."

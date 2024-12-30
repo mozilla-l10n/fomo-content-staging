@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "thank_you"
 msgid "Thank you for signing!"
-msgstr ""
+msgstr "Dziękujemy za podpis!"

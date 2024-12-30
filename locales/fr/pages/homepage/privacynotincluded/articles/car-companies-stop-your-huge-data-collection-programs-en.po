@@ -17,7 +17,7 @@ msgid ""
 "your vehicle."
 msgstr ""
 "Une étude de Mozilla a révélé que <b>des constructeurs automobiles connus et vendus dans le monde entier comme Chevrolet, Nissan, Toyota, Kia, Audi, Jeep, Honda, Volkswagen et bien d’autres "
-"recueillent des données très personnelles comme le patrimoine génétique ou encore l’activité sexuelle de leurs clients·es.</b> Pire : cette collecte massive d’informations se fait la plupart du "
+"recueillent des données très personnelles comme le patrimoine génétique ou encore l’activité sexuelle de leurs clients·es.</b> Pire : cette collecte massive d’informations se fait la plupart du "
 "temps avec une absence totale de consentement, grâce à un ensemble de capteurs, de microphones, de caméras, ainsi que par le biais des téléphones, des applications et des services connectés utilisés"
 " à bord des véhicules."
 

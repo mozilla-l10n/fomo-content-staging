@@ -18,15 +18,33 @@ msgid "Homepage"
 msgstr ""
 
 msgctxt "hero_headline"
-msgid "TikTok Lite Lacks Key Safety Features, Fails Global Majority"
+msgid "We're reclaiming the internet, building trustworthy AI, and holding tech companies accountable"
 msgstr ""
 
 msgctxt "hero_button_text"
-msgid "Read Our Research"
+msgid "Join Us"
 msgstr ""
 
-msgctxt "spotlight_headline"
-msgid "Spotlight: The Data Futures Lab"
+msgctxt "hero_intro_heading"
+msgid "A healthy internet is one in which privacy, openness, and inclusion are the norms."
+msgstr ""
+
+msgctxt "hero_intro_body"
+msgid ""
+"The Mozilla Foundation empowers people to shape a healthier digital world. We work across borders to advocate for privacy, inclusion and decentralization, and to create safer, more transparent "
+"online experiences for everyone."
+msgstr ""
+
+msgctxt "hero_intro_link.23e90ac4-ef42-4580-9e95-405571c3ac4d.label"
+msgid "More about us"
+msgstr ""
+
+msgctxt "ideas_title"
+msgid "What We're Building"
+msgstr ""
+
+msgctxt "ideas_headline"
+msgid "Championing ‘Public AI’"
 msgstr ""
 
 msgctxt "cause_statement"
@@ -50,7 +68,7 @@ msgid "Ford Foundation"
 msgstr ""
 
 msgctxt "partner_heading"
-msgid "Partner with us"
+msgid "Funder or civil society organization? Partner with us."
 msgstr ""
 
 msgctxt "partner_intro_text"
@@ -62,7 +80,7 @@ msgid "Let’s work together"
 msgstr ""
 
 msgctxt "take_action_title"
-msgid "Take action"
+msgid "Take Action"
 msgstr ""
 
 msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
@@ -111,4 +129,20 @@ msgstr ""
 
 msgctxt "partner_logos.929c99af-30b5-43e9-868d-348dff76a7cb.name"
 msgid "Consumers International logo"
+msgstr ""
+
+msgctxt "ideas_posts.edd097f8-7d7f-45b2-b7c8-bc594288f5d8.cta"
+msgid "Common Voice 19.0 Dataset Release"
+msgstr ""
+
+msgctxt "ideas_posts.5d8ee629-1355-48db-b54c-f85951512e7d.cta"
+msgid "2024 Mozilla Technology Fund Cohort"
+msgstr ""
+
+msgctxt "ideas_posts.229b0fa6-2d60-4744-be0f-8ef91c68931f.cta"
+msgid "Read more"
+msgstr ""
+
+msgctxt "highlights_title"
+msgid "The Latest"
 msgstr ""

@@ -8,4 +8,4 @@ msgstr ""
 
 msgctxt "name"
 msgid "LGBTQIA+"
-msgstr ""
+msgstr "LGBTQIA+"

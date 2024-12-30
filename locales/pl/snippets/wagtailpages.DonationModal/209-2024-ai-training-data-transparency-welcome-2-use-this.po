@@ -1,0 +1,25 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-12-30 07:04:52.678632+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 61cf30ed-87c5-4738-83ab-a54108d3abc5\n"
+
+msgctxt "header"
+msgid "Can you add a donation in support of Mozilla's campaigning for trustworthy AI?"
+msgstr "Czy możesz przekazać Mozilli datek, aby wesprzeć naszą kampanię na rzecz godnej zaufania sztucznej inteligencji?"
+
+msgctxt "body"
+msgid "Thanks so much for signing this petition asking for transparency on data used to train AI tool! Can you add a donation to support Mozilla's non-profit work for trustworthy AI?"
+msgstr ""
+"Dziękujemy za podpisanie petycji w sprawie przejrzystości danych używanych do trenowania sztucznej inteligencji! Czy możesz przekazać Mozilli datek, aby wesprzeć nasze działania non profit na rzecz "
+"godnej zaufania sztucznej inteligencji?"
+
+msgctxt "donate_text"
+msgid "Yes, I'll chip in"
+msgstr "Tak, dołożę się"
+
+msgctxt "dismiss_text"
+msgid "No thanks"
+msgstr "Nie, dziękuję"

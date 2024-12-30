@@ -1,0 +1,27 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-12-30 07:04:39.462463+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: c8d0e630-8ae2-4086-867e-04c7c284fac2\n"
+
+msgctxt "header"
+msgid "Can you add a donation to build the movement for trustworthy AI?"
+msgstr "Faites un don pour promouvoir une IA digne de confiance"
+
+msgctxt "body"
+msgid ""
+"Thank you for joining the call for AI never to be used in warfare. If you’re able to donate, you can help us hold big tech companies accountable and campaign for a world where AI is helpful, rather "
+"than harmful to all of us."
+msgstr ""
+"Merci de soutenir notre appel pour que l’IA ne soit pas utilisée sur le champ de bataille. Si vous le pouvez, faites un don pour nous aider à mettre les géants de la tech face à leurs "
+"responsabilités et promouvoir une IA au service de l’humanité, pas des conflits armés."
+
+msgctxt "donate_text"
+msgid "Yes, I'll chip in"
+msgstr "Oui, je participe"
+
+msgctxt "dismiss_text"
+msgid "No thanks"
+msgstr "Non merci"

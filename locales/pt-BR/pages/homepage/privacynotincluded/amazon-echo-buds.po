@@ -559,10 +559,6 @@ msgctxt "ai_what_can_it_do"
 msgid "Amazon Alexa uses natural language processing to understand you and to generate answers to your requests."
 msgstr "A Alexa da Amazon utiliza o processamento de linguagem natural para entender você e gerar respostas às suas solicitações."
 
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Voice recordings"
-#~ msgstr "Gravações de voz"
-
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "When starting a sign-up, do not agree to tracking of your data."
 #~ msgstr "Ao iniciar uma inscrição, não concorde com o rastreamento de seus dados."
@@ -675,9 +671,23 @@ msgstr "A Alexa da Amazon utiliza o processamento de linguagem natural para ente
 #~ msgid "Uses encryption in transit and at rest."
 #~ msgstr "Utiliza criptografia em trânsito e em repouso."
 
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Voice recordings"
+#~ msgstr "Gravações de voz"
+
 #~ msgctxt "personal_data_collected"
 #~ msgid "Name, email, phone number, address"
 #~ msgstr "Nome, email, número de celular, endereço"
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid ""
+#~ "You can review and delete your voice recordings, one by one, by date range, or all at once. You can also set up an auto-deletion to automatically delete recordings older than 3 or 18 months. You can"
+#~ " choose to not save any voice recordings, at the cost of some features. If you choose not to have any voice recordings saved, the text transcripts of your requests will be still retained for 30 "
+#~ "days, after which they will be automatically deleted."
+#~ msgstr ""
+#~ "Você pode revisar e excluir suas gravações de voz, uma por uma, por intervalo de datas ou todas de uma vez. Você também pode configurar uma exclusão automática para excluir automaticamente gravações"
+#~ " com mais de 3 ou 18 meses. Você pode optar por não salvar nenhuma gravação de voz, isso custará alguns recursos. Se você optar por não ter gravações de voz salvas, as transcrições de texto de suas "
+#~ "solicitações ainda serão mantidas por 30 dias, após os quais serão excluídas automaticamente."
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
@@ -728,16 +738,6 @@ msgstr "A Alexa da Amazon utiliza o processamento de linguagem natural para ente
 #~ "ao seu pedido. Você poderá revisar e excluir essas transcrições em seu Histórico de Voz. A Alexa ainda enviará áudio para a nuvem para recursos que exigem a transmissão de áudio, como quando você "
 #~ "faz uma chamada ou envia uma mensagem ou anúncio via Alexa. E, se você criar um ID de voz, as gravações de áudio usadas para ensinar sua voz para a Alexa serão enviadas para a nuvem. A Alexa também "
 #~ "enviará áudio para a nuvem se você habilitar o Alexa Guard, inclusive para Alertas Inteligentes e chamadas de emergência com o Guard Plus.\""
-
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid ""
-#~ "You can review and delete your voice recordings, one by one, by date range, or all at once. You can also set up an auto-deletion to automatically delete recordings older than 3 or 18 months. You can"
-#~ " choose to not save any voice recordings, at the cost of some features. If you choose not to have any voice recordings saved, the text transcripts of your requests will be still retained for 30 "
-#~ "days, after which they will be automatically deleted."
-#~ msgstr ""
-#~ "Você pode revisar e excluir suas gravações de voz, uma por uma, por intervalo de datas ou todas de uma vez. Você também pode configurar uma exclusão automática para excluir automaticamente gravações"
-#~ " com mais de 3 ou 18 meses. Você pode optar por não salvar nenhuma gravação de voz, isso custará alguns recursos. Se você optar por não ter gravações de voz salvas, as transcrições de texto de suas "
-#~ "solicitações ainda serão mantidas por 30 dias, após os quais serão excluídas automaticamente."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

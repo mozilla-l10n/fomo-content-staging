@@ -6,41 +6,37 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 
 msgctxt "name"
-msgid "Community Pass"
+msgid "Community Tickets"
 msgstr ""
 
 msgctxt "cost"
-msgid "€55"
+msgid "Free"
 msgstr ""
 
 msgctxt "group"
-msgid "Community Pass"
+msgid "Community Tickets"
 msgstr ""
 
 msgctxt "description"
 msgid ""
-"This ticket is subsidized by Mozilla and supported by purchases of Institutional Passes ensuring community participation while reducing financial barriers. Community Passes get you full access to "
-"MozFest House Amsterdam from 11 - 13 June."
+"Join MozFest House Zambia with free access to the range of sessions, workshops, and interactive experiences available over the two days. You'll engage in meaningful conversations, collaborate with "
+"others, and ignite creativity as we work together to achieve Trustworthy AI in Africa."
 msgstr ""
 
 msgctxt "description"
-msgid "Get access to engaging sessions, workshops, and our flagship Dialogues and Debates panels."
+msgid "The Community Ticket includes:"
 msgstr ""
 
 msgctxt "description"
-msgid "Entrance to Songs of the Living Amsterdam <i>(subject to availability)</i>"
+msgid "Full access to MozFest House Zambia from November 20-21, 2024"
 msgstr ""
 
 msgctxt "description"
-msgid "Explore a variety of art installations and exhibits."
+msgid "Return local transport between Lusaka city center and the event venue"
 msgstr ""
 
 msgctxt "description"
-msgid "Attend our vibrant welcome party on 11 June."
-msgstr ""
-
-msgctxt "description"
-msgid "The ticket price includes Dutch VAT at 21%."
+msgid "Lunch and refreshments provided throughout both days"
 msgstr ""
 
 msgctxt "button_text"

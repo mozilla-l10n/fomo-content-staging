@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "name"
 msgid "Community building"
-msgstr ""
+msgstr "Budowanie społeczności"
 
 #~ msgctxt "name"
 #~ msgid "Movement Building"

@@ -491,6 +491,12 @@ msgctxt "ai_what_can_it_do"
 msgid "Ring cameras use camera-based motion detection to start recording."
 msgstr "Las cámaras de Ring comienzan a grabar cuando la cámara detecta movimiento."
 
+#~ msgctxt "manage_vulnerabilities_helptext"
+#~ msgid "Amazon has a bug bounty program, which means that anyone who finds a security issue and discloses it responsibly may get paid. https://hackerone.com/ring"
+#~ msgstr ""
+#~ "Amazon tiene un programa de cazadores de bugs, con lo que todas las personas que detecten algún problema de seguridad y se lo notifiquen de forma responsable podrían recibir un pago por ello: "
+#~ "https://hackerone.com/ring"
+
 #~ msgctxt "track_record_details"
 #~ msgid ""
 #~ "According to a Forbes article, Amazon's workers viewed video clips from one of its home CCTV services to improve its AI analytics. While Amazon said that the clips were offered voluntarily by the "
@@ -509,12 +515,6 @@ msgstr "Las cámaras de Ring comienzan a grabar cuando la cámara detecta movimi
 #~ msgstr ""
 #~ "Las cámaras Ring usan detección de movimiento en la propia cámara para empezar a grabar. Una encuestra filtrada que permitía a los probadores Beta puntuar funciones incluía «detección facial». Ring "
 #~ "no usa tecnología de reconocimiento facial a día de hoy, pero las cosas siempre pueden cambiar."
-
-#~ msgctxt "manage_vulnerabilities_helptext"
-#~ msgid "Amazon has a bug bounty program, which means that anyone who finds a security issue and discloses it responsibly may get paid. https://hackerone.com/ring"
-#~ msgstr ""
-#~ "Amazon tiene un programa de cazadores de bugs, con lo que todas las personas que detecten algún problema de seguridad y se lo notifiquen de forma responsable podrían recibir un pago por ello: "
-#~ "https://hackerone.com/ring"
 
 #~ msgctxt "privacy_policy_helptext"
 #~ msgid "Ring has a webpage dedicated to explaining it's privacy pillars and answering frequently asked questions https://ring.com/privacy"

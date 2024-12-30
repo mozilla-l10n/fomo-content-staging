@@ -8,10 +8,12 @@ msgstr ""
 
 msgctxt "text"
 msgid "Our Team is experiencing a backlog in donor inquiries. Please expect a delay from our team to respond to your inquiry."
-msgstr ""
+msgstr "Nasz zespół ma zaległości w zapytaniach o darczyńców. Możesz się spodziewać, że odpowiedź na zapytanie przesłane do naszego zespołu otrzymasz z opóźnieniem."
 
 msgctxt "text"
 msgid ""
 "If you are a current donor, you can use the self-service option to log into your donor portal. You can see receipts and make changes to your monthly gift. To access your log in page, refer to your "
 "link in a recent donation email."
 msgstr ""
+"Obecni darczyńcy mogą skorzystać z opcji samoobsługowej, aby zalogować się na portalu dla darczyńców. Można na nim przeglądać potwierdzenia datków i zmieniać comiesięczny datek. Dostęp do strony "
+"logowania można uzyskać klikając odnośnik w ostatniej wiadomości o datku."
