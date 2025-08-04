@@ -588,6 +588,10 @@ msgstr "Ring-Kameras verwenden eine kamerabasierte Bewegungserkennung, um die Au
 #~ msgid "99.99 - $349.99"
 #~ msgstr "99,99 - $349,99"
 
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Review sharing options for your data, if you have multiple people in the neighborhood"
+#~ msgstr "Überprüfen Sie die Freigabeoptionen für Ihre Daten, wenn mehrere Personen in der Nachbarschaft leben."
+
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "Amazon’s Ring security cameras and video doorbells are the <a id=\"a1\">most widely used</a> home video cameras in many parts of the world today. As one expert from US privacy org the Electronic "
@@ -638,10 +642,6 @@ msgstr "Ring-Kameras verwenden eine kamerabasierte Bewegungserkennung, um die Au
 #~ "Trackern geteilten Daten vollständige Namen, E-Mail-Adressen, Geräteinformationen, wie Betriebssystemversion und -modell, die Information, ob Bluetooth aktiviert ist und bestimmte App-Einstellungen "
 #~ "vorhanden sind, wie die Anzahl der Orte, an denen ein Benutzer Ring-Geräte installiert hat. Sogar kleine Informationsmengen ermöglichen es Tracking-Unternehmen, einen „Fingerabdruck“ zu erstellen, "
 #~ "der dem Benutzer folgt, wenn er mit anderen Apps interagiert und sein Gerät verwendet, sodass Tracker das digitale Leben eines Benutzers ausspionieren können."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Review sharing options for your data, if you have multiple people in the neighborhood"
-#~ msgstr "Überprüfen Sie die Freigabeoptionen für Ihre Daten, wenn mehrere Personen in der Nachbarschaft leben."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

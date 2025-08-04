@@ -170,6 +170,10 @@ msgstr "Data Futures Lab"
 #~ msgid "Our 2023 Cohort is convening communities to make data work for them."
 #~ msgstr "Notre cohorte 2023 réunit des communautés qui souhaitent faire en sorte que leurs données leur soient bénéfiques."
 
+#~ msgctxt "body.f414e392-6674-4e15-8d1b-a89ba0d2b74d"
+#~ msgid "Are you applying data stewardship methods in your work and would like to exchange with others?<br/> <a id=\"a1\">Join our next community call.</a>"
+#~ msgstr "Vous appliquez des méthodes de gestion des données dans votre travail et souhaitez échanger avec d’autres personnes ?<br/> <a id=\"a1\">Rejoignez notre prochaine réunion communautaire.</a>"
+
 #~ msgctxt "body.e7ddc042-5006-4296-abaa-f97563601e38.content.e5ef7fdc-6dfc-4cde-a04e-829a2ec402b2.cards.5566872d-3293-497b-a273-aa71bf6b334a.alt_text"
 #~ msgid "color coded map of the U.S. by county"
 #~ msgstr "carte des États-Unis avec un code couleur par comté"
@@ -269,10 +273,6 @@ msgstr "Data Futures Lab"
 #~ msgctxt "body.98e76066-42ee-4802-a897-d8c757010125.label"
 #~ msgid "Previous Cohorts"
 #~ msgstr "Cohortes précédentes"
-
-#~ msgctxt "body.f414e392-6674-4e15-8d1b-a89ba0d2b74d"
-#~ msgid "Are you applying data stewardship methods in your work and would like to exchange with others?<br/> <a id=\"a1\">Join our next community call.</a>"
-#~ msgstr "Vous appliquez des méthodes de gestion des données dans votre travail et souhaitez échanger avec d’autres personnes ?<br/> <a id=\"a1\">Rejoignez notre prochaine réunion communautaire.</a>"
 
 #~ msgctxt "body.e7ddc042-5006-4296-abaa-f97563601e38.aside.c396584e-a94a-4f47-89d1-7f6c92588dfe.body"
 #~ msgid "Are you developing open source tools that support a more fair and trustworthy data economy? Apply to our DFL Infrastructure Fund by August 31, 2023!"

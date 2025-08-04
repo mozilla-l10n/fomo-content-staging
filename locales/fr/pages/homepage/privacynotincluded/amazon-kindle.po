@@ -698,10 +698,6 @@ msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprend
 #~ "présenter des produits de façon ciblée. Donc, bien qu’Amazon ne vende pas vos informations personnelles directement, elle vend en revanche l’accès à vos informations à des tiers, qui vous ciblent "
 #~ "pour vous vendre plus de choses."
 
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "When starting a sign-up, do not agree to tracking of your data."
-#~ msgstr "Lorsque vous vous inscrivez, n’acceptez pas le suivi de vos données."
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "And what do they do with all that personal information they collect on you? Well, they use it to target you advertising, of course. Lots and lots of advertising. <a id=\"a1\">They do say</a> they "
@@ -760,6 +756,10 @@ msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprend
 #~ "- des informations audio ou visuelles, par exemple si un prestataire de services examine les enregistrements des appels téléphoniques du service clientèle à des fins d’assurance qualité, ou si nous faisons appel à un prestataire de services pour exécuter votre commande d’impression d’images à partir de votre compte Amazon Photos ;<br/>\n"
 #~ "- des informations éducatives, par exemple des travaux de cours que vous pouvez nous demander de partager avec l’opérateur d’une Skill Alexa éducative ; et<br/>\n"
 #~ "- des informations professionnelles, par exemple si nous fournissons les détails de votre compte à un prestataire de services pour vérification dans le cadre de l’inscription à un compte Amazon Business. »"
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "When starting a sign-up, do not agree to tracking of your data."
+#~ msgstr "Lorsque vous vous inscrivez, n’acceptez pas le suivi de vos données."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

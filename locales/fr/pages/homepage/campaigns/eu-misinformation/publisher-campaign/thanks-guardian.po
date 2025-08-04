@@ -12,7 +12,7 @@ msgstr "De la part de Mozilla, merci le Guardian"
 
 msgctxt "search_description"
 msgid "The Mozilla Foundation delivered a giant thank you card with 27,000 signatures to The Guardian for tackling misinformation."
-msgstr "La fondation Mozilla a remis une carte de remerciement géante avec 27 000 signatures au Guardian pour son action contre la désinformation."
+msgstr "La Fondation Mozilla a remis une carte de remerciement géante avec 27 000 signatures au Guardian pour son action contre la désinformation."
 
 msgctxt "body.eb764216-25b2-40ca-ab9e-3ba958f184d3"
 msgid "To The Guardian: Thank You!"

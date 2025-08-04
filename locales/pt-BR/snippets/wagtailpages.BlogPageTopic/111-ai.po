@@ -8,12 +8,12 @@ msgstr ""
 
 msgctxt "name"
 msgid "AI"
-msgstr ""
+msgstr "Inteligência artificial"
 
 msgctxt "title"
 msgid "AI Blog"
-msgstr ""
+msgstr "Blog de inteligência artificial"
 
 msgctxt "intro"
 msgid "Read stories about our current AI landscape and how we can build a better and more trustworthy one"
-msgstr ""
+msgstr "Leia histórias sobre nosso cenário atual de inteligência artificial e como podemos construir um melhor e mais confiável"

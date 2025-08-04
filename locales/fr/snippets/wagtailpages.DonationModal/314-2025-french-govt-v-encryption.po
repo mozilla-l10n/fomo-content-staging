@@ -1,0 +1,29 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-08-04 07:04:10.753069+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: a7cba68a-6b6a-4765-82f2-dec6b4b1066b\n"
+
+msgctxt "header"
+msgid "Thank you for urging French lawmakers to protect encryption."
+msgstr "Merci d’avoir exhorté les parlementaires français à protéger le chiffrement."
+
+msgctxt "body"
+msgid "If France succeeds in forcing tech companies to weaken encryption, other governments will follow. This isn’t just about France — it’s a global threat to privacy and security."
+msgstr ""
+"Si la France parvient à contraindre les entreprises de la tech à affaiblir le chiffrement, d’autres gouvernements suivront. Il ne s’agit pas uniquement de la France, c’est une menace pour la vie "
+"privée et la sécurité à l’échelle mondiale."
+
+msgctxt "body"
+msgid "Defending encryption takes all of us. Will you add a donation to Mozilla and help protect digital privacy worldwide?"
+msgstr "La défense du chiffrement nous concerne tous. Si vous le pouvez, faites un don pour contribuer à protéger la confidentialité numérique à l’échelle mondiale."
+
+msgctxt "donate_text"
+msgid "Yes, I'll chip in"
+msgstr "Oui, je fais un don"
+
+msgctxt "dismiss_text"
+msgid "No thanks"
+msgstr "Non merci"

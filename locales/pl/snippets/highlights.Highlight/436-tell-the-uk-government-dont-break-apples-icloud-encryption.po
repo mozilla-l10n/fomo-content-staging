@@ -1,0 +1,23 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-08-04 07:04:25.762013+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 9417a1c0-e66d-460b-a269-09b295fc09cd\n"
+
+msgctxt "title"
+msgid "Tell the UK Government: Don’t Break Apple's iCloud Encryption"
+msgstr "Zaapeluj do rządu Wielkiej Brytanii: Nie łamcie szyfrowania iCloud firmy Apple"
+
+msgctxt "description"
+msgid "Sign Mozilla’s petition today to tell the UK Home Office to reverse its demand to access Apple’s encrypted iCloud data."
+msgstr "Podpisz dziś petycję Mozilli, aby nakłonić brytyjskie Ministerstwo Spraw Wewnętrznych do wycofania żądania dostępu do zaszyfrowanych danych Apple iCloud."
+
+msgctxt "link_label"
+msgid "Sign the petition"
+msgstr "Podpisz petycję"
+
+msgctxt "footer"
+msgid "Sign the petition"
+msgstr "Podpisz petycję"

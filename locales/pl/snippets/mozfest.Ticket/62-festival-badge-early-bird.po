@@ -1,0 +1,41 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-08-04 07:04:24.244667+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 0527c03a-0321-4612-9c79-c2812a6aa016\n"
+
+msgctxt "name"
+msgid "Festival Badge"
+msgstr ""
+
+msgctxt "cost"
+msgid "€399"
+msgstr ""
+
+msgctxt "group"
+msgid "Festival Badge"
+msgstr "Plakietka festiwalowa"
+
+msgctxt "description"
+msgid "Your all-access pass to the full festival experience. From mainstage conversations to hands-on sessions, this badge puts you in the room where bold ideas for the digital world take shape."
+msgstr ""
+"Zyskujesz dostęp do pełnego festiwalowego doświadczenia. Od głównych rozmów po praktyczne sesje – dzięki tej plakietce znajdziesz się tam, gdzie nabierają kształtu odważne pomysły z cyfrowego "
+"świata."
+
+msgctxt "button_text"
+msgid "Buy Festival Badge"
+msgstr "Kup plakietkę festiwalową"
+
+#~ msgctxt "cost"
+#~ msgid "€319"
+#~ msgstr "319 EUR"
+
+#~ msgctxt "sticker_text"
+#~ msgid "Save 20%"
+#~ msgstr "Zaoszczędź 20%"
+
+#~ msgctxt "name"
+#~ msgid "Festival Badge - Early Bird"
+#~ msgstr "Plakietki festiwalowe – Early Bird"

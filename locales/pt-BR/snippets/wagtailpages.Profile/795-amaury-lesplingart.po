@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "tagline"
 msgid "2023 Mozilla Technology Fund awardee"
-msgstr ""
+msgstr "Vencedor do Mozilla Technology Fund 2023"
 
 msgctxt "introduction"
 msgid ""

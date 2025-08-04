@@ -877,15 +877,6 @@ msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> s
 #~ msgid "To create a Fitbit account, users are required to provide strong, complex, passwords during onboarding."
 #~ msgstr "Pour créer un compte Fitbit, les utilisateurs et utilisatrices doivent fournir des mots de passe compliqués lors de la configuration initiale."
 
-#~ msgctxt "how_does_it_use_data_collected"
-#~ msgid ""
-#~ "\"We never sell the personal information of our users. We do work with partners who provide us with advertising services as described in the Analytics and Advertising Services Provided By Others "
-#~ "section. To learn more about how these partners collect data and your options for controlling the use of your information for interest-based advertising, please read our Cookie Use statement\""
-#~ msgstr ""
-#~ "« Nous ne vendons jamais les informations personnelles de nos utilisateurs. Nous travaillons avec des partenaires qui nous fournissent des services publicitaires comme décrit dans la section "
-#~ "Services d’analyse et de publicité fournis par des tiers. Pour en savoir plus sur la façon dont ces partenaires collectent des données et vos options pour contrôler l’utilisation de vos informations"
-#~ " pour la publicité ciblée par centres d’intérêt, veuillez lire notre déclaration d’utilisation des cookies »"
-
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "It's a watch! It's a sleep tracker! It's a heart rate monitor! It's a swim/workout/meditation coach. It's a motivational, inspirational, health pal. It's almost everything but a kitchen sink. It "
@@ -969,6 +960,15 @@ msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> s
 #~ msgstr ""
 #~ "« Nous ne vendons jamais les informations personnelles de nos utilisateurs. Nous ne partageons pas vos informations personnelles sauf dans les circonstances limitées décrites ci-dessous : […] POUR "
 #~ "UN TRAITEMENT EXTERNE, […] POUR DES RAISONS JURIDIQUES OU POUR PRÉVENIR DES BLESSURES, »"
+
+#~ msgctxt "how_does_it_use_data_collected"
+#~ msgid ""
+#~ "\"We never sell the personal information of our users. We do work with partners who provide us with advertising services as described in the Analytics and Advertising Services Provided By Others "
+#~ "section. To learn more about how these partners collect data and your options for controlling the use of your information for interest-based advertising, please read our Cookie Use statement\""
+#~ msgstr ""
+#~ "« Nous ne vendons jamais les informations personnelles de nos utilisateurs. Nous travaillons avec des partenaires qui nous fournissent des services publicitaires comme décrit dans la section "
+#~ "Services d’analyse et de publicité fournis par des tiers. Pour en savoir plus sur la façon dont ces partenaires collectent des données et vos options pour contrôler l’utilisation de vos informations"
+#~ " pour la publicité ciblée par centres d’intérêt, veuillez lire notre déclaration d’utilisation des cookies »"
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""

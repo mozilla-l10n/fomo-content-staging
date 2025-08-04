@@ -796,10 +796,10 @@ msgstr "A Alexa da Amazon utiliza o processamento de linguagem natural para ente
 #~ "privadas, embora suas políticas de privacidade declarassem que não estavam solicitando informações privadas.\" Além de políticas de privacidade enganosas, os <a id=\"a4\">problemas incluíam</a> "
 #~ "coisas como os desenvolvedores poderem reivindicar identidade falsa (\"Samsung\", \"Apple\"), várias habilidades compartilhando as mesmas palavras de gatilho Alexa, etc."
 
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number, address"
-#~ msgstr "Nome, email, número de telefone, endereço"
-
 #~ msgctxt "user_friendly_privacy_policy_helptext"
 #~ msgid "Amazon has a complicated and difficult to navigate mess of privacy policies, privacy notices, privacy FAQs, and other privacy information."
 #~ msgstr "A Amazon tem uma bagunça complicada e difícil de navegar de políticas de privacidade, avisos de privacidade, perguntas frequentes sobre privacidade e outras informações de privacidade."
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number, address"
+#~ msgstr "Nome, email, número de telefone, endereço"

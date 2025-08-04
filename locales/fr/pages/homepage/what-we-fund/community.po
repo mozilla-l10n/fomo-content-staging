@@ -96,7 +96,7 @@ msgid ""
 "MozFest convenes labor activists in Nairobi; public interest technologists in Delhi; whistleblowers in Silicon Valley; climate activists in Brasília; policymakers in Belgium; and countless other "
 "change-makers. The result? Bold ideas, strategic alliances, diverse perspectives — and collective power able to change the status quo in tech."
 msgstr ""
-"Le MozFest réunit des syndicalistes à Nairobi ; des expert·e·s d'intérêt public à Dehli ; des lanceurs d’alerte dans la Silicon Valley ; des militant·e·s pour le climat à Brasilia ; des responsables"
+"Le MozFest réunit des syndicalistes à Nairobi ; des expert·e·s d’intérêt public à Dehli ; des lanceurs d’alerte dans la Silicon Valley ; des militant·e·s pour le climat à Brasilia ; des responsables"
 " politiques en Belgique ; et d’innombrables autres acteurs du changement. Le résultat ? Des idées audacieuses, des alliances stratégiques, des perspectives diverses et un pouvoir collectif capables "
 "de changer le statu quo dans la tech."
 

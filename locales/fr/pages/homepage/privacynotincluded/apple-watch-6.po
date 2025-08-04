@@ -658,6 +658,10 @@ msgstr ""
 #~ " accédez à votre compte Google et désactivez la personnalisation des annonces)"
 
 #~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Follow <a id=\"a1\">Apple's advice</a> on how to secure Health data."
+#~ msgstr "Suivez <a id=\"a1\">les conseils d’Apple</a> sur la façon de sécuriser les données de santé."
+
+#~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Restrict the amount of personal information like heart rate data that is shared by going to the Apple Watch app on your iPhone under Privacy &gt; Health"
 #~ msgstr ""
 #~ "Limitez la quantité d’informations personnelles qui sont partagées, telles que la fréquence cardiaque, en vous rendant dans l’application Apple Watch sur votre iPhone : Confidentialité > Santé"
@@ -677,10 +681,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Limitez le suivi publicitaire via votre appareil (par ex., sur iPhone, accédez à Confidentialité -> Publicité -> Limiter le suivi publicitaire) et les plus grands réseaux publicitaires (pour Google,"
 #~ " accédez à votre compte Google et désactivez la personnalisation des annonces)"
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Follow <a id=\"a1\">Apple's advice</a> on how to secure Health data."
-#~ msgstr "Suivez <a id=\"a1\">les conseils d’Apple</a> sur la façon de sécuriser les données de santé."
 
 #~ msgctxt "social_data_collected"
 #~ msgid "Contact list"

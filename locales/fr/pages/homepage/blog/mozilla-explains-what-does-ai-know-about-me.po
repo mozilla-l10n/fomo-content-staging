@@ -60,7 +60,7 @@ msgid ""
 " organization, <a id=\"a1\">Panoptykon Foundation</a>, or read on."
 msgstr ""
 "Tout est basé sur vos données – et ce que l’on appelle votre profil numérique. Vous en saurez plus en regardant la vidéo ci-dessous, dans laquelle Katarzyna Szymielewicz, avocate spécialisée dans "
-"les droits de l’homme et les droits technologiques, préside notre organisation partenaire, la Fondation Panoptykon, ou en lisant la suite."
+"les droits de l’homme et les droits technologiques, préside notre organisation partenaire, la <a id=\"a1\">Fondation Panoptykon</a>, ou en lisant la suite."
 
 msgctxt "body.226af27d-3384-46c9-9d9a-7805638269a6.url"
 msgid "https://www.youtube.com/embed/dJWGgxIKgZA"

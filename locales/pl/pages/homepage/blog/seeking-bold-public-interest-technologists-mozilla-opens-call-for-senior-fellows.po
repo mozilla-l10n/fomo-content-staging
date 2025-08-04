@@ -48,7 +48,7 @@ msgstr ""
 
 msgctxt "body.6f7d6987-46c9-4fe1-9d1d-24ba9cf00563"
 msgid "Applications will remain open until May 6, 2024, with a registration deadline of April 17. Fellows will be selected in September, and fellowships will begin in October 2024."
-msgstr ""
+msgstr "Zgłoszenia będą otwarte do 6 maja 2024 r. z terminem rejestracji do 17 kwietnia. Stypendyści zostaną wybrani we wrześniu, a stypendia rozpoczną się w październiku 2024 roku."
 
 msgctxt "body.6f7d6987-46c9-4fe1-9d1d-24ba9cf00563"
 msgid ""

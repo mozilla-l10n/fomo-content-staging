@@ -572,18 +572,6 @@ msgctxt "ai_what_can_it_do"
 msgid "Amazon Alexa uses natural language processing to understand you and to generate answers to your requests."
 msgstr "Amazon Alexa utiliza el procesamiento del lenguaje natural para entenderte y ser capaz de generar respuestas adecuadas a tus solicitudes."
 
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number, address"
-#~ msgstr "Nombre, correo electrónico, número de teléfono, dirección"
-
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Voice recordings"
-#~ msgstr "Grabaciones de voz"
-
-#~ msgctxt "social_data_collected"
-#~ msgid "Your contacts (if you choose to make calls)"
-#~ msgstr "Tus contactos (si decides hacer llamadas)"
-
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "The hockey puck has become a globe. Amazon's Alexa-powered Echo Dot smart speaker is now round and there's even a version that can show you the time. Alexa has become the most bossed around bot on "
@@ -670,6 +658,18 @@ msgstr "Amazon Alexa utiliza el procesamiento del lenguaje natural para entender
 #~ msgctxt "manage_vulnerabilities_helptext"
 #~ msgid "Amazon has a bug bounty program. Link: <a id=\"a1\">https://www.amazon.com/gp/help/customer/display.html?nodeId=201909140</a>"
 #~ msgstr "Amazon tiene un programa de cazadores bugs. Enlace: <a id=\"a1\">https://www.amazon.com/gp/help/customer/display.html?nodeId=201909140</a>"
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number, address"
+#~ msgstr "Nombre, correo electrónico, número de teléfono, dirección"
+
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Voice recordings"
+#~ msgstr "Grabaciones de voz"
+
+#~ msgctxt "social_data_collected"
+#~ msgid "Your contacts (if you choose to make calls)"
+#~ msgstr "Tus contactos (si decides hacer llamadas)"
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

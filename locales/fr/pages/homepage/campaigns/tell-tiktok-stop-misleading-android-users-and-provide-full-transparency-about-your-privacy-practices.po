@@ -38,16 +38,16 @@ msgid "Sign our petition now and tell TikTok to be transparent about their priva
 msgstr "Signez dès maintenant notre pétition et demandez à TikTok d’être totalement transparent sur ses pratiques en matière de confidentialité dans le Google Play Store."
 
 #~ msgctxt "body.dc15e56f-150b-40fc-a795-03ea55373c3b"
+#~ msgid "One big offender: TikTok."
+#~ msgstr "Parmi elles : TikTok."
+
+#~ msgctxt "body.dc15e56f-150b-40fc-a795-03ea55373c3b"
 #~ msgid ""
 #~ "Just a few days ago, the latest research from Mozilla’s *Privacy Not Included team revealed how some of the most popular <b>apps in Google’s Play Store mislead users about their privacy "
 #~ "practices</b>."
 #~ msgstr ""
 #~ "Il y a quelques jours, l’équipe de *Confidentialité non incluse de Mozilla a révélé dans sa dernière étude comment certaines des <b>applications les plus téléchargées du Google Play Store trompaient"
 #~ " les utilisateurs sur leurs pratiques en matière de confidentialité.</b>"
-
-#~ msgctxt "body.dc15e56f-150b-40fc-a795-03ea55373c3b"
-#~ msgid "One big offender: TikTok."
-#~ msgstr "Parmi elles : TikTok."
 
 #~ msgctxt "body.dc15e56f-150b-40fc-a795-03ea55373c3b"
 #~ msgid ""

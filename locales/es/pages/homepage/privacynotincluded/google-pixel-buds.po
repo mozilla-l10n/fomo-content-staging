@@ -666,10 +666,6 @@ msgstr ""
 #~ msgid "Google uses natural language processing to understand you and to generate answers to your requests."
 #~ msgstr "Google utiliza el procesamiento del lenguaje natural para entenderte y ser capaz de generar respuestas adecuadas a tus solicitudes."
 
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
-#~ msgstr "No te registres utilizando una cuenta que ya tengas con terceros. Es mejor que ingreses un correo electrónico y una buena contraseña."
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "Of course, Google uses your personal information to sell those targeted, personalized ads you see all over the place like in your Gmail, in your favorite Solitaire app, on partner websites, and on "
@@ -702,6 +698,10 @@ msgstr ""
 #~ msgid "Google says they keep video footage, audio recordings, and home environment sensor readings separate from advertising, and they won’t use this data for ad personalization."
 #~ msgstr ""
 #~ "Google dice que mantiene las grabaciones de videos y de audios, y las lecturas de sensores ambientales domésticos, separadas de la publicidad, y que no utiliza esos datos para personalizar anuncios."
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Do not sign up with third-party accounts. Better just log in with email and strong password."
+#~ msgstr "No te registres utilizando una cuenta que ya tengas con terceros. Es mejor que ingreses un correo electrónico y una buena contraseña."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

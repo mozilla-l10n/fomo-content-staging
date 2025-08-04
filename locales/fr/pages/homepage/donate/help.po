@@ -232,7 +232,7 @@ msgstr "Conditions"
 
 msgctxt "body.b8894468-ec8f-4612-87fa-46078e8abde3.accordion_items.d30d3047-0280-4067-b40a-d96cbbce80f7.content.886b03e9-2249-4804-9534-5571912f1fc7"
 msgid "The Mozilla Foundation can <b>only</b> accept checks in U.S. dollars (USD)."
-msgstr "La fondation Mozilla peut <b>uniquement</b> accepter les chèques en dollars américains (USD)."
+msgstr "La Fondation Mozilla peut <b>uniquement</b> accepter les chèques en dollars américains (USD)."
 
 msgctxt "body.b8894468-ec8f-4612-87fa-46078e8abde3.accordion_items.d30d3047-0280-4067-b40a-d96cbbce80f7.content.886b03e9-2249-4804-9534-5571912f1fc7"
 msgid "We <b>cannot</b> accept contributions for MZLA/Thunderbird. Contributions to MZLA/Thunderbird via check can be made by following <a id=\"a1\">these instructions</a>."

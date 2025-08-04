@@ -501,14 +501,6 @@ msgctxt "ai_what_can_it_do"
 msgid "Ring cameras use camera-based motion detection to start recording."
 msgstr "Les caméras Ring utilisent la détection de mouvement par caméra pour démarrer l’enregistrement."
 
-#~ msgctxt "privacy_policy_helptext"
-#~ msgid "Ring has a webpage dedicated to explaining it's privacy pillars and answering frequently asked questions https://ring.com/privacy"
-#~ msgstr "Ring dispose d’une page web qui détaille ses principes directeurs en matière de confidentialité et répond aux questions fréquemment posées. https://ring.com/privacy"
-
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Video and voice recordings"
-#~ msgstr "Enregistrements vocaux et vidéo"
-
 #~ msgctxt "title"
 #~ msgid "Ring Video Doorbell"
 #~ msgstr "Sonnette Ring Video Doorbell"
@@ -556,6 +548,14 @@ msgstr "Les caméras Ring utilisent la détection de mouvement par caméra pour 
 #~ msgstr ""
 #~ "Amazon dispose d’un programme de prime aux bogues (« bug bounty »), ce qui signifie que toute personne qui découvre une faille de sécurité et la signale de façon responsable peut être payée. "
 #~ "https://hackerone.com/ring"
+
+#~ msgctxt "privacy_policy_helptext"
+#~ msgid "Ring has a webpage dedicated to explaining it's privacy pillars and answering frequently asked questions https://ring.com/privacy"
+#~ msgstr "Ring dispose d’une page web qui détaille ses principes directeurs en matière de confidentialité et répond aux questions fréquemment posées. https://ring.com/privacy"
+
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Video and voice recordings"
+#~ msgstr "Enregistrements vocaux et vidéo"
 
 #~ msgctxt "social_data_collected"
 #~ msgid "Neighbors app network"

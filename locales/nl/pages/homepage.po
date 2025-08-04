@@ -19,12 +19,12 @@ msgid "Homepage"
 msgstr "Startpagina"
 
 msgctxt "hero_headline"
-msgid "We're reclaiming the internet, building trustworthy AI, and holding tech companies accountable"
-msgstr "We eisen het internet terug, bouwen aan betrouwbare AI en houden technologiebedrijven ter verantwoording"
+msgid "Shaping the Future: Mozilla Fellows Share 2025 Tech Visions"
+msgstr "De toekomst vormgeven: Mozilla Fellows delen technologie-visies voor 2025"
 
 msgctxt "hero_button_text"
-msgid "Join Us"
-msgstr "Meedoen"
+msgid "Read the predictions"
+msgstr "Lees de voorspellingen"
 
 msgctxt "hero_intro_heading"
 msgid "A healthy internet is one in which privacy, openness, and inclusion are the norms."
@@ -120,10 +120,6 @@ msgctxt "take_action_cards.b2c17bff-53d9-44fe-a882-7603d821585c.cta"
 msgid "Learn more"
 msgstr "Meer info"
 
-msgctxt "partner_logos.27a519d5-cbc2-4e21-af63-5e80a198ecf6.name"
-msgid "Ford Foundation logo"
-msgstr "Ford Foundation-logo"
-
 msgctxt "partner_logos.f4684c22-cf86-444c-8aa9-1106b85ebaad.name"
 msgid "Omidyar Network logo"
 msgstr "Omidyar Network-logo"
@@ -179,6 +175,10 @@ msgstr "De nieuwste"
 #~ msgctxt "take_action_cards.36e213a7-6199-4ebc-b1fc-633d6bc11965.text"
 #~ msgid "Supporting Black Artists Examining AI"
 #~ msgstr "Ondersteuning van zwarte artiesten die AI onderzoeken"
+
+#~ msgctxt "partner_logos.27a519d5-cbc2-4e21-af63-5e80a198ecf6.name"
+#~ msgid "Ford Foundation logo"
+#~ msgstr "Ford Foundation-logo"
 
 #~ msgctxt "spotlight_headline"
 #~ msgid "What To Know About Venmo"
@@ -272,6 +272,10 @@ msgstr "De nieuwste"
 #~ msgid "Trustworthy AI Working Groups"
 #~ msgstr "Werkgroepen Betrouwbare AI"
 
+#~ msgctxt "hero_button_text"
+#~ msgid "Call For Projects Now Open"
+#~ msgstr "Oproep voor projecten nu geopend"
+
 #~ msgctxt "spotlight_headline"
 #~ msgid "All About Common Voice"
 #~ msgstr "Alles over Common Voice"
@@ -283,10 +287,6 @@ msgstr "De nieuwste"
 #~ msgctxt "take_action_cards.36e213a7-6199-4ebc-b1fc-633d6bc11965.text"
 #~ msgid "Tell Slack: #BlockAbuse"
 #~ msgstr "Vertel Slack: #BlockAbuse"
-
-#~ msgctxt "hero_button_text"
-#~ msgid "Call For Projects Now Open"
-#~ msgstr "Oproep voor projecten nu geopend"
 
 #~ msgctxt "take_action_cards.86d49254-53ec-460e-a27a-60fb74df0b92.text"
 #~ msgid "Invest in our Planet – The Intersectionality of Climate &amp; Tech"
@@ -393,16 +393,16 @@ msgstr "De nieuwste"
 #~ msgstr "Lees recensies van experts over de populairste verbonden geschenken van dit seizoen."
 
 #~ msgctxt "hero_headline"
-#~ msgid "Nadya Tolokonnikova, Pussy Riot Founder keynote speaker at MozFest!"
-#~ msgstr "Nadya Tolokonnikova, oprichter van Pussy Riot, keynote spreker op MozFest!"
-
-#~ msgctxt "hero_headline"
 #~ msgid "MozFest 2023 — Virtual Experience"
 #~ msgstr "MozFest 2023 — Virtuele ervaring"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Secure Your Ticket Now"
 #~ msgstr "Stel nu uw tickets veilig"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Nadya Tolokonnikova, Pussy Riot Founder keynote speaker at MozFest!"
+#~ msgstr "Nadya Tolokonnikova, oprichter van Pussy Riot, keynote spreker op MozFest!"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Secure Your Tickets Now"
@@ -433,12 +433,12 @@ msgstr "De nieuwste"
 #~ msgstr "De algoritmische vooroordelen tegen zwarte vrouwen aan de kaak gesteld"
 
 #~ msgctxt "hero_headline"
-#~ msgid "Mental Health Apps!* (*Privacy Not Included)"
-#~ msgstr "Apps voor geestelijke gezondheid!* (*Privacy niet inbegrepen)"
-
-#~ msgctxt "hero_headline"
 #~ msgid "Empowering Gig Workers With Gigbox"
 #~ msgstr "Gig-werkers versterken met Gigbox"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Mental Health Apps!* (*Privacy Not Included)"
+#~ msgstr "Apps voor geestelijke gezondheid!* (*Privacy niet inbegrepen)"
 
 #~ msgctxt "hero_headline"
 #~ msgid "MozFest House: June 19-21"
@@ -473,16 +473,16 @@ msgstr "De nieuwste"
 #~ msgstr "Kwetsbaarheid in de Ring-deurbel? Dit is wat we hebben gevonden"
 
 #~ msgctxt "hero_headline"
+#~ msgid "Help Us Build An App To Study TikTok's Algorithm"
+#~ msgstr "Help ons een app te bouwen om het algoritme van TikTok te bestuderen"
+
+#~ msgctxt "hero_headline"
 #~ msgid "An Open Source App To Study TikTok's Algorithm"
 #~ msgstr "Een opensource-app om het algoritme van TikTok te bestuderen"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Donate Now"
 #~ msgstr "Nu doneren"
-
-#~ msgctxt "hero_headline"
-#~ msgid "Help Us Build An App To Study TikTok's Algorithm"
-#~ msgstr "Help ons een app te bouwen om het algoritme van TikTok te bestuderen"
 
 #~ msgctxt "hero_headline"
 #~ msgid "As AI Companies Scale Datasets, They Scale Hate Too"
@@ -508,25 +508,13 @@ msgstr "De nieuwste"
 #~ msgid "Sign the Petition"
 #~ msgstr "Teken de petitie"
 
-#~ msgctxt "hero_headline"
-#~ msgid "MozFest House Kenya: See The Lineup"
-#~ msgstr "MozFest House Kenia: de line-up bekijken"
-
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Year In Review"
 #~ msgstr "Lees het jaaroverzicht"
 
-#~ msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
-#~ msgid "Amazon: Fix This Security Flaw in Ring Doorbells"
-#~ msgstr "Amazon: verhelp dit beveiligingslek in Ring-deurbellen"
-
 #~ msgctxt "hero_headline"
 #~ msgid "Introducing The Mozilla Consumer Creep-O-Meter"
 #~ msgstr "Nieuw: de Mozilla Consumenten-Creep-O-Meter"
-
-#~ msgctxt "take_action_cards.a18d063b-b168-46c9-b24e-e955b8dcd16e.text"
-#~ msgid "TikTok: Stop Misleading Android Users"
-#~ msgstr "TikTok: stop Android-gebruikers te misleiden"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Cars Are A Privacy Nightmare"
@@ -539,14 +527,6 @@ msgstr "De nieuwste"
 #~ msgctxt "hero_headline"
 #~ msgid "Mozilla Joins Vice President Harris to Support Public Interest AI"
 #~ msgstr "Mozilla trekt met vice-president Harris op ter ondersteuning van AI van algemeen belang"
-
-#~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
-#~ msgid "Stop France From Forcing Browsers To Censor Websites"
-#~ msgstr "Stop Frankrijk browsers te dwingen websites te censureren"
-
-#~ msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
-#~ msgid "Car Companies: Stop Your Data Collection Programs"
-#~ msgstr "Autobedrijven: stop uw gegevensverzamelingsprogramma’s"
 
 #~ msgctxt "hero_headline"
 #~ msgid "IRL Podcast Season 7 Is Here"
@@ -563,6 +543,26 @@ msgstr "De nieuwste"
 #~ msgctxt "hero_button_text"
 #~ msgid "Sign The Petition"
 #~ msgstr "Teken de petitie"
+
+#~ msgctxt "hero_headline"
+#~ msgid "MozFest House Kenya: See The Lineup"
+#~ msgstr "MozFest House Kenia: de line-up bekijken"
+
+#~ msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
+#~ msgid "Amazon: Fix This Security Flaw in Ring Doorbells"
+#~ msgstr "Amazon: verhelp dit beveiligingslek in Ring-deurbellen"
+
+#~ msgctxt "take_action_cards.a18d063b-b168-46c9-b24e-e955b8dcd16e.text"
+#~ msgid "TikTok: Stop Misleading Android Users"
+#~ msgstr "TikTok: stop Android-gebruikers te misleiden"
+
+#~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
+#~ msgid "Stop France From Forcing Browsers To Censor Websites"
+#~ msgstr "Stop Frankrijk browsers te dwingen websites te censureren"
+
+#~ msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
+#~ msgid "Car Companies: Stop Your Data Collection Programs"
+#~ msgstr "Autobedrijven: stop uw gegevensverzamelingsprogramma’s"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Season 7 of our award winning podcast: IRL"
@@ -608,6 +608,10 @@ msgstr "De nieuwste"
 #~ msgid "See The 7 Winning Projects"
 #~ msgstr "Bekijk de 7 winnende projecten"
 
+#~ msgctxt "hero_button_text"
+#~ msgid "Read Our Research"
+#~ msgstr "Lees ons onderzoek"
+
 #~ msgctxt "hero_headline"
 #~ msgid "Last Chance: Earlybird tickets for MozFest House Amsterdam"
 #~ msgstr "Laatste kans: Earlybird-tickets voor MozFest House Amsterdam"
@@ -627,6 +631,14 @@ msgstr "De nieuwste"
 #~ msgctxt "take_action_cards.9081a0e2-ecd6-4faf-bf73-97151ff38a67.text"
 #~ msgid "Tell Microsoft &amp; Google: Only train AI models on users’ data if they opt in!"
 #~ msgstr "Vertel Microsoft &amp; Google: train alleen AI-modellen op gebruikersgegevens als deze zich hiervoor aanmelden!"
+
+#~ msgctxt "hero_headline"
+#~ msgid "WhatsApp: Update Your Product to Protect Global Elections"
+#~ msgstr "WhatsApp: werk jullie product bij om wereldwijd verkiezingen te beschermen"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Add Your Name"
+#~ msgstr "Voeg uw naam toe"
 
 #~ msgctxt "hero_headline"
 #~ msgid "WhatsApp responds to our elections questions"
@@ -665,14 +677,6 @@ msgstr "De nieuwste"
 #~ msgstr "11-13 juni 2024"
 
 #~ msgctxt "hero_headline"
-#~ msgid "WhatsApp: Update Your Product to Protect Global Elections"
-#~ msgstr "WhatsApp: werk jullie product bij om wereldwijd verkiezingen te beschermen"
-
-#~ msgctxt "hero_button_text"
-#~ msgid "Add Your Name"
-#~ msgstr "Voeg uw naam toe"
-
-#~ msgctxt "hero_headline"
 #~ msgid "Bumble may be selling your deeply personal data for profit."
 #~ msgstr "Bumble verkoopt mogelijk uw zeer persoonlijke gegevens met winstoogmerk."
 
@@ -683,10 +687,6 @@ msgstr "De nieuwste"
 #~ msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
 #~ msgid "Tell WhatsApp: Act to Protect Global Elections!"
 #~ msgstr "Vertel WhatsApp: onderneem actie om de wereldwijde verkiezingen te beschermen!"
-
-#~ msgctxt "hero_button_text"
-#~ msgid "Read Our Research"
-#~ msgstr "Lees ons onderzoek"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Angela Oduor Lungati to Headline MozFest House Zambia"
@@ -719,3 +719,11 @@ msgstr "De nieuwste"
 #~ msgctxt "hero_button_text"
 #~ msgid "Learn more &amp; see full schedule"
 #~ msgstr "Meer info &amp; volledige programma bekijken"
+
+#~ msgctxt "hero_headline"
+#~ msgid "We're reclaiming the internet, building trustworthy AI, and holding tech companies accountable"
+#~ msgstr "We eisen het internet terug, bouwen aan betrouwbare AI en houden technologiebedrijven ter verantwoording"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Join Us"
+#~ msgstr "Meedoen"

@@ -57,7 +57,7 @@ msgstr "Caso não consiga acessar este formulário, você pode nos enviar um e-m
 
 msgctxt "body.33597aa9-aaf5-4728-8912-35e3e28f8f38"
 msgid "Email: ..."
-msgstr "E-mail: ..."
+msgstr "Email: ..."
 
 msgctxt "body.33597aa9-aaf5-4728-8912-35e3e28f8f38"
 msgid "Full Names and Surname: ..."

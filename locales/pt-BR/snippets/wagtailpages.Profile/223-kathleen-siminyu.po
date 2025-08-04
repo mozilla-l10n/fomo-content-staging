@@ -8,10 +8,12 @@ msgstr ""
 
 msgctxt "tagline"
 msgid "2021 Mozilla Kiswahili Machine Learning Fellow"
-msgstr ""
+msgstr "Bolsista de Aprendizado de Máquina Kiswahili da Mozilla 2021"
 
 msgctxt "introduction"
 msgid ""
 "Kathleen is an AI Researcher who has focused on Natural Language Processing for African Languages. As a Fellow, she supported the development of a Kiswahili Common Voice dataset and speech "
 "recognition models in the agricultural and financial domains."
 msgstr ""
+"Kathleen é uma pesquisadora de inteligência artificial que tem se concentrado no processamento de linguagem natural para idiomas africanos. Como bolsista, ela apoiou o desenvolvimento de um conjunto"
+" de dados do Common Voice em Kiswahili e modelos de reconhecimento de voz nos domínios agrícola e financeiro."

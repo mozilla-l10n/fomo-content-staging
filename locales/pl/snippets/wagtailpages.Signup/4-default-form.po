@@ -12,11 +12,11 @@ msgstr "Default Form"
 
 msgctxt "header"
 msgid "Join our movement to reclaim the internet"
-msgstr ""
+msgstr "Dołącz do naszego ruchu na rzecz odzyskania Internetu"
 
 msgctxt "description"
 msgid "Sign up for Mozilla's newsletter to get updates and take action for the internet."
-msgstr ""
+msgstr "Subskrybuj biuletyn Mozilli, aby otrzymywać aktualności i podejmować działania na rzecz Internetu."
 
 #~ msgctxt "description"
 #~ msgid "Join our <b>Mozilla News</b> email list to get action alerts &amp; internet tips right to your inbox."

@@ -19,12 +19,12 @@ msgid "Homepage"
 msgstr "Página inicial"
 
 msgctxt "hero_headline"
-msgid "We're reclaiming the internet, building trustworthy AI, and holding tech companies accountable"
-msgstr "Estamos retomando a internet, construindo uma IA confiável e responsabilizando as empresas de tecnologia"
+msgid "Shaping the Future: Mozilla Fellows Share 2025 Tech Visions"
+msgstr "Moldando o futuro: Mozilla Fellows compartilham perspectivas tecnológicas em 2025"
 
 msgctxt "hero_button_text"
-msgid "Join Us"
-msgstr "Junte-se a nós"
+msgid "Read the predictions"
+msgstr "Leia as previsões"
 
 msgctxt "hero_intro_heading"
 msgid "A healthy internet is one in which privacy, openness, and inclusion are the norms."
@@ -39,15 +39,15 @@ msgstr ""
 
 msgctxt "hero_intro_link.23e90ac4-ef42-4580-9e95-405571c3ac4d.label"
 msgid "More about us"
-msgstr ""
+msgstr "Saiba mais sobre nós"
 
 msgctxt "ideas_title"
 msgid "What We're Building"
-msgstr ""
+msgstr "O que estamos realizando"
 
 msgctxt "ideas_headline"
 msgid "Championing ‘Public AI’"
-msgstr ""
+msgstr "Em defesa de uma ‘inteligência artificial pública’"
 
 msgctxt "cause_statement"
 msgid "The Mozilla Foundation works to ensure the internet remains a public resource that is open and accessible to us all."
@@ -72,7 +72,7 @@ msgstr "Ford Foundation"
 
 msgctxt "partner_heading"
 msgid "Funder or civil society organization? Partner with us."
-msgstr ""
+msgstr "Financiador ou organização da sociedade civil? Seja nosso parceiro."
 
 msgctxt "partner_intro_text"
 msgid "Help fund, shape, and expand Mozilla work toward a healthy internet and trustworthy AI."
@@ -118,10 +118,6 @@ msgctxt "take_action_cards.b2c17bff-53d9-44fe-a882-7603d821585c.cta"
 msgid "Learn more"
 msgstr "Saiba mais"
 
-msgctxt "partner_logos.27a519d5-cbc2-4e21-af63-5e80a198ecf6.name"
-msgid "Ford Foundation logo"
-msgstr "Logotipo da Fundação Ford"
-
 msgctxt "partner_logos.f4684c22-cf86-444c-8aa9-1106b85ebaad.name"
 msgid "Omidyar Network logo"
 msgstr "Logotipo da Omidyar Network"
@@ -136,7 +132,7 @@ msgstr "Logotipo da Consumers International"
 
 msgctxt "ideas_posts.edd097f8-7d7f-45b2-b7c8-bc594288f5d8.cta"
 msgid "Common Voice 19.0 Dataset Release"
-msgstr ""
+msgstr "Publicação do conjunto de dados Common Voice 19.0"
 
 msgctxt "ideas_posts.5d8ee629-1355-48db-b54c-f85951512e7d.cta"
 msgid "2024 Mozilla Technology Fund Cohort"
@@ -144,7 +140,7 @@ msgstr ""
 
 msgctxt "ideas_posts.229b0fa6-2d60-4744-be0f-8ef91c68931f.cta"
 msgid "Read more"
-msgstr ""
+msgstr "Saiba mais"
 
 msgctxt "highlights_title"
 msgid "The Latest"
@@ -181,6 +177,10 @@ msgstr "Mais recentes"
 #~ msgctxt "take_action_cards.1e303e2d-ade9-48e9-9f84-00a6e018e345.text"
 #~ msgid "Open letter to Venmo: Make Privacy the Default"
 #~ msgstr "Carta aberta ao Venmo: Torne a privacidade o padrão"
+
+#~ msgctxt "partner_logos.27a519d5-cbc2-4e21-af63-5e80a198ecf6.name"
+#~ msgid "Ford Foundation logo"
+#~ msgstr "Logotipo da Fundação Ford"
 
 #~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
 #~ msgid "Become an Advisor for the Cities’ Digital Rights Helpdesk!"
@@ -278,14 +278,6 @@ msgstr "Mais recentes"
 #~ msgid "Invest in our Planet – The Intersectionality of Climate &amp; Tech"
 #~ msgstr "Invista no nosso planeta – A Interseccionalidade de Clima e Tecnologia"
 
-#~ msgctxt "hero_button_text"
-#~ msgid "Learn More"
-#~ msgstr "Saiba mais"
-
-#~ msgctxt "hero_headline"
-#~ msgid "The Lessons We Carry from MozFest 2022"
-#~ msgstr "As lições que levamos do MozFest 2022"
-
 #~ msgctxt "hero_headline"
 #~ msgid "The Return of IRL Podcast"
 #~ msgstr "O retorno do podcast IRL"
@@ -293,6 +285,14 @@ msgstr "Mais recentes"
 #~ msgctxt "hero_button_text"
 #~ msgid "Learn More Here"
 #~ msgstr "Saiba mais"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Learn More"
+#~ msgstr "Saiba mais"
+
+#~ msgctxt "hero_headline"
+#~ msgid "The Lessons We Carry from MozFest 2022"
+#~ msgstr "As lições que levamos do MozFest 2022"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Mozilla Festival 2023 Dates Announced!"
@@ -330,10 +330,6 @@ msgstr "Mais recentes"
 #~ msgid "Read The Research"
 #~ msgstr "Leia a pesquisa"
 
-#~ msgctxt "hero_headline"
-#~ msgid "Google Play Store Labels Are Misleading"
-#~ msgstr "Os indicadores do Google Play são enganosos"
-
 #~ msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
 #~ msgid "Tell YouTube: Give users real control over their video recommendations!"
 #~ msgstr "Diga ao YouTube: Dê aos usuários controle real sobre suas recomendações de vídeo!"
@@ -341,6 +337,10 @@ msgstr "Mais recentes"
 #~ msgctxt "take_action_cards.a18d063b-b168-46c9-b24e-e955b8dcd16e.text"
 #~ msgid "Let’s open the door for social media researchers."
 #~ msgstr "Vamos abrir a porta para pesquisadores de mídias sociais."
+
+#~ msgctxt "hero_headline"
+#~ msgid "Google Play Store Labels Are Misleading"
+#~ msgstr "Os indicadores do Google Play são enganosos"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Activism, Whistleblowers &amp; the Collective Power of People"
@@ -411,20 +411,20 @@ msgstr "Mais recentes"
 #~ msgstr "Saiba mais sobre nossa estreia em Nairóbi"
 
 #~ msgctxt "hero_headline"
-#~ msgid "Amazon Still Hasn't Improved Ring's Security"
-#~ msgstr "A Amazon ainda não melhorou a segurança do Ring"
-
-#~ msgctxt "hero_button_text"
-#~ msgid "Here's What You Can Do"
-#~ msgstr "Veja o que você pode fazer"
-
-#~ msgctxt "hero_headline"
 #~ msgid "Help Prevent France Website Censorship Bill"
 #~ msgstr "Ajude a impedir o projeto de lei de censura de sites na França"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Sign the Petition"
 #~ msgstr "Assine a petição"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Amazon Still Hasn't Improved Ring's Security"
+#~ msgstr "A Amazon ainda não melhorou a segurança do Ring"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Here's What You Can Do"
+#~ msgstr "Veja o que você pode fazer"
 
 #~ msgctxt "spotlight_headline"
 #~ msgid "Spotlight: The Data Futures Lab"
@@ -507,20 +507,20 @@ msgstr "Mais recentes"
 #~ msgstr "Junte-se ao nosso movimento global pelos direitos de privacidade."
 
 #~ msgctxt "hero_headline"
-#~ msgid "Last Chance: Earlybird tickets for MozFest House Amsterdam"
-#~ msgstr "Última chance: Compra antecipada de entradas para o MozFest House Amsterdam"
-
-#~ msgctxt "hero_button_text"
-#~ msgid "Sales end 22nd May"
-#~ msgstr "As vendas terminam em 22 de maio"
-
-#~ msgctxt "hero_headline"
 #~ msgid "WhatsApp responds to our elections questions"
 #~ msgstr "O WhatsApp responde às nossas perguntas sobre eleições"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "WhatsApps’ 2024 election strategy →"
 #~ msgstr "Estratégia do WhatsApp para as eleições de 2024 →"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Last Chance: Earlybird tickets for MozFest House Amsterdam"
+#~ msgstr "Última chance: Compra antecipada de entradas para o MozFest House Amsterdam"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Sales end 22nd May"
+#~ msgstr "As vendas terminam em 22 de maio"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Tech Giants Not Ready for Historic Election Year"
@@ -553,3 +553,11 @@ msgstr "Mais recentes"
 #~ msgctxt "hero_button_text"
 #~ msgid "Add Your Name"
 #~ msgstr "Adicione seu nome"
+
+#~ msgctxt "hero_headline"
+#~ msgid "We're reclaiming the internet, building trustworthy AI, and holding tech companies accountable"
+#~ msgstr "Estamos retomando a internet, construindo uma IA confiável e responsabilizando as empresas de tecnologia"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Join Us"
+#~ msgstr "Junte-se a nós"

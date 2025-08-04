@@ -352,13 +352,6 @@ msgstr "Les caméras Ring utilisent la détection de mouvement par caméra pour 
 
 #~ msgctxt "worst_case"
 #~ msgid ""
-#~ "All in all, these security cameras still raise too many questions about transparency, data protection, public safety and racism in our opinion and we feel could come with *privacy not included."
-#~ msgstr ""
-#~ "Dans l’ensemble, ces caméras de sécurité soulèvent encore trop de questions sur la transparence, la protection des données, la sécurité publique et le racisme, à notre avis ; et nous pensons "
-#~ "qu’elles pourraient être affublées de la mention *confidentialité non incluse."
-
-#~ msgctxt "worst_case"
-#~ msgid ""
 #~ "Amazon’s Ring security cameras and video doorbells are the <a id=\"a1\">most widely used</a> home video cameras in many parts of the world today. As one expert from US privacy org the Electronic "
 #~ "Frontier Foundation <a id=\"a2\">put it,</a> \"Ring has steadily been becoming one of the largest surveillance apparatuses in the nation.” And as wise comic book prophet Stan Lee reminds us, “With "
 #~ "great power comes great responsibility.” Has Amazon Ring lived up to that great responsibility? Not exactly."
@@ -388,6 +381,13 @@ msgstr "Les caméras Ring utilisent la détection de mouvement par caméra pour 
 #~ " de surveillance à domicile). Une affaire judiciaire récente au Royaume-Uni a fait ressurgir la question, lorsqu’une femme a poursuivi son voisin en justice pour atteinte à sa vie privée car les "
 #~ "caméras de sécurité Ring de ce dernier ont été retrouvées pointées vers son domicile. Non seulement ses caméras pouvaient la voir, mais elles pouvaient aussi l’écouter. <a id=\"a2\">Elle a gagné son"
 #~ " procès</a> et 122 000 €."
+
+#~ msgctxt "worst_case"
+#~ msgid ""
+#~ "All in all, these security cameras still raise too many questions about transparency, data protection, public safety and racism in our opinion and we feel could come with *privacy not included."
+#~ msgstr ""
+#~ "Dans l’ensemble, ces caméras de sécurité soulèvent encore trop de questions sur la transparence, la protection des données, la sécurité publique et le racisme, à notre avis ; et nous pensons "
+#~ "qu’elles pourraient être affublées de la mention *confidentialité non incluse."
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""

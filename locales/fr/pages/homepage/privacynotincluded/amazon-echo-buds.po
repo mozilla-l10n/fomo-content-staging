@@ -576,6 +576,14 @@ msgctxt "ai_what_can_it_do"
 msgid "Amazon Alexa uses natural language processing to understand you and to generate answers to your requests."
 msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprendre et générer des réponses à vos demandes."
 
+#~ msgctxt "how_does_it_use_data_collected"
+#~ msgid ""
+#~ "Amazon says they <a id=\"a1\">do not sell your personal information</a>. They combine <a id=\"a2\">your voice data</a> with third-party data to answer your requests as well as to train Alexa's "
+#~ "speech recognition. You can choose to not save any voice recordings, but it will cost you some features."
+#~ msgstr ""
+#~ "Amazon dit <a id=\"a1\">ne pas vendre vos informations personnelles</a>. L’entreprise combine <a id=\"a2\">vos données vocales</a> avec des données tierces pour répondre à vos demandes ainsi que "
+#~ "pour entraîner la reconnaissance vocale d’Alexa. Vous pouvez choisir de ne pas conserver les enregistrements vocaux, mais cela entraînera la désactivation de certaines fonctionnalités."
+
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "Amazon proudly states they are not in the business of selling your personal information to others, which is good. However, a good question to ask is, why would Amazon need to sell your data when "
@@ -613,14 +621,6 @@ msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprend
 #~ "cette heu… compétence. Et avec <a id=\"a2\">énormément de Skills</a>, les <a id=\"a3\">politiques de confidentialité des tiers sont trompeuses</a>, incomplètes ou tout simplement inexistantes, selon"
 #~ " une étude récente. Lorsque vos données sont traitées par une Skill Alexa, la suppression de vos enregistrements vocaux ne supprime pas les données que le développeur de cette Skill collecte sur "
 #~ "vous. Avec <a id=\"a4\">plus de 100 000 Skills Alexa</a>, dont beaucoup sont développées par des tiers, vos données se retrouvent un peu partout sans que vous en ayez forcément conscience."
-
-#~ msgctxt "how_does_it_use_data_collected"
-#~ msgid ""
-#~ "Amazon says they <a id=\"a1\">do not sell your personal information</a>. They combine <a id=\"a2\">your voice data</a> with third-party data to answer your requests as well as to train Alexa's "
-#~ "speech recognition. You can choose to not save any voice recordings, but it will cost you some features."
-#~ msgstr ""
-#~ "Amazon dit <a id=\"a1\">ne pas vendre vos informations personnelles</a>. L’entreprise combine <a id=\"a2\">vos données vocales</a> avec des données tierces pour répondre à vos demandes ainsi que "
-#~ "pour entraîner la reconnaissance vocale d’Alexa. Vous pouvez choisir de ne pas conserver les enregistrements vocaux, mais cela entraînera la désactivation de certaines fonctionnalités."
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
@@ -855,6 +855,10 @@ msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprend
 #~ "pouvez utiliser les Services Amazon qu’avec la participation d’un adulte ou d’un tuteur. Pour des informations supplémentaires relatives à comment nous traitons les informations personnelles dans le"
 #~ " cadre des Services Amazon destinés aux enfants de moins de 13 ans, veuillez lire notre <a id=\"a1\">Notice Protection des Informations Personnelles des Enfants</a>. »"
 
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "When starting a sign-up, do not agree to tracking of your data."
+#~ msgstr "Lorsque vous vous inscrivez, n’acceptez pas le suivi de vos données."
+
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "Amazon's Echo Buds tout their connection to all things Alexa, of course. So if you want to enjoy all the features of these headphones, you'll have to connect them through the Alexa app. You also get"
@@ -916,10 +920,6 @@ msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprend
 #~ msgstr ""
 #~ "Amazon dispose de tout un fouillis de politiques de confidentialité, d’avis de confidentialité, de FAQ sur la confidentialité et d’autres informations de confidentialité au sein duquel il est "
 #~ "difficile de s’y retrouver."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "When starting a sign-up, do not agree to tracking of your data."
-#~ msgstr "Lorsque vous vous inscrivez, n’acceptez pas le suivi de vos données."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

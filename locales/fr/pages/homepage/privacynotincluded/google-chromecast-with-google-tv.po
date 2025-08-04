@@ -1003,10 +1003,6 @@ msgstr ""
 #~ "Pour supprimer l’historique de recherches et les enregistrements vocaux de Google Home, consultez la section « Suppression des données » dans « Sécurité et confidentialité des données » sur les "
 #~ "appareils fonctionnant avec l’Assistant."
 
-#~ msgctxt "child_safety_blurb"
-#~ msgid "You can check <a id=\"a1\">Google Family Link</a> privacy guide for teens &amp; children for details for different countries and age groups."
-#~ msgstr "Vous pouvez consulter le guide <a id=\"a1\">Google Family Link</a> sur la confidentialité pour les adolescents et les enfants, pour plus de détails sur les différents pays et groupes d’âges."
-
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""
 #~ "Google sets various data retention timeframes for different data types: \"In some cases, rather than provide a way to delete data, we store it for a predetermined period of time. For each type of "
@@ -1019,6 +1015,10 @@ msgstr ""
 #~ "assurer que nos services s’affichent correctement sur de nombreux types d’appareils différents, nous pouvons conserver les informations relatives à la hauteur et la largeur du navigateur jusqu’à "
 #~ "neuf mois. D’autres informations sont rendues anonymes par Google selon un calendrier déterminé. Ainsi, nous supprimons une partie de l’adresse IP au bout de neuf mois et les informations fournies "
 #~ "par les cookies au bout de dix-huit mois afin de rendre anonymes les données publicitaires contenues dans les journaux de nos serveurs. »"
+
+#~ msgctxt "child_safety_blurb"
+#~ msgid "You can check <a id=\"a1\">Google Family Link</a> privacy guide for teens &amp; children for details for different countries and age groups."
+#~ msgstr "Vous pouvez consulter le guide <a id=\"a1\">Google Family Link</a> sur la confidentialité pour les adolescents et les enfants, pour plus de détails sur les différents pays et groupes d’âges."
 
 #~ msgctxt "child_safety_blurb"
 #~ msgid ""

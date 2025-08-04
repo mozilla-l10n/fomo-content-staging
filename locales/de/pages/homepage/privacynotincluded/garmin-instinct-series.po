@@ -326,12 +326,12 @@ msgstr ""
 " haben.“"
 
 #~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Don't connect your Garmin app to any social networks like Facebook."
-#~ msgstr "Verbinden Sie Ihre Garmin-App nicht mit sozialen Netzwerken wie Facebook."
-
-#~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Be very careful who you chose to share your Garmin wellness data with."
 #~ msgstr "Seien Sie sehr vorsichtig, mit wem Sie Ihre Garmin-Wellnessdaten teilen möchten."
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Don't connect your Garmin app to any social networks like Facebook."
+#~ msgstr "Verbinden Sie Ihre Garmin-App nicht mit sozialen Netzwerken wie Facebook."
 
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images and videos)."
@@ -379,14 +379,6 @@ msgstr ""
 #~ "ist. Benutzer können ihre Daten jederzeit aus den begleitenden Apps und Diensten löschen."
 
 #~ msgctxt "how_can_you_control_your_data"
-#~ msgid ""
-#~ "If you do not reside in the EEA, U.K., Switzerland, or mainland China but you believe you have a right to exercise the right to erasure of your data or any other rights under your local laws, please"
-#~ " contact Garmin International, Inc. by email at privacy@garmin.com."
-#~ msgstr ""
-#~ "Wenn Sie nicht im EWR, im Vereinigten Königreich, in der Schweiz oder auf dem chinesischen Festland ansässig sind, aber glauben, dass Sie das Recht auf Löschung Ihrer Daten oder andere Rechte nach "
-#~ "Ihren lokalen Gesetzen ausüben können, wenden Sie sich bitte per E-Mail an Garmin International, Inc. unter privacy@garmin.com"
-
-#~ msgctxt "how_can_you_control_your_data"
 #~ msgid "Garmin will retain your personal data as long as your Garmin account is considered to be active or in accordance with applicable law and regulatory obligations."
 #~ msgstr "Garmin bewahrt Ihre personenbezogenen Daten so lange auf, wie Ihr Garmin-Konto als aktiv betrachtet wird, oder in Übereinstimmung mit geltendem Recht und regulatorischen Verpflichtungen."
 
@@ -397,6 +389,14 @@ msgstr ""
 #~ msgstr ""
 #~ "Wenn Sie Ihren Wohnsitz im EWR, im Vereinigten Königreich oder in der Schweiz haben, haben Sie das Recht, vorbehaltlich der in der Allgemeinen Datenschutzverordnung („DSGVO“) oder in anderen "
 #~ "geltenden Gesetzen festgelegten Bedingungen, von Garmin Zugang zu Ihren personenbezogenen Daten und deren Berichtigung oder Löschung zu verlangen."
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid ""
+#~ "If you do not reside in the EEA, U.K., Switzerland, or mainland China but you believe you have a right to exercise the right to erasure of your data or any other rights under your local laws, please"
+#~ " contact Garmin International, Inc. by email at privacy@garmin.com."
+#~ msgstr ""
+#~ "Wenn Sie nicht im EWR, im Vereinigten Königreich, in der Schweiz oder auf dem chinesischen Festland ansässig sind, aber glauben, dass Sie das Recht auf Löschung Ihrer Daten oder andere Rechte nach "
+#~ "Ihren lokalen Gesetzen ausüben können, wenden Sie sich bitte per E-Mail an Garmin International, Inc. unter privacy@garmin.com"
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid "It is unclear if all users regardless of location can get their data be deleted."

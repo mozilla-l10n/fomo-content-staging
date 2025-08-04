@@ -984,16 +984,6 @@ msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> s
 #~ "de mesurer les performances de ces publicités. Ces sociétés peuvent utiliser des cookies et des technologies similaires pour recueillir des informations sur vos interactions avec les services et "
 #~ "d’autres sites web et applications. Pour en savoir plus et sur vos choix en matière de confidentialité, veuillez lire notre déclaration sur l’utilisation des cookies. »"
 
-#~ msgctxt "blurb"
-#~ msgid ""
-#~ "Fitbit calls this a \"fashion forward\" fitness and wellness wristband that will help boost your mind, body, and health. That's a lot of responsibilities to put on one little gadget. If you want a "
-#~ "fitness tracker that tracks all the things fitness trackers track -- steps, heart rate, stress, sleep, and more -- but doesn't look like a gaudy gadget on your wrist, here you go. Accessorize away "
-#~ "with a variety fancy bracelet like straps. As they say, look good, feel good."
-#~ msgstr ""
-#~ "Fitbit appelle ça un « bracelet de fitness et de bien-être avant-gardiste » qui vous aidera à stimuler votre esprit, votre corps et votre santé. C’est beaucoup de responsabilités pour un si petit "
-#~ "gadget. Si vous cherchez un traqueur d’activité qui fait tout ce que les traqueurs d’activité font (nombre de pas, fréquence cardiaque, stress, sommeil, et bien plus) mais qui ne ressemble pas à un "
-#~ "gadget bling-bling sur votre poignet, c’est parti ! Personnalisez le vôtre avec un large choix de bracelets et de matières. Comme on dit : Belle⋅au et bien dans sa peau."
-
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
 #~ "\"We never sell the personal information of our users. We do work with partners who provide us with advertising services as described in the Analytics and Advertising Services Provided By Others "
@@ -1003,9 +993,15 @@ msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> s
 #~ "Services d’analyse et de publicité fournis par des tiers. Pour en savoir plus sur la façon dont ces partenaires collectent des données et vos options pour contrôler l’utilisation de vos informations"
 #~ " pour la publicité ciblée par centres d’intérêt, veuillez lire notre déclaration d’utilisation des cookies »"
 
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid "Everyone can get their data deleted by deleting their account and waiting for 90 days,"
-#~ msgstr "N’importe qui peut faire supprimer ses données en supprimant son compte et en attendant 90 jours."
+#~ msgctxt "blurb"
+#~ msgid ""
+#~ "Fitbit calls this a \"fashion forward\" fitness and wellness wristband that will help boost your mind, body, and health. That's a lot of responsibilities to put on one little gadget. If you want a "
+#~ "fitness tracker that tracks all the things fitness trackers track -- steps, heart rate, stress, sleep, and more -- but doesn't look like a gaudy gadget on your wrist, here you go. Accessorize away "
+#~ "with a variety fancy bracelet like straps. As they say, look good, feel good."
+#~ msgstr ""
+#~ "Fitbit appelle ça un « bracelet de fitness et de bien-être avant-gardiste » qui vous aidera à stimuler votre esprit, votre corps et votre santé. C’est beaucoup de responsabilités pour un si petit "
+#~ "gadget. Si vous cherchez un traqueur d’activité qui fait tout ce que les traqueurs d’activité font (nombre de pas, fréquence cardiaque, stress, sommeil, et bien plus) mais qui ne ressemble pas à un "
+#~ "gadget bling-bling sur votre poignet, c’est parti ! Personnalisez le vôtre avec un large choix de bracelets et de matières. Comme on dit : Belle⋅au et bien dans sa peau."
 
 #~ msgctxt "worst_case"
 #~ msgid ""
@@ -1094,6 +1090,10 @@ msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> s
 #~ msgctxt "user_friendly_privacy_policy_helptext"
 #~ msgid "Despite being acquired by Google, Fitbit keeps its own privacy policy, written in relatively simple language."
 #~ msgstr "Bien que Fitbit ait été racheté par Google, Fitbit conserve sa propre politique de confidentialité, rédigée avec des termes relativement simples."
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "Everyone can get their data deleted by deleting their account and waiting for 90 days,"
+#~ msgstr "N’importe qui peut faire supprimer ses données en supprimant son compte et en attendant 90 jours."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

@@ -387,10 +387,6 @@ msgid "All 25 car brands we researched earned our *Privacy Not Included warning 
 msgstr "Allen 25 Automarken in unserem Test haben wir den *Datenschutz nicht inbegriffen-Warnhinweis verliehen. Damit sind Autos die übelste Produktkategorie, die wir je geprüft haben"
 
 #~ msgctxt "body.4af035ca-ca1d-420e-85cd-60785dd61d5f"
-#~ msgid "<b>Update:</b><i> *We're hosting a Reddit AMA on Sept. 21!*</i>"
-#~ msgstr "<b>Update:</b><i> *Wir veranstalten am 21. September einen Reddit AMA!*</i>"
-
-#~ msgctxt "body.4af035ca-ca1d-420e-85cd-60785dd61d5f"
 #~ msgid ""
 #~ "Car makers have been bragging about their cars being “computers on wheels\" for <a id=\"a1\">years</a> to promote their advanced features. However, the conversation about what driving a computer "
 #~ "means for its occupants' privacy hasn’t really caught up. While we worried that our doorbells and watches that connect to the internet might be spying on us, car brands quietly entered the data "
@@ -402,6 +398,10 @@ msgstr "Allen 25 Automarken in unserem Test haben wir den *Datenschutz nicht inb
 #~ "Smartwatches uns ausspionieren könnten, ist die Automobilindustrie still, leise und im großen Stil ins Datengeschäft eingestiegen. Wie? Indem sie ihre Fahrzeuge zu datenhungrigen "
 #~ "Überwachungsapparaten gemacht hat, die dank modernstem Chichi und Schnickschnack nie da gewesene Möglichkeiten haben, Sie zu beobachten, Ihnen zuzuhören und Informationen darüber zu sammeln, was Sie"
 #~ " in Ihrem Auto tun und wohin Sie unterwegs sind."
+
+#~ msgctxt "body.4af035ca-ca1d-420e-85cd-60785dd61d5f"
+#~ msgid "<b>Update:</b><i> *We're hosting a Reddit AMA on Sept. 21!*</i>"
+#~ msgstr "<b>Update:</b><i> *Wir veranstalten am 21. September einen Reddit AMA!*</i>"
 
 #~ msgctxt "body.a4740aa5-6cdc-40a4-8ffa-bac6a291c22d"
 #~ msgid ""

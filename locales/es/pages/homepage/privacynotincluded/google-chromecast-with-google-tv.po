@@ -856,10 +856,6 @@ msgstr ""
 #~ "Utiliza los controles de privacidad de tu dispositivo para limitar el acceso a tu información personal a través de la aplicación (no otorgues acceso a tu cámara, micrófono, imágenes y vídeos a menos"
 #~ " que sea estrictamente necesario)."
 
-#~ msgctxt "child_safety_blurb"
-#~ msgid "You can check <a id=\"a1\">Google Family Link</a> privacy guide for teens &amp; children for details for different countries and age groups."
-#~ msgstr "Puedes leer la guía de privacidad para adolescentes y niños en <a id=\"a1\">Google Family Link</a> para conocer más detalles sobre los distintos países y grupos de edad."
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "We do like that people who use Google’s AI voice assistant are now automatically opted out of Google's human review of voice recordings, because that was super creepy. We also like that Google does "
@@ -892,6 +888,10 @@ msgstr ""
 #~ msgstr ""
 #~ "Google proporciona varios controles de la privacidad, accesibles mediante las herramientas de Privacidad de Google. Hay varias maneras claramente definidas de eliminar datos personales, inclusive "
 #~ "los datos de la app de Nest o la cuenta completa de Google. Se puede configurar un temporizador automático para 3 o 18 meses. Los detalles de retención también se enumeran en la Política."
+
+#~ msgctxt "child_safety_blurb"
+#~ msgid "You can check <a id=\"a1\">Google Family Link</a> privacy guide for teens &amp; children for details for different countries and age groups."
+#~ msgstr "Puedes leer la guía de privacidad para adolescentes y niños en <a id=\"a1\">Google Family Link</a> para conocer más detalles sobre los distintos países y grupos de edad."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

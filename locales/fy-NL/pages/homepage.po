@@ -19,12 +19,12 @@ msgid "Homepage"
 msgstr "Startside"
 
 msgctxt "hero_headline"
-msgid "We're reclaiming the internet, building trustworthy AI, and holding tech companies accountable"
-msgstr "Wy easkje it ynternet werom, bouwe oan betroubere AI en hâlde technologybedriuwen ta ferantwurding"
+msgid "Shaping the Future: Mozilla Fellows Share 2025 Tech Visions"
+msgstr "De takomst foarmjaan: Mozilla Fellows diele technology-fyzjes foar 2025"
 
 msgctxt "hero_button_text"
-msgid "Join Us"
-msgstr "Meidwaan"
+msgid "Read the predictions"
+msgstr "Lês de foarsizzingen"
 
 msgctxt "hero_intro_heading"
 msgid "A healthy internet is one in which privacy, openness, and inclusion are the norms."
@@ -118,10 +118,6 @@ msgctxt "take_action_cards.b2c17bff-53d9-44fe-a882-7603d821585c.cta"
 msgid "Learn more"
 msgstr "Mear ynfo"
 
-msgctxt "partner_logos.27a519d5-cbc2-4e21-af63-5e80a198ecf6.name"
-msgid "Ford Foundation logo"
-msgstr "Ford Foundation-logo"
-
 msgctxt "partner_logos.f4684c22-cf86-444c-8aa9-1106b85ebaad.name"
 msgid "Omidyar Network logo"
 msgstr "Omidyar Network-logo"
@@ -185,6 +181,10 @@ msgstr "De nijste"
 #~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
 #~ msgid "Become an Advisor for the Cities’ Digital Rights Helpdesk!"
 #~ msgstr "Wurd adviseur foar de Digital Rights Helpdesk fan de stêden!"
+
+#~ msgctxt "partner_logos.27a519d5-cbc2-4e21-af63-5e80a198ecf6.name"
+#~ msgid "Ford Foundation logo"
+#~ msgstr "Ford Foundation-logo"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Inside the Shadowy World of Disinformation-for-hire in Kenya"
@@ -262,10 +262,6 @@ msgstr "De nijste"
 #~ msgid "Read More"
 #~ msgstr "Mear ynfo"
 
-#~ msgctxt "spotlight_headline"
-#~ msgid "All About Common Voice"
-#~ msgstr "Alles oer Common Voice"
-
 #~ msgctxt "hero_headline"
 #~ msgid "*privacy not included — Mental Health Apps Edition"
 #~ msgstr "*privacy net ynbegrepen – Geastlike sûnensapps-edysje"
@@ -273,6 +269,10 @@ msgstr "De nijste"
 #~ msgctxt "hero_button_text"
 #~ msgid "Read The Guide"
 #~ msgstr "De Gids lêze"
+
+#~ msgctxt "spotlight_headline"
+#~ msgid "All About Common Voice"
+#~ msgstr "Alles oer Common Voice"
 
 #~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
 #~ msgid "Tell Tinder: It’s time for meaningful transparency into your pricing algorithms!"
@@ -295,16 +295,16 @@ msgstr "De nijste"
 #~ msgstr "Oprop foar projekten no iepen"
 
 #~ msgctxt "hero_headline"
+#~ msgid "The Return of IRL Podcast"
+#~ msgstr "It weromkommen fan de IRL-podcast"
+
+#~ msgctxt "hero_headline"
 #~ msgid "The Lessons We Carry from MozFest 2022"
 #~ msgstr "De lessen dy’t wy lûke út MozFest 2022"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Learn More"
 #~ msgstr "Mear ynfo"
-
-#~ msgctxt "hero_headline"
-#~ msgid "The Return of IRL Podcast"
-#~ msgstr "It weromkommen fan de IRL-podcast"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Learn More Here"
@@ -522,14 +522,6 @@ msgstr "De nijste"
 #~ msgid "Read The Latest *Privacy Not Included Guide"
 #~ msgstr "Lês de nijste gids *Privacy net ynbegrepen"
 
-#~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
-#~ msgid "Stop France From Forcing Browsers To Censor Websites"
-#~ msgstr "Stop Frankryk browsers te twingen websites te sensurearjen"
-
-#~ msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
-#~ msgid "Car Companies: Stop Your Data Collection Programs"
-#~ msgstr "Autobedriuwen: stopje jo gegevenssamlingprogramma's"
-
 #~ msgctxt "hero_headline"
 #~ msgid "Mozilla Joins Vice President Harris to Support Public Interest AI"
 #~ msgstr "Mozilla lûkt mei vice-presidint Harris op ta stipe fan AI fan algemien belang"
@@ -562,6 +554,14 @@ msgstr "De nijste"
 #~ msgid "TikTok: Stop Misleading Android Users"
 #~ msgstr "TikTok: stop Android-brûkers te mislieden"
 
+#~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
+#~ msgid "Stop France From Forcing Browsers To Censor Websites"
+#~ msgstr "Stop Frankryk browsers te twingen websites te sensurearjen"
+
+#~ msgctxt "take_action_cards.c2d4ce71-96cc-4392-ae13-aa7aa976a74d.text"
+#~ msgid "Car Companies: Stop Your Data Collection Programs"
+#~ msgstr "Autobedriuwen: stopje jo gegevenssamlingprogramma's"
+
 #~ msgctxt "hero_headline"
 #~ msgid "Season 7 of our award winning podcast: IRL"
 #~ msgstr "Seizoen 7 fan ús priiswinnende podcast: IRL"
@@ -587,10 +587,6 @@ msgstr "De nijste"
 #~ msgstr "Lês de keapgids"
 
 #~ msgctxt "hero_headline"
-#~ msgid "Tech Giants Not Ready for Historic Election Year"
-#~ msgstr "Techreuzen net klear foar histoarysk ferkiezingsjier"
-
-#~ msgctxt "hero_headline"
 #~ msgid "Examining AI On The Continent Of Africa"
 #~ msgstr "AI op it Afrikaanske kontinint ûndersykje"
 
@@ -605,6 +601,10 @@ msgstr "De nijste"
 #~ msgctxt "hero_button_text"
 #~ msgid "Sales end 22nd May"
 #~ msgstr "Ferkeap einiget op 22 maaie"
+
+#~ msgctxt "hero_headline"
+#~ msgid "Tech Giants Not Ready for Historic Election Year"
+#~ msgstr "Techreuzen net klear foar histoarysk ferkiezingsjier"
 
 #~ msgctxt "hero_headline"
 #~ msgid "Mozilla’s J. Bob Alotta Named to Fast Company Queer 50 List"
@@ -685,3 +685,11 @@ msgstr "De nijste"
 #~ msgctxt "hero_button_text"
 #~ msgid "Learn more &amp; see full schedule"
 #~ msgstr "Mear ynfo &amp; folsleine programma besjen"
+
+#~ msgctxt "hero_headline"
+#~ msgid "We're reclaiming the internet, building trustworthy AI, and holding tech companies accountable"
+#~ msgstr "Wy easkje it ynternet werom, bouwe oan betroubere AI en hâlde technologybedriuwen ta ferantwurding"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Join Us"
+#~ msgstr "Meidwaan"

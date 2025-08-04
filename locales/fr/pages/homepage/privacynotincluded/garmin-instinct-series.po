@@ -341,10 +341,6 @@ msgstr ""
 #~ msgstr "Ne connectez pas votre application Garmin à des réseaux sociaux comme Facebook."
 
 #~ msgctxt "tips_to_protect_yourself"
-#~ msgid "When you no longer use the app, go to \"Delete account\" in the app menu."
-#~ msgstr "Lorsque vous n’utilisez plus l’application, accédez à « Supprimer le compte » dans le menu de l’application"
-
-#~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images and videos)."
 #~ msgstr ""
 #~ "Utilisez les contrôles de confidentialité de votre appareil pour limiter l’accès à vos informations personnelles via l’application (ne donnez pas accès à votre caméra, microphone, images et vidéos)"
@@ -352,6 +348,10 @@ msgstr ""
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Keep your app regularly updated."
 #~ msgstr "Mettez votre application à jour régulièrement"
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "When you no longer use the app, go to \"Delete account\" in the app menu."
+#~ msgstr "Lorsque vous n’utilisez plus l’application, accédez à « Supprimer le compte » dans le menu de l’application"
 
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid ""
@@ -387,12 +387,12 @@ msgstr ""
 #~ "l’utilisateur est actif. Les utilisateurs peuvent supprimer leurs données des applications et services associés à tout moment."
 
 #~ msgctxt "how_can_you_control_your_data"
-#~ msgid "Garmin will retain your personal data as long as your Garmin account is considered to be active or in accordance with applicable law and regulatory obligations."
-#~ msgstr "Garmin conservera vos données personnelles aussi longtemps que votre compte Garmin sera considéré actif ou conformément à la loi et aux obligations réglementaires applicables."
-
-#~ msgctxt "how_can_you_control_your_data"
 #~ msgid "It is unclear if all users regardless of location can get their data be deleted."
 #~ msgstr "Il n’est pas clair si tous les utilisateurs, quel que soit leur emplacement, peuvent supprimer leurs données."
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "Garmin will retain your personal data as long as your Garmin account is considered to be active or in accordance with applicable law and regulatory obligations."
+#~ msgstr "Garmin conservera vos données personnelles aussi longtemps que votre compte Garmin sera considéré actif ou conformément à la loi et aux obligations réglementaires applicables."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

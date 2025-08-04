@@ -1,0 +1,23 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-08-04 07:03:34.304114+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 58f6a72c-24fe-4c9f-8560-4597dcd85eff\n"
+
+msgctxt "title"
+msgid "Tell TikTok: Protect All Users Equally"
+msgstr "Fordern Sie TikTok auf: Schützt alle Nutzer gleichermaßen!"
+
+msgctxt "description"
+msgid "Will you add your name to demand a revised TikTok Lite - “Save Data” app that offers the same protection features as its main app?"
+msgstr "Unterschreiben Sie, um eine überarbeitete TikTok-Lite-App „Save Data“ zu fordern, die gleichen Schutzfunktionen bietet wie die Haupt-App?"
+
+msgctxt "link_label"
+msgid "Sign the petition"
+msgstr "Petition unterzeichnen"
+
+msgctxt "footer"
+msgid "Sign the petition"
+msgstr "Petition unterzeichnen"

@@ -666,10 +666,6 @@ msgstr ""
 #~ "Ao mesmo tempo, o Google utiliza os dados coletados em seus próprios serviços. \"Utilizamos as informações coletadas para personalizar nossos serviços para você, incluindo recomendações, conteúdo "
 #~ "personalizado e resultados de pesquisa personalizados\"."
 
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number, address"
-#~ msgstr "Nome, email, número de telefone, endereço"
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "“OK, Google.” That’s pretty much exactly how we think Google does when it comes to privacy. They are OK, if you consider the fact that they are a ginormous data collecting advertising company that "
@@ -811,6 +807,10 @@ msgstr ""
 #~ msgstr ""
 #~ "Para excluir o histórico de busca da página inicial do Google e as gravações de voz: veja a seção \"Exclusão de dados\" do item Segurança e privacidade de dados em dispositivos que funcionam com o "
 #~ "Assistente."
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number, address"
+#~ msgstr "Nome, email, número de telefone, endereço"
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

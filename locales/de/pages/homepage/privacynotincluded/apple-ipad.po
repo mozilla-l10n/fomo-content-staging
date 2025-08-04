@@ -572,16 +572,16 @@ msgstr ""
 #~ msgstr "Seien Sie vorsichtig, welche Apps Sie auf Ihrem Gerät installieren, da einige Apps die Privatsphäre verletzen können."
 
 #~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Set a strong passcode on your iPad."
-#~ msgstr "Legen Sie einen starken Passcode auf Ihrem iPad fest."
+#~ msgid "Be careful what apps you install on your device as some apps can be privacy invasive."
+#~ msgstr "Seien Sie vorsichtig, welche Apps Sie auf Ihrem Gerät installieren, da einige Apps die Privatsphäre verletzen können."
 
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Follow Apple's own <a id=\"a1\">guidelines</a> for privacy and security."
 #~ msgstr "Befolgen Sie die eigenen <a id=\"a1\">Richtlinien</a> von Apple für Datenschutz und Sicherheit."
 
 #~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Be careful what apps you install on your device as some apps can be privacy invasive."
-#~ msgstr "Seien Sie vorsichtig, welche Apps Sie auf Ihrem Gerät installieren, da einige Apps die Privatsphäre verletzen können."
+#~ msgid "Set a strong passcode on your iPad."
+#~ msgstr "Legen Sie einen starken Passcode auf Ihrem iPad fest."
 
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "You can say “Hey Siri, stop listening” to turn off speech recognition for a period of time."

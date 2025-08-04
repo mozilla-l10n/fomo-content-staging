@@ -622,6 +622,10 @@ msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprend
 #~ "applications et des Skills Alexa via les services Amazon. Et aussi ses partenaires commerciaux, et les autres entreprises rachetées par Amazon. Au vu du gigantisme de l’empire Amazon (pensez à Ring,"
 #~ " Blink, Eero, Whole Foods, etc.), vos informations pourraient atterrir dans beaucoup de bases de données."
 
+#~ msgctxt "uses_encryption_helptext"
+#~ msgid "Encryption in transit and at rest."
+#~ msgstr "Utilisation du chiffrement en transit et au repos."
+
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
 #~ "Amazon combines data on its users with data from third parties, for advertisement purposes: \"Some third-parties may provide Amazon pseudonymized information about you (such as demographic "
@@ -638,10 +642,6 @@ msgstr "Amazon Alexa utilise le traitement du langage naturel pour vous comprend
 #~ msgstr ""
 #~ "Amazon dit <a id=\"a1\">ne pas vendre vos informations personnelles</a>. L’entreprise combine <a id=\"a2\">vos données vocales</a> avec des données tierces pour répondre à vos demandes ainsi que "
 #~ "pour entraîner la reconnaissance vocale d’Alexa. Vous pouvez choisir de ne pas conserver les enregistrements vocaux, mais cela entraînera la désactivation de certaines fonctionnalités."
-
-#~ msgctxt "uses_encryption_helptext"
-#~ msgid "Encryption in transit and at rest."
-#~ msgstr "Utilisation du chiffrement en transit et au repos."
 
 #~ msgctxt "personal_data_collected"
 #~ msgid "Name, email, phone number, address"

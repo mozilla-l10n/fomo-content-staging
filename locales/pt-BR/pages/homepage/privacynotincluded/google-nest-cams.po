@@ -871,13 +871,13 @@ msgstr ""
 #~ "O Google publica artigos acadêmicos sobre sua pesquisa de inteligência artificial (<a id=\"a1\">https://ai.google/</a>) e disponibiliza várias ferramentas via código aberto. <a "
 #~ "id=\"a2\">https://ai.google/tools/</a>"
 
-#~ msgctxt "child_safety_blurb"
-#~ msgid "You can check <a id=\"a1\">Google Family Link</a> privacy guide for teens &amp; children for details for different countries and age groups."
-#~ msgstr "Você pode consultar o guia de privacidade do <a id=\"a1\">Google Family Link</a> para adolescentes & crianças para obter informações para diferentes países e faixas etárias."
-
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Visit <a id=\"a1\">privacy &amp; security controls</a> to adjust the amount of data collected"
 #~ msgstr "Acesse os <a id=\"a1\">controles de privacidade e segurança</a> para ajustar a quantidade de dados coletados"
+
+#~ msgctxt "child_safety_blurb"
+#~ msgid "You can check <a id=\"a1\">Google Family Link</a> privacy guide for teens &amp; children for details for different countries and age groups."
+#~ msgstr "Você pode consultar o guia de privacidade do <a id=\"a1\">Google Family Link</a> para adolescentes & crianças para obter informações para diferentes países e faixas etárias."
 
 #~ msgctxt "worst_case"
 #~ msgid ""

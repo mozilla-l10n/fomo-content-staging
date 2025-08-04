@@ -618,13 +618,9 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ "verbinden. Sie erhalten auch einen anständigen Klang, Geräuschunterdrückung und sie sind schweißresistent, wenn Sie sie beim Training tragen möchten. Amazon möchte, dass Sie wissen, dass diese „zum "
 #~ "Schutz Ihrer Privatsphäre entwickelt wurden“. Das bedeutet, dass Sie die Mikrofone stummschalten können, aber Sie müssen dies über die Alexa-App tun, die Sie natürlich verfolgt."
 
-#~ msgctxt "user_friendly_privacy_policy_helptext"
-#~ msgid "Amazon has a complicated and difficult to navigate mess of privacy policies, privacy notices, privacy FAQs, and other privacy information."
-#~ msgstr "Amazon hat ein kompliziertes und schwer durchschaubares Durcheinander von Datenschutzrichtlinien, Datenschutzhinweisen, Datenschutz-FAQ und anderen Datenschutzinformationen"
-
-#~ msgctxt "uses_encryption_helptext"
-#~ msgid "Uses encryption in transit and at rest."
-#~ msgstr "Verschlüsselung wird bei der Übertragung und bei Speicherung verwendet."
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "When starting a sign-up, do not agree to tracking of your data."
+#~ msgstr "Stimmen Sie bei der Registrierung für ein Konto nicht der Nachverfolgung Ihrer Daten zu."
 
 #~ msgctxt "worst_case"
 #~ msgid ""
@@ -754,9 +750,13 @@ msgstr "Amazon Alexa verwendet natürliche Sprachverarbeitung, um Sie zu versteh
 #~ "Amazon sagt, dass <a id=\"a1\">Ihre personenbezogenen Daten nicht weiterverkauft werden</a>. Das unternehmen kombiniert <a id=\"a2\">Ihre Sprachaufzeichnungen</a> mit Daten von Drittanbietern, um "
 #~ "Ihre Anfragen zu beantworten und die Spracherkennung von Alexa zu trainieren. Sie können festlegen, dass keine Sprachaufzeichnungen gespeichert werden, dies kostet Sie jedoch einige Funktionen."
 
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "When starting a sign-up, do not agree to tracking of your data."
-#~ msgstr "Stimmen Sie bei der Registrierung für ein Konto nicht der Nachverfolgung Ihrer Daten zu."
+#~ msgctxt "user_friendly_privacy_policy_helptext"
+#~ msgid "Amazon has a complicated and difficult to navigate mess of privacy policies, privacy notices, privacy FAQs, and other privacy information."
+#~ msgstr "Amazon hat ein kompliziertes und schwer durchschaubares Durcheinander von Datenschutzrichtlinien, Datenschutzhinweisen, Datenschutz-FAQ und anderen Datenschutzinformationen"
+
+#~ msgctxt "uses_encryption_helptext"
+#~ msgid "Uses encryption in transit and at rest."
+#~ msgstr "Verschlüsselung wird bei der Übertragung und bei Speicherung verwendet."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

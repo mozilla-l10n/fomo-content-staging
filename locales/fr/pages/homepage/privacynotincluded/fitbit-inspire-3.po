@@ -876,22 +876,6 @@ msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> s
 #~ msgid "To create a Fitbit account, users are required to provide strong, complex, passwords during onboarding."
 #~ msgstr "Pour créer un compte Fitbit, les utilisateurs et utilisatrices doivent fournir des mots de passe compliqués lors de la configuration initiale."
 
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, date of birth, gender, photo (optional)"
-#~ msgstr "Nom, date de naissance, genre, photo (facultatif)"
-
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Heart rate, movement, sleep data, menstrual cycle, and more"
-#~ msgstr "Fréquence cardiaque, mouvements, données sur le sommeil, cycle menstruel, etc."
-
-#~ msgctxt "social_data_collected"
-#~ msgid "Fitbit connections"
-#~ msgstr "Connexions Fitbit"
-
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid "Everyone can get their data deleted by deleting their account and waiting for 90 days,"
-#~ msgstr "N’importe qui peut faire supprimer ses données en supprimant son compte et en attendant 90 jours."
-
 #~ msgctxt "blurb"
 #~ msgid ""
 #~ "If you want a little tracking--activity, heart rate, sleep--without the extra bells and whistles, this little bracelet could be for you. Just think, in the year 1820, the word tracker meant someone "
@@ -1006,6 +990,22 @@ msgstr "Les services FitBit Coach et FitBit Care <a id=\"a1\">reposeraient</a> s
 #~ "fournisseurs de services et à d’autres partenaires qui les traitent pour nous, sur la base de nos instructions, et dans le respect de la présente politique et de toute autre mesure de "
 #~ "confidentialité et de sécurité appropriée. Ces partenaires nous fournissent des services dans le monde entier, notamment pour l’assistance client, les technologies de l’information, les paiements, "
 #~ "les ventes, le marketing, l’analyse des données, la recherche et les enquêtes. »"
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, date of birth, gender, photo (optional)"
+#~ msgstr "Nom, date de naissance, genre, photo (facultatif)"
+
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Heart rate, movement, sleep data, menstrual cycle, and more"
+#~ msgstr "Fréquence cardiaque, mouvements, données sur le sommeil, cycle menstruel, etc."
+
+#~ msgctxt "social_data_collected"
+#~ msgid "Fitbit connections"
+#~ msgstr "Connexions Fitbit"
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "Everyone can get their data deleted by deleting their account and waiting for 90 days,"
+#~ msgstr "N’importe qui peut faire supprimer ses données en supprimant son compte et en attendant 90 jours."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""

@@ -480,16 +480,16 @@ msgstr ""
 #~ "servidores, sino que se procesarán en el dispositivo."
 
 #~ msgctxt "how_does_it_use_data_collected"
+#~ msgid "\"Apple does not sell your data including as 'sale' is defined in Nevada and California. \""
+#~ msgstr "«Apple no vende tu datos; esto incluye la definición de venta que se hace en Nevada y California»."
+
+#~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
 #~ "\"Apple uses personal data to power our services, to process your transactions, to communicate with you, for security and fraud prevention, and to comply with law. We may also use personal data for "
 #~ "other purposes with your consent."
 #~ msgstr ""
 #~ "«Apple utiliza datos personales para impulsar nuestros servicios, tramitar tus transacciones, comunicarse contigo, con fines de seguridad y de prevención del fraude, y para cumplir la ley. También "
 #~ "podremos usar datos personales para otros fines con tu consentimiento."
-
-#~ msgctxt "how_does_it_use_data_collected"
-#~ msgid "\"Apple does not sell your data including as 'sale' is defined in Nevada and California. \""
-#~ msgstr "«Apple no vende tu datos; esto incluye la definición de venta que se hace en Nevada y California»."
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""

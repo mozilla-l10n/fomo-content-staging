@@ -698,6 +698,10 @@ msgstr ""
 #~ msgid "Google publishes academic papers about it's AI research (<a id=\"a1\">https://ai.google/</a>) and makes several tools available via open source."
 #~ msgstr "Google publica artículos académicos sobre sus estudios en materia de IA (<a id=\"a1\">https://ai.google/</a>) y pone varias herramientas de código abierto a disposición del público."
 
+#~ msgctxt "how_does_it_use_data_collected"
+#~ msgid "Google does not share data with third parties for their own advertisement purposes. Google does not sell personal data."
+#~ msgstr "Google no comparte datos con terceros para sus fines publicitarios. Google no vende datos personales."
+
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "Of course, Google uses your personal information to sell those targeted, personalized ads you see all over the place like in your Gmail, in your favorite Solitaire app, on partner websites, and on "
@@ -735,10 +739,6 @@ msgstr ""
 #~ " que agendaste con la manicurista. ¿Está bien que Google te conozca tan bien? Quizás es extraño. (A nosotros nos parece bastante extraño.). Lo que sí está de locos estos días es que tus búsquedas en"
 #~ " Google, tu ubicación y otras cosas más puedan utilizarse en Estados Unidos para <a id=\"a1\">hostigar, arrestar e incluso enjuiciar </a> a quienes buscan servicios de salud reproductiva. Eso no "
 #~ "solo es una locura, sino tal cual un perjuicio."
-
-#~ msgctxt "how_does_it_use_data_collected"
-#~ msgid "Google does not share data with third parties for their own advertisement purposes. Google does not sell personal data."
-#~ msgstr "Google no comparte datos con terceros para sus fines publicitarios. Google no vende datos personales."
 
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid "Google says they keep video footage, audio recordings, and home environment sensor readings separate from advertising, and they won’t use this data for ad personalization."

@@ -17,4 +17,4 @@ msgstr "Faire entrer en contact les leaders"
 
 msgctxt "description"
 msgid "We support activists and thought leaders shaping the future of our online lives."
-msgstr "Nous soutenons les militants et les leaders d’opinion qui façonnent l’avenir de nos vies numériques."
+msgstr "Nous soutenons les militants et les leaders d’opinion qui imaginent l’avenir de nos vies numériques."

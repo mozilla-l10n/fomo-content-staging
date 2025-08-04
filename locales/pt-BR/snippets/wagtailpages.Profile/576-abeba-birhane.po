@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "tagline"
 msgid "Mozilla Senior Fellow, Trustworthy AI (2022-2023)"
-msgstr ""
+msgstr "Bolsista sênior da Mozilla, inteligência artificial confiável (2022-2023)"
 
 msgctxt "introduction"
 msgid ""

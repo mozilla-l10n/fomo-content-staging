@@ -484,6 +484,10 @@ msgctxt "ai_what_can_it_do"
 msgid "Ring cameras use camera-based motion detection to start recording."
 msgstr "Câmeras Ring usam detecção de movimento baseada em câmera para iniciar a gravação."
 
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid "It is unclear if all users regardless of location can get their data deleted."
+#~ msgstr "Não está claro se todos os usuários, independentemente de onde vivem, podem excluir seus dados."
+
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"
 #~ msgstr ""
@@ -497,10 +501,6 @@ msgstr "Câmeras Ring usam detecção de movimento baseada em câmera para inici
 #~ msgctxt "personal_data_collected"
 #~ msgid "Name, email, phone number, address"
 #~ msgstr "Nome, e-mail, número de telefone, endereço"
-
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid "It is unclear if all users regardless of location can get their data deleted."
-#~ msgstr "Não está claro se todos os usuários, independentemente de onde vivem, podem excluir seus dados."
 
 #~ msgctxt "track_record_details"
 #~ msgid ""
@@ -533,14 +533,6 @@ msgstr "Câmeras Ring usam detecção de movimento baseada em câmera para inici
 #~ msgstr ""
 #~ "Em <a id=\"a1\">abril de 2019</a>, foi revelado que milhares de funcionários, muitos dos quais eram prestadores de serviços e alguns nem mesmo eram contratados diretamente pela Amazon, tinham acesso"
 #~ " a transcrições de voz e texto das <a id=\"a2\">interações</a> da Alexa."
-
-#~ msgctxt "how_can_you_control_your_data"
-#~ msgid ""
-#~ "In addition, law enforcement can make a video request in the Neighbors app to ask the community to assist in an investigation. Police who download videos from customer cameras may be able to keep "
-#~ "them indefinite<a id=\"a1\">ly,</a> <a id=\"a2\">depending on local</a> laws."
-#~ msgstr ""
-#~ "Além disso, as autoridades podem fazer uma solicitação de vídeo no aplicativo Neighbors para pedir à comunidade que ajude em uma investigação. A polícia que baixar vídeos de câmeras de clientes pode"
-#~ " mantê-los indefinidamente<a id=\"a1\">,</a> <a id=\"a2\">dependendo das leis locais.</a>"
 
 #~ msgctxt "biometric_data_collected"
 #~ msgid "Video and voice recordings"
@@ -637,6 +629,14 @@ msgstr "Câmeras Ring usam detecção de movimento baseada em câmera para inici
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Review sharing options for your data if you have multiple people in the neighborhood"
 #~ msgstr "Revise as opções de compartilhamento de seus dados se você tiver várias pessoas na vizinhança"
+
+#~ msgctxt "how_can_you_control_your_data"
+#~ msgid ""
+#~ "In addition, law enforcement can make a video request in the Neighbors app to ask the community to assist in an investigation. Police who download videos from customer cameras may be able to keep "
+#~ "them indefinite<a id=\"a1\">ly,</a> <a id=\"a2\">depending on local</a> laws."
+#~ msgstr ""
+#~ "Além disso, as autoridades podem fazer uma solicitação de vídeo no aplicativo Neighbors para pedir à comunidade que ajude em uma investigação. A polícia que baixar vídeos de câmeras de clientes pode"
+#~ " mantê-los indefinidamente<a id=\"a1\">,</a> <a id=\"a2\">dependendo das leis locais.</a>"
 
 #~ msgctxt "track_record_details"
 #~ msgid "In 2021, the Federal Trade Commision in the US <a id=\"a1\">recommended filing a lawsuit</a> against Amazon because of privacy and security breaches in Ring home security unit"

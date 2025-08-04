@@ -9,6 +9,10 @@ msgctxt "title"
 msgid "Car Companies: Stop Your Huge Data Collection Programs"
 msgstr ""
 
+msgctxt "header"
+msgid "Car Companies: Stop Your Huge Data Collection Programs"
+msgstr ""
+
 msgctxt "body.015c2033-8798-437a-8fd7-d5ea0bbd8970"
 msgid ""
 "Mozilla's research has revealed that <b>popular global car brands — like Chevrolet, Nissan, Toyota, Kia, Audi, Jeep, Honda, Volkswagen, and more — are collecting your deeply personal data, like your"
@@ -18,8 +22,8 @@ msgstr ""
 
 msgctxt "body.015c2033-8798-437a-8fd7-d5ea0bbd8970"
 msgid ""
-"<b>**Update June 2024:</b> Since this investigation, car companies have been under immense pressure from consumers, lawmakers, journalists, and our movement. And government officials in the U.S., "
-"Europe and Australia are taking on car companies and their CEOs for their poor data and privacy practices."
+"<b>**Update January 2025:</b> Volkswagen’s data breach – in which the precise location data of around 800,000 cars was left vulnerable online – serves as another stark reminder of the real-life "
+"risks inherent to these huge and invasive data collection programs."
 msgstr ""
 
 msgctxt "body.015c2033-8798-437a-8fd7-d5ea0bbd8970"

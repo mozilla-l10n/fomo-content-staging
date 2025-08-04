@@ -809,9 +809,20 @@ msgstr ""
 #~ msgid "Chose a strong password! You may use a password control tool like 1Password, KeePass etc"
 #~ msgstr "Choisissez un mot de passe fort ! Vous pouvez utiliser un gestionnaire de mots de passe comme 1Password, KeePass, etc."
 
-#~ msgctxt "ai_what_can_it_do"
-#~ msgid "Google uses natural language processing to understand you and to generate answers to your requests."
-#~ msgstr "Google utilise le traitement du langage naturel pour vous comprendre et générer des réponses à vos demandes."
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid ""
+#~ "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
+#~ msgstr ""
+#~ "Limitez le suivi publicitaire via votre appareil (par ex., sur iPhone, accédez à Confidentialité -> Publicité -> Limiter le suivi publicitaire) et les plus grands réseaux publicitaires (pour Google,"
+#~ " accédez à votre compte Google et désactivez la personnalisation des annonces)"
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number"
+#~ msgstr "Nom, adresse e-mail, numéro de téléphone"
+
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Voice recordings"
+#~ msgstr "Enregistrements vocaux"
 
 #~ msgctxt "user_friendly_privacy_policy_helptext"
 #~ msgid "Google provides useful privacy information."
@@ -834,24 +845,13 @@ msgstr ""
 #~ msgid "Google does not share data with third parties for their own advertisement purposes. Google does not sell personal data."
 #~ msgstr "Google ne partage pas de données avec des tiers pour ses propres besoins publicitaires. Google ne vend pas de données personnelles."
 
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid ""
-#~ "Limit ad tracking via your device (eg on iPhone go to Privacy -&gt; Advertising -&gt; Limit ad tracking) and biggest ad networks (for Google, go to Google account and turn off ad personalization)"
-#~ msgstr ""
-#~ "Limitez le suivi publicitaire via votre appareil (par ex., sur iPhone, accédez à Confidentialité -> Publicité -> Limiter le suivi publicitaire) et les plus grands réseaux publicitaires (pour Google,"
-#~ " accédez à votre compte Google et désactivez la personnalisation des annonces)"
-
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number"
-#~ msgstr "Nom, adresse e-mail, numéro de téléphone"
-
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Voice recordings"
-#~ msgstr "Enregistrements vocaux"
-
 #~ msgctxt "ai_helptext"
 #~ msgid "Google publishes academic papers about its AI research (https://ai.google/) and makes several tools available via open source. https://ai.google/tools/"
 #~ msgstr "Google publie ses travaux de recherche en matière d’IA (https://ai.google/) et propose plusieurs outils open source. https://ai.google/tools/"
+
+#~ msgctxt "ai_what_can_it_do"
+#~ msgid "Google uses natural language processing to understand you and to generate answers to your requests."
+#~ msgstr "Google utilise le traitement du langage naturel pour vous comprendre et générer des réponses à vos demandes."
 
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"

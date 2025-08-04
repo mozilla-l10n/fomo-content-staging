@@ -517,20 +517,6 @@ msgstr ""
 #~ "para datos de referencia. La empresa no comparte los datos de la aplicación Ōura con anunciantes externos."
 
 #~ msgctxt "how_does_it_use_data_collected"
-#~ msgid "Oura will oppose any request to provide legal authorities with access to user data for surveillance or prosecution purposes, and will notify users if Oura receives any such request."
-#~ msgstr ""
-#~ "Oura se opondrá a cualquier solicitud de proporcionar a las autoridades legales acceso a los datos de los usuarios con fines de vigilancia o enjuiciamiento, y notificará a los usuarios en caso de "
-#~ "recibir dicha solicitud."
-
-#~ msgctxt "how_does_it_use_data_collected"
-#~ msgid "\"We also reserve the right to disclose personal information under certain specific circumstances, including:"
-#~ msgstr "«También nos reservamos el derecho de divulgar información personal bajo ciertas circunstancias específicas, que incluyen:"
-
-#~ msgctxt "how_does_it_use_data_collected"
-#~ msgid "[...]<br/> To comply with the law or law enforcement."
-#~ msgstr "[...]<br/> Cumplir con la ley o la aplicación de la ley."
-
-#~ msgctxt "how_does_it_use_data_collected"
 #~ msgid "Oura does not sell or rent personal information collected from users when they use Oura products."
 #~ msgstr "Oura no vende ni alquila la información personal que recopila de los usuarios mientras utilizan los productos de Oura."
 
@@ -545,6 +531,20 @@ msgstr ""
 #~ msgctxt "how_does_it_use_data_collected"
 #~ msgid "How the company says they may share data with law enforcement:"
 #~ msgstr "Cómo dice la empresa que puede compartir datos con los organismos de seguridad:"
+
+#~ msgctxt "how_does_it_use_data_collected"
+#~ msgid "Oura will oppose any request to provide legal authorities with access to user data for surveillance or prosecution purposes, and will notify users if Oura receives any such request."
+#~ msgstr ""
+#~ "Oura se opondrá a cualquier solicitud de proporcionar a las autoridades legales acceso a los datos de los usuarios con fines de vigilancia o enjuiciamiento, y notificará a los usuarios en caso de "
+#~ "recibir dicha solicitud."
+
+#~ msgctxt "how_does_it_use_data_collected"
+#~ msgid "\"We also reserve the right to disclose personal information under certain specific circumstances, including:"
+#~ msgstr "«También nos reservamos el derecho de divulgar información personal bajo ciertas circunstancias específicas, que incluyen:"
+
+#~ msgctxt "how_does_it_use_data_collected"
+#~ msgid "[...]<br/> To comply with the law or law enforcement."
+#~ msgstr "[...]<br/> Cumplir con la ley o la aplicación de la ley."
 
 #~ msgctxt "user_friendly_privacy_policy_helptext"
 #~ msgid "Simple language"

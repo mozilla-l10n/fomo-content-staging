@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-08-04 07:04:31.971561+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: ebcb7692-97e7-408c-aa74-46c289c89bcd\n"
+
+msgctxt "title"
+msgid "Donate to Mozilla before June 30"
+msgstr "Doe para a Mozilla até 30 de junho"
+
+msgctxt "subtitle"
+msgid "A better tech future starts with us. Donate today."
+msgstr "Um futuro digital melhor começa com a gente. Faça sua doação hoje mesmo."
+
+msgctxt "cta_button_text"
+msgid "Donate →"
+msgstr "Doe agora →"

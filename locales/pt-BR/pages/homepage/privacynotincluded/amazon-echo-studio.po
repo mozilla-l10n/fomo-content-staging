@@ -576,10 +576,6 @@ msgstr "A Alexa da Amazon utiliza o processamento de linguagem natural para ente
 #~ "Alexa fornece algumas informações sobre sua IA no FAQ sobre Alexa e nas páginas da Amazon Science: <a id=\"a1\">https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230</a> <a "
 #~ "id=\"a2\">https://www.amazon.science/tag/alexa</a>"
 
-#~ msgctxt "how_does_it_use_data_collected"
-#~ msgid "\"Information about our customers is an important part of our business, and we are not in the business of selling our customers' personal information to others.\""
-#~ msgstr "\"A informação sobre nossos clientes é uma parte importante do nosso negócio, e não estamos no negócio de vender as informações pessoais de nossos clientes para terceiros.\""
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "And when we say a number, we don’t exactly know how many third parties because Amazon doesn’t share that information. But we must assume it’s a lot of third parties because they say they can share "
@@ -593,6 +589,10 @@ msgstr "A Alexa da Amazon utiliza o processamento de linguagem natural para ente
 #~ "dados, enviar correspondência e e-mail e muito mais. Depois, há os terceiros que oferecem serviços, produtos, aplicativos e habilidades Alexa por meio da Amazon Services. Há também os parceiros de "
 #~ "negócios e outras empresas que a Amazon compra que também podem ter acesso aos seus dados. Considerando que a Amazon é um império gigantesco – Ring, Blink, Eero, Whole Foods e muito mais –, seus "
 #~ "dados podem potencialmente acabar em inúmeros lugares."
+
+#~ msgctxt "uses_encryption_helptext"
+#~ msgid "Encryption in transit and at rest."
+#~ msgstr "Utiliza criptografia em trânsito e em uso estático."
 
 #~ msgctxt "worst_case"
 #~ msgid ""
@@ -647,16 +647,16 @@ msgstr "A Alexa da Amazon utiliza o processamento de linguagem natural para ente
 #~ "Consumidor da Califórnia.\""
 
 #~ msgctxt "how_does_it_use_data_collected"
+#~ msgid "\"Information about our customers is an important part of our business, and we are not in the business of selling our customers' personal information to others.\""
+#~ msgstr "\"A informação sobre nossos clientes é uma parte importante do nosso negócio, e não estamos no negócio de vender as informações pessoais de nossos clientes para terceiros.\""
+
+#~ msgctxt "how_does_it_use_data_collected"
 #~ msgid ""
 #~ "Amazon says they <a id=\"a1\">do not sell your personal information</a>. They combine <a id=\"a2\">your voice data</a> with third-party data to answer your requests as well as to train Alexa's "
 #~ "speech recognition. You can choose to not save any voice recordings, but it will cost you some features."
 #~ msgstr ""
 #~ "A Amazon diz que <a id=\"a1\">eles não vendem suas informações pessoais</a>. Eles combinam <a id=\"a2\">seus dados de voz</a> com dados de terceiros para responder às suas solicitações, bem como "
 #~ "para treinar o reconhecimento de voz da Alexa. Você pode optar por não salvar nenhuma gravação de voz, mas com isso você perderá alguns recursos."
-
-#~ msgctxt "uses_encryption_helptext"
-#~ msgid "Encryption in transit and at rest."
-#~ msgstr "Utiliza criptografia em trânsito e em uso estático."
 
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Use your device privacy controls to limit access to your personal information via app (do not give access to your camera, microphone, images, location unless neccessary)"

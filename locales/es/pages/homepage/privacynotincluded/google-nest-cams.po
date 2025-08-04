@@ -683,10 +683,6 @@ msgstr ""
 #~ "Google proporciona varios controles de la privacidad, accesibles mediante las herramientas de Privacidad de Google. Hay varias maneras claramente definidas de eliminar datos personales, inclusive "
 #~ "los datos de la app de Nest o la cuenta completa de Google. Se puede configurar un temporizador automático para 3 o 18 meses. Los detalles de retención también se enumeran en la Política."
 
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Visit <a id=\"a1\">privacy &amp; security controls</a> to adjust the amount of data collected"
-#~ msgstr "Visita los <a id=\"a1\">controles de privacidad y seguridad</a> para ajustar la cantidad de datos que pueden ser recopilados"
-
 #~ msgctxt "worst_case"
 #~ msgid ""
 #~ "What’s the worst that could happen? Well, we suppose you could catch your neighbor dancing naked on cam in front of their window and then never be able to look at them the same ever again, making "
@@ -702,6 +698,10 @@ msgstr ""
 #~ msgid "Google provides a page with privacy information about Nest."
 #~ msgstr "Google cuenta con una página en la que proporciona información de privacidad sobre Nest."
 
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Visit <a id=\"a1\">privacy &amp; security controls</a> to adjust the amount of data collected"
+#~ msgstr "Visita los <a id=\"a1\">controles de privacidad y seguridad</a> para ajustar la cantidad de datos que pueden ser recopilados"
+
 #~ msgctxt "personal_data_collected"
 #~ msgid "Name, email, phone number, address"
 #~ msgstr "Nombre, correo electrónico, número de teléfono, dirección"
@@ -715,10 +715,6 @@ msgstr ""
 #~ msgctxt "ai_what_can_it_do"
 #~ msgid "Google uses natural language processing to understand you and to generate answers to your requests."
 #~ msgstr "Google utiliza el procesamiento del lenguaje natural para entenderte y ser capaz de generar respuestas adecuadas a tus solicitudes."
-
-#~ msgctxt "child_safety_blurb"
-#~ msgid "You can check <a id=\"a1\">Google Family Link</a> privacy guide for teens &amp; children for details for different countries and age groups."
-#~ msgstr "Puedes leer la guía de privacidad para adolescentes y niños en <a id=\"a1\">Google Family Link</a> para conocer más detalles sobre los distintos países y grupos de edad."
 
 #~ msgctxt "worst_case"
 #~ msgid ""
@@ -756,6 +752,10 @@ msgstr ""
 #~ msgctxt "tips_to_protect_yourself"
 #~ msgid "Turn off personalised advertisement"
 #~ msgstr "Desactiva los anuncios personalizados."
+
+#~ msgctxt "child_safety_blurb"
+#~ msgid "You can check <a id=\"a1\">Google Family Link</a> privacy guide for teens &amp; children for details for different countries and age groups."
+#~ msgstr "Puedes leer la guía de privacidad para adolescentes y niños en <a id=\"a1\">Google Family Link</a> para conocer más detalles sobre los distintos países y grupos de edad."
 
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid "To delete Google Home search history and voice recordings: See the \"Data deletion\" section of Data security and privacy on devices that work with Assistant."

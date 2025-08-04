@@ -242,6 +242,10 @@ msgstr "Ver todas las publicaciones del blog"
 #~ msgid "/research"
 #~ msgstr "/research"
 
+#~ msgctxt "dropdowns.85546cdd-02a0-4e0d-a722-49ae0a2a7eda.columns.ee71115d-3610-414a-86c3-2ef16bc34161.nav_items.b2619d70-e0be-4cfd-8e87-ce8a117a0828.label"
+#~ msgid "Internet Health Report"
+#~ msgstr "Informe sobre la salud de Internet"
+
 #~ msgctxt "dropdowns.85546cdd-02a0-4e0d-a722-49ae0a2a7eda.columns.ee71115d-3610-414a-86c3-2ef16bc34161.button.0ed08c65-5491-4ee8-82c0-be00376e916b.relative_url"
 #~ msgid "/research"
 #~ msgstr "/research"
@@ -249,6 +253,10 @@ msgstr "Ver todas las publicaciones del blog"
 #~ msgctxt "dropdowns.d1f93adb-68cf-4a47-b762-ca1ea35e4b27.columns.48016c34-0cb4-40cf-b20f-7d35766409a1.nav_items.549c3925-17cc-43cc-8935-83912ffa1542.relative_url"
 #~ msgid "/campaigns"
 #~ msgstr "/campaigns"
+
+#~ msgctxt "dropdowns.85546cdd-02a0-4e0d-a722-49ae0a2a7eda.columns.ee71115d-3610-414a-86c3-2ef16bc34161.nav_items.b2619d70-e0be-4cfd-8e87-ce8a117a0828.description"
+#~ msgid "Issues impacting a healthy internet"
+#~ msgstr "Los problemas que impiden un Internet saludable."
 
 #~ msgctxt "title"
 #~ msgid "Main Menu 2024"
@@ -273,14 +281,6 @@ msgstr "Ver todas las publicaciones del blog"
 #~ msgctxt "dropdowns.85546cdd-02a0-4e0d-a722-49ae0a2a7eda.columns.a31c617e-69f5-4cb3-927a-3eca3413c126.nav_items.794faaaf-eea4-40fc-9f2b-26efee749627.description"
 #~ msgid "Scrutinizing the privacy &amp; security of consumer tech"
 #~ msgstr "Analizamos la privacidad y seguridad de la tecnología de consumo."
-
-#~ msgctxt "dropdowns.85546cdd-02a0-4e0d-a722-49ae0a2a7eda.columns.ee71115d-3610-414a-86c3-2ef16bc34161.nav_items.b2619d70-e0be-4cfd-8e87-ce8a117a0828.label"
-#~ msgid "Internet Health Report"
-#~ msgstr "Informe sobre la salud de Internet"
-
-#~ msgctxt "dropdowns.85546cdd-02a0-4e0d-a722-49ae0a2a7eda.columns.ee71115d-3610-414a-86c3-2ef16bc34161.nav_items.b2619d70-e0be-4cfd-8e87-ce8a117a0828.description"
-#~ msgid "Issues impacting a healthy internet"
-#~ msgstr "Los problemas que impiden un Internet saludable."
 
 #~ msgctxt "dropdowns.d1f93adb-68cf-4a47-b762-ca1ea35e4b27.columns.fb9adafb-e4db-4b8a-a312-96e49fbfb5c8.title"
 #~ msgid "Learn"

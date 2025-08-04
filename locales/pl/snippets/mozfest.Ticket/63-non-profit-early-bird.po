@@ -1,0 +1,37 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-08-04 07:04:24.374281+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 8253bd61-3cb7-4088-aaf1-04faa357955a\n"
+
+msgctxt "name"
+msgid "Non-Profit Badge"
+msgstr ""
+
+msgctxt "cost"
+msgid "€299"
+msgstr ""
+
+msgctxt "group"
+msgid "Non-Profit Badge"
+msgstr "Plakietka Non-Profit"
+
+msgctxt "description"
+msgid "For the people supporting non-profits, charities, and NGO's, this badge gives full festival access at an accessible price to make sure your voice is a part of the conversation."
+msgstr ""
+"Dla osób wspierających organizacje non profit, organizacje charytatywne i organizacje pozarządowe. Plakietka daje pełny dostęp do festiwalu w przystępnej cenie, a Ty masz pewność, że Twój głos "
+"będzie częścią debaty."
+
+msgctxt "button_text"
+msgid "Buy Non-Profit Badge"
+msgstr "Kup plakietkę Non-Profit"
+
+#~ msgctxt "name"
+#~ msgid "Non-Profit - Early Bird"
+#~ msgstr "Non-Profit – Early Bird"
+
+#~ msgctxt "cost"
+#~ msgid "€239"
+#~ msgstr "239 EUR"

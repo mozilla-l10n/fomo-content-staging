@@ -405,14 +405,6 @@ msgctxt "search_description"
 msgid "We made a list, we checked it twice, so you can find out which products are naughty and nice... for your privacy."
 msgstr "Süßer die Kassen nie klingeln als zur Weihnachtszeit! Welche Gaben sind gut, welche schlecht ... für Ihren Datenschutz? Finden Sie es heraus!"
 
-#~ msgctxt "body.76871da7-0a36-4c51-b91e-7a0818dfd02b.external_url"
-#~ msgid "https://foundation.mozilla.org/privacynotincluded/categories/holiday-guide-2023/"
-#~ msgstr "https://foundation.mozilla.org/privacynotincluded/categories/holiday-guide-2023/"
-
-#~ msgctxt "body.9603a9cd-b806-443a-bdca-abf2d2e9e89c.external_url"
-#~ msgid "https://foundation.mozilla.org/privacynotincluded/categories/smart-speakers/"
-#~ msgstr "https://foundation.mozilla.org/privacynotincluded/categories/smart-speakers/"
-
 #~ msgctxt "body.f03f96e6-a5f9-4f0f-adfd-8d4830aa9472.external_url"
 #~ msgid "https://foundation.mozilla.org/privacynotincluded/categories/smart-display/"
 #~ msgstr "https://foundation.mozilla.org/privacynotincluded/categories/smart-display/"
@@ -432,6 +424,18 @@ msgstr "Süßer die Kassen nie klingeln als zur Weihnachtszeit! Welche Gaben sin
 #~ msgctxt "body.ff945de8-8145-4840-b9eb-6ddb55afc97a.external_url"
 #~ msgid "https://foundation.mozilla.org/privacynotincluded/categories/robot-vacuums/"
 #~ msgstr "https://foundation.mozilla.org/privacynotincluded/categories/robot-vacuums/"
+
+#~ msgctxt "body.7cdbcc1f-7272-4138-9b44-4bd05b012956.external_url"
+#~ msgid "https://foundation.mozilla.org/privacynotincluded/categories/fitness-trackers/"
+#~ msgstr "https://foundation.mozilla.org/privacynotincluded/categories/fitness-trackers/"
+
+#~ msgctxt "body.76871da7-0a36-4c51-b91e-7a0818dfd02b.external_url"
+#~ msgid "https://foundation.mozilla.org/privacynotincluded/categories/holiday-guide-2023/"
+#~ msgstr "https://foundation.mozilla.org/privacynotincluded/categories/holiday-guide-2023/"
+
+#~ msgctxt "body.9603a9cd-b806-443a-bdca-abf2d2e9e89c.external_url"
+#~ msgid "https://foundation.mozilla.org/privacynotincluded/categories/smart-speakers/"
+#~ msgstr "https://foundation.mozilla.org/privacynotincluded/categories/smart-speakers/"
 
 #~ msgctxt "body.2e2580da-9f58-4350-819f-0c6fe4e767f9.external_url"
 #~ msgid "https://foundation.mozilla.org/privacynotincluded/categories/gaming-platforms/"
@@ -456,10 +460,6 @@ msgstr "Süßer die Kassen nie klingeln als zur Weihnachtszeit! Welche Gaben sin
 #~ msgctxt "body.1c7f57c2-42f7-481c-9782-18342d3bc84e.external_url"
 #~ msgid "https://foundation.mozilla.org/privacynotincluded/categories/trackers/"
 #~ msgstr "https://foundation.mozilla.org/privacynotincluded/categories/trackers/"
-
-#~ msgctxt "body.7cdbcc1f-7272-4138-9b44-4bd05b012956.external_url"
-#~ msgid "https://foundation.mozilla.org/privacynotincluded/categories/fitness-trackers/"
-#~ msgstr "https://foundation.mozilla.org/privacynotincluded/categories/fitness-trackers/"
 
 #~ msgctxt "body.2e068754-de0b-44bd-b7ed-3b727da8d658.external_url"
 #~ msgid "https://foundation.mozilla.org/privacynotincluded/categories/tablets-for-kids/"

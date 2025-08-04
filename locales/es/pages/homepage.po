@@ -19,12 +19,12 @@ msgid "Homepage"
 msgstr "Inicio"
 
 msgctxt "hero_headline"
-msgid "We're reclaiming the internet, building trustworthy AI, and holding tech companies accountable"
-msgstr "Estamos reapropiándonos de Internet, construyendo una IA confiable y exigiendo responsabilidades a las tecnológicas."
+msgid "Shaping the Future: Mozilla Fellows Share 2025 Tech Visions"
+msgstr ""
 
 msgctxt "hero_button_text"
-msgid "Join Us"
-msgstr "Únete"
+msgid "Read the predictions"
+msgstr "Lee las predicciones"
 
 msgctxt "hero_intro_heading"
 msgid "A healthy internet is one in which privacy, openness, and inclusion are the norms."
@@ -119,10 +119,6 @@ msgctxt "take_action_cards.b2c17bff-53d9-44fe-a882-7603d821585c.cta"
 msgid "Learn more"
 msgstr "Saber más"
 
-msgctxt "partner_logos.27a519d5-cbc2-4e21-af63-5e80a198ecf6.name"
-msgid "Ford Foundation logo"
-msgstr "Logo de la Fundación Ford"
-
 msgctxt "partner_logos.f4684c22-cf86-444c-8aa9-1106b85ebaad.name"
 msgid "Omidyar Network logo"
 msgstr "Logo de Omidyar Network"
@@ -198,6 +194,10 @@ msgstr "Lo más reciente"
 #~ msgctxt "take_action_cards.383ef2c6-f724-47d4-b93f-3c19c2c6f1e8.text"
 #~ msgid "Become an Advisor for the Cities’ Digital Rights Helpdesk!"
 #~ msgstr "¡Conviértete en asesor(a) del servicio de asistencia sobre derechos digitales de las ciudades!"
+
+#~ msgctxt "partner_logos.27a519d5-cbc2-4e21-af63-5e80a198ecf6.name"
+#~ msgid "Ford Foundation logo"
+#~ msgstr "Logo de la Fundación Ford"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Secure Yours"
@@ -327,13 +327,13 @@ msgstr "Lo más reciente"
 #~ msgid "Learn More"
 #~ msgstr "Descubre más"
 
-#~ msgctxt "hero_button_text"
-#~ msgid "Secure Your Ticket"
-#~ msgstr "Asegura tu boleto"
-
 #~ msgctxt "hero_headline"
 #~ msgid "MozFest House: June 19-21"
 #~ msgstr "MozFest House: 19-21 de junio"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Secure Your Ticket"
+#~ msgstr "Asegura tu boleto"
 
 #~ msgctxt "take_action_cards.a18d063b-b168-46c9-b24e-e955b8dcd16e.text"
 #~ msgid "Tell Slack: Make DMs Safe"
@@ -363,10 +363,6 @@ msgstr "Lo más reciente"
 #~ msgid "June 11-13 2024"
 #~ msgstr "11-13 de junio de 2024"
 
-#~ msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
-#~ msgid "Amazon: Fix This Security Flaw in Ring Doorbells"
-#~ msgstr "Amazon: Arregla la falla de seguridad en los vídeotimbres Ring"
-
 #~ msgctxt "hero_headline"
 #~ msgid "Which Gadgets Protect Your Privacy This Holiday Season?"
 #~ msgstr "¿Cuáles son los gadgets que protegen tu privacidad en estas fiestas?"
@@ -386,6 +382,10 @@ msgstr "Lo más reciente"
 #~ msgctxt "take_action_cards.a18d063b-b168-46c9-b24e-e955b8dcd16e.text"
 #~ msgid "TikTok: Stop Misleading Android Users"
 #~ msgstr "TikTok: Deja de engañar a los usuarios de Android"
+
+#~ msgctxt "take_action_cards.1e680ddb-9cd7-40b5-b466-30010a0e478e.text"
+#~ msgid "Amazon: Fix This Security Flaw in Ring Doorbells"
+#~ msgstr "Amazon: Arregla la falla de seguridad en los vídeotimbres Ring"
 
 #~ msgctxt "hero_button_text"
 #~ msgid "Read More"
@@ -419,13 +419,13 @@ msgstr "Lo más reciente"
 #~ msgid "Tell WhatsApp: Act to Protect Elections"
 #~ msgstr "Dile a WhatsApp: Actúa para proteger las elecciones"
 
-#~ msgctxt "hero_button_text"
-#~ msgid "Get Your Ticket"
-#~ msgstr "Consigue tu boleto"
-
 #~ msgctxt "hero_headline"
 #~ msgid "MozFest House Amsterdam: Early Bird Tickets Now Available"
 #~ msgstr "MozFest House Amsterdam: entradas anticipadas ya disponibles"
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Get Your Ticket"
+#~ msgstr "Consigue tu boleto"
 
 #~ msgctxt "take_action_cards.046f1c00-6873-4bdb-a623-32c6cc18e068.text"
 #~ msgid "Join our global movement for privacy rights."
@@ -442,3 +442,11 @@ msgstr "Lo más reciente"
 #~ msgctxt "hero_button_text"
 #~ msgid "Read Our Research"
 #~ msgstr "Lee el estudio"
+
+#~ msgctxt "hero_headline"
+#~ msgid "We're reclaiming the internet, building trustworthy AI, and holding tech companies accountable"
+#~ msgstr "Estamos reapropiándonos de Internet, construyendo una IA confiable y exigiendo responsabilidades a las tecnológicas."
+
+#~ msgctxt "hero_button_text"
+#~ msgid "Join Us"
+#~ msgstr "Únete"

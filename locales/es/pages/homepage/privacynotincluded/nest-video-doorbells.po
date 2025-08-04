@@ -695,22 +695,6 @@ msgstr ""
 #~ "Google proporciona varios controles de la privacidad, accesibles mediante las herramientas de Privacidad de Google. Hay varias maneras claramente definidas de eliminar datos personales, inclusive "
 #~ "los datos de la app de Nest o la cuenta completa de Google. Se puede configurar un temporizador automático para 3 o 18 meses. Los detalles de retención también se enumeran en la Política."
 
-#~ msgctxt "user_friendly_privacy_policy_helptext"
-#~ msgid "Google provides a page with privacy information about Nest."
-#~ msgstr "Google cuenta con una página en la que proporciona información de privacidad sobre Nest."
-
-#~ msgctxt "tips_to_protect_yourself"
-#~ msgid "Review <a id=\"a1\">Nest privacy tips</a>"
-#~ msgstr "Echa un vistazo a los <a id=\"a1\">consejos de privacidad de Nest</a>"
-
-#~ msgctxt "personal_data_collected"
-#~ msgid "Name, email, phone number, address"
-#~ msgstr "Nombre, correo electrónico, número de teléfono, dirección"
-
-#~ msgctxt "biometric_data_collected"
-#~ msgid "Voice recordings"
-#~ msgstr "Grabaciones de voz"
-
 #~ msgctxt "how_can_you_control_your_data"
 #~ msgid ""
 #~ "Google provides various privacy controls, accessible via Google Privacy tools. There are several clearly defined ways to delete personal data, incl. deleting data from Nest app or deleting a whole "
@@ -729,6 +713,22 @@ msgstr ""
 #~ msgctxt "ai_what_can_it_do"
 #~ msgid "Google uses natural language processing to understand you and to generate answers to your requests."
 #~ msgstr "Google utiliza el procesamiento del lenguaje natural para entenderte y ser capaz de generar respuestas adecuadas a tus solicitudes."
+
+#~ msgctxt "user_friendly_privacy_policy_helptext"
+#~ msgid "Google provides a page with privacy information about Nest."
+#~ msgstr "Google cuenta con una página en la que proporciona información de privacidad sobre Nest."
+
+#~ msgctxt "tips_to_protect_yourself"
+#~ msgid "Review <a id=\"a1\">Nest privacy tips</a>"
+#~ msgstr "Echa un vistazo a los <a id=\"a1\">consejos de privacidad de Nest</a>"
+
+#~ msgctxt "personal_data_collected"
+#~ msgid "Name, email, phone number, address"
+#~ msgstr "Nombre, correo electrónico, número de teléfono, dirección"
+
+#~ msgctxt "biometric_data_collected"
+#~ msgid "Voice recordings"
+#~ msgstr "Grabaciones de voz"
 
 #~ msgctxt "blurb"
 #~ msgid ""
